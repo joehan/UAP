@@ -1,0 +1,184 @@
+What must single stranded overhangs between the plasmid and short linear fragment be compatible for?	2.9876688260481945
+What must be compatible for the cutting and pasting of DNA molecules to work?	2.9212438692202563
+What catalyze the breaking of phosphodiester bonds in a sequence specific manner?	2.6884861660743122
+What did restriction enzymes catalyze the breaking of phosphodiester bonds in?	2.580160390912727
+What are proteins that the biochemistry unit catalyze a reaction?	2.5708631114558775
+What do the restriction enzymes that cut in the same location on the top and bottom strands produce?	2.5680462818584946
+What did restriction enzymes catalyze the breaking of in a sequence specific manner?	2.515738111896632
+What did restriction enzymes catalyze in a sequence specific manner?	2.5083239645295703
+What is the result of breaking the phosphodiester bonds on the top and bottom strand of the DNA?	2.4367122316017693
+What recognizes the sequence from the five prime end?	2.434157582204847
+What cut results in one linear piece of DNA?	2.2935072877088847
+What does the letters A, T, C, and G represent each of?	2.2933296978234026
+What did one cut in one linear piece of DNA?	2.2865441346728392
+What is what plasmids mean when we talk about orientation?	2.248133299687855
+What represents each of the four bases?	2.2193641895796468
+What do the nucleotides base with each other?	2.2159889960680803
+What can plasmids use to repair the phosphodiester bonds?	2.208473141759864
+What is Michelle Attner again?	2.207957014931537
+What base pair with each other?	2.2048260547020493
+What can plasmids use DNA ligase to repair?	2.1864876388087886
+What is plasmids's second piece of DNA?	2.179209992676101
+What are also intentionally designed to exist on cloning plasmids?	2.149484615071949
+What can insert in either orientation?	2.135174758680834
+What is some DNA sequence indicated by?	2.1088094451103343
+What do the nucleotides base pair with?	2.1003647927867326
+What does recombinant DNA contain?	2.0733233839500276
+What cut so that an overhang exists?	2.069324964039156
+What does the letters A, T, C, and G represent?	2.0567615401186314
+How many linear DNA products would plasmids have?	2.04387981204008
+What form hydrogen bonds?	2.023442929636712
+What look has two GAATTC sequences?	1.988761265043652
+What did one cut results in?	1.973422910631953
+What recognize short sequences?	1.9033761024349085
+What does oK here's to think about?	1.8825887644605792
+What do the nucleotides form?	1.8070536709997436
+What produce blunt ends?	1.7993769436043172
+What now let's look at plasmids's plasmid?	1.7851587801078934
+What oK's one thing to think about?	1.7818839501802342
+What is a linear?	1.7004255225547578
+Must single stranded overhangs between the plasmid and short linear fragment be compatible for the cutting and pasting of DNA molecules to work?	1.690955978944511
+What is the five prime end?	1.6735511981589855
+What is GAATTC?	1.6426086369177637
+What cuts DNA?	1.64197191657496
+What could be very important?	1.624217533551059
+Do the restriction enzymes that cut in the same location on the top and bottom strands produce blunt ends?	1.602741581806724
+Did restriction enzymes catalyze the breaking of phosphodiester bonds in a sequence specific manner?	1.5899244607970302
+What do so now let look at plasmids's plasmid?	1.5814962167240143
+What will ecoR1 recognize?	1.5503180211143863
+What's all for now?	1.5363013032057087
+What will recognize both?	1.529627526763664
+What would plasmids have?	1.50792778711262
+Does EcoR1 recognize the sequence from the five prime end?	1.496212624722384
+Is some DNA sequence indicated by the letters A, T, C, and G?	1.4759584306949565
+Where do you 're left with a linear piece of DNA with overhangs?	1.464278189641957
+Are enzymes proteins that the biochemistry unit catalyze a reaction?	1.4551044569419496
+If two EcoR1 sites existed on the plasmid what have?	1.4011707125991903
+What is indicated by the letters A, T, C, and G?	1.364982601169595
+What can naturally be found in bacterial cells or engineered for cloning?	1.3627089733727917
+Could the orientation of the linear fragment be very important?	1.3527960970182034
+If two EcoR1 sites existed on the plasmid do plasmids have?	1.3488469496792375
+Does the letters A, T, C, and G represent each of the four bases?	1.3467863310706876
+If two EcoR1 sites existed on the plasmid who have?	1.342859808049837
+What does EcoR1 recognize?	1.3427560147259605
+What can use DNA ligase to repair the phosphodiester bonds?	1.3368782108313209
+What are enzymes?	1.324834372566294
+Did some restriction enzymes cut so that an overhang exists?	1.304161393936179
+Can plasmids use DNA ligase to repair the phosphodiester bonds?	1.2993865035469123
+Will the short fragments at the end be degraded?	1.2974355548721928
+Did one cut results in one linear piece of DNA?	1.2942493029498636
+Who can use DNA ligase to repair the phosphodiester bonds?	1.2861737182949353
+What do you 're left with with overhangs on both sides?	1.2844761690130126
+What exist?	1.2800756645938958
+Do the nucleotides base pair with each other?	1.2677325158381954
+Who 're going to start with two double stranded DNA molecules?	1.2540063323936868
+Will ecoR1 recognize both?	1.2520312108828833
+Is plasmids's second piece of DNA a linear?	1.2512458146536316
+What cuts?	1.2272696650541082
+What can we use to repair the phosphodiester bonds?	1.225425772289639
+Who wants to make sure the beginning of the gene aligns with the promoter for example?	1.2250699242077947
+Who 'res left with a linear piece of DNA with overhangs on both sides?	1.2185317303179977
+Who cuts here?	1.217743910391759
+Can plasmids naturally be found in bacterial cells or engineered for cloning?	1.2087924400149306
+What do you want to make sure the beginning of the gene aligns with the promoter for?	1.2060861870233892
+What do we 're going to talk about?	1.201220974369825
+Does recombinant DNA contain the linear fragment?	1.2008394433685847
+What can we use DNA ligase to repair?	1.1977945300223753
+What do you 're left with a linear piece of DNA with overhangs on?	1.1834905113053766
+What is?	1.179481176148833
+Who do not?	1.1724085897779484
+What do we 're going to start with?	1.169527090700607
+Who can naturally be found in bacterial cells or engineered for cloning?	1.160667405967319
+What do you 're left with a linear piece of DNA with on both sides?	1.1548989756464532
+Are plasmids usually about 4,000 base pairs long?	1.1461379689739433
+What do you want to make sure with for example?	1.1429813960665882
+Who 'll refer to it as a plasmid in this video?	1.1412621521917923
+What will be degraded?	1.1376422034723668
+Do so now let's look at plasmids's plasmid?	1.110861522991121
+What is circular?	1.10161629336308
+Do the nucleotides form hydrogen bonds?	1.0869439155580687
+Do dozens of restriction enzymes exist?	1.0861524778608236
+If we mix our short linear fragment with the EcoR1 cut plasmid, who can see that the ends of the short linear fragment are compatible, or match up with the ends of the linear plasmid?	1.08146727063603
+What is our second piece of DNA?	1.0812638766934661
+What is the DNA sequence of this plasmid indicated by?	1.0617782901816741
+Do restriction enzymes recognize short sequences?	1.060505142669529
+What can this linear fragment insert in?	1.0554610103886852
+How many linear DNA products would we have?	1.0542468151791349
+Does oK here's one thing to think about?	1.0483849618809815
+What are usually about 4,000 base pairs long?	1.0436173017169836
+What contains the linear fragment?	1.0417215734048169
+Does ecoR1 cut DNA?	1.0335840892449766
+Who 'ves re-circularized your plasmid?	1.0078821026846958
+Is the specific question for today?	0.9894020410687079
+Does EcoR1 cut here?	0.970304047012631
+What is what we mean when we talk about orientation?	0.968399867304889
+Is the covalently closed circular DNA a plasmid?	0.9649129021645249
+What 'll I refer to as a plasmid in this video?	0.9539777524593933
+Who 'll just talk about my personal favorite?	0.9524030484299848
+What occur randomly in the genome?	0.9345571491917084
+What is indicated by a double line?	0.9302000791830485
+Is the five prime end GAATTC?	0.9285541017882462
+Who can see the sequence GAATTC?	0.9165016962519297
+What do so now let's look at?	0.8877975580441426
+What do these sequences occur randomly in?	0.8575627098715883
+What now let's look at our plasmid?	0.8245405113179975
+What 'll I refer to it as a plasmid in?	0.8070189942349373
+What can you see?	0.7997472833566257
+What does ecoR1 cut?	0.7995404604024787
+What do restriction enzymes recognize?	0.7989104327632885
+Would plasmids have two linear DNA products?	0.7950254682144189
+Can plasmids be much longer?	0.735446285068444
+Who is this again?	0.7267874219007529
+What does it contain?	0.7192909291348324
+Who 're going to talk about some of the basics of recombinant DNA, or our ability to move DNA sequences around to form a sequence not found in nature?	0.7070502352653341
+Does ecoR1 cut?	0.6901443842644794
+Do others do not?	0.6696839483370165
+What is the covalently closed circular DNA?	0.6631882325683149
+What would have two linear DNA products?	0.6553295094333575
+What is this?	0.6295648672984957
+What do so now let look at our plasmid?	0.6241478200060377
+Is one molecule circular?	0.6012654260041768
+Who would have two linear DNA products?	0.6009594785770496
+What 'll we just talk about?	0.5806275443264899
+Do you want to make sure the beginning of the gene aligns with the promoter for example?	0.4775344001781976
+What would we have?	0.4723769652625449
+How many GAATTC sequences does look this linear piece of DNA have?	0.4570660846652377
+What can be much longer?	0.45537818485133985
+What yes will?	0.45252989305040675
+Do you 're left with a linear piece of DNA with overhangs on both sides?	0.44979090482389017
+What does that's for now?	0.43273761919167764
+Do we 're going to start with two double stranded DNA molecules?	0.42942009715327467
+What is a plasmid?	0.42737634217723963
+Can this linear fragment insert in either orientation?	0.41951142547446807
+If two EcoR1 sites existed on the plasmid do we have?	0.3684520426264548
+Yes, here will?	0.3661066936913895
+Is this the result of breaking the phosphodiester bonds on the top and bottom strand of the DNA?	0.34240037906165055
+Can we use DNA ligase to repair the phosphodiester bonds?	0.3209583753353864
+Does look this linear piece of DNA have two GAATTC sequences?	0.2967682471441444
+Is this what plasmids mean when we talk about orientation?	0.2964119559342948
+Is our second piece of DNA a linear?	0.27718227948787666
+Are these restriction enzyme recognition sites also intentionally designed to exist on cloning plasmids?	0.26583723204502974
+Who can be much longer?	0.24434735983344513
+Can they naturally be found in bacterial cells or engineered for cloning?	0.24204782829729465
+What does look this linear piece of DNA have?	0.21205684473647857
+Do these sequences occur randomly in the genome?	0.16343621538729014
+Do so now let's look at our plasmid?	0.151146994895623
+Is the DNA sequence of this plasmid indicated by a double line?	0.1430542600952167
+Is this Michelle Attner again?	0.13601311204728228
+Can you see the sequence GAATTC?	0.10381754202773452
+'ll I refer to it as a plasmid in this video?	0.05410883727908988
+What are these restriction enzyme recognition sites also intentionally designed to exist on?	0.052173784451762906
+Who can see here?	0.04343675480760645
+Is this what we mean when we talk about orientation?	0.01667852355132915
+Does it contain the linear fragment?	0.007811858428282914
+'ll we just talk about my personal favorite?	-0.16014750238125441
+What 'll I refer to it as in this video?	-0.18503873067941745
+Do you 've re-circularized your plasmid?	-0.19105086942939264
+Would we have two linear DNA products?	-0.20178218880107757
+Can they be much longer?	-0.27155870542447813
+What do you 've re-circularized?	-0.2912511619210949
+Does that's all for now?	-0.3659706225780144
+Yes, it will?	-0.47590642338166034
+Can you see here?	-0.5548400633403427
+Do we 're going to talk about some of the basics of recombinant DNA, or our ability to move DNA sequences around to form a sequence not found in nature?	-0.5643098244936628
+What is this about?	-1.0212695807971397

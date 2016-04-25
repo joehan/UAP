@@ -1,0 +1,292 @@
+What binds to another protein in the Rube Goldberg machine?	3.0676164568907214
+What does some kinase use to derive a phosphate that gets stuck on Erk?	2.654315279838958
+What puts a phosphate group on another protein?	2.5241344456110455
+What well puts a phosphate group on Erk1?	2.505830066214764
+What is called the map kinase pathway-- mitogen associated protein kinase?	2.4349167017513005
+What does some kinase put a phosphate group on?	2.397359793775559
+What ends up getting itself activated by something putting a phosphate group on there?	2.3850103935748277
+What does some kinase put on RAF?	2.3808094866165925
+What well actually puts phosphates on many things?	2.3647837470436093
+What does RAF put on another protein?	2.3601734256915985
+What is all a delicate balance in fact?	2.3426614498810987
+What turn on programs for cell growth?	2.2944108675083874
+What are transcription factors that get phosphorylated?	2.238390620736782
+What does well what put a phosphate group on?	2.214026483000689
+What do other things related to cell growth?	2.197595846481985
+What becomes an active kinase?	2.1680428670961933
+What does well what put on Erk1?	2.1163976342567854
+What does well what actually put phosphates on?	2.1050567876531288
+What go to the nucleus?	2.1015652971646426
+What is the opposite of a kinase?	2.095536503526852
+What begins to turn on cell growth genes so to speak?	2.0953165606542
+If the minute anything bound what was all turned on?	2.0937025879724365
+What's some kinase That's all there is to it?	2.0922213632179263
+What does some kinase use an ATP to derive?	2.0895278269196176
+What does well what actually put on many things?	2.085017654415168
+What is RAS attached to?	2.0614637527877204
+What does some kinase bind?	2.0441861746488814
+Does RAS bind to another protein in the Rube Goldberg machine?	2.0205825804925293
+What are genes for cell growth?	1.9951444832309024
+What do gene expression go to?	1.9883200687698153
+What has an active site?	1.9833833069281959
+What are not directly coming from the kinases?	1.9751678117886031
+What is a phosphatase?	1.964828095294738
+What do certain transcription factors that control gene expression, which then go to the nucleus and become activated as transcription factors turn on?	1.9528479639105598
+What put phosphate groups on something else?	1.9524119389927328
+What do certain transcription factors that control gene expression, which then go to the nucleus and become activated as transcription factors find?	1.9206981496787936
+What attract an adapter protein?	1.9089074836192355
+What is attached to the membrane?	1.8947427166594202
+What uses an ATP to derive a phosphate that gets stuck on Erk?	1.8798168612205166
+What does some kinase's grabbing?	1.8725709467787017
+What do kinases do?	1.838329864134277
+What is able to amplify the signal?	1.795390016324177
+What so becomes an active kinase?	1.7922915104581219
+What does the adapter protein attract?	1.7873248112622415
+What sticks phosphates?	1.7800900006996176
+What are the program?	1.7341520905839967
+What are the kinases?	1.7252829726512509
+What are cell growth genes?	1.721672514219208
+What binds the relevant place in Erk?	1.6993060243632376
+Does RAF end up getting itself activated by something putting a phosphate group on there?	1.688515773099828
+What are some of there?	1.6823262534444723
+What does it use to derive a phosphate that gets stuck on Erk?	1.6809779635747164
+Does some kinase use an ATP to derive a phosphate that gets stuck on Erk?	1.6743764512277641
+What sticks a phosphate group there?	1.674259672190343
+What do what put on something else?	1.647529512091017
+What does some kinase's turtles down?	1.6385769327993633
+What does RAS bind to?	1.6058569634038005
+What does what stick?	1.588554367753953
+Does some kinase put a phosphate group on RAF?	1.5825004753798044
+What is a kinase?	1.5756360831356453
+Does RAF put a phosphate group on another protein?	1.5667122073656516
+Does some kinase bind the relevant place in Erk?	1.5454905627918136
+What puts a phosphate group on RAF?	1.5304055718664142
+What do what put phosphate groups on?	1.5284808625578736
+What phosphorylates all sorts of other things that become active?	1.514240551913257
+What does RAF put a phosphate group on?	1.5106023274491855
+Who 'ves told you how to get a positive signal going through the whole circuit?	1.4864946667378458
+What 'd be bad?	1.4434695216725877
+What well actually runs around?	1.4420731055303995
+What transphosphorylates?	1.4392433095903676
+What does a phosphate group stick there?	1.438375131319377
+What dimerizes?	1.4217640272543894
+What puts a phosphate group on certain transcription factors that control gene expression?	1.4211325268669333
+What does it put on certain transcription factors that control gene expression?	1.4186038621282036
+What's what happens?	1.4121605477269799
+What goes?	1.4050693694059628
+Who do I 've told how to get a positive signal going through the whole circuit?	1.3718284151952416
+What find the right place in the DNA?	1.3451299171480997
+Does the name MEK become an active kinase?	1.3208993375905766
+What's grabbing ATP?	1.3197206006189792
+What does RAF end up getting itself activated by?	1.312021912424639
+What does RAF end up getting activated by something putting a phosphate group on it?	1.2970689966261775
+What do some of those things turn on?	1.2870397595179437
+Who 'll give it the name MEK that protein?	1.2831402404952978
+What is now activated?	1.282708119534947
+What's a kinase kinase kinase because this is a kinase?	1.281780898689242
+Is the opposite of a kinase a phosphatase?	1.276795914402916
+Does well what put a phosphate group on Erk1?	1.2705269060482425
+What's already except to ask?	1.2699808959800702
+What's a great amplifier because each is able to amplify the signal?	1.265449436967765
+What does well it put a phosphate group on?	1.2646960714563455
+Who warned you that these names get obscure?	1.256265366003214
+What does it's because each is able to amplify the signal?	1.2550429829602017
+Are some of there transcription factors that get phosphorylated?	1.2538141123762379
+What does RAF end up getting activated by something putting a phosphate group on there?	1.238706301727147
+Do gene expression go to the nucleus?	1.2130153766192273
+What is this all a delicate balance in?	1.2047290946573557
+Does some kinase's grabbing ATP?	1.2025603159967084
+If the minute anything bound was everything all turned on?	1.1978553810824488
+What does well it put on Erk1?	1.1627935487324899
+What does well it actually put phosphates on?	1.1538269654510285
+Who did I warn that these names get obscure?	1.1444383236228641
+What ends up getting itself activated by something putting a phosphate group on it?	1.1425805488057184
+What is a kinase kinase, et cetera?	1.1362829740095695
+What does well it actually put on many things?	1.1356872428708247
+Does well what actually put phosphates on many things?	1.1281706830885194
+What do you think this guy does?	1.110545822243492
+Is RAS attached to the membrane?	1.1053261934534042
+What does it use an ATP to derive?	1.0980538241198383
+What's kinases all the way-- not quite all the way down?	1.0822805378924416
+What happens?	1.07424867627312
+Who find the right place in the DNA?	1.0732210061799803
+Does RAF go?	1.0712078308048811
+What do some of them do?	1.055871186539822
+What turn on genes?	1.0496936248975253
+Who do what do you think does?	1.0237507884392962
+What does it put a phosphate group on?	1.0215904323072351
+Who does not know if you all know the joke?	1.0184707149333296
+What does it bind?	1.0131518515827898
+What does that's some kinase's all there is to it?	1.0092195441706564
+Do the phosphates attract an adapter protein?	1.0068999857395498
+Do certain transcription factors that control gene expression, which then go to the nucleus and become activated as transcription factors turn on genes?	0.9944801950892892
+Who do what do think this guy does?	0.9902006211049137
+What is this in fact?	0.9830851562241454
+What does it phosphorylates all sorts of?	0.9768184903685404
+What's a kinase kinase?	0.9552102790600949
+Does some kinase's kinases all the way-- not quite all the way down?	0.9482451907531297
+What does the name MEK become?	0.9392592141187499
+What is called this, RAF?	0.9281381809181044
+Are the kinases phosphate groups?	0.9220889061094368
+Who 'mes not going to mention all these?	0.9214106059916696
+Does some kinase's turtles all the way down?	0.9142952313982198
+What does it begin to turn on so to speak?	0.9114946255910312
+Who did two entirely other pathways that RAS activates that I have not tell about?	0.9008420981160945
+Is RAS now activated?	0.8866034720797191
+Are cell growth genes the program?	0.8835289816555691
+What do I 'm not going to mention?	0.8803962177984122
+Is each able to amplify the signal?	0.8797666264722119
+Who 'll give you one?	0.8733530478380676
+Do what do kinases do?	0.8717920234424048
+What does all these begin to turn on so to speak?	0.8628415829434513
+Does what stick phosphates?	0.8579466330204322
+What does this enzyme have?	0.8566928691832563
+What does it's grabbing?	0.8455285304730262
+Do what put phosphate groups on something else?	0.8406690156611889
+What are phosphate groups?	0.8382969622204506
+What activates RAS?	0.8296076727075963
+Does a phosphate group stick a phosphate group there?	0.8131088938712294
+Who 'mes going to call it?	0.8042849354556483
+What do they turn on?	0.8005507486866343
+Does the receptor dimerizes?	0.7995847855090548
+What's it That's all there is to it?	0.7961716418879417
+What do they find?	0.7902721822371221
+Does the RAF protein get phosphorylated?	0.7807423313190578
+Who turn on genes?	0.7730825233841523
+Who put phosphate groups on something else?	0.7698105817310519
+What's turtles all the way down?	0.7629649699740377
+Who understands cell growth now?	0.7584992915920608
+What do the phosphates attract?	0.7581484287929037
+What attracts this GEF that activates RAS?	0.748903895692373
+If you want to-- actually what does that's?	0.7462970957136354
+What are some of them?	0.742167614543479
+Who 'mes not going to say any more than that because it's already except to ask?	0.7403504266171999
+What does it phosphorylates?	0.7348889571479218
+Who 've got a receptor?	0.7231863936100011
+If you want to-- actually what's it?	0.7182434823502994
+Does a receptor transphosphorylates?	0.7157030742240942
+What do they put on something else?	0.7101799912440421
+What does it activate?	0.7081075127253667
+What do we 've got?	0.7051492905429453
+Does it use an ATP to derive a phosphate that gets stuck on Erk?	0.7047531365873594
+What does that's it's all there is to it?	0.7024204859943399
+What do you understand now?	0.6970748033258238
+What do what do do?	0.663023710403909
+Does the adapter protein attract this GEF that activates RAS?	0.6472683240047101
+What is this called?	0.6391208839543805
+What does it's turtles down?	0.6228230605251428
+What did two entirely other pathways that RAS activates tell you about?	0.6109812923942546
+What does it stick?	0.6095867519334743
+What do they put phosphate groups on?	0.5911313417108983
+What do I 'm going to call?	0.5906358773467535
+Does well what actually run around?	0.5879318474877986
+Does it's a great amplifier because each is able to amplify the signal?	0.5830409946100445
+Who do various things?	0.5822944327869146
+Who do what do think it does?	0.5813279249148333
+Who 'ves only told you one story?	0.577812189767126
+What's a GEF?	0.57340376044131
+What do various things?	0.5680760410903203
+What do I 've told you?	0.5602923453621209
+Does it bind the relevant place in Erk?	0.5553162056609864
+Does any more than that's already except to ask?	0.5535797311447432
+What do what do you think does?	0.5505975854815321
+Who are the kinases?	0.5209842961911655
+What do they do?	0.5160557671866848
+What do you think it does?	0.5127245262363784
+What does it's?	0.51075410030246
+Do certain transcription factors that control gene expression, which then go to the nucleus and become activated as transcription factors find the right place in the DNA?	0.5105604284848642
+Does it phosphorylates all sorts of other things that become active?	0.48868310488100564
+Does it put a phosphate group on certain transcription factors that control gene expression?	0.4781722396790733
+Does RAF end up getting itself activated by something putting a phosphate group on it?	0.44671270096248117
+Does that's a kinase kinase kinase because this is a kinase?	0.4463519230426618
+What do I 'm not going to say because it's already except to ask?	0.42179793449845016
+What does it stick there?	0.41904825719364647
+What are these?	0.4013538887996131
+What did I warn you?	0.38933682213545673
+Does well it put a phosphate group on Erk1?	0.3701024229760481
+Is this called the map kinase pathway-- mitogen associated protein kinase?	0.3458078414634165
+What's It?	0.31935961152183
+Are some of them transcription factors that get phosphorylated?	0.3156571113474964
+Do some of them do other things related to cell growth?	0.2742278436437071
+What gets phosphorylated?	0.26330628629836705
+What do what do?	0.25869814835422034
+Is this kinase kinase a kinase kinase, et cetera?	0.25442180364685063
+What does that's?	0.2535225264953145
+Is this all a delicate balance in fact?	0.2516381960608176
+Does well it actually put phosphates on many things?	0.22774620001632462
+Do I 've told you how to get a positive signal going through the whole circuit?	0.20786428116230082
+Do some of those things turn on programs for cell growth?	0.20553311371331473
+'ll we give it the name MEK that protein?	0.19976919983518604
+Who oversimplifyes?	0.18714543239073667
+Does it's grabbing ATP?	0.18711462361718123
+Does it become an active kinase?	0.1805317427243236
+What do what do you think?	0.1718032245150083
+Do they find the right place in the DNA?	0.1601183915588229
+Does it begin to turn on cell growth genes so to speak?	0.1558525385056435
+Does kinase-- that's a kinase kinase?	0.15335091781978472
+Are these phosphate groups not directly coming from the kinases?	0.12569365806161326
+Do what do you think this guy does?	0.11660629352899354
+Does this enzyme have an active site?	0.11529092850437639
+Does all these begin to turn on cell growth genes so to speak?	0.10318996581189532
+Does it activate RAS?	0.09082323363390099
+What does that's because this is a kinase?	0.08045463532161357
+Do I 'm not going to mention all these?	0.0686273570761804
+What does that's That's all there is to it?	0.06084859070758952
+Who go in?	0.046269052127104526
+Does that's some kinase That's all there is to it?	0.03801608756306596
+What does that's some kinase to?	0.02514454242219788
+What go in?	0.022836807899281553
+Is it called this, RAF?	0.014879105345397825
+Do they turn on genes?	0.012391406377466385
+What does that's it to?	-0.002138556512747636
+Did I warn you that these names get obscure?	-0.008373413451921552
+Does it's kinases all the way-- not quite all the way down?	-0.03289680345372137
+What 'll we give it the name MEK that?	-0.04187271534651482
+Do they put phosphate groups on something else?	-0.04720637613336631
+What are these phosphate groups not directly coming from?	-0.05648293221669376
+Does it stick phosphates?	-0.07211505432789811
+Do you understand cell growth now?	-0.08220313902718601
+Who goes on?	-0.08470083346795898
+Does it's turtles all the way down?	-0.09001709102058042
+Are these genes for cell growth?	-0.09077444145721492
+Do we 've got a receptor?	-0.10559968134139908
+Are the kinases themselves?	-0.11834436348911348
+Who are?	-0.12542929086164945
+What does it become?	-0.13558459126175304
+Is this kinase kinase a kinase?	-0.14239872973158674
+Does so it become an active kinase?	-0.15994345606754856
+Do they do various things?	-0.18817285885186008
+Does it's a GEF?	-0.19318419648012286
+Does so this become an active kinase?	-0.2185155569018029
+What does kinase-- that's?	-0.24376447275677204
+Do I not know if you all know the joke?	-0.24454686183375407
+Does that's it That's all there is to it?	-0.26681750797047155
+'d that be bad?	-0.284259068946614
+Do they go in?	-0.29769309723376125
+Did two entirely other pathways that RAS activates that I have not tell you about?	-0.3004934490928688
+Does it stick a phosphate group there?	-0.3120795396758089
+Does well it actually run around?	-0.319818933835744
+How many entirely other pathways that RAS activates that I have not told you about?	-0.3366302314941896
+If you want to-- actually does that's it?	-0.3433859673611075
+What is this kinase kinase?	-0.3437481883267872
+What told you about?	-0.34656789730557547
+Is this a kinase?	-0.35358873316670003
+Do I 'm going to call it?	-0.355364838262169
+Does that's what happens?	-0.36782586258415595
+Does it get phosphorylated?	-0.38597539416054505
+Does it go?	-0.39543108644824776
+'ll I give you one?	-0.39861662807020015
+Does that's It?	-0.3986652895050302
+Do I oversimplify?	-0.4055887814576662
+Does it transphosphorylates?	-0.41166509857370603
+What are themselves?	-0.4189988984087525
+Does it's already except to ask?	-0.4191714082269191
+What does so it become?	-0.46252337471179317
+Do you go on?	-0.504367150010024
+What does so this become?	-0.5180314143656435
+Do I 'm not going to say any more than that because it's already except to ask?	-0.5443181670788375
+Do what do you think it does?	-0.5938562117970545
+Do I 've only told you one story?	-0.6218515010134928
+Does this happen?	-0.6231552161192693
+Are we?	-0.7188447863781064
+What is this?	-0.7885595324467805

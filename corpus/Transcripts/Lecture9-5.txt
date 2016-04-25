@@ -1,0 +1,15 @@
+ERIC LANDER: Section four, characterizing your mutants. Test number one, recessivity or dominance. Are they recessive or dominant? First characterization test-- I got 50 of those guys there. How do I tell whether those mutations give rise to a recessive or a dominant phenotype? Yes? 
+
+STUDENT: Make it mate with a normal one? 
+
+ERIC LANDER: Make it mate with a normal one. That's exactly it. So, I have my haploid. It has its mutation. I'm drawing it as if I knew which chromosome that was on and which gene it was in. But I'm just drawing a cartoon, because at this point I have nothing more than a yeast growing on a plate. But it's a mating type alpha. And I now introduce it to a normal yeast, a wild type yeast of the opposite mating type. 
+
+And at that particular gene, what's the allele? Plus, wild type. Why is it wild type? Because this is normal. You wanted a normal one, so I'm giving you a normal one. That's what it's got. 
+
+And when they mate, we get a diploid cell. It's got two copies of each of the 16 chromosomes. I'm only drawing three of them here. And its genotype at that particular gene or locus, is mutant over plus. Now how do I find its phenotype? 
+
+STUDENT: You then see if it can grow on the medium. 
+
+ERIC LANDER: See if it can grow on minimal medium. If it can grow on minimal medium-- if the answer is yes, it can grow on minimal medium. What's the phenotype? Recessive. What if it can't? It's the dominant phenotype. 
+
+Excellent. Not so hard to do those 50 matings, test them. You now know for each of your 50 mutations that have arisen whether they're recessive or dominant. Any questions? All right. That's the first characterization we might do. 

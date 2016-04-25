@@ -1,0 +1,137 @@
+ERIC S. LANDER: Section three. The breaking of sugar. The breaking of sugar is called glyco-- sugar, like glucose-- breaking, lysis. To lyse something is to break something. Glycolysis. Glycolysis, the breaking of sugars. 
+
+So we have our hexose. C6H12O6. It's going to go into this box, this-- I call it a white box, but it's sort of a black box or it's whatever. So it's a black-white box. It goes into this box called glycolysis that we'll talk about. And what's going to come out is pyruvate, an intermediate molecule. Pyruvate. And pyruvate is going to go down here. And it's going to take one more step and get us ethanol plus CO2. If you're yeast. That's what yeast does. 
+
+It turns out you also break down sugars. Glycolysis is a fundamental pathway in you as well. When you break down sugars to pyruvate, you don't turn them into ethanol, it turns out. Which is probably a good thing, right? Because then you'd all be going off to the bakery and getting drunk, right? You don't want to do that. OK. I mean, there really would be problems with that, right? OK. 
+
+In fact, instead what happens in you, it goes to lactic acid. Or the ion of lactic acid, really, lactate. All right? That's what happens there. 
+
+Now, why do you bother doing this? You bother doing this because-- actually, why do you bother doing this? What's the point? Was the point to make-- and why does yeast do this? Does yeast make carbon dioxide and ethanol for the enjoyment of humans? Why is it doing this? Energy. It's getting energy. 
+
+STUDENT: It makes ATP. 
+
+ERIC S. LANDER: It makes ATP. The whole point of breaking down sugars is when you break bonds, you liberate energy from the bonds. You use the energy from the bonds to put them into ATP, which you use for other reactions. The entire point of this whole fermentation thing that Buchner and everybody studied is to make ATP. So in fact, this reaction produces four ATPs. 
+
+But you don't get something for nothing. You had to drive some of those reactions forward, right? So you probably use some ATPs-- you do use some ATPs in the process, don't you? You use two ATPs, but you get four ATPs. Some ATPs are driving the reaction, but you manage to break enough energy out of the bonds there and do it in a clever enough way to get ATPs. 
+
+And you do a little bit of other things. There is an electron carrier. And I'm not going to talk a lot about it, but NAD+ goes to NADH. And in this step over here, the NADH gets recycled back to NAD+. Same thing here. So that all washes out. The electron carrier NADH. We're not going to fuss a lot over it. That's what goes on. That is the fundamental way bodies get energy, get ATP. 
+
+Well, it was the fundamental way for the first billion years of life on Earth. This is the primitive way of breaking things down. It so happens that there's another solution too. And we'll talk about it later in this lecture. It turns out you can do better than this glycolysis and the measly two ATPs, but it took about a billion years to work that out. 
+
+And the reason it took a billion years to work that out, we'll come to see, is it uses oxygen. And for about the first billion years of life on Earth there wasn't oxygen in the atmosphere. So this was worked out before. You can actually see the remnants of this ancient reaction in every living organism. And we'll talk a little bit more about that in the next part there. 
+
+So that's it. It's glycolysis. Now it's time to open up the black box. What is in the black box? So let's go take a look. 
+
+This is glycolysis. You have this all on your sheets, so you shouldn't be copying it down because it's a waste of your time to copy it down. But what you do want to do is think about it. So let's take a look at the reactions that are going on here. 
+
+We start off with glucose. We are going to do what to glucose? We're going to add, in the very first reaction, a phosphate group. We've written a blue P with a circle around it because I don't want to keep writing the four oxygens and the phosphorus in the middle. So I'm just writing that there as my phosphate group. OK? Circled blue Ps will be a phosphate group that's added. All right? 
+
+So I go from glucose to a glucose in which there is a phosphate on carbon number six, and that we call that-- very sensibly-- glucose-6-phosphate. So from glucose to glucose-6-phosphate we put on a phosphate, where are we going to get a phosphate? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Oh, we're going to take off the last phosphate of ATP? And guess what, you get a lot of energy by taking off that last phosphate. So we can drive this reaction forward by breaking an ATP. We get an ATP, and ATP's going to turn into what? 
+
+STUDENT: ADP. 
+
+ERIC S. LANDER: ADP, and that phosphate is going to get used over there. Excellent. That's going to be a reaction that's going to be very happy going forward. 
+
+Now what happens? Let's see what the difference is. We changed this sugar from glucose 6-phosphate to fructose-6-phosphate. And what that involved was just a little bit of rearrangement. You see this double bond here on this bottom carbon? Now the double bond is over here, one carbon up. It's just what they call an isomerization reaction. 
+
+We simply change that double bond. There's some rearranging to be done there. But it's just from glucose to fructose. Another hexose. Another six-carbon sugar. There's some enzyme there that does that, and it's a different enzyme. It's called phosphoglucomutase, and you don't have to remember all the names of each of the enzymes. 
+
+Now what happens? We get this guy. What's the next thing we're doing? Taking a look at the picture, what happened to it? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Another phosphate. How are we going to do that phosphate? 
+
+STUDENT: ATP. 
+
+ERIC S. LANDER: Same deal, ATP to ADP. Excellent. Now what happens, taking a look at this pathway? 
+
+STUDENT: [INAUDIBLE] pop it apart. 
+
+ERIC S. LANDER: Pop it apart. I have a six-carbon sugar. Right? Six-carbon sugar. And I make two three-carbon sugars. Well, two three-carbon sugar like molecules. So I've got this one-- oh, actually, huh. That's G3P. Look at that. That's interesting. That's G3P. Our friend. So we have G3P there, and we have another molecule here. Let's not worry about that other molecule for now. But we have three-carbon structure here. And now what's going to happen? 
+
+Well, you have your sheets. We're going to go over to the next board there. And this is where-- let's see, what do we have to do to it? Can you jump across from here to there? Who sees what happens here? 
+
+NAD+ to NADH. Good. So then here we've now got a molecule that's got two phosphates here, right? These two phosphates make this molecule very negative at its two ends. It wants to break it off. And we're going to get energy back for breaking it off. And what are we going to do with that energy when we break off a phosphate? 
+
+STUDENT: Pop it back on. 
+
+ERIC S. LANDER: We're going to pop it back onto an ADP to an ATP. That's pretty good. See, we now got this molecule here that's got those two. Now what are we going to do? We move the phosphate to the middle, and then we rearrange some bonds here. I don't care about the details. We're moving the phosphate to the middle. We're rearranging some bonds. 
+
+And it turns out, now, that this is a very unhappy molecule which would like to get rid of that phosphate. It would be very energetically favorable to get rid of that phosphate. So what do we do? We take an ADP to an ATP. And we end up with pyruvate. 
+
+So the logic here was we spent ATP to add phosphate groups. We then have unfavorable molecules. And we release that energy to make ATP. And let's look at the energy over here. 
+
+See, some of these steps the delta G zero primes, some of them are negative. They'll go forward on their own easily at equal concentrations. Some of them are positive and wouldn't go forward at equal concentrations. But notice that the delta Gs are negative. They do go forward. Why do they go forward even though the delta G0 primes were positive? The concentrations. 
+
+So the concentrations of all of these molecules along this pathway ensure that every single one of these is negative or zero, which is equilibrium, it's still flowing slightly through. Negative, zero, zero, negative, negative. Every one of these will allow it to flow in that direction because of the concentrations and because-- so our two tricks-- direct coupling of some of these ATPs and indirect coupling by sucking reactions down. The whole thing works. So it's gorgeous. And how many ATPs did we make? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Sorry? What-- no, wait a second. Wait a second. 
+
+STUDENT: 2 minus 2. 
+
+ERIC S. LANDER: We spent two ATPs, and we got two ATPs. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Wait a second. We're supposed to get four. We've only got two. 
+
+STUDENT: There's another half. 
+
+ERIC S. LANDER: Wait, wait. Sorry? 
+
+STUDENT: There's another half. 
+
+ERIC S. LANDER: There's something over here? 
+
+STUDENT: Yes. 
+
+ERIC S. LANDER: Oh. We have another molecule we didn't use. But that is not G3P. So we can't use it, can we? What molecule is that? Does anybody recognize that molecule? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: That's DHAP. 
+
+STUDENT: Ohhh. 
+
+ERIC S. LANDER: That's DHAP. So if only we could convert DHAP into G3P we could send it down the pathway and now we'd get two more ATPs. Anybody got any ideas on how to do that? 
+
+STUDENT: I don't know. I'm at a loss. 
+
+ERIC S. LANDER: Pshaw. At a loss. Why don't we engage triose phosphate isomerase to save the day? TIM saves the day here. Triose phosphate isomerase now converts DHAP to G3P. Wait a second. I thought DHAP was more energetically favorable than G3P. 
+
+STUDENT: But if you're using all the G3P-- 
+
+ERIC S. LANDER: I'm using all the G3P. So even though DHAP is more energetically favorable, I'm sucking out all of the G3P to go down the pathway this way. And so it runs in that direction, which is perhaps why we discussed that at the beginning of the lecture. Exactly. 
+
+STUDENT: Now it all makes sense. 
+
+ERIC S. LANDER: It all makes sense. All right. So now we have the logic to this thing, right? We've got the logic to this thing. This is how glycolysis works. There's an investment phase, where you attach these phosphates, you build up these sugars, you break them apart, you send them down, you make the molecules more and more unfavorable, being clever at every stage to either couple it to a favorable reaction or suck it down the pathway by coupling it directly or indirectly to a favorable reaction. And at the end of day, in order to get two extra ATPs, we had to actually use both of those three-carbon structures, and that's what triose phosphate isomerase did for us. TIM saves the day. 
+
+All right. So let's take a look at that over here. That's the way you should really think about glycolysis without all of these chemical structures here. Six-carbon sugar, phosphate, phosphate, break it apart, phosphate, phosphate. There we go. Break it apart. And you either spend ATPs or you get back ATPs, but we only use one of the three-carbons here. When TIM comes along, we've got this, and it doubles up. 
+
+All right. So that's how we do it. That's pretty good. 
+
+STUDENT: Professor Lander? 
+
+ERIC S. LANDER: Yeah. 
+
+STUDENT: Where does our extra phosphate come-- 
+
+ERIC S. LANDER: Sorry. 
+
+STUDENT: [INAUDIBLE] G3P. 
+
+ERIC S. LANDER: An inorganic phosphate I should have drawn there too. 
+
+STUDENT: [INAUDIBLE] 
+
+ERIC S. LANDER: Yeah, yeah, yeah. Use an inorganic phosphate. Sorry. Plus an inorganic phosphate. 
+
+All right, before you go onto the next segment, we've got a question for you about ATP and glycolysis. 

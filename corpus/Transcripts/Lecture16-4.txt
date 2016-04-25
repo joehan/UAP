@@ -1,0 +1,67 @@
+ERIC LANDER: Now, finding a gene depends on what gene you're finding. There's no magic recipe that works for all genes. So I have to give you a problem that I want you to tell me how you're going to find the gene. It's a problem you've heard about before. 
+
+In yeast, you will recall we went hunting for mutants. And we found Arg mutants-- auxotrophs that could not grow without added arginine. They could not make their own arginine. We found yeast mutants. 
+
+Here's my Petri plate. Here's my yeast mutants. And let's call that mutant arg1, because it has a mutation somewhere that prevents it from growing without arginine. It needs arginine. Remember that. So that means somewhere in the genome-- here's the genome of yeast, long genome of yeast-- somewhere in there will be this ARG1 gene. It's a small part of this whole genome, and we want to find it. 
+
+So we've taken the total yeast DNA. We've cut it up into our pieces. We have ligated it to vectors. We have transformed it into cells. We have plated those cells. And now we have thousands and thousands and tens of thousands and hundreds of thousands-- if we want to-- colonies, each one of which is carrying a plasmid that has a different piece of yeast DNA in it. 
+
+Which one is the ARG1 gene? I'm open for takers on how we're going to find out, of the thousands of colonies here-- more than thousands, tens of thousands of colonies-- which one carries the ARG1 gene? How are we going to find out? 
+
+STUDENT: Look at size. 
+
+ERIC LANDER: Look at the size of what? The colony? 
+
+STUDENT: Of the size of the gene because if you randomly cut it up into its DNA, some of the DNA will be on the vectors, and if you know how long the ARG1 gene is-- 
+
+ERIC LANDER: I can do it based on how long the ARG1 gene is. But wait a second. I've never seen the ARG1 gene before. I've done a mutant hunt. I found a yeast that can't grow without arginine, and I have no clue which gene is the cause of that. I need to find the gene, having never seen the gene before. So the idea of looking for one that's just the right size is problematic, since I don't know what the right size is. Yes? 
+
+STUDENT: Use one of the mutants that can't grow without arginine on a culture that also has no arginine in it. And then the only one that will survive is the one that has the ARG1 gene in it. 
+
+ERIC LANDER: Ooh. So wait a second. You were talking about cloning it based on its properties of its DNA size, but we don't know them. You are proposing to clone it based on the fact that that gene is unique in the genome because it has a special function. 
+
+You're going to clone it-- you're going to find it based on its special function. What's its special function? What can that gene do that no other gene can do? It can make-- it can cause a cell to be able to make arginine. Which cell can it cause to be able to make arginine? 
+
+STUDENT: [INAUDIBLE] 
+
+ERIC LANDER: Well, but-- wait a second. This is confusing to me. I have a mutant. The mutant has a broken ARG1 gene. It's broken. That gene can't do anything, because it's a broken gene. 
+
+STUDENT: Complement it? 
+
+ERIC LANDER: Complement it? What was complementation? 
+
+STUDENT: When you have a matching set of DNA that covers-- 
+
+ERIC LANDER: Oh, right. If I had a recessive phenotype, if it's a recessive phenotype, and there's a copy of the wild type gene and a copy of the mutant allele, the wild type gene will rescue the phenotype in the heterozygote. Remember, that was our principle of complementation. So now we're going to take that idea, which is that a wild type copy of the gene is sufficient to rescue a mutant and apply it to cloning. Cool. 
+
+All right, so then I need to know certain things from you guys. What's going to be-- I like this idea. This is very good. What is the source DNA that we're going to use? What is the vector we're going to use? What is the host cell that we are going to use? And what is our way to recognize the right clone? 
+
+Does everybody see this trick that's being proposed here? Somehow, a good copy of the gene will rescue the mutant. So what source DNA do I have to use? Yes? 
+
+STUDENT: Properly working ARG1. 
+
+ERIC LANDER: I've got to use a source that has properly working ARG1. So what source would that be? Wild type yeast. So let's take DNA from wild type yeast-- not the mutant, but wild type yeast. And in here, there are zillions of pieces of DNA, zillions of genes. But one of them is my ARG1 gene, and it's a working copy of it. 
+
+I'm then going to shred it up into pieces. I don't know, maybe I'll use my shearing technique or something. I'll shred it up into pieces. I'll put it into a vector. And what kind of vector do I want? What kind of a vector should this be? What cell is this going to have to grow in? Yeast cell, so let's use a yeast plasmid. Good. I'm with you. We'll use a yeast plasmid. So, there we go. We'll have cloned lots and lots and lots of pieces randomly into yeast plasmids. 
+
+Now we're going to transform it into a host cell. What species should that host cell be? Bacteria? No. Yeast. And what genotype should that yeast be? Messed up arg1-- mutant. Messed up, mutant-- I'll go with mutant. But it's the same thing. Messed up-- that works for me. 
+
+So the host cells here are going to be yeast arg1 mutants. When all these pieces of DNA are transformed into yeast cells, each one or many of them will pick up individual pieces, individual plasmids. Some of them will pick up a gene-- will pick up the leucine-6 gene, or tryptophan-2, or a gene encoding DNA polymerase. But some of them will pick up the piece of DNA encoding ARG1. What's special about that cell now that has acquired a working copy of ARG1? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: It can grow without arginine. It can grow on minimal medium. So, I ask you, what should we plate it out on? 
+
+STUDENT: A minimal medium. 
+
+ERIC LANDER: Good guess. All right. We're going to plate it out on minimal medium. Here's my Petri plate. And we're going to plate it out. And zillions of cells are going to go down. And the one that has the leucine-6 gene that's in it, it's not going to grow. The one that has tryptophan-2, it's not going to grow. The one that has the gene encoding DNA polymerase that's coming on a plasmid, it's not going to grow. But it turns out that this one right here is carrying the ARG1. And it will grow into a colony, because in there, these cells have the ARG1 gene. 
+
+That's it. We selected for it. We selected because that plasmid complemented the defect. We could call this cloning by complementation, because that's what it is. It's cloning by complementation. 
+
+We find a piece of DNA, and we recognize it by its function. Even if you've never met the ARG1 gene before-- you have no idea how big it is, what its sequence is, or anything about it-- it has the unique property that when you put into a mutant cell, it fixes the mutant cell's defect. Easy. This is an incredibly powerful tool. Any mutant could be rescued in this way. 
+
+I make a big collection of these plasmids. I toss them into one mutant. I toss them into another mutant. I toss them into a third mutant. And whatever rescues each of those mutants-- if it's a recessive phenotype-- might be the gene I'm looking for. Probably is the gene I'm looking for. Almost always is the gene I'm looking for. 
+
+I'm saying almost always because there are some tiny few exceptional cases where a lot of some other gene might somehow rescue, because of weirdnesses in biochemical pathways. But forget I said that, OK? Because for what we're talking about now, this is it. It's really cool. You rescue defects. You're done. All right. That's it. We've done it. We now know how to find our gene. 
+
+OK. The big deal is finding your gene. Test your understanding of how we find genes by complementation by answering this question. 

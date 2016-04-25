@@ -1,0 +1,693 @@
+What's going to be a double het-- heterozygous of the first locus and heterozygous of the second locus?	2.5521904645654425
+What destroys a function of the gene?	2.5279355964236303
+What is inheritance in Mendel's terms a factor of?	2.4873966113350847
+Who is able to tell whether things are in the same gene, just by their failure to rescue each other?	2.470977880364771
+What is a change to the DNA sequence?	2.413561783598744
+What 're going to be heterozygous for Arg1?	2.375137097717021
+What 're going to be heterozygous at Arg2?	2.375028971935472
+Who had a mutation over there in fact?	2.3725597123176065
+What is inheritance in Mendel's terms?	2.3340665687180593
+What want to give there a name, different from the names of the mutations?	2.3281073511249866
+What know there's going to turn out to be different things affecting the DNA sequence?	2.3194667960547846
+What 've taken a pile of 50 mutants?	2.317273535873111
+What is a misspelling of the DNA sequence?	2.296038319824463
+What 'll name Arg1 so the gene?	2.262948002097825
+What invent recombinant DNA?	2.251268105707102
+What 're going to have to figure out how to clone and sequence DNA?	2.227349846863788
+Who was able to rescue 3?	2.195492387947896
+What is the DNA sequence a misspelling of?	2.191575743717827
+What is a factor of inheritance?	2.167393518473418
+What 're all arginine auxotrophs?	2.139522093736758
+What figured out who's in the same gene?	2.124926244729347
+What 're on the same gene?	2.1231380817767453
+Who do m1 and m2 mean that they were?	2.105553078180511
+What affected the gene Arg1?	2.104962404895878
+What's in the same gene m2?	2.099328958816484
+What could be in the same gene?	2.096827895450385
+What would not be in the same location on the gene?	2.085012925188083
+Who are different changes to the gene?	2.054736962600518
+Who have to be able to rescue each other?	2.042738537539392
+What fail the test of complementation?	2.03629827348154
+What organized them into what we might call complementation groups-- mutations that are unable to complement each other?	2.032673863155559
+What turns out to be minus?	2.028453093134303
+What were in different genes?	2.023928023826412
+What does See turn out to be?	2.016430280493013
+What is the gene a particle of?	1.9914899543111562
+What's the important thing to think about?	1.9908731524450183
+What will be the phenotype associated with being a heterozygote at Arg1 in other words?	1.9890693617164097
+Where would the defect not be?	1.9822582159010056
+What first 're going to have to discover DNA?	1.9800355548181339
+What mean that they were different mutations?	1.9796306667905543
+What only works for recessives?	1.9777523537606363
+Who might a gene have in it?	1.9567156639828487
+Who does a big mutant hunt?	1.949741258629655
+Who is congenitally deaf woman?	1.9379775729447688
+What are in the same gene, just by their failure to rescue each other?	1.9339907375872836
+Who does not produce the enzyme?	1.907055682088119
+What were the children all perfectly hearing in fact in?	1.8894693339230149
+What will what be in other words?	1.889464288359255
+What will what be the phenotype associated with being a heterozygote at Arg1 in?	1.8728132080852546
+What would not make any sense?	1.8662363143155165
+What do not know which genes they are?	1.8650625070696485
+What 've got mutant 1?	1.8541836365985929
+Who are the dominant ones?	1.8511124529478789
+What 've done our mutant hunt?	1.8510488601239854
+What complement each other?	1.8419936826243908
+What is a test that only can be used for the recessives?	1.839563832801538
+Who does a geneticist do?	1.8031410763063156
+What's what a complementation test is?	1.800653329328897
+What could be not the same?	1.799946970328846
+What is mutant 4?	1.7906329746099647
+Who are m1 and m2?	1.7883793812986906
+What is a something?	1.7874793908257791
+What is mutant 3?	1.7806683413939046
+What is mutant 2?	1.7744244873125679
+What is the DNA sequence?	1.7705407778090128
+What 'll write wild type?	1.7672455058047907
+What have the same gene?	1.7657591964934056
+Who ask such great questions?	1.756309761898934
+What are separate mutations?	1.746300034435816
+Who is m1?	1.7418455370600028
+What is all the same gene?	1.7416466918046787
+What is the gene?	1.7372665961751093
+What define the genes?	1.7287798486991381
+What is in the same gene?	1.7258030117042895
+What started with 50 mutants?	1.7202640791744106
+What is the same gene?	1.7118132692053887
+What 're going to cross them?	1.7040513075391834
+What have the DNA sequence not?	1.6990665458564926
+What do not complement each other?	1.681982367148533
+What did what do affect?	1.678633491130178
+What do not know what there is?	1.676575571397943
+What would the defect not be in?	1.676448656331426
+What cannot rescue each other?	1.6727912306653292
+What do the complement?	1.6671521004526664
+What is mutant 1?	1.662571239688618
+What was See?	1.6588949073696688
+Who 'll put a plus there to indicate I grow on minimal medium?	1.6550111234877205
+What were different genes?	1.6548155661629067
+What 're only doing the recessives?	1.6505985744816931
+What was the guy?	1.6433574549387027
+What is a geneticist able to tell in?	1.6431474949375626
+What could the same gene, m1, m2 be?	1.6412722551589127
+What can all down the diagonal those not rescue?	1.6253118014082886
+What 'll-- no, keep going?	1.6130688682963712
+What is a particle of inheritance in Mendel's terms?	1.6066245093073195
+What pick the recessive one?	1.6041183629400886
+What's a very interesting question?	1.595577180912342
+Who 'res going to have to wait until we invent recombinant DNA?	1.5945910222624655
+Who are recessive?	1.592632218408837
+What is that m1 and m2 were isolated separately?	1.5912125376839594
+What is the gene called?	1.5770735437204138
+What will be recessive phenotypes?	1.564877916646167
+Who 'll I put a plus there to indicate grow on minimal medium?	1.5428783443488099
+What probably can rescue 3 also?	1.5359158728863072
+Who were all perfectly hearing in fact in this particular case that I happen to know about?	1.5287335146561802
+What can Wild type by wild type, it grow on?	1.5248213852372658
+Who predict?	1.5125355868631218
+Was PROFESSOR: See able to rescue 3?	1.5057251423352382
+What was 1?	1.5016104885807342
+What complement each other's defects?	1.4942448292927593
+Who married this Mennonite man?	1.4923164507841897
+Who can tell you they 're in the same gene without any fancy molecular biology DNA sequencing?	1.4868885955066475
+Who is the deaf woman?	1.4852295625001024
+What 'll get there?	1.4692384977292867
+What does the way this 're thinking about that is each of those mutations destroy?	1.4623109377153662
+What those cannot rescue each other?	1.449517016187216
+What do together complement?	1.4364404002264386
+What means you 're in the same gene?	1.4299403919402267
+What 'll be able to know?	1.4208892159999997
+Who 'res going to get a yeast that has got mutations in both copies of that gene?	1.4193528500136026
+Who 'mes distinguishing between mutations in a gene?	1.4136777098141686
+What's unable to grow?	1.40329499838285
+What can I tell you they 're in the same gene without?	1.3991712981008342
+Who 'mes going to see if they can grow on minimal medium?	1.39670622563803
+Will what be the phenotype associated with being a heterozygote at Arg1 in other words?	1.3932615800076196
+Who can I tell they 're in the same gene without any fancy molecular biology DNA sequencing?	1.383506967362417
+Is inheritance in Mendel's terms a factor of inheritance?	1.380272812440642
+Who might be pretty cool?	1.369029624640196
+Who 're going to be heterozygous for Arg1?	1.3647033969265632
+Who 're going to be heterozygous at Arg2?	1.3645952711450144
+What grows?	1.3623818011198345
+Who 've ordered these so all these guys are the dominant ones?	1.3617440292949015
+What 'll I put there to indicate I grow on minimal medium?	1.3408674355197596
+What's going to be doubly heterozygous?	1.3400765875731993
+What do we 've ordered so all these guys are the dominant ones?	1.3392223790798514
+Is inheritance in Mendel's terms a something?	1.335668985374979
+Is the gene a particle of inheritance in Mendel's terms?	1.335264529672008
+Who do we 're going to be heterozygous for?	1.3350119446583681
+What will wild type not rescue?	1.3344842293319368
+Who was plus?	1.3316961667711777
+Who did this Amish woman marry?	1.3316221139433138
+What were the children all perfectly hearing in in this particular case that I happen to know about?	1.3311186688903134
+Who can I tell you 're in the same gene without any fancy molecular biology DNA sequencing?	1.330089849949876
+What cross them together here?	1.3291253171749728
+Who do we 've taken a pile of?	1.3247234987473933
+What can 2 probably rescue also?	1.3172811961269792
+Who can actually begin to sort out how many genes cause deafness in the human population before you know what the genes are?	1.3152643203656629
+Who cool?	1.3070749108272002
+Who could have different mutations all that hit the same gene?	1.30486212713181
+What can I tell you 're in the same gene without any fancy molecular biology DNA sequencing?	1.2989974733355019
+Is a geneticist able to tell whether things are in the same gene, just by their failure to rescue each other?	1.2954776342100267
+Who 've taken a pile of 50 mutants?	1.291689932025792
+What do we 're going to be for Arg1?	1.2886674692509277
+Who does failure to complement mean 're in the same gene?	1.2882038590326803
+What do we 're going to be at Arg2?	1.288003955319219
+What 'll I put a plus there to indicate I grow on?	1.2782566638380541
+What can it grow on minimal medium?	1.275098360521473
+Who would not the defect still not be controlled?	1.2677097176454812
+Who did this guy have over there in fact?	1.2666423429097162
+Who do that 're going to be heterozygous for?	1.2617745101086366
+What do we 're going to be heterozygous at?	1.2609439552183108
+Who want to give it a name, different from the names of the mutations?	1.257359373083101
+Who know it's going to turn out to be different things affecting the DNA sequence?	1.2572476547455698
+Are the mutations in the gene m1 and m2?	1.252749821340263
+What complement?	1.2513064963000784
+How many mutants here-- m1 m3, do we have up to m50?	1.250674913698087
+Who do that 've taken a pile of?	1.249683898080792
+Who have these 50 mutants here-- m1 m3, up to m50?	1.2477461788604032
+Who 'll we name so the gene?	1.2451266198380382
+Who 'll name Arg1 so the gene?	1.24059742003005
+What depends whether they are deaf due to mutations in the same gene or different genes?	1.2401743956814602
+What 're going to come to know pretty soon that each of these genes is a DNA sequence?	1.2347369190720925
+What are?	1.2310334398811607
+What's Arg2?	1.2272341491955794
+Who 'd also get the same with mutant 2 by mutant 1?	1.2268717165563512
+Who invent recombinant DNA?	1.2249500503667687
+What is each of these mutations?	1.220548490767654
+Is the DNA sequence a misspelling of the DNA sequence?	1.2174423299493675
+Who 're going to come to know pretty soon that each of these genes is a DNA sequence?	1.2162146006883647
+What do that 're going to be for Arg1?	1.2154300347011957
+What do that 're going to be at Arg2?	1.2147665207694875
+Who 're going to have to figure out how to clone and sequence DNA?	1.2080850773413356
+Who 'res going to have to wait until the 1970s?	1.2017683123825624
+Who goes out?	1.1970805423984061
+What does the way we 're thinking about it is each of those mutations destroy?	1.1945451718194287
+What do we have these 50 mutants here-- m1 m3, up to?	1.1931262537996403
+Do mutant 2 by mutant 3 predict?	1.1929050794616796
+Who do I 'm distinguishing between?	1.1908588906073136
+What might have many different mutations in it?	1.1899846404849863
+What do that 're going to be heterozygous at?	1.1877065206685793
+What 'd you also get with mutant 2 by mutant 1?	1.187016260704452
+What did this guy have a mutation over there in?	1.1848661259507778
+What is really important?	1.17775652145931
+What's recessive?	1.170248304228356
+What's very good?	1.170168559249611
+Who 'll this name so the gene?	1.1648439728333604
+Who is here?	1.1615859237864834
+Who 'd you also get the same with by mutant 1?	1.150963692984651
+Do m1 and m2 mean that they were different mutations?	1.1492037278514715
+Who crosses mutant one by mutant 1?	1.14760659568151
+What were the children in fact in this particular case that I happen to know about?	1.138768450860821
+Might a gene have many different mutations in it?	1.133025264297975
+Who finds it really exciting that you can know these things from genetic principles?	1.1309210306700224
+What is great?	1.1286008335688986
+Does a geneticist do a big mutant hunt?	1.1284028409853084
+Does See turn out to be minus?	1.1283620800448673
+What do this want to give there?	1.1256282419718469
+What do you 're going to have to wait until?	1.112558888994132
+Are separate mutations different changes to the gene?	1.1106922139676576
+What does?	1.106488432941093
+What is?	1.100066627313739
+Do 1 're on the same gene?	1.0830720513455487
+What 'd you also get the same with mutant 2 by?	1.0796608833485757
+Who figured out who's in the same gene?	1.078423162620696
+Would the defect not be in the same location on the gene?	1.0714094125962799
+What's going to take us maybe a couple weeks?	1.069269462985011
+What does this diploid's going to be?	1.0685036369064407
+What do we know's going to turn out to be different things affecting the DNA sequence?	1.0648804813487023
+What's not big enough?	1.0455376108648409
+Are things in the same gene, just by their failure to rescue each other?	1.0336161322391892
+Were each other's defects in different genes?	1.0310538206721938
+Who 'mes only going to go down to drawing two of the chromosomes right now?	1.0213077897453897
+Could the same gene, m1, m2 be not the same?	1.0094165667522104
+Who do we have up to m50?	1.0077830972295998
+Do recessives have to be able to rescue each other?	0.9959352079906048
+Who 're on the same gene?	0.9951004021887495
+Were different genes Arg1 and Arg2?	0.9938318229818324
+What do you start doing this test of?	0.9896328483906436
+Who are deaf due to mutations in the same gene or different genes?	0.9841055522372153
+What's going to take this maybe a couple weeks?	0.9826928540177875
+Who organized them into what we might call complementation groups-- mutations that are unable to complement each other?	0.9765669898928142
+Is the same gene m1?	0.9740400249116916
+Who 've got mutant 1?	0.9725235996343804
+What cannot do that at this point?	0.9723425429563826
+Who was our second mutant strain?	0.9704351535339857
+Is the deaf woman congenitally deaf woman?	0.9673470259334533
+Who did that organize into what we might call complementation groups-- mutations that are unable to complement each other?	0.9666674995521485
+Who 're all arginine auxotrophs?	0.9622293617175333
+What can we not do at this point?	0.960030876388646
+Who first 're going to have to discover DNA?	0.9590074638412116
+Who starts doing this test of complementation?	0.9585598739673895
+What are deaf due to mutations in the same gene or different genes?	0.9547474585231155
+What do mutant 1 and mutant 2 've got?	0.9529166538074851
+What now understand?	0.9516781895419248
+Who are they deaf due to?	0.9511078771028774
+Who cannot do that at this point?	0.9454748592989204
+Who 'ves got my mutant 1?	0.9401203371860674
+What do you know any of?	0.9355738093861972
+What did that organize into what we might call complementation groups-- mutations that are unable to complement each other?	0.9351944601296374
+What could have two alternative mutations affecting it?	0.9351605198567616
+What do I find really exciting that you can know these things from genetic principles?	0.9348915515637224
+What do we 've taken?	0.9342582810849123
+Who 'mes going to even make it simpler?	0.9330731434143593
+What cannot yet?	0.925510793522754
+What does it's going to be?	0.9224786715094693
+What might a gene have many different mutations in?	0.9195788671239722
+Who breaks it another way?	0.9193643902128068
+Who knows any of that?	0.919177101653438
+What do first we 're going to have to discover?	0.9189811396459615
+Who could be in the same gene?	0.9156595892076747
+Who 'll write wild type?	0.9083103234258689
+Who could go up to mutant 50?	0.9050910897736926
+What did this affect?	0.8999368848922267
+What agreed?	0.8952237703997374
+What were Arg1 and Arg2?	0.8946642468611985
+What is the test of complementation that you 've invented over here?	0.8899841978096765
+How many genes are 47 genes?	0.8883829432515644
+Might Excellent be pretty cool?	0.8882602225681877
+What do we 've got?	0.8876307611929477
+Do the complement each other?	0.8874684921177889
+Who 'mes going to put a wild type strain there too?	0.8820505715983851
+What can this not do at this point?	0.8811391585649919
+What do this know there's going to turn out to be?	0.8772846034328556
+What do we invent?	0.8760246209076181
+Who 've tested them?	0.875334398855794
+What cannot?	0.8728129001714295
+Who 'mes going to start crossing them together?	0.8721027508607722
+Who fail the test of complementation?	0.8714472207915587
+What do 1 're on?	0.8681379776713172
+Who 'ves got wild type?	0.8655215937696918
+What do first this 're going to have to discover?	0.8584827726330668
+What do that 've taken?	0.8555810222727445
+Can all down the diagonal those not rescue each other?	0.8550113460981883
+What 'll mutant 1 and mutant 2 write?	0.8544120544743099
+Is the gene called Arg1?	0.8518881865555743
+Who were in different genes?	0.8498132616907674
+What 'll we write?	0.8497146818185302
+Who was this's second mutant strain?	0.8489754731485559
+What will 47 or 48 out of the 50 be?	0.8461231787325355
+Who did not need to know what a gene was?	0.844305302790461
+So if we 're only doing recessive phenotypes what's going to be plus whenever I cross the wild type?	0.8423218056872293
+What do they fail the test of?	0.8373868013822006
+Who do mutant 1 and mutant 2 're only doing?	0.8370681087266407
+Who do not know which genes they are?	0.836858400767384
+What can we not do that at?	0.8363334212313212
+What could I go up to?	0.8358276111569567
+Who knows you want to actually find out what's the DNA sequence and all that?	0.8345180059242556
+What have this ``or'' picture here?	0.8322069493673041
+Who's able to tell right away how many genes she's hit by crossing them together?	0.8313296269838437
+What would this whole test not make?	0.8292935759434661
+What 'll I put a plus on?	0.8274316900383605
+What do I 'm going to put strain there too?	0.8189656016924971
+What is called Arg1?	0.816014517868159
+What do I cross?	0.812563436188944
+Who does this only work for?	0.8118424438940195
+Who 've done our mutant hunt?	0.8082751947753519
+What is incredibly powerful at getting these answers before?	0.8057157977447873
+If there's not working does it's not working?	0.8055865238265254
+Who have this ``or'' picture here?	0.8038132039287988
+What do you not know at?	0.8008786575310269
+Do Pretty cool?	0.7974610808076192
+Who 're only doing the recessives?	0.7929229074273931
+'ll each other's defects get there?	0.7907538533211453
+What does it's in?	0.790078497759557
+What do this invent?	0.7899239183483626
+Who does not know at the beginning?	0.7866674443916057
+What does that picture's in?	0.7848996585027068
+What is well the way you find out you start doing her test of?	0.7802818575332005
+Is 2 in the same gene?	0.7781409362427092
+Who do they 're?	0.7726914516742391
+Who do we 're only doing?	0.7715779787987889
+Are two genes 47 genes?	0.7699271798714307
+What destroys it in different ways?	0.7612764169233768
+What does it turn out to be?	0.7608601044960768
+What can this not do that at?	0.7560507742266436
+Who did we organize into what we might call complementation groups-- mutations that are unable to complement each other?	0.7481711088161496
+What do that fail the test of?	0.7403046721628674
+What does this guy not produce?	0.7310154632745678
+Who 'ves asked there a question?	0.7303372452053676
+Who do I know want to actually find out what's the DNA sequence and all that?	0.7291590942823132
+What do I 've got?	0.7274148699663412
+Do the defects complement?	0.7270815722448905
+Who did we start with?	0.7265861336385073
+Did this Amish woman marry this Mennonite man?	0.722432852926675
+Who do this 're?	0.7223065503354154
+How many genes are two genes?	0.7218449613127718
+What have to be able to rescue each other?	0.7197744788039466
+What did we organize into what we might call complementation groups-- mutations that are unable to complement each other?	0.7166980693936384
+What do I 'm going to even make simpler?	0.714564160384342
+What do you know?	0.7125739823041963
+Who is well the way you find out start doing her test of complementation?	0.7089883265802852
+What well is you start doing her test of complementation?	0.7073274275020531
+Who started with 50 mutants?	0.7068915092931685
+Does a geneticist go out?	0.7062671002280279
+Was See 1?	0.7059868315964484
+Who do you?	0.6957175229771155
+What is our first guy?	0.690367569157458
+Who do we 've tested?	0.6860450665012552
+Who do mutant 3 do?	0.6852520615193267
+What is m1?	0.6828116228581258
+What can you not rescue with?	0.6824859720823375
+Who 're going to cross them?	0.6807560889779416
+What were each other's defects in?	0.6804330680313491
+What understand why this now complements?	0.6763102456899077
+What do you guys ask?	0.6705447482112035
+Who do I 'm going to start crossing together?	0.6682030774872414
+What do we 've tested?	0.6680868808980351
+Who have the DNA sequence not?	0.6670569093251322
+Does minus's unable to grow?	0.6657757679041743
+Can Wild type by wild type, it grow on minimal medium?	0.6636029848876301
+Who does it depend to?	0.6592064835615714
+Who cannot rescue with that?	0.6560080388615397
+What do you start doing?	0.6550343727103505
+Do together complement each other's defects?	0.6534948232329145
+Who understand why this now complements?	0.653015027128667
+What do this know?	0.6510400866273973
+Does the way this 're thinking about that is each of those mutations destroy a function of the gene?	0.649172347190218
+What do we have not?	0.6432321535402288
+What do I 'm going to start crossing together?	0.6427653040707695
+Can 2 probably rescue 3 also?	0.6387315220432683
+What do they fail?	0.6367475955369499
+What do you 're going to get?	0.6330233539479975
+What does it destroy in different ways?	0.6252491145053338
+What is my mutant 1?	0.6160039572466405
+What do we have here?	0.6155589397926129
+Who did that start with?	0.610154027525853
+Who complement each other's defects?	0.6100829264931731
+What are all these guys?	0.607433638610986
+Who could you have?	0.6060105938080969
+What do they complement?	0.6041953270110816
+What do we know it's going to turn out to be?	0.5992720687079336
+Do we 've ordered these so all these guys are the dominant ones?	0.5976453135652902
+If it's not working what's not working?	0.5921509135271019
+Who pick the recessive one?	0.5907457930588467
+Who have the same gene?	0.5894818075136632
+What are 47 genes?	0.5890130756929572
+Were the children all perfectly hearing in fact in this particular case that I happen to know about?	0.5766870886127409
+Who do we 've done?	0.5750904536375956
+What is this's first guy?	0.5747115012511053
+What do this have not?	0.5721713876796815
+How many alternative mutations affecting it could it have?	0.5687072559840156
+Who did not have any DNA sequencing?	0.5686290748586453
+Who define the genes?	0.5609059592300654
+If there's not working what's not working?	0.5513028820403321
+What is of course?	0.5512625454673523
+What is it of?	0.5447529945734642
+What do we pick?	0.5447400343386803
+What do this have here?	0.5444981739320647
+What do they not complement?	0.5437471057815073
+Who knows what the genes are?	0.5408698091193984
+Who do not know what it is?	0.5384741181573673
+What can they not rescue?	0.5358235125527693
+What is well the way you find out you start doing?	0.5293455937685754
+What do that fail?	0.5220747594112973
+Who know who is recessive?	0.5219174800746404
+Who do this 've done?	0.5202667619663761
+What is 2 in?	0.5201245523148197
+Who did not have any anything?	0.5186207110428669
+Who wants you to know?	0.5126563562520401
+Who do not complement each other?	0.5086607182350276
+What did I not have?	0.5034969805207288
+Who know who's dominant?	0.5016732166573812
+Who cannot rescue each other?	0.5011878394379974
+What do I know you want to actually find out?	0.4930800883315225
+Can I tell you they 're in the same gene without any fancy molecular biology DNA sequencing?	0.48529427116435153
+Who do we 're going to cross?	0.48411059068246276
+What do we know?	0.4723509334267355
+Will 47 or 48 out of the 50 be recessive phenotypes?	0.46598510092617595
+What's in its gene?	0.46460052731445467
+What do we 're going to cross?	0.46147766269596024
+What can I tell you they 're in without any fancy molecular biology DNA sequencing?	0.4591948866659332
+'d you also get the same with mutant 2 by mutant 1?	0.4500153870055308
+What can it probably rescue also?	0.4450377393035996
+Do this know there's going to turn out to be different things affecting the DNA sequence?	0.4443110868481539
+What do that not complement?	0.4368923616142186
+Do you 're going to get a yeast that has got mutations in both copies of that gene?	0.4309298627445899
+What do that pick?	0.4300150512102867
+Who 'll get there?	0.4276920285397454
+What's mutant 1?	0.4274894606712003
+Who do this 're going to cross?	0.4273950439448766
+What can that not rescue?	0.4255812596424178
+What does it destroy it in?	0.42336000535534923
+Does failure to complement mean you 're in the same gene?	0.4181156087016058
+Is the idea?	0.4116259636331612
+What could it be?	0.4047825660567921
+What do this 're going to cross?	0.4047621159583741
+Do I 'm distinguishing between mutations in a gene?	0.40467970714134305
+What cannot rescue itself?	0.40311989609837373
+Who 'll be able to know?	0.39759399743875834
+What are two genes?	0.396762842207665
+Does it's going to be a double het-- heterozygous of the first locus and heterozygous of the second locus?	0.39025556343718737
+Who do I want to know?	0.38988817486060734
+What is all I can tell?	0.38418763661380906
+Do we 're going to have to figure out how to clone and sequence DNA?	0.3828004588451934
+Does the way we 're thinking about it is each of those mutations destroy a function of the gene?	0.38132975218232534
+Does the board's not big enough?	0.3633852301575853
+Do we 're going to be heterozygous for Arg1?	0.3618732862731968
+Do we 're going to be heterozygous at Arg2?	0.3612097723414882
+What do you test?	0.3598907227928976
+Does this diploid's going to be a double het-- heterozygous of the first locus and heterozygous of the second locus?	0.35943509272392404
+What does failure to complement mean you 're in?	0.35749075130145513
+What does the way this 're thinking about that is each of those mutations destroy a function of?	0.34904423926672035
+Is each of these mutations a change to the DNA sequence?	0.3458540146754707
+Could you have different mutations all that hit the same gene?	0.34294332448562903
+'ll I put a plus there to indicate I grow on minimal medium?	0.3396076192119679
+What will not rescue them?	0.3339788257267142
+Are all these guys above the line recessive?	0.32957823210304626
+Who told us cross them together?	0.3235632645916371
+Do this 're going to have to figure out how to clone and sequence DNA?	0.32056054328866646
+Does 2 do?	0.31883530244549796
+Who cross them together here?	0.31575274729373115
+Do we 've taken a pile of 50 mutants?	0.3087935218402844
+Do you 're going to have to wait until we invent recombinant DNA?	0.30032700177151206
+Do that 're going to be heterozygous for Arg1?	0.28863585172346484
+Do that 're going to be heterozygous at Arg2?	0.28797233779175624
+Do this want to give there a name, different from the names of the mutations?	0.28256609140197053
+What can it not rescue?	0.27767447266269296
+What 'll we name Arg1 so?	0.2759902910913885
+'ll we name Arg1 so the gene?	0.2732900514674417
+Do we have these 50 mutants here-- m1 m3, up to m50?	0.2731898157258681
+Who 'll stop there?	0.27220494422674
+Do I cross mutant one by mutant 1?	0.26589193862822347
+What will not rescue this?	0.26031149056119696
+Did we figure out who's in the same gene?	0.25468867120590133
+Does it's in the same gene m2?	0.25315530197469993
+Did this guy have a mutation over there in fact?	0.24875514232294993
+Who could it have?	0.24795100793607183
+Do we invent recombinant DNA?	0.24591777135145998
+Do that 've taken a pile of 50 mutants?	0.23448145280279675
+What do this not know?	0.23445522015235465
+Do you 're going to have to wait until the 1970s?	0.23191572898821233
+Do we 're going to come to know pretty soon that each of these genes is a DNA sequence?	0.2237287513568047
+Who did you tell cross them together?	0.2166195816822527
+Does that picture's in the same gene m2?	0.21611063816201215
+This cannot yet?	0.2051849914430428
+Do they 're on the same gene?	0.20081546285442853
+Did we organize them into what we might call complementation groups-- mutations that are unable to complement each other?	0.19574069611051792
+What 'll this name Arg1 so?	0.1939193065682523
+'ll this name Arg1 so the gene?	0.19300740446276432
+What does that's?	0.1807101240465976
+Could they be in the same gene?	0.17616608404234269
+Would this whole test not make any sense?	0.17479228267985158
+Did this affect the gene Arg1?	0.17454801239401618
+Who did you tell us cross together?	0.17008692447629326
+Do we know it's going to turn out to be different things affecting the DNA sequence?	0.16903816969801078
+Do this invent recombinant DNA?	0.1628731384895028
+Do this 're going to come to know pretty soon that each of these genes is a DNA sequence?	0.16038396203648952
+Did that figure out who's in the same gene?	0.16037830224651373
+Do mutant 1 and mutant 2 've got mutant 1?	0.15901243184208758
+Who do we cross together here?	0.1525468508109693
+What did you tell us cross together?	0.14703807308876993
+Who will wild type not rescue?	0.14601143088949864
+Do we 've got mutant 1?	0.134200395824013
+What do we cross together here?	0.13191738384587337
+Do first we 're going to have to discover DNA?	0.129348199586091
+Do they 're all arginine auxotrophs?	0.1208981849905153
+Do I find it really exciting that you can know these things from genetic principles?	0.11868619441417971
+Who does not know?	0.11868443883399693
+Did I not need to know what a gene was?	0.11571629775715842
+Did that organize them into what we might call complementation groups-- mutations that are unable to complement each other?	0.10790636263760423
+What might be pretty cool?	0.10712553877752762
+What do we not know?	0.10555477591563012
+'ll we write wild type?	0.10039758165873769
+Do I 'm going to see if they can grow on minimal medium?	0.09901725233525616
+Could I go up to mutant 50?	0.09674157874583944
+Could this be in the same gene?	0.09637635204905015
+Do you start doing this test of complementation?	0.09058694901811837
+Who now understand?	0.08833470352682848
+Would sTUDENT: Even if they were on the same gene, not the defect still not be controlled?	0.08633842311585394
+'ll mutant 1 and mutant 2 write wild type?	0.0820070502542869
+What does the way we 're thinking about it is each of those mutations destroy a function of?	0.08121781880871293
+Were they in different genes?	0.07318692345732591
+Do first this 're going to have to discover DNA?	0.06884983257319677
+What will not produce its enzyme?	0.06655795852755841
+Do this 're all arginine auxotrophs?	0.06554774564122123
+Do I 'm only going to go down to drawing two of the chromosomes right now?	0.053328357343212396
+1 cannot?	0.05186949237073257
+Who do that cross together here?	0.05123921018341204
+Do I 'm going to put a wild type strain there too?	0.05089968101889086
+Does it depend whether they are deaf due to mutations in the same gene or different genes?	0.046530106574282915
+Can you actually begin to sort out how many genes cause deafness in the human population before you know what the genes are?	0.04144193697473142
+What do m1 and m2 mean?	0.04132613543171604
+Who are?	0.03967719250174295
+Are they deaf due to mutations in the same gene or different genes?	0.039668006802829225
+Does this only work for recessives?	0.03620435441198877
+What do that cross together here?	0.03060974321831611
+Who agreed?	0.027471980748464908
+Would sTUDENT: Even if this were on the same gene, not the defect still not be controlled?	0.019253215173083316
+Do we want to give it a name, different from the names of the mutations?	0.004961643495124957
+Is mutant 2 mutant 4?	0.004245489667223046
+Does that's going to take us maybe a couple weeks?	0.003168344431687231
+Does it turn out to be minus?	0.002891622475340583
+Do this not know which genes they are?	-0.003838631361395395
+Is mutant 2 mutant 3?	-0.004058371346160383
+Is the test of complementation that you 've invented over here a test that only can be used for the recessives?	-0.005695787349323078
+Can we not do that at this point?	-0.007363959789122854
+Is mutant 1 mutant 2?	-0.009028640151473644
+Will wild type not rescue them?	-0.012206507629201946
+Do you not know at the beginning?	-0.015474958795043792
+Do they have to be able to rescue each other?	-0.017158481305584727
+Do I 've got wild type?	-0.02060314822431919
+Do mutant 1 and mutant 2 're only doing the recessives?	-0.02157870207416579
+Do mutant 3 do you?	-0.022776572548504737
+What do they 're on?	-0.02820202981791442
+Does that's what a complementation test is?	-0.02910590056671558
+Do we know who is recessive?	-0.034940054454552616
+Were that in different genes?	-0.03718054278162919
+Does that's the important thing to think about?	-0.04337056797594796
+Do you know any of that?	-0.04562281748822872
+Is our first guy m1?	-0.047405675136238834
+Is all I can tell that m1 and m2 were isolated separately?	-0.04747188668851399
+Was the guy this's second mutant strain?	-0.05332891891806213
+Do they fail the test of complementation?	-0.05336755975937746
+Was the guy our second mutant strain?	-0.05598719696456822
+Does this guy not produce the enzyme?	-0.05896509433092789
+Who goes on?	-0.05952717635772298
+Do we 're only doing the recessives?	-0.06447845816133668
+Do you guys ask such great questions?	-0.07050083233094262
+Who said?	-0.0724314244684966
+What could they be in?	-0.07895450818817018
+Do we know who's dominant?	-0.0798035600203042
+Does that's going to take this maybe a couple weeks?	-0.0818405708195562
+So if we 're only doing recessive phenotypes does it's going to be plus whenever I cross the wild type?	-0.08489175020199968
+Will wild type not rescue this?	-0.0850305498247117
+What will it not produce?	-0.08562409058261777
+Who really means here?	-0.08605366769470091
+Can this not do that at this point?	-0.08625567761277697
+Did we start with 50 mutants?	-0.09112115271445953
+Do this 've done our mutant hunt?	-0.09277276681200197
+Is genetics incredibly powerful at getting these answers before?	-0.09879033322289321
+Who cannot yet?	-0.11026053576987005
+What is well, the way you find out?	-0.1272586992060748
+Do we have this ``or'' picture here?	-0.13172804305108854
+Does she's able to tell right away how many genes she's hit by crossing them together?	-0.13453611439313184
+Did what do this affect?	-0.13496829924774412
+Do you 've asked there a question?	-0.1356287607781157
+Are all these guys the dominant ones?	-0.1362575776045194
+Do we have the DNA sequence not?	-0.13926255074719118
+Can you not rescue with that?	-0.1424597005864625
+Do that fail the test of complementation?	-0.15044968897871058
+What could this be in?	-0.1627527227207377
+Do they complement each other's defects?	-0.16464969464143953
+Do they have the same gene?	-0.1700959838795213
+Is well the way you find out you start doing her test of complementation?	-0.17574659399571235
+What were they in?	-0.1776287937018015
+Do we understand why this now complements?	-0.1783552176137586
+Is this's first guy m1?	-0.1802091729137607
+'ll we get there?	-0.1805463352863399
+Is this all the same gene?	-0.19409028100357206
+'ll we be able to know?	-0.20007200584570795
+Did that start with 50 mutants?	-0.2006007128646583
+Do this have this ``or'' picture here?	-0.20147021631760387
+Do they define the genes?	-0.2027232766375524
+Could it be not the same?	-0.20781237763084137
+Do this have the DNA sequence not?	-0.20949919623646895
+Is it of course?	-0.21949316946096809
+Did I not have any DNA sequencing?	-0.22163907653713966
+Do this 're going to cross them?	-0.2227268697395608
+Do I 'm going to even make it simpler?	-0.22280707774619435
+Do we not know which genes they are?	-0.2260532150313117
+Do I 've got my mutant 1?	-0.23358265198497086
+Do we pick the recessive one?	-0.2349854672325955
+Is my mutant 1 mutant 2?	-0.23967521212040754
+Can they not rescue each other?	-0.23993967541258354
+Do this not know what there is?	-0.24017913793415757
+Do they not complement each other?	-0.24245085122542354
+Do you know what the genes are?	-0.24255108798407665
+Was this guy plus?	-0.2475037048862827
+Could it have two alternative mutations affecting it?	-0.25013440645919593
+Do this understand why this now complements?	-0.25757976335409327
+Do we 've tested them?	-0.2629447878943205
+Did I not have any anything?	-0.26763437351291786
+Do that have the same gene?	-0.2680258824797166
+Do mutant 1 and mutant 2 now understand?	-0.2682908527423993
+What can you actually begin to sort out how many genes cause deafness in the human population before you know?	-0.2713310069679984
+Who cannot?	-0.27270919081772604
+'ll this be able to know?	-0.28214299036884416
+Do I 'm going to start crossing them together?	-0.28542310788538994
+Was that guy plus?	-0.2893532367470182
+What were that in?	-0.2965168963134548
+Does this diploid's going to be doubly heterozygous?	-0.3086606952986415
+Do that define the genes?	-0.3095780208048411
+Does it's going to be doubly heterozygous?	-0.3144987217023376
+Does it's mutant 1?	-0.3187122933402593
+Does that's a very interesting question?	-0.3216482574512234
+Does that's Arg2?	-0.3249202651639074
+'ll I stop there?	-0.330875780302206
+Do we now understand?	-0.3344332097921354
+Do we 've done our mutant hunt?	-0.3348796940010983
+Do that pick the recessive one?	-0.33629310786015276
+Do that not complement each other?	-0.34372124399388015
+Can that not rescue each other?	-0.3441136471036659
+Is our first guy here?	-0.3550007955452774
+What do they define?	-0.35889953125413565
+Does it's unable to grow?	-0.36605263730811965
+Do you break it another way?	-0.37073739898021874
+Can it probably rescue 3 also?	-0.37147574283118723
+Might it be pretty cool?	-0.40149961282191016
+Who tests mutant 1 and mutant 2?	-0.40380346728584815
+Did mutant 1 and mutant 2 agree?	-0.41059277056009935
+Does it's recessive?	-0.4133121440192624
+Does it grow?	-0.42883648515814965
+Does these's recessive?	-0.429799640331886
+What do they have?	-0.435257191251591
+If it's not working does it's not working?	-0.45128427964229134
+Do I not know?	-0.46210536189077156
+Does it destroy it in different ways?	-0.4622502788615941
+What did we figure out in?	-0.4624301992087192
+Do we 're going to cross them?	-0.46617709003835195
+Is this's first guy here?	-0.4705182461942474
+What do that define?	-0.4735723673797885
+Will it not produce its enzyme?	-0.47655219565094864
+Do I know you want to actually find out what's the DNA sequence and all that?	-0.4769326942368217
+Do you go on?	-0.4791934928997881
+Does this grow?	-0.48644806896252146
+Is that logic really important?	-0.5042025627192273
+Are they?	-0.5058274580819839
+Do we not know what it is?	-0.5205535302352693
+Does that's very good?	-0.5371063466898442
+Did we agree?	-0.5408943856168644
+What do that have?	-0.5452533355416773
+What can I tell you in?	-0.5597315959285332
+Does it's in its gene?	-0.5611122952360281
+What did that figure out in?	-0.571909759358918
+Did you say?	-0.5823134753423551
+Is this great?	-0.5916630376752332
+What do I know?	-0.5925072492115635
+What did I not need to know?	-0.5930561510451633
+Does it do?	-0.593264133818233
+Do I want you to know?	-0.6016323973558493
+Do that cross them together here?	-0.6019833620140276
+Can it not rescue itself?	-0.6258333533785057
+Did you tell us cross them together?	-0.6280369990965629
+Are that?	-0.6585476795272207
+What is this?	-0.6704984692134435
+Do I really mean here?	-0.6890221058667418
+What can you actually begin to sort out before you know what the genes are?	-0.7176631661998099
+We cannot yet?	-0.721185801483206
+What does failure to complement mean in?	-0.7567497663252587
+Do we cross them together here?	-0.8008414884228474
+They cannot?	-0.8315749785809012
+What does she's able to tell right away?	-0.9003360230048763
+Do you test mutant 1 and mutant 2?	-1.1182986592117816

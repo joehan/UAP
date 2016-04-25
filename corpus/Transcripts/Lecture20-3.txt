@@ -1,0 +1,107 @@
+ERIC LANDER: Section Two-- DNA Polymorphisms in Medicine: Polygenic Diseases. So I was talking up there about simple Mendelian disorders caused by a mutation in a single gene. It could be any one of five genes, but any one of those genes was enough to cause the disease. Any one of mutation-- any one of those genes was enough to cause the disease. 
+
+That's Mendel. It's gorgeous. It explains three to four thousand rare genetic diseases, the vast majority of which you have never heard of. You've heard of cystic fibrosis. We've talked about that. You've heard about Huntington's disease. I don't know how many of you know xeroderma pigmentosum. I don't know how many of you know about ataxia telangiectasia. 
+
+You probably heard of muscular dystrophy, Charcot-Marie tooth syndrome, Polycystic kidney disease, Medullary cystic kidney disease type 1, and medullary cystic kidney disease type 2, Early infantile epileptic encephalopathy, and onward. 
+
+There's thousands of diseases you have never heard which follow that gorgeous, simple Mendelian paradigm. Strongly penetrant gene-- strongly penetrant mutations in a gene that cause, with very high probability, the disease. But what about diseases that you know about? 
+
+Type 2 diabetes-- adult diabetes. Alzheimer's disease. Early heart attack-- heart attacks in the 40s. Schizophrenia. Bipolar disease, which is what's the proper term for manic depression. Age-related macular degeneration-- a kind of common form of blindness. Inflammatory bowel disease. 
+
+Things you've actually heard of, perhaps. They don't look like Mendel. They just aren't Mendelian disorders. They don't show simple transmissions in a family. 
+
+They're complex inheritants. And they're complex because they're polygenic. Multiple genes collaborate together to produce a phenotype in a way that we usually deny in introductory biology courses. But it's really true. 
+
+So for example, for polygenic diseases-- like everything you know about-- pretty much anything you really know about in your family-- diabetes, Alzheimer's, schizophrenia-- I'm just using abbreviations here-- early myocardial infarction, et cetera. What you find is there's an allele of a gene, and this allele takes a disease that's, oh, I don't know, 1% prevalence in the population. And if you have this allele, you now have a 2% prevalence-- 2% risk. It doubles your risk. Maybe triples your risk to 3%. 
+
+Well, I don't know, maybe you got something here where there's a disease that has 10% prevalence in the population. And you've got some variant in the disease, and what that does is it increases your risk to 12%. It's a 20% increase in risk. You might get very worried. Oh, my goodness, you've got a genetic variant that increases your risk of diabetes by 20%. Of course, that's from 10% to 12%. Maybe you're not so excited about that. So could this happen? Is this actually what goes on in the population with real genetics for real common diseases, that such things can happen? 
+
+Well, the answer is yeah. Schizophrenia has a prevalence of about 1%. There are alleles that can increase them. There are actually incredibly strong the alleles that might increase it as much as 10%-- ten-fold higher risk. But it's still actually, most people who have it don't get it, right? 2%-- it's doubling your risk, but most people-- 98% of people-- won't get it. 
+
+And yet, it really turns out that genetic variation collaborates also to produce disease. There's a lot of important strong Mendelian factors. But there's a lot of polygenic inheritance. How are we going to find polygenic inheritance? How are we going to find the genetic variance that increase your risk for disease, or susceptibility factors for disease? 
+
+Genetic variants that are associated with the disease, but you wouldn't say it absolutely causes the disease. I'm going to give you the entire sequence of everybody in the world. What are you going to do? Any takers? 
+
+You got the whole world. I've sequenced them. 7 billion people times 3 billion nucleotides-- it's a lot of sequence. 
+
+But I have all these people. A lot of genomes lined up. Here we go. Maybe I've even gone through the trouble of sorting out the control individuals who do not have the particular disease in question, and cases-- individuals-- who do have the disease in question. Well, what do I do? Three billion nucleotides each. 
+
+I don't know, maybe there's a position in the genome here where some people have an A-- actually, some people have a G, let's say. Some Gs. Some people have Cs at that position. Over here, some people have Gs, some people have C. I picked one nucleotide in the genome one polymorphic site. How can I find whether that polymorphic site is associated with the risk of disease? 
+
+So in the controls, it turns out this particular allele is present in about 17% of people, and this one is present in about 83% of people. Suppose this had absolutely nothing to do with the disease. What would the ratio be in the cases? 
+
+STUDENT: The same. 
+
+ERIC LANDER: The same. But suppose, in fact, it predisposed you to the disease. Suppose one of those alleles predisposed you. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: It would be different. The one that predisposed would be higher. It's ridiculously simple. It's fingers and toes counting. That's it. 
+
+You count with your fingers and toes, and you say at this particular location in the genome, across-- oh, I don't know, maybe I'm going to get you 3,000 people. In the controls, I see this frequency. And in the cases, the G allele has a frequency of only 13%. And this one has a frequency of 87%. So what does that tell you? 
+
+That tells you that that bottom allele is a risk factor. Or, this top allele is a protective factor. Your risk is about a quarter less. It's about 25% less. That's pretty interesting. 
+
+Actually, I picked this specific example, because there is a particular gene I happen to be thinking of that goes by the name PPAR gamma. And it encodes a protein involved in regulating the creation of fat cells and adipocytes, and fatty acid storage. And it turns out, it shows this association with adult onset diabetes. 
+
+It so happens that the prevalence in the population of this increased risk allele is about 85%, give or take. About 15% of you carry a protective allele that decreases your risk of diabetes by about a quarter. Or, alternatively 85% of you carry an allele that increases your risk of diabetes. Either way you want to say it. But it's protective by about a quarter or so. 
+
+And what it does is it takes this gene, PPAR gamma, it changes a particular amino acid at position 12. It changes a proline to an alanine. It's a Pro12Ala polymorphism. And that's what it does-- increases your risk by 25%, which by the way, means, since type 2 diabetes is about 10% of the population, it increases you by about a quarter from about 10% to 12%. 
+
+Now I don't know if you should be so worried personally because your risk was 10% and now it's 12%, because you probably didn't know your risk was 10%, anyway. And 12% doesn't sound so different than 10%. But what it does is it tells us that gene is important in the process. It plays some role in the process. As it happens, that particular gene happens to be the target for a certain class of drugs that are antidiabetic drugs called troglitazones. 
+
+So notice, by just running your finger across the genome and counting on your fingers and toes, you're able to spot something that shows statistical association, provided you had enough numbers. Now this was no longer 10 cases, right? 10 patients-- I needed 3,000 or more to do this. But you could do it for every base in the entire genome. 
+
+Now, I'm actually telling you the story about this particular gene that we did in the lab about a decade ago and found that this was the case, because we had a candidate gene. We had a guess that this particular gene, PPAR gamma, was associated with type 2 diabetes. And we could prove it by sequencing enough patients there. We actually even guessed that this Pro12Ala was since we could enough sequencing. 
+
+But the question is, could we do it across the whole genome? Well, it's expensive to sequence many, many, many, thousands of people. But we've been able to cheat for the last five or six years. I'm going to tell you how we've been cheating. But we're not going to have to cheat for too long. But let me admit how we've been cheating. 
+
+The way we've been cheating is not looking at the entire genome, but using a little trick here. That particular C or G-- maybe I'm not lucky enough to have guessed it in advance. But suppose I have something over here, a polymorphism A or T that I'm just randomly trying out. It's on my DNA chip. It's one of those guys there-- happens to be a polymorphism that's nearby. 
+
+Will those guys be correlated with each other? Well, we said up there that across the population, there would be no correlation of things who were 1% away, right? Even if there's 1% recombination, by chance they'd start recombining. 
+
+But what if it was only a tenth of a percent? How often will they recombine? Once every thousand generations. 
+
+What if it's a hundredth of a percent? Once every 10,000 generations. The truth is, if your markers are really, really, really close, they haven't really recombined much in human history. If your map gets dense enough, you don't have to bingo-nail the exact nucleotide. Close becomes good enough. 
+
+And notice, I've just confused you terribly, because I've just hold you that for linkage analysis, when you're using markers 1% away, you can't count on any correlation with which allele at the marker is the disease gene. But as you get closer and closer and closer, you can. And it turns out, if you're willing to use about half a million or a million genetic markers spaced across the genome, they start getting close enough that they really do correlate with each other. 
+
+There is a correlation picture. And in fact, it was discovered here at MIT that there's a gorgeous correlation picture across the genome. And you can begin to work out the entire correlation picture across the genome. And it looks like that. 
+
+These guys here are correlated with each other. Trust me, this red means correlation. And these guys show correlation. And these guys show correlation. And these guys show correlation. 
+
+And this is a teeny portion of one bit of chromosome number 7. So when it was found out here at MIT that you could build these little correlation maps, what happened was a bunch of us built a correlation map of about that big. But it was so pretty that an international consortium all came together, and we built together a correlation map across the entire genome. 
+
+We could get ten sets of markers and get one so closely correlated that they could in fact stand in for each other-- proxy for each other. And you could use DNA chips, as long as you were willing to look at a million or two million DNA polymorphisms, you could then play this game just looking at a million of those positions, and see-- do I see any particular letters that are correlated with the disease more frequent or less frequent in cases of controls? 
+
+And so, starting around 2006, 2007, it was possible to do that. Now it would be better to do the whole DNA sequence, I admit, because we can't quite get everything. But we can do pretty good with just looking at about a million or two million positions across the genome. And what's been really amazing is what's it's produced. 
+
+By doing that, instead of having to guess in advance like we did with this diabetes gene, the world has been able to take the whole genome-- whole genome-- look at it in many, many people, and start finding multiple genes that play risks of disease. A particularly nice example I mentioned was age-related macular degeneration. Age-related macular degeneration. It turned out-- and don't worry about the details here-- there was a particular gene here that goes by the name complement factor H. 
+
+And it showed a particular polymorphism-- a tyrosine at position 402 becomes a histidine. And about 35% of people who have age-related macular degeneration, this most common form of age-related blindness, carry that particular polymorphism. And it increases their risk by almost three-fold higher of blindness. 
+
+Of course, the initial risk was about 1 in 2,000, and it increases it to 3 in 2,000. But it tells us that complement factor is playing a role. Complement factor H is playing a role, and people now began to work out the biology of that. 
+
+And it's the beauty of genetics. What genetics is doing is in a completely unbiased fashion. Like with any kind of a mutant hunt, we're able to say that gene plays a role, that gene plays a role. 
+
+I'm going to show you some extremely cool pictures-- some of which are published, some of which aren't quite published yet. But they're really cool-- of when people have been doing this for schizophrenia. Taking patients with schizophrenia, about 1% in the population, and using several million markers across the genome to ask which positions show correlation with risk of schizophrenia. 
+
+This was the initial result published in 2009. 7,000 samples have been studied. All of these are zillions of different points across chromosome 1, chromosome 2, chromosomes 3, chromosome 4, et cetera. Anything that reaches above this line is statistically significant. And what do you think people felt like after looking at 7,000 patients, and finding not a single DNA polymorphism that was statistically significantly associated with schizophrenia? Not so good. 
+
+But, you know, they looked and they said, you know, but still, there's more correlation than we'd expect by chance, even though nothing's really significant yet. So they increased the sample size. And with an increased sample size, with 20,000 samples, they began to see 1, 2, 3, 4, 5, 6 genes that had popped up. 
+
+And then they increased the sample size to 34,000 samples. And then they increased the sample size to 50,000 samples. And these data are only a couple weeks old, but I figured, why not bring it to Introductory Biology? There are now 93 regions of the human genome that have been associated with schizophrenia. The increased risks are small often. 10% risk-- 10% increase in your risk. That is, if it started at 1%, it's now 1.1%. 
+
+But there are 93 such genes. You might say, what is this telling us? The answer is, we don't always know, but I'll tell you one thing-- four of those genes encode different subunits of exactly the same multi-protein complex that is a certain calcium channel in neurons. That's not an accident. 
+
+That tells you in a way you would have never guessed. And only genetics can tell you that particular L-type calcium channel-- four subunits there-- carry mutations, all of which are associated. That's what's going on right now. 
+
+Now, we're doing it with these chips right now. Increasingly, we're doing it with sequencing. Eventually, total sequence on lots and lots of people, and you'll be able to pick out all of those things. But that's what's happening. 
+
+This morning, I was just at a talk on breast cancer where there were a couple of genes that have been associated with breast cancer. And now, as of this morning-- at least, I found that as of this morning-- that it was up to about 47 genes that have been associated with hereditary risk of breast cancer. Those are some of the weak effects. 
+
+They explain, oh, I don't know, about a 1/6 of the inheritance. There are a bunch of strong mutations-- Mendelian-like forms-- they explain about a 1/6 so far. Together, they might explain about 1/3 so far. It's by no means done. But this is what's going on. 
+
+And this is what I mean by global views. You take a total global view without any prior prejudice of where you're looking. And that's what's happening right now. All right. So that's pretty good. That's DNA. 
+
+But what if I were take global views of RNA? Let's turn to Section Three. OK, before you go, try answering this question about polygenic diseases like Alzheimer's disease. 

@@ -1,0 +1,287 @@
+What have one Y chromosome and one X chromosome with the mutant copy?	2.4696533664377394
+What do all of an individual's offspring would have to inherit?	2.3665615098746904
+Whose mother must be wild type?	2.3397054778469393
+What must the male in generation one have a mutant copy of?	2.336830540926942
+Who is a homozygote with a wild-type allele?	2.319832017358478
+What would rule out the X-linked recessive hypothesis?	2.2836269983680677
+What can an individual rule out the autosomal dominant mode of?	2.275130145018041
+What must have inherited a wild-type copy from two mutant copies of the gene's mother and a mutant dominant allele from their father?	2.2551911948379866
+What must have a Y chromosome from two mutant copies of the gene's father and a wild-type copy from their mother?	2.2501259379939094
+Who inherited two mutant copies of the gene?	2.2227370568267983
+What is the mode of inheritance of X-linked recessive not ruled out in yet?	2.2016604043810566
+Who must be wild type?	2.199988510582033
+If a symbol is filled what means that individual is affected and displays the trait?	2.160290003181634
+What must have inherited a wild-type copy?	2.095785760464184
+What is with affected individuals shaded in black?	2.091292192217359
+How many final unaffected individuals in the third generation can either be wild-type homozygotes or carriers?	2.086275505560148
+What do which have with the mutant copy?	2.0563534935780834
+What are both of the individuals in the second generation?	2.0263439248765214
+What is autosomal recessive and X-linked recessive?	2.018876166382574
+What is the trait being inherited in?	1.9813913370481149
+What means that individual is male?	1.957636358552133
+What must have two wild-type copies?	1.9554649905094494
+What is inheritance?	1.9554056852659938
+What means the individual is female?	1.952835397178675
+Who is homozygous for the mutant allele?	1.9281135021677995
+What have two wild-type copies of the gene?	1.9215654405491969
+What is two mutant copies of the gene's mother?	1.9141954155012941
+What must an individual's mother be?	1.8911374825445395
+What must have inherited the mutant allele?	1.8868055421412808
+What are wild type?	1.8575795683440277
+What can an individual rule out?	1.8571260811827672
+What can which rule out?	1.8384113724092086
+What do and have two wild-type copies of?	1.8291543787610598
+What do well we know with?	1.8006468961490003
+What do an individual 're looking at?	1.7595104754110371
+What means her mother must be a carrier for the mutant copy of the gene and be a heterozygote?	1.7370465880562755
+What is an individual drawn as?	1.7255062860209158
+What is consistent with the hypothesis that this trait is being inherited in an autosomal recessive manner?	1.724099651075818
+What is an individual indicated as?	1.7185680165025585
+Who did this male inherit a Y chromosome from their father and an X chromosome from?	1.6799230699342353
+What come to a problem?	1.6405618930224073
+Who must have gotten a Y chromosome from their father?	1.6232907876212517
+What is the data consistent with that this trait is being inherited in an autosomal recessive manner?	1.6099382992239324
+Who can rule out the autosomal dominant mode of inheritance?	1.596437406604073
+Who is the son?	1.5937839284194584
+Who well know the genotype of this male must be one Y chromosome and one X chromosome with a wild-type copy of the gene?	1.5937276938500986
+What 'll we draw the wild-type copy of the allele as an X with with a superscript minus in this case?	1.5911650062701526
+What indicates whether this individual is displaying the trait in question?	1.5875713824996014
+What means that affected individuals must be homozygous for the mutant version of this gene?	1.5789781668047107
+What inherited a Y chromosome from their father and an X chromosome from their mother?	1.55456301529152
+Who did this male inherit a Y chromosome from from their mother?	1.5513832577762647
+What do which come to?	1.5471013545423828
+What is the data consistent with the hypothesis that this trait is being inherited in?	1.5397437393553641
+What means that this individual must be a heterozygote for the affected trait?	1.538712576183964
+Who must have inherited a mutant copy of this gene from their mother?	1.5378409337181234
+Who does that mean must be a carrier for the mutant copy of the gene and be a heterozygote?	1.533036711979046
+Who 're going to use pedigrees to determine how a trait is being inherited in a family?	1.527029192771638
+What 'll which draw the wild-type copy of the allele as an X with with a superscript minus in this case?	1.5238132749710775
+Who 've used pedigrees to determine if a trait is being inherited in a recessive or dominant fashion?	1.5107251883271475
+What do all of his offspring would have to inherit?	1.508813630368886
+What do well we know must be one Y chromosome and one X chromosome with a wild-type copy of the gene?	1.508100081762418
+What do we 're going to use to determine how a trait is being inherited in a family?	1.4964155282808567
+What do we 've used to determine if a trait is being inherited in a recessive or dominant fashion?	1.4841709071713027
+What would be what to look for to rule out this kind of mode of inheritance?	1.4477234069659937
+What is highly unlikely?	1.4422142574833225
+Who do well we know this affected individual cannot be for the mutant copy of the gene?	1.4399939420692704
+What does that mean that affected individuals must be homozygous for?	1.4382680042393372
+What must have a mutant copy of this gene?	1.4371603971619833
+What 'll we indicate a wild-type copy of the gene in question as as a minus?	1.4231587587350316
+What here is the giveaway that this cannot be inherited in an autosomal dominant manner?	1.414168147511361
+Who must this male have a Y chromosome from their father and a wild-type copy from?	1.4071949775066264
+Who well know this affected individual cannot be a homozygote for the mutant copy of the gene?	1.3965308541543853
+What is impossible?	1.3871655566638283
+Who 've also use them to determine if a trait is being inherited in an autosomal or sex-linked fashion?	1.385300141143547
+Is the trait being inherited in a recessive fashion?	1.3832853429059058
+What did this male inherit from their father and an X chromosome from their mother?	1.376519251137986
+What must this male have from their mother?	1.3759104774943562
+What must this son have inherited a mutant copy of from their mother?	1.363541733695091
+Can an individual rule out the autosomal dominant mode of inheritance?	1.359472727057943
+What do well we know the genotype of this male must be with a wild-type copy of the gene?	1.357891423366989
+Who can fill in the rest of these genotypes?	1.3574672749018806
+Who does which mean that this individual must be?	1.34785899136631
+Who must this son have gotten a Y chromosome from?	1.3459442160894137
+What must this son have gotten from their father?	1.3395250368614966
+Who know both of his parents must be carriers?	1.3338829666975935
+Who can these final three unaffected individuals in the third generation either be?	1.330916893966096
+Who 're left with just two modes of inheritance?	1.3218373360706224
+What can you rule out the autosomal dominant mode of?	1.3171190854041281
+Do which have one Y chromosome and one X chromosome with the mutant copy?	1.3066189969738007
+What must have a Y chromosome from their father and a wild-type copy from their mother?	1.3053665618644823
+What could this individual have inherited from their mother?	1.2979307366325745
+So if a symbol is unshaded who is unaffected, or does not display the trait?	1.2948591469823958
+Who have one Y chromosome and one X chromosome with the mutant copy?	1.2883177191132282
+What must the male in generation one have?	1.2775105190736666
+What must be a homozygote because she is not affected?	1.2774381824703558
+What are heterozygote?	1.275835493928093
+What must have inherited a wild-type copy from their mother and a mutant dominant allele from their father?	1.2722470181418055
+What is being inherited in a recessive fashion?	1.267719865222407
+Who must this son have inherited a mutant copy of this gene from?	1.2606571575992218
+Must an individual's mother be wild type?	1.2584192396454852
+Who 'll indicate a wild-type copy of the gene in question as a plus and a mutant copy of the gene in question as a minus?	1.231487227010689
+Who see an affected individual come from two unaffected parents?	1.2307405791948955
+Who can either be wild-type homozygotes or carriers?	1.229893719535864
+Who does it's impossible for to have the disease trait?	1.2285712431919458
+What do which have one Y chromosome and one X chromosome with?	1.2283546652060728
+Who must this female be because she is not affected?	1.2272534333373826
+Who must this female have inherited a wild-type copy from?	1.2171861335768024
+What 'll we indicate a wild-type copy of the gene in question as a plus and a mutant copy of the gene in question as?	1.207193637998857
+What can rule out this autosomal dominant hypothesis?	1.2053795794206703
+What is not ruled out in this pedigree yet?	1.2013174033110166
+Who can rule out this autosomal dominant hypothesis?	1.1737881281444933
+Who could this individual have inherited either the wild type or a mutant chromosome from?	1.1477594616560363
+Who 're going to learn how to analyze pedigrees?	1.1472369745397026
+Who is displaying the trait in question?	1.14153399709347
+Is inheritance autosomal recessive and X-linked recessive?	1.131252863028009
+What 'll draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	1.1291900627943683
+Who sees an affected individual come from two unaffected parents?	1.1207753732574348
+What is affected?	1.1157001466887393
+What do they have with the mutant copy?	1.1096706962452765
+Who has one wild-type X chromosome?	1.107684945559646
+Who 'll draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	1.1072167501725967
+What are homozygous recessive as is this person's partner?	1.1056326795745322
+What's impossible for this son to have the disease trait?	1.1017975860213123
+Do an individual see an affected individual come from two unaffected parents?	1.0994101699564571
+What did this daughter inherit two mutant copies of?	1.097319542324854
+What 'll we draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in?	1.0911551237529316
+Who do we 've also use to determine if a trait is being inherited in an autosomal or sex-linked fashion?	1.091014380236662
+Who inherit this mutant allele?	1.0849113809649866
+Who do we know both of his parents must be?	1.063157978409465
+What is this individual displaying the trait in?	1.0631150249579546
+Are both of the individuals in the second generation wild type?	1.0627792301851473
+What do we 've also use to determine if a trait is being inherited in an autosomal or sex-linked fashion?	1.059699787824064
+What 'll we draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with in this case?	1.0590665797079435
+How many wild-type copies of the gene do and have?	1.0558418527707434
+Who must this male have a Y chromosome from two mutant copies of the gene's father and a wild-type copy from?	1.0516350586290666
+What 'll we indicate a wild-type copy of as a plus and a mutant copy of the gene in question as a minus?	1.0346160516315894
+Is two mutant copies of the gene's mother a homozygote with a wild-type allele?	1.028459431992943
+What 'll we draw the wild-type copy of with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	1.02443413254701
+What 'll which draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in?	1.0236577854857183
+What can we fill in?	1.0114753870664108
+What 'll which draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with in this case?	0.9915773307167373
+What must their mother be?	0.9608550504828071
+What 'll which draw the wild-type copy of with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	0.9569626277741439
+Is the mutant allele impossible?	0.9485366815212615
+What do we know must be carriers?	0.9363872558583208
+Is an individual drawn as a circle?	0.9234211635951091
+Who are homozygous recessive as is this person's partner?	0.9231430726715362
+Who is drawn as a circle?	0.9159075947162458
+What can we rule out?	0.9046629621712372
+Is an individual indicated as a square?	0.903905075175315
+Who 'res looking at these pedigrees?	0.8971481489111628
+Who is indicated as a square?	0.8925383825366202
+Who is a male?	0.8904047148313461
+What would this data rule out?	0.8862488255132301
+What can you rule out?	0.8763955026389918
+Do and have two wild-type copies of the gene?	0.854401965980182
+Do well we know the genotype of this male must be one Y chromosome and one X chromosome with a wild-type copy of the gene?	0.8536384069552474
+What is the data consistent with the hypothesis in?	0.8444068047726845
+Is the data consistent with the hypothesis that this trait is being inherited in an autosomal recessive manner?	0.8427730110729055
+Who is this affected son?	0.828132626765796
+Does the shading of these symbols indicate whether this individual is displaying the trait in question?	0.7915481879493336
+What do we 're left with?	0.773942466213517
+What must this individual have inherited?	0.7692193123785649
+What do you 're looking at?	0.7639835094228551
+Do we 're going to use pedigrees to determine how a trait is being inherited in a family?	0.7574052667657618
+Do which come to a problem?	0.7510173229279993
+What must this male have inherited?	0.7475974763386604
+Do we 've used pedigrees to determine if a trait is being inherited in a recessive or dominant fashion?	0.7472211543971881
+Is which highly unlikely?	0.7471783539101733
+Who is a female?	0.73434029842089
+What is this individual?	0.7273297190333397
+Who do an individual see?	0.6917504317338403
+Who must have inherited a wild-type X chromosome from their father?	0.6782130657489955
+What 'll we draw with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	0.6733375871387048
+What here's what one of the pedigrees we 'll be looking at looks like?	0.6642659780244826
+Do well we know this affected individual cannot be a homozygote for the mutant copy of the gene?	0.6453404785597825
+What does this individual have?	0.6328750272334382
+What is their mother?	0.6210576781661883
+Who come to a problem?	0.6112833915178302
+What 'll which draw with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	0.6059094571217796
+What do we come to?	0.6031304833025304
+Must this individual have inherited a wild-type X chromosome from their father?	0.5572498878638861
+What do we 're going to learn?	0.5449160305170289
+Does that mean her mother must be a carrier for the mutant copy of the gene and be a heterozygote?	0.5199879161756322
+Must this son have gotten a Y chromosome from their father?	0.49844432107220893
+Does that mean that affected individuals must be homozygous for the mutant version of this gene?	0.4970176634022554
+Do all of his offspring would have to inherit this mutant allele?	0.49655378302941333
+'ll we indicate a wild-type copy of the gene in question as a plus and a mutant copy of the gene in question as a minus?	0.48907231799989015
+Did this male inherit a Y chromosome from their father and an X chromosome from their mother?	0.48377987181037607
+What do well we know the genotype of this male must be one Y chromosome and one X chromosome with?	0.4815614834635342
+What does which mean?	0.4794201997042913
+Do all of an individual's offspring would have to inherit this mutant allele?	0.46516509528155137
+What does so here's?	0.46090209964703216
+Are which heterozygote?	0.45658810254124527
+Does which mean that this individual must be a heterozygote for the affected trait?	0.4496397225054567
+Who could have inherited either the wild type or a mutant chromosome from their mother?	0.4296769051514544
+Must this female have inherited a wild-type copy from two mutant copies of the gene's mother and a mutant dominant allele from their father?	0.41738469362793884
+Who do well we know cannot be a homozygote for the mutant copy of the gene?	0.4078408654551402
+Can you rule out the autosomal dominant mode of inheritance?	0.40582027365591156
+Can we fill in the rest of these genotypes?	0.39510341885074585
+Who is affected?	0.3866754485058099
+What do and have?	0.3818995180858358
+Can we rule out this autosomal dominant hypothesis?	0.3666551632320161
+Must this son have inherited a mutant copy of this gene from their mother?	0.36635936805375824
+Do they have one Y chromosome and one X chromosome with the mutant copy?	0.36571503232430347
+What do well we know this affected individual cannot be a homozygote for?	0.36440097045763187
+Who can go in?	0.3636966792363161
+Would this data rule out the X-linked recessive hypothesis?	0.36136670906321866
+Must the male in generation one have a mutant copy of this gene?	0.3457164261657555
+What 'll we indicate as a plus and a mutant copy of the gene in question as a minus?	0.3314832315002425
+If a symbol is filled does that mean that individual is affected and displays the trait?	0.3292045972348414
+Do we 're left with just two modes of inheritance?	0.3273859434691704
+Must this male have inherited a wild-type copy?	0.32102818315849246
+How many wild-type copies must this female have?	0.3205583534408003
+What must this son have inherited from their mother?	0.31432087379170426
+Could this individual have inherited either the wild type or a mutant chromosome from their mother?	0.31388970124611637
+Would this be what to look for to rule out this kind of mode of inheritance?	0.30263889289732004
+Do we 're going to learn how to analyze pedigrees?	0.3025616392399533
+How many mutant copies of the gene did this daughter inherit?	0.30197688185356597
+Can which rule out this autosomal dominant hypothesis?	0.29989934193217405
+What would this be?	0.29273603535000836
+What do they have one Y chromosome and one X chromosome with?	0.2861171237835043
+Is this right here the giveaway that this cannot be inherited in an autosomal dominant manner?	0.28260331721803533
+Must this female be a homozygote because she is not affected?	0.2625509642571986
+Who is unaffected?	0.2596069276148967
+What does the shading of these symbols indicate in?	0.2589192918409262
+Can these final three unaffected individuals in the third generation either be wild-type homozygotes or carriers?	0.2476422571147361
+Is our pedigree with affected individuals shaded in black?	0.24642355281655126
+Does it's impossible for this son to have the disease trait?	0.2253346808814669
+Must their mother be wild type?	0.22213863714097126
+Must this male have a Y chromosome from their father and a wild-type copy from their mother?	0.20989495194266494
+Is the mode of inheritance of X-linked recessive not ruled out in this pedigree yet?	0.2019024538764742
+Do we 've also use them to determine if a trait is being inherited in an autosomal or sex-linked fashion?	0.19524649396018168
+Must this male have a Y chromosome from two mutant copies of the gene's father and a wild-type copy from their mother?	0.1870311418953956
+Must this female have inherited a wild-type copy from their mother and a mutant dominant allele from their father?	0.1730554216086464
+What do we know?	0.16480391017664275
+Are they homozygous recessive as is this person's partner?	0.16247954914661955
+Is their mother a homozygote with a wild-type allele?	0.1426430636131122
+'ll we draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	0.13651863059189795
+What must this female have inherited from their mother and a mutant dominant allele from their father?	0.13389646706375835
+Do an individual 're looking at these pedigrees?	0.1264880334096108
+Do you see an affected individual come from two unaffected parents?	0.12505289111028706
+Does this individual have one wild-type X chromosome?	0.12485086081677332
+What does it's impossible for this son to have?	0.12117966776705558
+Did this daughter inherit two mutant copies of the gene?	0.11715934990073906
+Must this male have inherited the mutant allele?	0.11461787668401202
+Is this individual displaying the trait in question?	0.10173306159361761
+Are which homozygous recessive as is this person's partner?	0.09589885456858083
+Is their mother homozygous for the mutant allele?	0.07880383521173195
+Who are heterozygote?	0.07708888658463153
+What must this female have inherited from two mutant copies of the gene's mother and a mutant dominant allele from their father?	0.0723572028383801
+Must this female have two wild-type copies?	0.07036281238819875
+'ll which draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with a superscript minus in this case?	0.06901366529302022
+Does that mean that individual is male?	0.06780238207834
+Who is not affected?	0.06091098165183251
+Does that mean the individual is female?	0.05962547783868599
+What is this right here?	0.04298051548025694
+Do you 're looking at these pedigrees?	0.02901455760535221
+Do we know both of his parents must be carriers?	0.010548232381163203
+Who 're looking at these pedigrees?	0.008007687968831778
+Is this individual a male?	-0.06435980697647925
+What is this individual displaying in question?	-0.06586068152319169
+Who is our pedigree with?	-0.07960319595927645
+Who does that mean is female?	-0.106931227955819
+What is the trait dominant?	-0.1190508613882576
+Is the trait dominant which they are not?	-0.12023288135291077
+What do we 're going to use pedigrees to determine in?	-0.12888364942349306
+Is the son this affected son?	-0.17596870444616486
+Is this individual affected?	-0.1795067990381365
+Do we come to a problem?	-0.19127709750966515
+Can we go in?	-0.20448277598473252
+What must this female have?	-0.21420895183662703
+Is this individual a female?	-0.22085808800457718
+What did this daughter inherit?	-0.22101698280312454
+What do well we know for?	-0.22791039874639774
+Does so here's what one of the pedigrees we 'll be looking at looks like?	-0.297126720438714
+Who do you see?	-0.31935982676859287
+Is this individual unaffected?	-0.32087791063544957
+If a symbol is filled what does that mean?	-0.34436315682835494
+What is dominant which they are not?	-0.35725046872143973
+Is this male affected?	-0.3722942496778694
+Are they heterozygote?	-0.47890248502621646
+Is she not affected?	-0.5261519859491215
+Is this individual not affected?	-0.5354219594101199
+Is she unaffected?	-0.5391312239545432
+What does that mean for?	-0.5990561849581766
+What does that mean?	-0.5995313085147826

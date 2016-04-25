@@ -1,0 +1,107 @@
+PROFESSOR: The first part of the human genome that people looked at-- because it was the easiest to look at-- was the DNA in the mitochondrion. Now, I haven't actually told you officially that the mitochondrion, this organelle that makes ATP during respiration, has DNA. It turns out that your cells have a nucleus that have the 3 billion base pairs of DNA. 
+
+But these little organelles-- the mitochondria-- that make ATP for you also have DNA. They have a teeny little circular DNA of 16,000 bases. A pitiful little thing. It's not linear chromosomes with telomeres like you have in your nuclear genome. What kind of genome does that look like? 
+
+STUDENT: Bacteria. 
+
+PROFESSOR: Looks like a bacterial genome. It is a bacterial genome. 
+
+It turns out that mitochondria are the remnants of a bacteria that fused with another cell and took up residence living in that cell about 1.5 billion years ago. And it brought its own genome. And your mitochondrial DNA has a slightly different genetic code, typically one codon different. It has all sorts of properties that tell us this is really a bacterial genome. It's the leftovers of a bacterial genome. It's discarded most of that DNA. 
+
+But it's very convenient because you have a lot of copies of it in a cell, and it's very small. And so people began studying it first. It's also very convenient because it's only passed on through the mother. The sperm doesn't bring any mitochondria. So there's no issues of recombination and no diploid-- you know, it just all goes straight down through mom. 
+
+So people begin sequencing the DNA from the mitochondria from many people. And we could ask how similar are your DNAs, your mitochondrial DNAs? And that would tell us, by the number of differences between your mitochondrial DNAs, how long ago you shared a common mother, and you guys, and you guys, and you guys. 
+
+STUDENT: Can you trace to the first mom? 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Can  you trace to the first mom? 
+
+PROFESSOR: Can you trace to the first mom? Ooh. Can I trace to the first mom? So in other words, take all the people on the world today and begin to say, ooh, these two people, they have very similar mitochondrial DNA. Now these people, they have only one difference between their mitochondria. But that's a little different there, and a little more difference there, and there, and maybe that, and that, and that, and onward, and trace back, and trace back. And you want to get back to the first mother. Do you think there is a first mother that is one woman somewhere such that she is a mother for everybody? 
+
+There is. You're absolutely right. So it turns out that if we look at people from different parts of the world, we can begin to reconstruct this. And people whose ancestors come from Asia tend, on average, to have mitochondrial DNAs that are a little closer and a little closer here and whatever. And if you actually begin to look at the world, we begin to see the greatest amount of mitrochondrial diversity is in Africa. 
+
+There's less mitochondrial diversity in Europe, and in Asia, and in the Americas over here-- we'll draw the Americas. And as you begin to reconstruct it, it becomes pretty clear that what happened is the origin of man is here. Man leaves Africa, populates Europe-- actually, Asia, over the Bering Strait, and down into South America. And you can begin to trace the genetic bread crumbs in this fashion and reconstruct. By looking at these mitochondrial differences, you can reconstruct this. 
+
+And in fact, if I work backward-- if I just run the tree backward like I did with the transposons. Remember, I figured out who the transposons' ancestors were? If I run the tree backwards, it turns out we all go back to a mitochondrial sequence present between 150,000 and 200,000 years ago. That's fantastic. 
+
+Now, that one woman lived in a whole population of people. There were many other women at the time. They, however, when you trace their descendants, didn't leave any mitochondria. Their lines die out. So we call this person who? What's the obvious choice for the mother that we-- it's Eve. 
+
+But when people think of mitochondrial Eve, what they mean is that there was one woman on the planet. It's not true. There was a population, and each was having children. But stochastically, probabilistically over time, different lineages die out. 
+
+And it's not hard to imagine how that happens, right? As we go backward, if we have a whole bunch of you, let's see how many mitochondria do we have today? Lots, 7 billion. But as we go backward in time, we have fewer and fewer. And when there are several kids from the same mother, that's only one mitochondrion. And it keeps tracing back. We're never running backward in time, gain mitochondria, we only lose mitochondria if we're running the clock backward in time. Until we only had two. And eventually, they traced back to some common ancestor. And there's an Eve, even though Eve might have lived in a population and had hundreds of other women who she was living with. She was the one who hit the jackpot. Now, that's true for the mitochrondrion. 
+
+What about the Y chromosome? Y chromosome also is transmitted, but just along males. And you could trace back the Y chromosome. And it turns out there was, at some point, the single male who it all converges back to. He lived along with many people. And he gets referred to as "Y chromosome Adam." Y chromosome Adam probably never met mitochondrial Eve. Because they probably lived at different times and in different places. Right? That's what you have to get out of your head, is Adam and Eve makes you think that we're mapping the Garden of Eden. We're not. We're mapping what's called coalescence when you run the clock backward. 
+
+And for hemoglobin, there was a Hemoglobin Harry, right? And all that. For any part of the human genome, you can trace it backward in time, and it ends up to somebody. It converges somewhere. But it's different parts of the genome converge in different people. So I've both told you this amazing thing that you just intuited, that it actually does go back. And I've also told you it doesn't mean what you think it means, OK? Important to know those things. 
+
+Now, we can reconstruct this stuff. And so this is called the Out of Africa Theory. And there's tremendous evidence for this. So the Out of Africa Hypothesis is supported by a tremendous amount of evidence now. Not just from the mitochondria, but from nuclear DNA and many other things, that Africa has a lot more diversity and some of it made it out of Africa. And the exit from Africa is about 70,000 years ago, 100,000 years ago, somewhere in that range, OK? 
+
+All right. Now, point B. If we all go back to about 150,000 to 200,000 years ago, you all know-- or maybe you should know-- that there were other human species living outside of Africa before 200,000 years ago. Europe and Asia had other folks there. In particular, who was hanging out in Europe and Asia? 
+
+STUDENT: Neanderthals. 
+
+PROFESSOR: Neanderthals were there. So Neanderthals were there. In fact, we have our Out of Africa here, but as you're coming out of Africa through the Middle East, you have Neanderthal settlements all through here. On our way out, those of us whose descendants came through the Middle East there, out of Africa, they clearly saw Neanderthals. Interesting questions. Did they do more than see Neanderthals? Right? That's interesting. How do we know? Neanderthals are dead. How can we compare their genomes? 
+
+STUDENT: Skeletons? 
+
+PROFESSOR: Skeletons. Suppose we had Neanderthal bones? Neanderthal bone. It turns out that inside the core of a Neanderthal bone that's been in favorable preservation conditions, you can drill in under sterile conditions and get out bone dust from which you can extract DNA. And my good friend Svante Pa Paabo who runs an institute in Leipzig has done this and has been sequencing Neanderthals. We even helped on the sequencing of the Neanderthal, several people here in Boston have done. You can sequence the Neanderthal genome. 
+
+It turns out if you sequence the Neanderthal mitochondrion, what you can find is that all the humans-- all modern humans-- go back here about 150,000 to 200,000 years ago. But Neanderthal, if you trace back its mitochondrion-- Neanderthals only died out, by the way, about 40,000 years ago. It goes back more like 300,000 to 400,000 years ago. That's when our common ancestor was with Neanderthal. 
+
+In terms of mitochondria, the Neanderthal mitochondria are all very different from ours, different enough that there's no human who's closer to Neanderthal than they are to another human. All humans are closer to each other than they are to Neanderthal. That would be consistent with no interbreeding. It's consistent with no interbreeding. 
+
+But, of course, it's only one place in the genome that no Neanderthal mitochondria entered the human species. If some Neanderthal had mated, say, with modern humans 60,000 years ago and contributed a Neanderthal mother and a Homo sapien's father, and a Neanderthal mitochondria had gotten into the human population and stayed, we could see it. Because it would have a lot of changes that resemble Neanderthal. That did not happen. But it's only in the mitochondrion. What about the rest of the genome? 
+
+So the story was, for a number of years, there was no interbreeding because you didn't see it with the mitochondrion. But Svante knew-- it was Svante who found this with the mitochondria. But he knew that that was just one locus, one particular place in the genome. 
+
+And then, as we were able to get more and more DNA from Neanderthal, you could scan the whole genome, and you could ask was there any interbreeding? How could you tell? How could you possibly tell? Well, here's a very interesting way to tell. 
+
+Suppose I take two people, modern human number one and modern human number two. And I take Neanderthal. Suppose I take one place in your genome-- we'll take your genome and your genome where you differ. At that one letter, you have an A, and you have a G. Let's see, if the tree looks like this, Neanderthals come off before you guys. And there's never any interbreeding. What will Neanderthal have? Will Neanderthal look like you or you? 50-50. It'll just be a coin flip. Because that polymorphism probably arose after we split from Neanderthal. Maybe this was an A that became a G, or maybe it was a G that became an A. And who knows? 
+
+So you'd expect if I looked a lot of positions where those two guys differ and then I match them up to Neanderthal, it'll be about equal. It'll be like flipping a coin who matches. You match 50% of the time, you match 50% of the time. Of course, maybe not exactly 50%. Maybe you match 51%, and you're 49 or 50 and a half. But we know how to do coin flipping statistics. 
+
+It turns out that the following is observed. If you take two people from Europe, you don't see any difference. If you take two people from Asia, you don't see any difference. If you compare people from Asia and Europe, you don't see any difference. But if you compare people from Africa to people either in Europe or Asia, on average, the European or Asian person will match Neanderthal a little more, about 3% more. And it's highly statistically significant. Because you're looking at tens of thousands of coin flips. There's no question that this is hugely statistically significant. 
+
+What does it mean that Europeans and Asians have a little bit of Neanderthal? 
+
+STUDENT: As they were going out of Africa-- 
+
+PROFESSOR: As they were going out of Africa, there was a little fraternization. Right? There was a bit of interbreeding that went on there. And you can tell in non-African genomes just from that statistic that when you compare populations that left Africa to populations that didn't leave Africa, they are closer by about 3% to Neanderthals. And it's a screamingly significant statistical signal. 
+
+Now that we have more and more data from Neanderthals, you can actually not just do this rough count of coin flips. You can actually detect whole little regions. There's a particular region of a particular gene that has four amino acid changes in it. Some people have one spelling and some people have another allele that has four separate amino acid changes. That's huge. We now know that that huge difference, one of those alleles comes from Neanderthal. 
+
+So we can actually recognize the whole alleles and Neanderthal allele and some of us are walking around for that gene with a Neanderthal allele. And in the next year or two, Svante and his colleagues will pretty much complete this and will be able to tell exactly which alleles in the human population were contributed by the Out of Africa mixing with Neanderthal. 
+
+PROFESSOR: Yes? 
+
+STUDENT: So since there's no mitochondrial evidence, does that mean that all the interbreeding happened with a human mother and a Neanderthal father? 
+
+PROFESSOR: It's a nice idea, but it doesn't have to. It just means that if some of those events happened, not enough happens or they died out or something like that because it's a single locus, so that they didn't leave a descendant just like many women don't leave a descendant many generations later. But it's a nice thought, maybe. But I think that would be an over interpretation of the data. 
+
+All right. Now I've just given you a huge amount of stuff that's never taught in an introductory biology course. OK? But you should know it. So this is not intro bio material. It's not even typical upper level biology material. But you can understand it. So let's just think what we've learned today. What we've learned is the human genome is a really weird place. There are gene-dense regions, gene-poor regions. 
+
+It's a real strange landscape, big genes, little genes. The human genome's littered with transposons that are hopping around the genome all the time. They've been hopping for hundreds of millions of years. By when they hop there and how they build up mutations, you can tell that these guys were all siblings or cousins. They hopped around the same time from a common master element and you can see that they're related to each other. 
+
+And you can see how long ago they hopped based on how many differences there are. You would have to write computer programs to see that these guys were all cousins, but you could tell it from their sequence that they were all cousins, and you could measure whether they were first cousins or 82nd cousins. 
+
+You can then take all this information and use it to construct this history of what was stirring up in the genome. But you can go further. You can look at genes and recognize the same gene in mouse, and human, and dog, and dolphin, and it shows, usually, very high probability, the same structure. 
+
+There's some changes in its sequence. There are some insertions, some deletions, but it's pretty clear they're the same gene structure. You can follow the mutations that have occurred. You can see that within protein-coding genes, certain types of mutations are disfavored and occur much less often. And you could write computer code to use that to find new protein coding genes. And we can clean up the genome and find some things we thought were protein coding genes, we were wrong, and they're not protein coding genes. And we get our gene count. 
+
+But at the same time, we can figure out that there's a lot of other stuff that's not protein coding, at least another 5% or 6% that evolution cares a lot about and has preserved and its regulatory sequences and it's non-coding RNAs, and its other things we don't even know about today and you'll learn about two or three years from now when it gets discovered. There's still a lot there we don't know about what's going on, but evolution has told us it's there. And evolution's pretty good at this stuff. 
+
+And as I told you, transposons may be pitching in and being a good force for evolution here. 
+
+Finally, we've said even within our own species we can look at DNA variation and reconstruct-- just like we did with the transposons- reconstruct our genomes and see where we have common ancestors. See, you guys might have a common ancestor in your mitochrondrion, but you guys might be more closely related in your hemoglobin beta gene. And you might be more closely related in your actin gene. It's not like there's a single tree for people. It's there's a tree for each gene. 
+
+And so you and you could be more closely related to this gene, and you guys at this gene, and you guys at that gene. So you all have many lineages running through your genome there, but on average, we can reconstruct it and find that it makes some geographic sense that people in the Americas are, on average, more closely related. But at any given gene, they might not be more closely related. 
+
+And we can reconstruct and see we come out of Africa. We can date when the human race goes back to a kind of founding population 150,000, 200,000 years ago. We can see roughly when the human race emerges-- the modern humans emerge from Africa to populate the whole world. And we can see even by comparing and doing this coin flip with Neanderthals that we've interbred a little bit with Neanderthal. 
+
+Now I realize this is a huge amount of material to digest. But it's too interesting not to tell you. And it should give you a sense of what happens when you get 3 billion letters of information about a species and then 3 billion letters from many other species and then all the variation within the species. If you analyze those data, if you write computer programs, if you do math, if you do statistics on all those data, there's no limit to what you can learn about it. 
+
+So that's it for today. 
+
+To be sure you understand how DNA polymorphisms in the human population work, try answering this question. 

@@ -1,0 +1,335 @@
+
+We've got this pathway here.
+We got all these different ways to cause cancer.
+
+How can we treat it?
+What's the most common enzyme activity
+involved in this pathway?
+It's kinase.
+Pretty much anything I've said has been a kinase.
+It's kinases upon kinases upon kinases.
+If you could make a drug to inhibit enzymatic activity,
+what enzymatic activity would you like to inhibit?
+Kinases.
+You'd like a kinase inhibitor.
+
+There happen to be hundreds of kinases in the cell.
+Hundreds of kinases.
+And of course they all bind ATP in a certain way.
+And it was pretty clear to people
+that creating a kinase inhibitor was probably impossible.
+Because all these enzymes had sort of similar binding
+pockets, and kinases were undruggable.
+I heard talks about how kinases we're undruggable.
+And good reasons why kinases where undruggable.
+Because they had similar binding pockets and all that.
+Turned out to be totally false.
+It turned out despite the good arguments
+why it might be impossible to make kinase inhibitors,
+folks made kinase inhibitors.
+In fact, the first kinase inhibitors
+were made against this BCR-ABL fusion protein.
+That's why I've mentioned it.
+Because this BCR-ABL fusion is present in a certain kind
+of cancer of the white blood cells.
+chronic myelogenous leukemia, or CML.
+
+And the gene, that fusion gene, the fusion
+between the BCR and the ABL, was cloned and identified
+by molecular biology.
+The protein was identified and it
+was possible to transfer that protein into,
+using a viral vector, into mice.
+And it would cause a leukemia-like disease
+in the mice.
+That told us that that fusion protein was actually
+enough to cause that cancer on its own.
+It was pretty impressive.
+And then people could use the tools of molecular biology
+that we've talked about, and mutate the gene.
+And ask what part of the gene was
+necessary to cause the cancer?
+And they found that the kinase activity was necessary.
+Without the kinase activity they couldn't do it.
+That led them to try to make an inhibitor for the kinase.
+So they made an inhibitor for the kinase.
+And they showed that it could prevent the fusion gene
+from transforming cells into cancer cells in the mouse
+or in a dish, in a Petri plate.
+That led them to go into human patients.
+So using all our tools of molecular biology,
+this BCR-ABL fusion was cloned, identified
+sequence, transferred with a virus
+into mice, transferred into cells.
+Cause the leukemia.
+Mutated.
+Figure out what parts are necessary.
+They develop a drug to inhibit it.
+They show it in cells.
+They show it in animal models.
+And they take that kinase inhibitor,
+and then they go into human patients, in a clinical trial.
+
+And what they found was that of the first 31 patients
+that they tested it in, the number that responded was 31.
+
+It was extraordinary.
+
+Essentially all CML, 95% or more of CML, this leukemia,
+has this translocation.
+Is an essential thing and essentially all the patients
+responded quite dramatically.
+Wow.
+Now here's the translocation.
+In fact it produces a scrawny little chromosome number
+22, because it translocates a little bit of chromosome 9
+onto chromosome 22 there.
+And it was discovered by folks in Philadelphia.
+So it's always been referred to as the Philadelphia chromosome,
+go figure.
+And it creates this fusion gene here, BCR to ABL,
+and it so happens that this molecule is called Gleevec.
+Gleevec is this inhibitor, and it
+sits in the active site of the kinase here.
+Now, this is almost, but not completely, a cure.
+It's almost but not completely a cure
+because, occasionally, mutations can rise that make the ABL
+kinase resistant to Gleevec.
+
+Here's one of them.
+if this threonine at position 315
+mutates to an isoleucine, little bump here,
+the drug doesn't fit anymore.
+At a rate of about 5% or 10% a year,
+patients will develop a mutation that makes
+them resistant to Gleevec.
+But it's only 5% or 10% of patients per year develop it.
+So 5% to 10% probability per year,
+we get resistance to Gleevec.
+And it's almost always associated
+with mutations in the active site of the ABL kinase.
+
+The only exceptions that I know of
+are amplification of the ABL kinase.
+To have so much ABL kinase that the drug can't block it.
+
+So what people have then been doing is,
+they're making other drugs that will bind even though there's
+this mutation.
+Other inhibitors.
+And so you get other inhibitors that can come in here and bind.
+These mutations here, can make the kinase
+resistant to Gleevec, but it'll still
+be sensitive to these guys.
+Actually only this mutation and a little bit of these mutations
+will make it resistant to both of these guys.
+So people are developing second generation Gleevec.
+And then a third generation Gleevec,
+because this activity is absolutely essential for CML.
+And if you can block that activity, you defeat CML.
+And people were really excited because it
+was pretty clear that's all you have to do.
+Develop the right kinase inhibitor, do the right thing,
+and you're in business.
+Around the year 2000, 2001, there was enormous excitement.
+That was it.
+Just get the right kinase inhibitor.
+And maybe you'll have to get a next generation
+and next generation, but you've got a whole solution.
+It isn't quite that simple in most other cancers.
+In most other cancers, it's a little trickier.
+So for example, for example in lung cancer,
+there is an EGFR inhibitor.
+
+One of those growth factor receptors.
+An EGFR inhibitor, when it was tested on lung cancer patients,
+showed a very curious thing.
+
+It worked very well on about 10% or 15% of the patients,
+but not all the rest.
+And it turned out, those were the 10% or 15%
+of the patients that had activating mutations in EGFR.
+So lung cancer wasn't as homogeneous as CML.
+10% or 15% of the patients, this mechanism.
+All right, we say, OK, fine.
+That'll work for those 10% or 15% of the patients,
+and you see pretty impressive responses.
+The problem is that they relapsed also.
+So this works.
+
+It works in 10% to 15% of patients, but they relapse.
+Typically, most patients relapse in 6 to 18 months.
+
+And some of the relapses don't have
+to do with mutations in the active site.
+They have to do with mutations elsewhere.
+And recently there's an amazing drug in melanoma.
+
+Remember I said melanoma, 50% of melanomas
+have mutations in that RAF protein?
+Well people made an inhibitor for the kinase
+of the RAF protein, a kinase inhibitor for the RAF protein.
+And, amazingly, it works.
+BRAF inhibitors.
+
+And here it's nothing short of miraculous to see what happens.
+I've just shown you over here in this picture a patch of skin.
+And I actually have a picture of the entire patient's trunk,
+but it's a little gross so I'm not going to show it to you.
+I've got a little patch and you can
+see all of these different melanoma lesions,
+all these little distributed tumors,
+all over the patient's trunk.
+
+In response to the drug, they all go away.
+But the problem is 6 to 9 months later,
+they all come back because other mutations happen in the cancer.
+Because some of those cancer cells, a tiny minority
+of those cancer cells, have mutations
+that make them resistant to the drug.
+And they start growing back.
+
+So is that a success or a failure?
+(mixed student answers)
+Well first point is, you might have bought somebody a year.
+That's not to be sneezed at.
+Another thing though is that you've
+managed to kill the vast majority of the cancer cells.
+And only a small, tiny minority have some other mutation
+that has caused them to be resistant.
+Could you find the mutation?
+Well actually some people here in Boston,
+working at the Broad Institute, and some other folks as well,
+found the mutations.
+And it turns out they activate something else.
+And it so happens that there are drugs against that something
+else.
+It's another kinase.
+Maybe you could make a combination.
+A cocktail of two.
+And you know what happens if you do that?
+We don't know yet, because it's in clinical trials.
+This is kind of on the edge.
+Or in cell culture it works, but that's not
+the same thing as in a patient.
+And now maybe the chance that you'll
+see mutations that work against both will be lower.
+And if it comes back, there might be a three-drug cocktail.
+Because it turns out not that many cancers
+are as simple as CML.
+But that's no reason to be discouraged.
+It's a reason to say it might take two or three or four
+places to have to block the cancer
+in the possible mutations.
+But the more we know about the circuitry,
+the more we can figure out where's
+the new mutation crop up.
+And remember there's only a finite number of cancer cells.
+10 to the 12th we said, there are only
+going to be 10 to the 12th cells in that tumor.
+If the probability that a cell had a mutation was one in 10
+to the fifth.
+Well, OK, the chance that it might have the two mutations
+might be one in 10 to the 10th, but the chance it
+might have three mutations, one in 10 to the 15th.
+And there's only 10 to the 12 cells.
+We win.
+That's the game we're playing.
+There's a numbers game in combinatorial therapy.
+And you're now roughly up to the edge
+of what we know about cancer.
+Now what we'd really like to know is in all these cancers--
+now there are other strategies I haven't told you about.
+Because I've only picked on these kinases here.
+There are other things.
+There are cases, remember I said the HER2 receptor was
+amplified?
+It was over expressed.
+There's actually antibodies against the HER2 receptor.
+That can be given to women with breast cancers that
+have amplified HER2.
+And that causes an immune attack, or internalization,
+it's not entirely clear, of cells with the over-expression
+of this receptor.
+And that can help.
+That's called a drug called Herceptin.
+And there's a variety of other strategies.
+People are coming up with strategies.
+And the more you know about the circuitry,
+the more you can come up with strategies.
+I don't want to pretend this is easy.
+This is the sort of thing that will be the work of decades.
+So whatever the New York Times tells you,
+how come we haven't cured cancer yet despite the fact
+that we have all this human genome and molecular biology?
+You've got to realize, this is seriously
+the work of several decades.
+But you've got a whole bunch of people
+trying to work out the circuitry,
+figure out where it's broken, and work out
+places to intervene.
+
+What's been cool is in the past four or five years,
+as we talked about with DNA sequencing,
+it's gotten so cheap that you could sequence every patient's
+own cancer.
+And compare it to the normal DNA,
+and find that patient's mutations.
+And you can imagine a world where
+every patient will have their genome sequence,
+and their tumor sequence.
+And a physician could use that information,
+as we collect more of it, to figure out
+which drugs to be using in which combinations.
+And that's sort of a world we're all imagining right now.
+Is a world where that could happen.
+
+It's going to take a lot of work to get there.
+And in my opinion it's going to take a lot of sharing.
+Because we're going to need information
+pooled from patients around the world.
+Because we're going to have to learn which patients respond
+well to which drugs as a function of which mutations
+they have.
+And then if they have a relapse and the cancer
+becomes resistant to the drug, which mutations have happened.
+We're going to need to pool all that.
+Which means, I think, we're going
+to need to have some kind of common agreed
+upon data-sharing mechanisms where patients can voluntarily,
+it's up to them, but voluntarily say, count me in.
+I'm willing to share my data with other people sharing
+their data, so we can build a big enough data set that we
+can learn what works best.
+And I wouldn't be surprised if over the next couple years
+we see a kind of alliance across many institutions in the world
+and patients in many countries, to try
+to create that knowledge base.
+It's kind of like a human cancer Genome Project,
+but where it's the humans who are involved, who are doing it.
+Or the patients who are doing it.
+And I think it's going to be a really important thing.
+Because I've told you a story right
+now about a very simplified version of cancer.
+Cancer is very complicated.
+I've left out lots of steps, lots of controls, and all that.
+But I've probably told you just enough
+to imagine what's going on in that overall complex picture.
+And that we could, if we pile up more and more information,
+get to the point where we can play this game strategically.
+And if we develop enough drugs, we'll have on the shelf
+enough drugs to use enough combinations.
+And I hope that by the time, God forbid, some of you
+will require this.
+And statistically a non-trivial fraction of you
+will get cancer in your lifetime.
+I'm hoping that we'll have made enough progress by that point
+to offer better and better odds.
+Anyway that's the concise version
+of how cells send growth signals,
+how cancers can happen, and how we
+can begin to make drugs that, in a targeted and less toxic way,
+fight back against cancer.
+So that's it for cancer.
+OK, before we go on, stop a moment
+and answer this question about anti-cancer therapies.

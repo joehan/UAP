@@ -1,0 +1,99 @@
+PROFESSOR: If I give you a protein-coding gene-- and here's one of its exons and here's another exon-- of course, you know that we have a triplet code, ATC, CCC, et cetera. What kind of mutations do you think will be tolerated better than others if I'm mutating a protein-coding region? 
+
+STUDENT: You could change the one base. 
+
+PROFESSOR: Change a base. Which base changes will be more tolerated than other base changes? Silent substitutions. The most tolerated will be silent substitutions. 
+
+Next would be substitutions that change like an isoleucine to a leucine. They don't really change the amino acid that much. The less tolerated will be changes from say, a positive charge to a negative charge or something like that. So in other words, there's a hierarchy of which mutations might be allowed. What about deletions? 
+
+STUDENT: I don't like deletions. 
+
+PROFESSOR: You don't like deletions? Why not? 
+
+STUDENT: Because they're lame. 
+
+PROFESSOR: Well, one base deletions are bad. 
+
+STUDENT: Yeah. But three is OK. 
+
+PROFESSOR: Three might be OK. So wait, you're telling me that if I were to line up the sequence of two protein-coding genes, I could write a computer program that would look at the single base changes and say, are these single base changes that would be tolerated in a coding region? And I could look at the deletions and say, are deletions that are multiples of three allowed, but not one more or two more than a multiple of three? So I can actually write a piece of code that would analyze two sequences and say, do they show the mutational constraints that you would expect from protein-coding sequences? 
+
+Now if something didn't encode a protein, do you think it would care whether it had deletions of size one, two, or three? No. But if something did encode a protein, you would notice that you didn't see a lot of deletions that weren't multiples of three. This is a testable prediction. So we tested it. 
+
+Look over here. Here is a testable prediction. This is protein-coding sequence. You'll notice green means completely conserved amino acids. These changes didn't affect the amino acid. And this happens to be human, mouse, rat, and dog. Those are the four species that are here. And sometimes there are changes which affect the amino acid. 
+
+Over here, however, you see frame shifts and gaps. Do you see any here? Yes there's a single gap. And it's three. Pretty cool. So that rule of don't see too many frame shifts or gaps that aren't multiples of three and see that the nucleotides tend to show the conservation pattern you'd expect given the genetic code is pretty good. 
+
+You could imagine writing a piece of computer code that ran across the whole human genome lining up multiple species, and without knowing where the proteins were, predict if something encoded a protein. So you could actually predict where the protein-coding sequences were by their evolutionary properties. So we went and did that. And we found a shockingly interesting thing. 
+
+For the known genes it worked. But how many protein-coding genes are there in the genome? 
+
+STUDENT: A lot. Too many. 
+
+PROFESSOR: Well we know it's about 21,000. But in fact, the official number in the textbooks was 100,000. If you would have taken introductory biology about the year 1998, your textbook would have said-- or even the year 2000 or so-- your textbook would have said there were 100,000 genes in the genome. 
+
+When the various companies were racing to sequence the human genome, they were just salivating over being able to patent another 80,000 genes. It was really exciting. When we actually did this analysis of the genome sequence, we were able to get the number of protein-coding genes down from-- when we published the genome, we thought it might be 30,000 or 40,000 because we really didn't have those draft sequence. As we did this analysis I've just told you about, it got down to about 21,000. 
+
+This is how we know it's about 21,000. Now as we sequence more RNAs, we don't find anymore. So we really know it's about 21,000. And the evolutionary analysis-- we look for the evolutionary constraints expected of coding sequences like this, not deletions that aren't a multiple of three. And it's that analysis that was published not so long ago that tells us there's about 21,000 protein coding genes. 
+
+And from that we know that it's actually only about 1.5% percent of the genome is protein-coding. Now hang on to your seats. Only 1.5% of the human genome is protein-coding. We know that from looking at this we can pick out the protein-coding by the distinctive pattern of mutations. 
+
+But what about the rest of the genome? Is it functionally unimportant? No. We know there's stuff in there. So let's look at the non-coding sequences, conservation of non-coding sequences, the ones that don't encode proteins. 
+
+If I lined up a bunch of them, I can see how conserved they are. Let's look at a picture. I've lined up human, mouse, rat, dog. I put a star at any position that's absolutely identical across all four species. 
+
+What do you observe? That bit there is 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 letters exactly identical across all the species. Yet the chance of being exactly identical across all the species on average is lower than that. It's maybe a quarter of the bases. The chance of seeing 10 in a row? Very low statistically. It means something. That's statistically very significant to see that much conservation. 
+
+So you could imagine creating a statistic. You scan a window across the genome and ask, are there regions-- maybe you're not going to require perfect identity, but pretty good conservation. You could imagine making some conservation score of how much identity there is across all the species in a given window. And you can keep score. 
+
+Now when you do that, what you'll find is by chance, if we keep score, if a sequence is utterly unimportant in the human genome, it will have some average score. I'll call that zero. But it might have some rough variation around it just by chance, right? They'll be some symmetric bell-shaped curve around it. 
+
+How can I estimate what an unimportant sequence, how conserved it would be? Do I know any dead sequences? Any kind of dead non-functional sequences lying around? 
+
+STUDENT: Transposons. 
+
+PROFESSOR: Transposons. Actually I could line up the transposons-- which occur in the same places in mouse and human, rat and dog-- and count the changes. And that will give me a background rate. Because the transposons are pretty dead, most of them. So I do that and I get a background distribution. And it's a symmetric curve. 
+
+Now I do the rest of the genome that's not those they transposons. And what do I see? It turns out that when I do that, I see this-- transposons, a symmetric curve. The rest of the genome has a fat right tail, more conservation than you would expect by chance. Huh. By looking at the fact that the distribution of conservation scores is shifted to the right, and subtracting the background from the dead transposons, I can see how much of the genome is conserved. It's about 5% or 6%. 
+
+But 5% or 6% of the genome it's this fat tail here. It corresponds with about 5% or 6% of the genome is conserved. Pretty amazing. Now does everybody see what I mean? I'm just keeping score. There's more stuff at the high end than at the low end. And that's enough to give me a signal. 
+
+Most of that is not protein-coding. What does that tell us? Most of the functional sequence in the human genome does not encode a protein. Most of what evolution has bothered to conserve over 100 million years is not protein-coding. 
+
+What is it? This hadn't been known until we sequenced the genome. But the genome told us this. So what is it? It could be regulatory sequences, right? Controls. Well, we could go looking at where the highest end is, the most conserved stuff. Where is this stuff, right over here, the most conserved non-coding things? 
+
+I'll tell you. They're in very distinctive locations. There are certain genes like this gene here. There's a gene called Satb1. It's an important regulator in early embryonic development. 
+
+What you'll notice is the protein-coding portion is that. There's almost nothing else, no other genes, no other protein-coding genes in its neighborhood. It's virtually in a desert by itself. But look at all this non-coding stuff that evolution has bothered to conserve. 
+
+What do you think this means, that a gene involved in early development has all of this conserved stuff around it? What do you think that means? It means a lot of regulation goes into those early embryonic genes that lay down the pattern of the body. It means they're incredibly complicated genes to regulate, so much regulatory information for so little protein. And we can now see that. Pretty stunning. 
+
+In fact, a large portion of the most conserved things in the genome that don't encode protein sit around about 200 genes that are involved in early embryonic development. So in fact, they are clearly regulatory sequences sitting around there. 
+
+Now that's not all there is. Turns out that some of these sequences that evolution has bothered to conserve aren't regulatory sequences. They encode RNA. Turns out that there are other regions of the genome that make RNA that get spliced up into a smaller RNA and never get translated into a protein. These are non-coding RNAs. 
+
+We used to know a few of them. I told you at some point that the ribosome had an RNA in it. And there are a few other things. It turns out telomerase, the enzyme, has an RNA in it. And people knew almost two dozen of these. But it turns out they were underestimating how many there were. Because in the last four years or so, it's become clear that there are genes encoding RNAs that are never translated into a protein, and that their number is at least now 7,000. 
+
+There are 7,000 genes that don't encode proteins. And that's an underestimate. We don't know them all yet. And we've only known them in the last four years or so. There's at least 7,000 genes that encode RNA that never gets translated into a protein. 
+
+So all this DNA goes to RNA goes to protein-- sometimes DNA goes to RNA and RNA functions as RNA. It's stunning that there were 21,000 protein-coding genes and now they're at least 7,000 RNA genes that don't go to proteins. And that will go up. 
+
+What do these things do? Easy. We don't know. And you can write that down, OK? You can even put it on the exam if you want to. We don't know what they do. We have some examples like telomerase. That RNA plays certain functions. It acts as a tether to hold together three proteins. And it actually provides the template for the telomere sequence. 
+
+Other RNAs act as tethers. Some of them might-- I'm going to guess-- cause allosteric changes in proteins. But the truth is this an incredible research area right now because we didn't know about these things. But they're there. So we didn't know about all of these non-coding sequences that regulate genes. We didn't know about all of these other kind of genes. They aren't in your textbooks, but they are in your body, OK? There you go. 
+
+So non-coding RNAs, we call these long intergenic non-coding RNAs, or lincRNAs. I'm going to tell you one more fact just because it's too much fun not to tell you. And I'm not going to tell you the details, OK? But you want to know. I could point you to the details. I'm just going to tell you the fact. 
+
+Suppose you wanted to evolve some new regulatory control. And you want it to regulate 10 genes coordinately, to have them have the same regulatory control. Do I have to separately wait for evolution to get around to evolving the exact same regulatory control in 10 separate places? That seems like a slow thing. And people just sort of feel queasy about whether evolution could have done what evolution did, sort of say, well how could that possibly happen? 
+
+Suppose I evolved a regulatory control in one place and then I wanted to have copies of it sent elsewhere. I could email it to other parts of the genome. Sorry? 
+
+STUDENT: Transposons. 
+
+PROFESSOR: Transposons. What if a transposon randomly picked up a sequence that was a regulator and hopped it over here or hopped it over there? Usually it's not going to do any good there and it'll just degenerate. But sometimes it lands in a really good place, and evolution can select it. And it becomes substrates for evolution. 
+
+So one interesting thought would be maybe transposons are not just parasites-- now they're not planning to do this-- but just by chance, they may be picking up new innovations in your genome and moving them around. If that was true, we might expect that newly created innovations, innovations that arose in the last 100 million years but weren't present in the previous, say 100 million years before that, would be found in the middle of transposons as a smoking gun that that's how they got there. We see that very often. 
+
+About 20% percent of the time at least, things that arrived older than 100 million years ago but sooner than 200 million years ago-- and I can tell that because I can look at marsupials versus the placental mammals-- very often are associated with transposons. So I'm going to take back my nasty things about transposons. Most of them are bad news. But they may earn their keep by occasionally stirring up evolution, occasionally moving around the evolutionary information. And so transposons may be a force for evolution. 
+
+All right. Take a break and answer this question about evolutionary comparison as a tool for biomedical research. 

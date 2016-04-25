@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/stanford-parser-2008-10-26.jar"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/weka-3-6.jar"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/jwnl.jar"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/supersense-tagger.jar"/>
+	<classpathentry kind="lib" path="/home/joe/Desktop/QuestionGeneration/lib/arkref.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

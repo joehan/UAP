@@ -1,0 +1,51 @@
+PROFESSOR: All right, welcome back. Today we're going to do our second lecture in genetics. Now in the first lecture, we talked about my hero, Mendel. But remember, well, we remember what happened to Mendel's brilliant ideas. They really never caught on, at least not in his own time. So let's start by putting up our coat of arms again. Always have to have a coat of arms up there. 
+
+Biological function studied through biochemistry, studied through genetics. And right now we're focusing on the gene. The gene is not a word Mendel ever used. Mendel referred to factors of inheritance, these abstract concepts. These crazy things he made up to explain the patterns that he saw in the crosses. He had no idea what a factor was. 
+
+So remember that what Mendel did was Mendel said in order to explain his experiments, he hypothesized that plants would have two copies of a factor. We now call them the alleles of a gene, but he didn't use those words. They could come in different forms, like a particular plant might have a big A and a little a. 
+
+And then when it produced gametes, the possible gametes might get the big A, or they might get the little a. And then when fertilization occurred, oh, I don't know, maybe this other plant, a wrinkled plant might have a little a and a little a when it produced gametes, that are going to go to the next generation. It would have little As only. 
+
+And then when fertilization occurred, a random choice from here, and a random choice from there would come together, and then the next generation produce a plant that had two copies. Two alleles. So it went from being diploid, two alleles, to haploid, one allele in the gametes, back to diploid in the next generation. It was a beautiful model. We tested the model. 
+
+He tested the model, and we believed him. And the problem was nobody else really cared, because it was abstract. What was a factor of inheritance? It was an abstract thing, it was a mathematical model. Most biologists at the time didn't really like mathematical models. So it kind of was ignored until, as we talked about last time, people began to observe the choreography of chromosomes. 
+
+And what they saw in those chromosomes was a choreography like this. Chromosomes would appear in meiosis, lining up in homologous pairs. Homologs. They would have the same, these two would have the same size, these two would have the same size. And they would then, during meiosis, you would produce gametes. And those gametes might get this and this, or might get that and that. 
+
+This'll be homologous pair number one, this is homologous pair number two. And you would get here one copy of each homolog. And then, in order to confuse students of biology, it would undergo a second meiotic division, which always confuses everybody. Because from a genetic point of view, you know, it doesn't really matter. This looks just like mitosis does. 
+
+And that's probably because meiosis was added on top of meiosis in the course of evolution, and that's why it goes this way. But anyway, that's the way it really goes. So we have to do two divisions here. And it gets us to this point where we now have a single copy of each homologous chromosome. Homolog number one, homolog number two. 
+
+And then at fertilization, the idea is it fertilizes and you get two copies of each homologous pair. It matches perfectly the choreography. And the idea was that if this factor, big A, was carried on chromosome one, homologous, the chromosome number one there, then as it goes down, big A, big A, little a, little a. 
+
+What you'll see that is in this generation, you get half of the gametes having big As, and actually and half having little As. Of course, this I've drawn a plant that might be selfing, for example. So over here, I might have did it this way. We could also have drawn, should have drawn for you a guy like that, and it would have come over from there, OK? So in fact, I'm going to draw that. 
+
+We'll just put that there. So it'll be exactly the same as the picture on the other side. We'll have our little a, little a. Little a, little a. It will produce gametes down the middle. Little a, little a. Little a, little a. Gets tedious after a while. We then go through that first meiotic division, second meiotic division. Little a, little a. Little a, little a. 
+
+And now let's actually, since we were doing a cross between two different ones, let's now have this one and this one come together to make in the next generation a big A, little a. So now we've got exactly the same picture on both sides. Explains perfectly the data. Beautiful explanation. Chromosomes carry genes. Now we got a problem with this, didn't we? 
+
+The problem we had with this was this all worked very beautifully when we were following a single factor. But what happens if you're following two factors? That's what we ran into before. You're following two factors of inheritance. Big a, little a, and big B, little b. Then the kinds of gametes you could get are a big A and a big B, a big A and a little b. A little a and a little b. A little a and a little b. There are four possibilities. 
+
+And Mendel's notion was it was totally independent. Totally random whether the big As went with big Bs, or big As went with little bs. So Mendel's idea was this was a one to one to one to one. Now, how would we explain that with the chromosome theory? Well, how do you get all these combinations at random? Under the chromosome theory, you might have a big A, big A, little a, little a. 
+
+Maybe the big B chromosome would be the chromosome, the homolog carrying big B lined up on the left. And then when we go down, we're going to have the big A and the big B going together. And I'm going to give up and not draw the second meiotic division here, because it's boring. And the little a and the little b go together. And that'll produce big As, big Bs. 
+
+But it's also just as likely that the big A chromosome lined up on the same side here as the little b chromosome. And if that happened, we have little a here, a little a here, a big B there, and a big B there. What we end up with is big A, little b. Little a, big B. And so you end up with your big A, big B, little a, little b. Big A, little b, and little a, big B. 
+
+And since this is a coin toss, and these are equal numbers of those, they should be one to one to one to one. And that would perfectly explain Mendel's Law of Independent Assortment. And then we saw the problem. The problem we ran into is, you know, there's a finite number of chromosomes. In peas, there's only seven chromosomes. 
+
+What would happen if the locus, the gene for the first trait, and the gene for the second trait were on the same chromosome? Let's draw that out. We'd have big A, big A, little a, little a, Big B, ah, on the same chromosome. Little b, little b on the same chromosome, and neither of the genes is on that second chromosome. Now, what's the problem? The problem is that there's no other way to line them up. 
+
+Whatever you do, however you line them up, the big A always going with the big B if they were on the original chromosome. And the cute trick over here of lining up sometimes this chromosome with this one and sometimes this chromosome with that one can't work if they're on the same chromosome. 
+
+So they're going to follow each other here, and you're going to get always big A with big B, big A, big B where the little As and the little bs, and you're only to get two kinds of gametes. The big A, big B. You're going to get the little a, little b. But the other kinds, big A, little b, and little a, big B never occur. So instead you get one to one to zero to zero. 
+
+This guy over here, this is completely independent assortment. And this is completely dependent assortment. So we have a tug of war. So we're labeling this section Mendel, not Mendel and the chromosome theory, but Mendel's second law versus the chromosome theory. How do we resolve this? How do we resolve this problem? 
+
+Either the chromosome theory is going to sometimes have completely dependent assortment, or the chromosome theory is kind of wrong somehow. Because Mendel can't be right with completely independent assortment all the time. How was it that Mendel managed to see completely independent assortment all the time? It's sort of confusing. 
+
+Well, this idea that chromosome choreography so nicely fit Mendel's factors was floating around in the air by the late 1800s. 1900, Mendel gets rediscovered. And by 1902, people are talking about it. They're saying these chromosomes must be somehow connected to the genes. But there are these contradictions. 
+
+These contradictions inherent in this, namely how could you account for these factors traveling independently from each other if they're on the same chromosome? So what resolves it? 
+
+All right, it's important to consolidate what we've just talked about. So take a moment and answer some questions about the arrangement of chromosomes in meiosis. 

@@ -1,0 +1,67 @@
+PROFESSOR: Go from linkage maps here to now linkage mapping and activity. What is so cool about this is that you can tell where genes live on the chromosome by crossing them with each other. By crossing mutants with each other. 
+
+Sturtevant is able, he teaches us how, to build up maps of chromosomes and tell us the gene controlling curved wings, or vestigial wings, or black body, or cinnabar eyes lives right over here. This one lives right over there. That one lives right over there. 
+
+And he didn't even know that chromosomes were made of DNA. And he didn't have modern sequencing machines. He had none of that stuff, yet he could tell you where things were in the chromosome before people even new what genes were made of. 
+
+That is a really powerful idea of genetics, is genetics is able to tell you where genes are for something without even knowing what they are. And that means something very cool. It means you can investigate things where you have no prior knowledge of the biochemical basis. You can study really weird and unusual things where you would have no idea how to do biochemistry. 
+
+You wouldn't have an assay to purify a protein. But genetics, nonetheless, can tell you where's that gene. And you can then make flies that have that particular allelic variant, that allele, that particular little b or little vestigial, and you can cross them and control genotypes because you know where everything is. 
+
+So as you begin to build up these maps you add more and more and more and more and more and more and more. And then, oh, now I'm interested in this new gene I've just discovered that has some interesting phenotype. I'm going to set up a bunch of crosses. I'm going to see what it's near. And bingo, my new gene goes here. 
+
+There are some pretty cool mutants that emerge over the course of the century. Let me show you a cool mutant. Wild type fly. Do you see a difference with this fly here? What's happened to its antennae? Those are legs. 
+
+STUDENT: Eww. 
+
+PROFESSOR: Eww. That fly has legs coming out of its head. It is called, not unreasonably, antennapedia, meaning its antennae has become legs. 
+
+Did you have any idea that it's possible to have a single gene change that's able to control the fate of an antenna and turn it into a fully formed leg? I would have no idea how to do it. I mean, it's amazing that that can happen. 
+
+Genetics tells us that the way the body plan is laid out a single change must be controlling some master regulator that is assigning developmental fate is able to turn an antenna into legs. 
+
+Let's look at another one. Can you spot the difference? This one's not so hard to spot, is it? 
+
+This is our wild type fly, wings. You see these tiny little organs here? These are what are called balancing organs, or halteres on the fly. In this fly over here a single mutation has caused these balancing organs to become a second pair of wings. One change is able to switch the developmental program from the haltere to an extra pair of wings. 
+
+That teaches us about the way fly development works. And if I told you as a biochemist, please grind up this fly and figure out what's the protein that must be wrong, you wouldn't know where to start. Because you could grin up the fly all you wanted and you could purify proteins, but you don't have an assay. But genetics can tell you exactly where that gene lives on a chromosome. That's the power of what Sturtevant realized. 
+
+Of course, knowing where it lived on the chromosome didn't help Sturtevant figure out what the gene was in 1913 when his paper was finally published. Because they didn't have tools of DNA then. They couldn't actually-- they could know where it was relative to everything else, but they couldn't read out those genes. 
+
+But wait 70 years from when Sturtevant publishes that paper and we have these abstract maps that tell us where atennapedia lives or where ultra bithorax lives, the double-winged fly. And the tools of recombinant DNA that we're going to learn about later in the term allow us to pinpoint that gene and read it out without having any guess as to what the gene actually does, just based on its position. 
+
+Geneticists find this whole notion of positional mapping relative to other things so incredibly powerful because it lets you get genes without any idea what their biochemistry is. That's why this matters. And that's why it was such a good all-nighter. And I repeat my offer. Half as good an all-nighter, no homework for the whole term. 
+
+STUDENT: Challenge accepted. 
+
+PROFESSOR: Challenge accepted. Exactly. 
+
+I'm going to make a couple quicky remarks about some facts about maps that might confuse you, but I'm just going to mention them anyway. So two minor points about maps. We were talking about distance on the chromosome between two genes and the recombination frequency. 
+
+If things were pretty close together, the recombination frequency was low. If things were further apart on the chromosome it was higher. And we've been pretending that it's just linear. That the further you go, the more the percentage of recombination is as you move along the chromosome. 
+
+There's a problem with that. As you keep going and going it's not entirely perfectly linear after a while because there could be two crossovers and three crossovers. And remember, if there were two crossovers, the two genes come back together in the same chromosome. So it isn't quite linear. It begins to turn over a little bit and decrease. 
+
+And as I go further and further out on the chromosome there might be two crossovers, three crossovers, four crossovers, five crossovers. And whether they stay together or get separated depends on whether there's an odd number of crossovers or an even number of crossovers. And the further I get, eventually that's a toss up. It's about equal. And I get about 50% recombination. 
+
+As I get farther and farther away along the same chromosome they're independently assorting from each other. As if they were on different chromosomes. They look like they're on different chromosomes if I'm far enough away because there could be an even number of crossover, an odd number of chromosomal crossovers, because there's enough distance there that it's no longer really correlated. 
+
+So when I told you these were exactly these numbers, they're very close to. But as I get further and further away, it maxes out about 50%. OK? And that's important for you to know because otherwise as you went further and further on the chromosome you would say, oh it gets to 10%, 20%, 50% 90%, 100%, 170%. 
+
+What does 170% mean, all right? It can't be-- it's got to be turning over somewhere. It turns over at 50% at random assortment there. That's one fact that I want to tell you. 
+
+And the other fact I almost don't want to tell you, but I'm going to tell you anyway. Which is we pretended, in my example up there of 10% and 10% that those two crossovers were utterly independent of each other and it gave exactly 1%. 
+
+I went back and reread Sturtevant's paper. It's not exactly true. But please forget this as soon as I tell you. They're a little anti-correlated. There's a little bit of interference. It's actually a little lower than 1%. Maybe half as much or something like that. And even then, in 1911, Sturtevant understood that there was some degree of interference between these crossovers. They couldn't be too many too close. 
+
+And that's utterly irrelevant to you, but I'm just filling it in to say people pay a lot of attention to these maps and you can infer a lot of things about how genetics works by paying close attention to the numbers. So that's how we do genetic mapping. And you really can learn a lot. But the coolest thing is you can find any gene for those double wings or the legs out of the head. 
+
+Or, or, maybe you could do that same thing to human chromosomes. Maybe that same trick could be used not with black body and vestigial wings and antennapedia but maybe it could be used for genes in human families. And maybe by mapping the inheritance of human diseases relative to other markers we can build maps that tell us where the genes that cause disease. 
+
+This would take until 1984 before it actually happens. Sturtevant doesn't live to hear about it. 
+
+But we have maps today like chromosome 15 here which has Tay-Sachs disease is mapping over there. There's a gene for colorectal cancer here. A gene for Bartter syndrome over there. Lots of things. 
+
+That same principle that Sturtevant worked out that let's you map it in fruit flies today lets you map this in human beings. And we will later in the course talk about exactly how you can apply this to map it to human beings. 
+
+All right, now that you understand the basics to recombination, I've got a question for you about how recombination works when you get to long distances. 

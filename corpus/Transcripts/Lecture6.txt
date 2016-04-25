@@ -1,0 +1,7 @@
+PROFESSOR: Welcome back to week three of 7.00x-- Introduction to Biology, the Secret of Life. This week, we turn to genetics, which I really like because I'm a geneticist. We're going to start with Gregor Mendel and his experiments that showed the basis of inheritance. 
+
+Then we're going to talk about the Chromosome theory of Inheritance and the correspondence and the conflict between those two. They don't get resolved until the experiments of Thomas Hunt Morgan, early in the 20th century, working with fruit flies, when his lab discoveries this phenomenon called recombination. And they stumble into the idea that you can build maps showing the locations of genes without even knowing what genes are about. It's really pretty remarkable. 
+
+We've got all sorts of deep dives for you. Deep dives-- Michelle is going to explain to you how meiosis works and how to trace linked and unlinked genes through meiosis. We've also got a deep dive for you on how to trace inheritance in fruit fly crosses and tell whether traits are recessive or dominant. 
+
+It's the beginning of genetics-- an incredibly important part of course and the thing I really love. Glad to have you back. 

@@ -1,0 +1,803 @@
+What's kind of like a human cancer Genome Project?	2.7202401979343556
+What can be given to women with breast cancers that have amplified HER2?	2.7131418156266114
+What was a kinase inhibitor for the RAF protein?	2.685373018740224
+What was discovered by folks in Philadelphia?	2.6841542446272606
+What's almost always associated with mutations in the active site of the ABL kinase?	2.6443834831081823
+What made an inhibitor for the kinase of the RAF protein?	2.6238944347477053
+What is 95 % or more of CML?	2.5837002420172506
+What showed that a kinase inhibitor could prevent the fusion gene from transforming cells into cancer cells in the mouse or in a dish?	2.5437021910607283
+What is the sort of thing that will be the work of decades?	2.524519689386978
+What 're going to need information pooled from patients around the world?	2.498100928010959
+What's always been referred to as the Philadelphia chromosome?	2.491484403806093
+What was cloned transferred with a virus into mice, transferred into cells?	2.4851863402692587
+What get resistance to Gleevec?	2.4756445136194682
+What could people use that kinases upon kinases upon kinases 've talked about?	2.4695452693483038
+What were the first kinase inhibitors made against in fact?	2.4661896553489915
+What could use the tools of molecular biology that kinases upon kinases upon kinases 've talked about?	2.4645497294988368
+What is the CML 95 % or more of?	2.444606444642075
+Where does Gleevec sit here?	2.4422372974830733
+What did kinases upon kinases upon kinases have?	2.4227106778729497
+If people develop enough drugs what 'll we have on enough drugs to use enough combinations?	2.414677178179708
+What would cause a leukemia-like disease in the mice?	2.3957205439155262
+If the probability that a cell had what was a mutation one in 10 to?	2.395704025627249
+If people develop enough drugs what 'll we have on the shelf to use enough combinations?	2.3951600549875254
+What the more can figure out where's the new mutation crop up?	2.3902089265303683
+If people develop enough drugs what 'll we have on the shelf enough drugs to use?	2.3898393172784735
+What do not have to do with mutations in the active site?	2.384834451612501
+If the probability that a cell had what was a mutation in 10 to the fifth?	2.3379624040905904
+If the probability that a cell had what was a mutation one in to the fifth?	2.3363066112168407
+What could people use the tools of that kinases upon kinases upon kinases 've talked about?	2.3293104607897384
+Who sits in the active site of the kinase here?	2.3261676900307484
+What led them to try to make an inhibitor for the kinase?	2.3174913466457765
+What made an inhibitor for the kinase?	2.2941046108017473
+What was the fusion between the BCR and the ABL?	2.280670118910338
+What is fusion present in a certain kind of cancer of the white blood cells because?	2.279700467942949
+What does all CML have?	2.262196948132071
+What worked at the Broad Institute, and some other folks as well?	2.253524013335391
+What works in 10 % to 15 % of patients?	2.2252049866473
+What are amplification of the ABL kinase?	2.222480986810862
+What found that the kinase activity was necessary?	2.2102318274254764
+What are the humans who are involved doing?	2.208925105835825
+What led them to go into human patients?	2.2040947832964632
+What did people make?	2.201955227707585
+What is absolutely essential for CML?	2.2007838942229037
+What bind ATP in a certain way of course?	2.1952704199320188
+What is BCR to ABL?	2.19150106528144
+What's sort of a world people 're all imagining right now?	2.1781760420011507
+What was in a Petri plate?	2.1638846162347507
+What does a tiny minority turn out activate something else?	2.163120000929478
+What had sort of similar binding pockets?	2.1620010631648525
+What's not the same thing as in a patient?	2.1604791369052125
+What's called a drug called Herceptin?	2.1542701120162584
+What turns out people activate something else?	2.128963224859226
+What produces a scrawny little chromosome number 22 there in fact?	2.1281115230639873
+What go away in response to the drug?	2.122552924473649
+What are 50 % of melanomas?	2.1224978113513355
+What does Gleevec sit in here?	2.1093035705183265
+Who do figure out what parts go into?	2.088748816829146
+What develop a drug to inhibit CML?	2.074842921714826
+What is the CML?	2.0731515066596575
+If people develop enough drugs what 'll we have on the shelf?	2.068428301418122
+What do people 're going to need?	2.0602720892395636
+Who was lung cancer not as?	2.0576451746901956
+What go into human patients?	2.05634686208264
+When's only 5 % or 10 % of patients per year develop it?	2.0536075233362747
+What does a tiny minority turn out people activate?	2.044914965697041
+What myelogenous leukemia, or CML?	2.0428052743261618
+What mutate the gene?	2.0393199228606638
+What is Gleevec?	2.0113777290567882
+What's no reason to be discouraged?	1.9978730199672878
+What is kind of on the edge?	1.9959196832124768
+What works in cell culture?	1.9953954146800281
+What did some people work at as well?	1.994896384402747
+What have to do with mutations elsewhere?	1.988303352154121
+What was the RAF protein?	1.977412310950774
+What do people mutate?	1.976666337937116
+What have mutations happened?	1.9757055338981513
+What does a tiny minority so happen that there are drugs against?	1.9734196928868186
+Who relapse in 6 to 18 months?	1.9666421402167071
+What are melanoma 50 % of?	1.96530749368685
+What showed a very curious thing?	1.9542839502441256
+What do people 're going to need to pool?	1.9533418749836395
+What might be impossible to make kinase inhibitors?	1.9493481042282144
+What do figure out what parts take?	1.9460891314291142
+What do figure out what parts show in animal models?	1.9416138587643375
+What are developing second generation Gleevec?	1.9388591764615681
+What is CML?	1.9304000102155874
+What does which's?	1.9213993451697178
+What show a drug in animal models?	1.917142144495398
+What was the number that responded?	1.9122501127363978
+What is little bump?	1.9044981611722767
+What's the game people 're playing?	1.8926691619317717
+What does a cocktail of two?'s in?	1.8875781264163147
+What do figure out what parts show in cells?	1.8843204896508698
+What found the mutations?	1.8779859814790958
+What do figure out what parts show a drug in?	1.8768084622804349
+What's in clinical trials?	1.8650695928973997
+What show a drug in cells?	1.8397363207719608
+What are coming up with strategies?	1.8384367219492979
+What's a little trickier in most other cancers?	1.8316200883077143
+What does chronic myelogenous?	1.8253869202393043
+What could a physician use?	1.8176904247939052
+What are the different melanoma lesions?	1.8168041430638597
+When will patients develop a mutation that makes them resistant to Gleevec?	1.8144683585961539
+What could people not do without the kinase activity?	1.8132828827083418
+What know about the circuitry?	1.8132112799618538
+What do figure out what parts develop?	1.7948722476825376
+What do people collect more of?	1.7871126289881278
+What 're going to have to learn which patients respond well to which drugs as a function of which mutations?	1.7745202861430323
+What well, OK might be one in 10 to the 10th?	1.7704597055866895
+What did an EGFR inhibitor show?	1.7582789919570612
+When do most patients relapse?	1.7576332760180018
+What's another kinase?	1.7571125446384128
+Who will develop a mutation that makes them resistant to Gleevec at a rate of about 5 % or 10 %?	1.745534680215959
+Who does resistance to Gleevec's almost always associated with?	1.7408291090527612
+What was the dish in?	1.7345879192516809
+Who 'ves got a whole bunch of people trying to figure out where it's broken?	1.7332522424215604
+What is the isoleucine?	1.7259774045099707
+When was 2001?	1.7217018144513017
+Who are people developing?	1.7062427883841398
+What are people coming up with?	1.7011904306919625
+What talked about with DNA sequencing?	1.6889669273424326
+Who can make the kinase resistant to Gleevec?	1.6805991008181378
+Who 'mes hoping that we 'll have made enough progress by that point to offer better and better odds?	1.6776811190069365
+Who are doing which?	1.6713463383155789
+What do people know about?	1.6619648503100273
+What was the gene?	1.657612552520103
+What is fusion present in because this BCR-ABL?	1.6470420312354377
+This BCR-ABL fusion was cloned transferred with a virus into mice, transferred into cells?	1.6442469175956353
+What is not quite that simple in most other cancers?	1.6417603326502204
+Who heard talks about how kinases we 're undruggable?	1.628877106960803
+What is the fusion gene here?	1.6255477616598115
+If the probability that a cell had who was one in 10 to the fifth?	1.6076513146910987
+When was 2000?	1.5962358144353646
+Who does which mean 're going to need to have some kind of common agreed upon data-sharing mechanisms where patients can voluntarily count me in?	1.593329822082953
+Is the CML 95 % or more of CML?	1.5924765761346702
+Who did some people here in Boston find?	1.590351069337212
+Who responded quite dramatically?	1.5868951577271224
+What were made against this BCR-ABL fusion protein in fact?	1.5861617889647093
+What was not as homogeneous as CML?	1.5856208153634572
+What turned out despite the good arguments why it might be impossible to make kinase inhibitors, folks made kinase inhibitors?	1.5850007956730492
+What do people collect?	1.5804960851019216
+What are melanoma?	1.5756072944576087
+What is 6 to 9 months later?	1.5705883711574604
+What has been a kinase?	1.5638128951660635
+What Gleevec?	1.554675917076301
+Did people make an inhibitor for the kinase of the RAF protein?	1.5497472911293868
+What did figure out what parts find was that they tested it in?	1.545966469898071
+What did people find?	1.543204930900639
+What were the first kinase inhibitors made against this BCR-ABL fusion protein in?	1.5361093388459466
+What told kinases upon kinases upon kinases that that fusion protein was actually enough to cause that cancer on its own?	1.528121985830846
+Was lung cancer not as homogeneous as CML?	1.5265597905267336
+Does which's kind of like a human cancer Genome Project?	1.524912756048392
+When might well, OK the chance that it might have the two mutations be one in 10?	1.5178579524572018
+Whose trunk can you see all of these different melanoma lesions over?	1.515846884096224
+What did people talk about with?	1.5115006261886967
+Was the RAF protein a kinase inhibitor for the RAF protein?	1.5077917500997273
+What have mutations that make them resistant to the drug because some of those cancer cells?	1.5027154495714967
+If we develop enough drugs who 'll have on the shelf enough drugs to use enough combinations?	1.5025161662196753
+What have some other mutation that has caused them to be resistant?	1.4966541757608445
+What relapse?	1.4918156775326703
+What get the right kinase inhibitor?	1.4908766917253702
+What though is that you 've managed to kill the vast majority of the cancer cells?	1.490146599051751
+What was cloned?	1.4883401127795646
+Can the more people figure out where's the new mutation crop up?	1.48657348003807
+What means we 're going to need to have some kind of common agreed upon data-sharing mechanisms where patients can voluntarily count me in?	1.4828565108411529
+What are the only exceptions that I know of?	1.4801745304431835
+Who 're going to need information pooled from patients around the world?	1.4768458465567136
+Who 'ves got a whole bunch of people trying to work out places to intervene?	1.4704785609963098
+If the probability that a cell had was a mutation one in 10 to the fifth?	1.4579517046292771
+Does resistance to Gleevec's almost always associated with mutations in the active site of the ABL kinase?	1.4577839190195614
+Who 'ves got a whole bunch of people trying to work out the circuitry?	1.457151473067385
+Who can see all of these different melanoma lesions all over the patient's trunk?	1.4511753050031002
+Who get resistance to Gleevec?	1.4510897797336049
+What so happens that this molecule is called Gleevec?	1.449787636645154
+What do I hope that by, God forbid?	1.448859237985769
+What this BCR-ABL fusion was cloned transferred with into mice, transferred into cells?	1.448335884770787
+What could use the tools of molecular biology that we 've talked about?	1.4479186777479547
+What do just get?	1.4453682451992114
+Who hopes that by the time, God forbid?	1.4445213863421813
+Who did that tell that that fusion protein was actually enough to cause that cancer on its own?	1.4424439309665011
+What this BCR-ABL fusion was cloned transferred with a virus into mice, transferred into?	1.4423650923529774
+Did some people here in Boston find the mutations?	1.4414356837905036
+What this BCR-ABL fusion was cloned transferred with a virus into, transferred into cells?	1.4378950298824749
+If people develop enough drugs who 'll have on the shelf enough drugs to use enough combinations?	1.4369231744886548
+What can you see all of these different melanoma lesions over?	1.4339016512780223
+If people develop enough drugs 'll we have on the shelf enough drugs to use enough combinations?	1.428489417285498
+What did all that show that a kinase inhibitor could prevent from transforming cells into cancer cells in the mouse or in a dish?	1.4249139100006283
+What have mutations that make some of the relapses resistant to the drug because some of those cancer cells?	1.4189123375609176
+What might well, OK the chance that it might have the two mutations be in 10 to the 10th?	1.4189036010146445
+What have some other mutation that has caused all that to be resistant?	1.418310329643627
+What did all that show into?	1.4173287001239605
+What might well, OK the chance that it might have the two mutations be one in to the 10th?	1.4161918392482238
+Could people use the tools of molecular biology that kinases upon kinases upon kinases 've talked about?	1.4127893151566515
+What was identified?	1.40891888558933
+What is present in a certain kind of cancer of the white blood cells because this BCR-ABL?	1.405384147055944
+Do people 're going to need information pooled from patients around the world?	1.400594526009554
+If you can block that activity who defeats CML?	1.3856877068544633
+What does it's nothing short of to see what happens?	1.3775168170249739
+What was 31?	1.3752593642596815
+Who the more can figure out where's the new mutation crop up?	1.3726773264108396
+What is another thing though that you 've managed to kill the vast majority of?	1.3687856203058302
+What 'll work for those 10 % or 15 % of the patients?	1.3674527098531843
+What did all that turn out despite the good arguments why it might be impossible to make kinase inhibitors, made kinase inhibitors?	1.367386480043828
+What's nothing short of miraculous to see what happens?	1.361125863911893
+What can you see all of all over the patient's trunk?	1.3605737234231032
+What does a year's develop it?	1.3569544560944726
+What was pretty impressive?	1.3542741920964971
+What's kinase?	1.3539847673983025
+What did all that turn out despite the good arguments why it might be impossible to make kinase inhibitors, folks made?	1.3537159777263694
+What do I 'm hoping that we 'll have made enough progress by to offer better and better odds?	1.3523493588515296
+Who do some of the relapses not have to do with?	1.3461922324992908
+What was there?	1.3450644473063975
+Did some people work at the Broad Institute, and some other folks as well?	1.3448494348450213
+What did all that turn out despite why it might be impossible to make kinase inhibitors, folks made kinase inhibitors?	1.343031301462334
+What does which mean we 're going to need to have some kind of agreed upon data-sharing mechanisms where patients can voluntarily count me in?	1.3429782851894427
+What can you see all over the patient's trunk?	1.3382282725181112
+What is seriously the work of several decades you 've got to realize?	1.3343446044790341
+What told us that that fusion protein was actually enough to cause that cancer on its own?	1.3235604485891819
+If this threonine at position 315 mutates to an isoleucine here, what does not fit anymore?	1.3201339743845857
+What do I 'm hoping that we 'll have made by that point to offer better and better odds?	1.3198859764280084
+What do I 'm hoping that we 'll have made enough progress by that point to offer?	1.314221762086218
+What do a tiny minority of those cancer cells, have mutations that make them resistant to the drug because?	1.308353645885873
+Does Gleevec sit in the active site of the kinase here?	1.3026432504965268
+What could people use the tools of that we 've talked about?	1.2974249284003618
+What would this BCR-ABL fusion protein cause a leukemia-like disease in?	1.2930830813322434
+What's not to be sneezed at?	1.2912165068788155
+What have then been doing?	1.286414437326485
+What does a tiny minority turn out?	1.2822653242819038
+What turns out not that many cancers are as simple as CML?	1.2750638379243342
+Who 'ves left out lots of steps, lots of controls, and all that?	1.2733518154354528
+Did an EGFR inhibitor show a very curious thing?	1.2699330640472293
+Did people find that the kinase activity was necessary?	1.2633514492770108
+What's not entirely clear?	1.260464729585036
+What receptors?	1.2587254443826552
+When is this seriously the work you 've got to realize?	1.2406147018466935
+What so happens that there are drugs against that something else?	1.2394285422817664
+What do they all bind ATP in a certain way of?	1.2394114299305907
+Is the fusion gene here BCR to ABL?	1.2381705456214824
+What do they all bind in a certain way of course?	1.2367603939713163
+What is another thing though that you 've managed to kill?	1.2353654119187643
+What does a tiny minority so happen against?	1.2353505390433255
+What do they all bind ATP in of course?	1.2351126392375376
+What's sort of a world we 're all imagining right now?	1.2316014688202759
+What would it cause a leukemia-like disease in?	1.2310791495657591
+Who does it so happen that this molecule is called?	1.2308696868633575
+Who does this translocation so happen that this molecule is called?	1.2275729168490845
+What was it pretty clear to that creating a kinase inhibitor was probably impossible?	1.227281470498363
+What are necessary?	1.2252746111412498
+What do a tiny minority of those cancer cells, have mutations that make some of the relapses resistant to the drug because?	1.2199763136958017
+What could people use that we 've talked about?	1.219406190581318
+Do some of the relapses not have to do with mutations in the active site?	1.219111188179304
+Does a tiny minority turn out people activate something else?	1.2182470188371775
+What have?	1.2154554756877272
+Who can imagine a world where every patient will have their genome sequence, and their tumor sequence?	1.2149312177482234
+What would this BCR-ABL fusion protein cause in the mice?	1.2048562658240183
+Who showed that it could prevent the fusion gene from transforming cells into cancer cells in the mouse or in a dish?	1.2042114584433516
+What was it pretty clear to people that creating was probably impossible?	1.2003165834998075
+What do you 've got a whole bunch of?	1.1991197947787637
+Who got all these different ways to cause cancer?	1.1936952923026851
+What say?	1.1903209952970206
+What was possible to transfer that protein into?	1.1892301995026324
+What is almost?	1.1875473078991419
+Was the gene the fusion between the BCR and the ABL?	1.1851763123865693
+Are the humans who are involved doing which?	1.1819652158885599
+If we develop enough drugs what 'll we have on enough drugs to use enough combinations?	1.179976679777618
+What's going to take a lot of sharing in my opinion?	1.1766878249216965
+What do not know yet?	1.1761520239615089
+Who do some of the relapses have to do with elsewhere?	1.1739776526330288
+If you could make a drug to inhibit enzymatic activity, what what would you like to inhibit?	1.1703607171443577
+What showed that it could prevent the fusion gene from transforming cells into cancer cells in the mouse or in a dish?	1.169854287812833
+Have mutations the drug happened?	1.1620834662866684
+Do some of the relapses have to do with mutations elsewhere?	1.161602398928986
+What was pretty clear to people that creating a kinase inhibitor was probably impossible?	1.160545401201098
+If we develop enough drugs what 'll we have on the shelf to use enough combinations?	1.1604595565854354
+If we develop enough drugs what 'll we have on the shelf enough drugs to use?	1.155138818876384
+Does chronic myelogenous leukemia, or CML?	1.1487111317270444
+What is just in most other cancers?	1.1401096854680446
+What could not do the most common enzyme activity involved in this pathway without the kinase activity?	1.1367754020611787
+What does it's going to take a lot of to get there?	1.1366809749023905
+What did it turn out despite the good arguments why it might be impossible to make kinase inhibitors, made kinase inhibitors?	1.1366008647349388
+Do people mutate the gene?	1.127945116986992
+What does that's sort of we 're all imagining right now?	1.1267718859500002
+What can help?	1.1256571367352581
+Do most patients relapse in 6 to 18 months?	1.1246945893080316
+What works?	1.1228061230165396
+What did it turn out despite the good arguments why it might be impossible to make kinase inhibitors, folks made?	1.1225970116944066
+Do figure out what parts go into human patients?	1.122119880951841
+What has this translocation?	1.119727077072465
+Was the dish in a Petri plate?	1.1183296651201902
+What's almost?	1.1167499566621648
+Who is this inhibitor?	1.1150971170458144
+Who did that lead them to go into?	1.1140824683707868
+What did it turn out despite why it might be impossible to make kinase inhibitors, folks made kinase inhibitors?	1.113602596902762
+Who made an inhibitor for the kinase?	1.1110245225254554
+What is this seriously you 've got to realize?	1.1104259626557895
+Do figure out what parts develop a drug to inhibit CML?	1.1093003899645035
+Who 'ves probably told you just enough to imagine what's going on in that overall complex picture?	1.1053707549429332
+What does all that's?	1.0973827542751349
+What do we 're going to need?	1.097068884334564
+Will patients develop a mutation that makes them resistant to Gleevec at a rate of about 5 % or 10 %?	1.0943769123023728
+Who have the drug happened?	1.093224858288071
+Do kinases where undruggable?	1.0921484820660599
+Where does it sit here?	1.090831621012116
+Who 'll it still be sensitive to?	1.0877322914113257
+What did that lead them to try to make?	1.0844316974492614
+Are melanoma 50 % of melanomas?	1.0836323610468788
+What did all these enzymes have sort of?	1.0821355769294385
+What does a tiny minority so happen that there are against that something else?	1.081934448526832
+What 'll still be sensitive to these guys?	1.0815760806550951
+What does it's nothing short of miraculous to see?	1.0780597065047108
+What win?	1.0771930380470822
+What 'd really like to know?	1.075369421165574
+Who 'ves told you a story right now about a very simplified version of cancer?	1.0740343339017873
+What does that's sort of people 're all imagining right now?	1.0717144437466208
+What's going to take a lot of work to get there?	1.0714154742173667
+What does it's to see what happens?	1.0710767549004188
+What does it so happen that there are against that something else?	1.0702588726965243
+What was this translocation discovered by?	1.0680845009046962
+What does that's sort of a world 're all imagining right now?	1.0628380946295435
+What does this translocation's always been referred to as?	1.0598361215778942
+Who did that lead to try to make an inhibitor for the kinase?	1.0584839507476747
+Who 'mes willing to share my data with other people sharing their data?	1.0559925160054515
+What does it's always been referred to as?	1.055376318081251
+Does a third generation gleevec?	1.0537005099704588
+Who thinks it's going to be a really important thing?	1.0517340935087343
+What does it's going to take a lot of sharing in?	1.0470689806031408
+Who gets other inhibitors that can come in here and bind?	1.0424202952311368
+Who 'll have to get a next generation and next generation?	1.0389351255135164
+Who does that's sort of a world 're all imagining right now?	1.038567276556749
+What sits in the active site of the kinase here?	1.0355229146311755
+Is the isoleucine little bump?	1.0347794598829951
+Who found that the kinase activity was necessary?	1.0344302130127718
+What was it discovered by?	1.0319893063438728
+What did that lead to try to make an inhibitor for the kinase?	1.0296029691820827
+What 're going to need to pool all that?	1.0276210904086511
+What's kinases upon kinases upon kinases?	1.0269355289187145
+What does that's we 're all imagining right now?	1.024804573672824
+What might have three mutations to the 15th?	1.0227997604680867
+Who the more can come up with strategies?	1.0219665894219188
+What did we get to cause cancer?	1.0201221921509052
+What take that kinase inhibitor?	1.0186101661876128
+What could people not do the most common enzyme activity involved in this pathway without?	1.0181798594265152
+Are people developing second generation Gleevec?	1.0099160476635447
+Who 're going to need to pool all that?	1.0051452479474645
+What would it cause in the mice?	1.001729862183386
+What was extraordinary?	1.0009281859568138
+What could people use the tools of molecular biology?	1.0002319580305032
+Who do a small, tiny minority have?	0.9998273533801714
+What do we 're going to need to pool?	0.9963321679347337
+What is this the sort of?	0.9962716617429515
+What 'll that work for?	0.9913734653219761
+Does a cocktail of two?'s in clinical trials?	0.9891767685719739
+Who 'ves got a whole solution?	0.9889597289150125
+What does which mean we 're going to need to have?	0.9836022138282854
+What can the more you come up with?	0.9834488490483515
+Who might have bought somebody a year?	0.9812496027378199
+Who do I 've probably told just enough to imagine what's going on in that overall complex picture?	0.980198041396634
+Who does it's a reason to say in?	0.9764192890657128
+Who does it turn out activate something else?	0.9741483616474695
+What does that's people 're all imagining right now?	0.9739862118639422
+Who 'ves got a little patch?	0.969169952080845
+Was the number that responded 31?	0.9674229309501672
+What is this leukemia?	0.9660330708064466
+Who 'ves just shown you over here in this picture a patch of skin?	0.96541335908359
+What turns out they activate something else?	0.9653209308341724
+What go on?	0.9623633222641774
+Who 'res now roughly up to the edge of what we know about cancer?	0.9594149786062436
+Who could not do it without the kinase activity?	0.9558360505127452
+Who 'res in business?	0.9528657265542984
+Who can that be given to?	0.9495923909522461
+What does it produce a scrawny little chromosome number 22 there in?	0.9488036675846396
+What does it turn out activate something else?	0.9485122242500388
+Do other mutations happen in the cancer?	0.9456404272059951
+What is the problem?	0.9437158999603008
+What does it so happen that there are drugs against?	0.9394955199566228
+What do I not want to pretend is easy?	0.9394672073303993
+Who does not want to pretend this is easy?	0.9389670780311574
+Who 'ves only picked on these kinases here?	0.9385708853493737
+What's the game we 're playing?	0.9371328027781829
+If you can block that activity what do you defeat?	0.9349848009656887
+Do figure out what parts show a drug in animal models?	0.9343177238447733
+Who did that lead to go into human patients?	0.9334295323212123
+Who could use that information?	0.9333514236815417
+What does it work in?	0.9326294666030834
+What could not do it without the kinase activity?	0.9293326405730655
+What do they all go away in?	0.9267202197897262
+What does this translocation produce a scrawny little chromosome number 22 there in?	0.9249976637847974
+What did they show that it could prevent from transforming cells into cancer cells in the mouse or in a dish?	0.9243831796711681
+Who does all that's a reason to say in?	0.9241101517680339
+What might it have three mutations to?	0.9239606398706977
+Was the gene cloned?	0.9222910129107282
+What does it's going to take a lot of in my opinion?	0.9218089558700089
+Are people coming up with strategies?	0.9167678415616072
+Who had similar binding pockets and all that?	0.9096865299921617
+Does just's a little trickier in most other cancers?	0.9087847069117898
+Do people know about the circuitry?	0.9087263692661818
+What did that lead to go into human patients?	0.9076590201839236
+What creates this fusion gene here?	0.9043931463504022
+What are all these little distributed tumors?	0.9039729063102704
+What is?	0.9008052354336449
+Are figure out what parts necessary?	0.8911878317830881
+Were kinases undruggable?	0.8908044696316006
+What did they make?	0.8848773167680426
+What do you 've got?	0.8837029930136369
+Who sees pretty impressive responses?	0.8817941494462529
+Do figure out what parts show a drug in cells?	0.8792315879077055
+What does that's the game 're playing?	0.8786800125257099
+What do I think's going to be a really important thing?	0.8752903908528387
+What does it's going to take in my opinion?	0.8727091047916784
+What does this work in?	0.871633649275013
+Was the gene identified?	0.8710233819106525
+What do you 're in?	0.8705647287358522
+What collect more of that information?	0.8672582708876018
+Who knows what happens if you do that?	0.8670833861292324
+What does it's going to take to get there?	0.8650979933151861
+Who do they go into?	0.8639230461851706
+What do I 've got?	0.8614826247681977
+What do we get?	0.8607247292148847
+Does a year's only 5 % or 10 % of patients per year develop it?	0.8603064693698099
+Who happen in the cancer?	0.8592354539851748
+Who would not be surprised if over the next couple years we see a kind of alliance across many institutions in the world and patients in many countries?	0.8561274124397622
+Is Cancer very complicated?	0.8542699483168217
+Who does that's the game 're playing?	0.8504731166890163
+What's a little gross so I 'm not going to show it to you?	0.8485443460338558
+What 'll you have to get?	0.8434815336593005
+Does a tiny minority's another kinase?	0.8393491107372903
+What was that fusion gene?	0.8387684971514271
+What could they not do without the kinase activity?	0.8366798202630752
+If we develop enough drugs what 'll we have on the shelf?	0.8330204135572088
+What will this mutation and a little bit of these mutations make it resistant to?	0.8329268717712726
+Who do I 've just shown over here in this picture a patch of skin?	0.8323308754203567
+Was the number that responded extraordinary?	0.8215311831349934
+What does that's we 're playing?	0.8182829131993923
+Who go into human patients?	0.8171326916514476
+What is this activity absolutely essential for?	0.8063270995592977
+When will a non-trivial fraction of you get cancer?	0.7998898617486911
+Who collect more of it?	0.7922107967450762
+What do this get?	0.7897962018337712
+What did that tell kinases upon kinases upon kinases on?	0.7883014567099922
+What did all that make?	0.78822346393481
+Who know about the circuitry?	0.787208794591727
+What do people 're going to have to learn?	0.7860686399010539
+Was 2000 2001?	0.7854078416407013
+What's only 5 % or 10 % of patients per year develop it?	0.7846936525648962
+What's it for cancer?	0.7799378660363327
+Who take that kinase inhibitor?	0.7793959957564205
+What does it sit in here?	0.7791782682582133
+Who knows about the circuitry?	0.7774275797161831
+What does that's people 're playing?	0.7738192723529804
+Did people talk about with DNA sequencing?	0.7686974029598483
+What do I 'm hoping by?	0.7654674539932271
+What do other mutations happen in?	0.7585081171813677
+Who 're going to have to learn which patients respond well to which drugs as a function of which mutations?	0.7548153773960136
+What did they have?	0.7535363107855568
+What does that's?	0.7526639361615346
+Did all the patients respond quite dramatically?	0.7520239682446443
+What worked very well on about 10 % or 15 % of the patients?	0.7515427885390125
+Who have to do with mutations elsewhere?	0.7515088622089006
+What do I 've left out?	0.7502739839613279
+Is the problem 6 to 9 months later?	0.743725634589935
+Who can build a big enough data set that we can learn what works best?	0.7408473699469602
+Who 'd like a kinase inhibitor?	0.7407733771235865
+Do just get the right kinase inhibitor?	0.7407217762828344
+Was the protein identified?	0.7377775870005305
+What did they show into?	0.7366382622841137
+What did all these enzymes have?	0.7356211125213483
+What do they take?	0.7286742285766357
+Who show it in animal models?	0.7247004614141179
+Do people 're going to have to learn which patients respond well to which drugs as a function of which mutations?	0.7131015255477384
+What did it turn out despite the good arguments?	0.7085862009595334
+What's gotten so cheap that you could sequence every patient's own cancer what's been cool is in the past four or five years?	0.7070215664871844
+What do we know about?	0.7033941681922917
+What do you know about?	0.6976369794510411
+Do a tiny minority of those cancer cells, have mutations that make them resistant to the drug because some of those cancer cells?	0.6956504994378196
+What show it in animal models?	0.6956003982254981
+What found was that of the first 31 patients that they tested it in?	0.6927706585716884
+What does this translocation produce there in fact?	0.6923872458820497
+Is just not quite that simple in most other cancers?	0.6916717123227145
+Who are doing it?	0.6912727426684313
+What were really excited because it was pretty clear that's all you have to do?	0.6820697465178829
+What 'd you like?	0.6799498401189652
+What does it's only 5 % or 10 % of patients per year develop?	0.6776969556240116
+What is that they relapsed also?	0.6674541519108659
+What's a reason to say it might take two or three or four places to have to block the cancer in the possible mutations?	0.664564685039297
+Who talked about with DNA sequencing?	0.6642239572969271
+What's why I 've mentioned it?	0.654900017721423
+Who develop a drug to inhibit it?	0.6510280131793511
+What does a year's only 5 % or 10 % of patients per year develop?	0.6453392950232641
+Are the only exceptions that I know of amplification of the ABL kinase?	0.6432541607546645
+What do I hope by?	0.6380810991103616
+Who show it in cells?	0.6346443691044241
+What did all that turn out despite the good arguments?	0.6324475948025212
+What did that tell that that fusion protein was actually enough to cause that cancer on its own?	0.6320715469117233
+Can these mutations here, make the kinase resistant to Gleevec?	0.6312206680965384
+What do we collect more of?	0.6271692674328084
+Who could make a combination?	0.6229810093725623
+What develop a drug to inhibit it?	0.6209833134972649
+Can that be given to women with breast cancers that have amplified HER2?	0.6177063939597147
+What will get cancer in your lifetime?	0.6162363878035406
+What does it's in?	0.6137982825716781
+What show it in cells?	0.6068038212404261
+What do they show in animal models?	0.6000738851271015
+Have people then been doing?	0.5979537797633852
+What did they find?	0.5966658286834752
+What could you make?	0.5963054139025099
+Who did they find was that of that they tested it in?	0.5878237823475532
+Who 've got this pathway here?	0.5864194821648383
+What does a tiny minority's?	0.5857254478026719
+What did that tell us on?	0.5833757187380726
+What does that's not?	0.5833545116979597
+What does that's called?	0.5812614154430562
+What did we talk about with?	0.5783601739626698
+What could they not do it without?	0.5726694732108188
+Does it's kind of like a human cancer Genome Project?	0.5724112123310974
+What is that all that relapsed also?	0.5687844955079056
+What does it turn out they activate?	0.5671071453981185
+What does it produce there in fact?	0.5669732679701454
+Were the first kinase inhibitors made against this BCR-ABL fusion protein in fact?	0.5661895941690536
+Has Pretty much anything I 've said been a kinase?	0.5609791022663186
+Can the more we figure out where's the new mutation crop up?	0.5570982269161711
+What where undruggable?	0.5496944695715271
+What does this translocation create?	0.548191153944172
+Do a tiny minority of those cancer cells, have mutations that make some of the relapses resistant to the drug because some of those cancer cells?	0.542261954381765
+What do we 've got here?	0.5414129412940625
+What does just's a little trickier in?	0.5392335914942608
+What will this mutation and a little bit of these mutations make resistant to both of these guys?	0.5378444516406515
+Where do you 're now roughly up?	0.532379407709197
+Was this translocation discovered by folks in Philadelphia?	0.5313109297513017
+What did they find was that they tested it in?	0.5306345516516919
+Who 'mes not going to show it to you?	0.5299763870058105
+What do they show in cells?	0.5230033401346674
+Do people not know yet?	0.5212229479890331
+What did figure out what parts find was that of the first 31 patients that they tested in?	0.515186957281947
+What do I think it's going to be?	0.5137108265554211
+What are the only exceptions that I know of amplification of?	0.5107260987904141
+Do people say?	0.5104042833166484
+What were undruggable?	0.5101616840844723
+What does it create?	0.5066531439454527
+What does that's for cancer?	0.5056866899731405
+What has Pretty much anything I 've said been?	0.5049810184199148
+What did I hear?	0.5026481106383303
+Do mutations start growing back?	0.4964077836533973
+What do you see?	0.4958734728422338
+Do you 've got a whole bunch of people trying to work out places to intervene?	0.4934196534336466
+Do they all bind ATP in a certain way of course?	0.4842626154770122
+Do people go on?	0.4817991556298262
+Did that tell kinases upon kinases upon kinases that that fusion protein was actually enough to cause that cancer on its own?	0.4736138782512178
+What does this translocation so happen?	0.4727352191796754
+Do I hope that by the time, God forbid?	0.4650720208386585
+What do I 've just shown you over?	0.4644664993562968
+What do I 've probably told you just enough to imagine in?	0.4619985885878539
+Do you 've got a whole bunch of people trying to work out the circuitry?	0.46059935935515117
+Who found was that of the first 31 patients that they tested it in?	0.4588464525039062
+Do we 're going to need information pooled from patients around the world?	0.4506631022247549
+Did all that show that a kinase inhibitor could prevent the fusion gene from transforming cells into cancer cells in the mouse or in a dish?	0.44906254035465976
+Do you 've got a whole bunch of people trying to figure out where it's broken?	0.4432505035345149
+Do people have?	0.4408144016775235
+What does that's sort of a world?	0.44004183041224065
+What does it so happen?	0.4387630021327089
+Can you see all of these different melanoma lesions all over the patient's trunk?	0.43780767630451756
+What was it pretty clear to people?	0.43651853241928107
+Is this the sort of thing that will be the work of decades?	0.4324758371586226
+What do I not want to pretend?	0.42937142303231024
+Does it's nothing short of miraculous to see what happens?	0.41939772429604893
+What do we collect?	0.41915607243952957
+Did kinases upon kinases upon kinases have similar binding pockets and all that?	0.4129588327750744
+Who did figure out what parts find was that of that they tested it in?	0.4127602157332566
+Does it turn out not that many cancers are as simple as CML?	0.412212642264846
+Was it discovered by folks in Philadelphia?	0.4091172134410157
+What was pretty clear that's all you have to do?	0.40890856437334033
+Does which mean we 're going to need to have some kind of common agreed upon data-sharing mechanisms where patients can voluntarily count me in?	0.39433620654429946
+Who do I 'm not going to show it to?	0.3938069610798265
+What did it work very well on?	0.3929997787997581
+Does this translocation's always been referred to as the Philadelphia chromosome?	0.391668190269737
+What was it?	0.39030714185879023
+Does it's always been referred to as the Philadelphia chromosome?	0.3890037991838624
+'d people really like to know?	0.3861009000616291
+Does all CML have this translocation?	0.3852602709282871
+Did all that turn out despite the good arguments why it might be impossible to make kinase inhibitors, folks made kinase inhibitors?	0.3830251352506284
+Do people win?	0.38199860142929487
+What do they show it in?	0.3766453808410821
+What does that's the game?	0.365538040437698
+Is another thing though that you 've managed to kill the vast majority of the cancer cells?	0.3629291837923785
+How many mutations might it have to the 15th?	0.3589509800590269
+What is this?	0.35337975835884894
+Could people use the tools of molecular biology that we 've talked about?	0.35206752024026855
+Did I hear talks about how kinases we 're undruggable?	0.3454201742701244
+'ll it still be sensitive to these guys?	0.3428982078259115
+Does it so happen that this molecule is called Gleevec?	0.34152309674435033
+Who start growing back?	0.3412943195253382
+Will the chance that you 'll see mutations that work against both be lower?	0.3408019042195076
+Would this BCR-ABL fusion protein cause a leukemia-like disease in the mice?	0.33991117006449567
+What is just not quite that simple in?	0.33643122079031684
+What did they find was that of the first 31 patients that they tested in?	0.33214316236062835
+Does this translocation so happen that this molecule is called Gleevec?	0.33194419527826513
+Do we get resistance to Gleevec?	0.32889212899070586
+What is it in most other cancers?	0.3280280496000003
+Did they find that the kinase activity was necessary?	0.32396404035616255
+What do I 'm not going to show to you?	0.32005790638327136
+Did they make an inhibitor for the kinase?	0.31975107423574256
+Is fusion present in a certain kind of cancer of the white blood cells because this BCR-ABL?	0.317201295196468
+Is first point?	0.3135477424023305
+Do a small, tiny minority have some other mutation that has caused them to be resistant?	0.3115866160504557
+Who relapse?	0.3057063382410954
+When does it's gotten so cheap that you could sequence every patient's own cancer what's been cool is?	0.30466988195626765
+Is Gleevec this inhibitor?	0.30433715007212125
+What will be lower?	0.30417721021685123
+'ll that work for those 10 % or 15 % of the patients?	0.3034770071708208
+Might well, OK the chance that it might have the two mutations be one in 10 to the 10th?	0.30051285740650613
+What is very complicated?	0.3000894415888957
+What do you get?	0.2998131614441182
+If you could make a drug to inhibit enzymatic activity, would what enzymatic activity you like to inhibit?	0.2815809537907046
+Does it's almost always associated with mutations in the active site of the ABL kinase?	0.278475251571523
+Was it pretty clear to people that creating a kinase inhibitor was probably impossible?	0.27711248051995163
+Was this BCR-ABL fusion protein possible to transfer that protein into?	0.27215551758379153
+Would it cause a leukemia-like disease in the mice?	0.2701013992267387
+Did that tell us that that fusion protein was actually enough to cause that cancer on its own?	0.2676742542655499
+Do I 've left out lots of steps, lots of controls, and all that?	0.26588179850966487
+What had similar binding pockets and all that?	0.2611501194052197
+Do this get resistance to Gleevec?	0.2588676710397766
+Do I 'm willing to share my data with other people sharing their data?	0.2532358314759593
+Do they all go away in response to the drug?	0.2510828485812753
+What can we build a big enough data set that we can learn?	0.2457740597775271
+Is CML this leukemia?	0.23897201382703503
+Will this mutation and a little bit of these mutations make it resistant to both of these guys?	0.23829930882242145
+Do a small, tiny minority have some other mutation that has caused all that to be resistant?	0.23700432887418144
+Did all that make an inhibitor for the kinase?	0.23456513446763694
+Who will patients develop at a rate of about 5 % or 10 %?	0.22908864288366093
+Did all these enzymes have sort of similar binding pockets?	0.22885143462752433
+Did we get all these different ways to cause cancer?	0.22661260605208788
+What do you 're now roughly up to?	0.223629627523799
+Are the humans who are involved doing it?	0.22315290025146384
+Who does it's almost always associated with?	0.2228138995553932
+Do I 'm hoping that we 'll have made enough progress by that point to offer better and better odds?	0.22183807430207736
+Can the more you come up with strategies?	0.21584965405515444
+Did that lead them to try to make an inhibitor for the kinase?	0.21569318584226282
+'ll you have to get a next generation and next generation?	0.21410468562971596
+If this threonine at position 315 mutates to an isoleucine here, does the drug not fit anymore?	0.20909566176282102
+Can you imagine a world where every patient will have their genome sequence, and their tumor sequence?	0.2076832347287958
+Is this seriously the work of several decades you 've got to realize?	0.20040208253833924
+Does that's no reason to be discouraged?	0.19746532635169878
+If we develop enough drugs 'll we have on the shelf enough drugs to use enough combinations?	0.1939166419801408
+Does that's called a drug called Herceptin?	0.19258711142904295
+Does it's going to take a lot of work to get there?	0.19063067025145752
+Does it's kinases upon kinases upon kinases?	0.18964906969016493
+Was it possible to transfer that protein into?	0.18775538240113132
+What is another thing though?	0.18717830787338352
+Are the different melanoma lesions all these little distributed tumors?	0.17638049921493248
+Do we 're going to need to pool all that?	0.1738765290470452
+What did we get all these different ways to cause?	0.16494230259418252
+Do I not want to pretend this is easy?	0.16082198385313484
+Do you 've got a whole solution?	0.15659904935648195
+Does it sit in the active site of the kinase here?	0.15581860219093224
+Who say?	0.15550190265454278
+Did they have similar binding pockets and all that?	0.15381240672225394
+Did it turn out despite the good arguments why it might be impossible to make kinase inhibitors, folks made kinase inhibitors?	0.15290124119060255
+What turned out?	0.14952320429150268
+Is this activity absolutely essential for CML?	0.1437703074036243
+What does which mean?	0.14100328176615706
+Who do not know yet?	0.1402671763306036
+Might it have three mutations to the 15th?	0.13856780146327008
+Did that lead them to go into human patients?	0.13562699642381926
+Do people 're going to need to pool all that?	0.1286340550573719
+Does that's sort of a world we 're all imagining right now?	0.1280372270607164
+Do figure out what parts take that kinase inhibitor?	0.12454645766639194
+Does a tiny minority so happen that there are drugs against that something else?	0.12299751112980761
+Does it so happen that there are drugs against that something else?	0.11419087608473877
+Do they have to do with mutations elsewhere?	0.11030071082116688
+Do you get other inhibitors that can come in here and bind?	0.10933785482183245
+What do they develop?	0.10568138598590959
+Does that's not the same thing as in a patient?	0.10562559322278942
+Do I 've got a little patch?	0.09765012088490144
+What does it's develop it?	0.09031486007477518
+Do you 're in business?	0.08281869518083163
+Do I 've only picked on these kinases here?	0.0806976770241592
+What was that?	0.08010642738824725
+Does it work in 10 % to 15 % of patients?	0.07751629503917412
+What does it so happen against?	0.07384447366197655
+Does that's sort of a world people 're all imagining right now?	0.07358759613042398
+Will a non-trivial fraction of you get cancer in your lifetime?	0.06217567814252334
+What can these mutations here, make?	0.05249592399505243
+Do they go into human patients?	0.051361969295457666
+If you can block that activity do you defeat CML?	0.04888009617476152
+What start growing back?	0.044963102802044075
+Who win?	0.042373945404604374
+Could people not do the most common enzyme activity involved in this pathway without the kinase activity?	0.039889004505984094
+Does this translocation create this fusion gene here?	0.03529923892058395
+Who 'd really like to know?	0.035178219152528056
+Who might it have to the 15th?	0.033560568296283844
+Does it work in cell culture?	0.02601687687302423
+Might you have bought somebody a year?	0.02374221117274722
+Does this work in 10 % to 15 % of patients?	0.013136244187405222
+Might it be impossible to make kinase inhibitors?	0.011120437721001242
+What does it turn out?	0.010107455851672498
+Do you see pretty impressive responses?	0.010005177657192554
+Does it's a little trickier in most other cancers?	0.009730069689387832
+Does it produce a scrawny little chromosome number 22 there in fact?	0.008171415353042999
+Who have?	0.0075647429816092515
+Could a physician use that information?	0.006824777633255952
+Do they take that kinase inhibitor?	0.003307383610604564
+What was over expressed?	0.002958277879708371
+Who will make it resistant to both of these guys?	0.002776455162268654
+What do a tiny minority of those cancer cells, have because some of those cancer cells?	-0.009043722118881048
+Does this translocation produce a scrawny little chromosome number 22 there in fact?	-0.017410801112565766
+Does that's the game we 're playing?	-0.020684202792817574
+Does this work in cell culture?	-0.0359458643189603
+Who do they have to do with elsewhere?	-0.04161463346568861
+Do we know about the circuitry?	-0.046082174781095775
+Did they show that it could prevent the fusion gene from transforming cells into cancer cells in the mouse or in a dish?	-0.04876371771440624
+Do you know about the circuitry?	-0.05042447226242497
+Does it's going to take a lot of sharing in my opinion?	-0.05117233807460453
+Does the most common enzyme activity involved in this pathway's kinase?	-0.056225168011950544
+'d you like a kinase inhibitor?	-0.05641636252995563
+Does it's a little gross so I 'm not going to show it to you?	-0.05837989093168372
+Does that's the game people 're playing?	-0.06773680403134597
+Who go on?	-0.06804746674212536
+Might all that be impossible to make kinase inhibitors?	-0.07845378970898187
+Does it create this fusion gene here?	-0.08430382370270362
+Does it's in clinical trials?	-0.09235834778123175
+Do I 've just shown you over here in this picture a patch of skin?	-0.10503638266822679
+Was the gene that fusion gene?	-0.10611832423222278
+Is this kind of on the edge?	-0.1063773129365484
+What does the most common enzyme activity involved in this pathway's?	-0.11833249226246156
+Does it turn out they activate something else?	-0.12615029303207548
+Did it work very well on about 10 % or 15 % of the patients?	-0.14277773867447707
+Did we talk about with DNA sequencing?	-0.16432995719099175
+What do we 're going to have to learn?	-0.1709410671478524
+What do I think?	-0.17595954269048864
+Could you make a combination?	-0.17641416341966565
+Do people collect more of that information?	-0.18052346698742605
+Do I 've probably told you just enough to imagine what's going on in that overall complex picture?	-0.18168413091502011
+Did it turn out?	-0.18623543514756502
+Is it not quite that simple in most other cancers?	-0.18642814414647568
+Did they find was that of the first 31 patients that they tested it in?	-0.1919638556462817
+Do I 've told you a story right now about a very simplified version of cancer?	-0.2048458397418973
+Do I think it's going to be a really important thing?	-0.2106775161947032
+Does it's another kinase?	-0.22272466721544082
+Do we 're going to have to learn which patients respond well to which drugs as a function of which mutations?	-0.23039509526969182
+What can we build a big enough data set?	-0.23131693433273992
+Do we 've got this pathway here?	-0.24221920589301704
+Is the problem that all that relapsed also?	-0.2467366885354323
+Who do a tiny minority of those cancer cells, have because some of those cancer cells?	-0.2503345025414052
+Does it's kinase?	-0.25075061407640997
+Could they not do it without the kinase activity?	-0.25089094980435767
+Whose own cancer does it's gotten so cheap that you could sequence what's been cool is in the past four or five years?	-0.2616784101618437
+Is the problem that they relapsed also?	-0.269176748116019
+What did figure out what parts find was that of the first 31 patients?	-0.2754018510512166
+Does that's it for cancer?	-0.2839334326362526
+Do they relapse?	-0.2868883937481117
+What did they find was that of the first 31 patients?	-0.2877961636239873
+Does that's not to be sneezed at?	-0.29286672694923066
+What does it's a little trickier in?	-0.29403662396985775
+Does it's gotten so cheap that you could sequence every patient's own cancer what's been cool is in the past four or five years?	-0.3111936872567327
+Does that's why I 've mentioned it?	-0.31834277897996777
+What can you imagine?	-0.3573144540573464
+What does that's it for?	-0.36569535178256984
+Do you 're now roughly up to the edge of what we know about cancer?	-0.3698776644249533
+Do this relapse?	-0.37750801709988857
+Were people really excited because it was pretty clear that's all you have to do?	-0.37825398087562534
+Was it pretty impressive?	-0.4035590788243042
+Do you know what happens if you do that?	-0.40484908080937587
+Does it's only 5 % or 10 % of patients per year develop it?	-0.4079787310722325
+What did figure out what parts find?	-0.4169502003089718
+Do we not know yet?	-0.42229075467245725
+What do I 've only picked on?	-0.4315349019535504
+Does it's almost?	-0.43517352771088724
+Do we say?	-0.4387484128633208
+Would I not be surprised if over the next couple years we see a kind of alliance across many institutions in the world and patients in many countries?	-0.43965022679000176
+What will a non-trivial fraction of you get in your lifetime?	-0.442832693654978
+What do you know?	-0.4543554705833165
+Do they develop a drug to inhibit it?	-0.45669775501999754
+Do I 'm not going to show it to you?	-0.46121774370650903
+Do we go on?	-0.4639701444390556
+Do we collect more of it?	-0.4700630849531129
+Does this's almost?	-0.48625702521727665
+Do they show it in animal models?	-0.4929148209404135
+Do they start growing back?	-0.49299022696559924
+Does it's not entirely clear?	-0.5020874382745446
+Was all that pretty impressive?	-0.509132114441817
+Do they have?	-0.5093831656208956
+What can we build?	-0.5118021891857862
+What does it's?	-0.5130758732787557
+Was it extraordinary?	-0.5170080791991041
+Does all that's a reason to say it might take two or three or four places to have to block the cancer in the possible mutations?	-0.525064801912265
+Can we build a big enough data set that we can learn what works best?	-0.5264733703618247
+Is this almost?	-0.5332555471435096
+Did figure out what parts find was that of the first 31 patients that they tested it in?	-0.5415916430691639
+What is it not quite that simple in?	-0.5432363623295202
+'d we really like to know?	-0.5470395521643978
+Was it over expressed?	-0.5518751648594955
+Does all that's not entirely clear?	-0.5647492332501265
+Do we win?	-0.5671540947506744
+Do they show it in cells?	-0.5730511791637294
+Can that help?	-0.5879296026065581
+What does it's gotten so cheap that you could sequence what's been cool is in the past four or five years?	-0.5941855987259181
+Was that it?	-0.5943042080104719
+Does this work?	-0.6237153592622848
+Was that there?	-0.6337960015805268
+Was it pretty clear that's all you have to do?	-0.6461452816158502
+What does it's gotten so cheap what's been cool is in the past four or five years?	-0.6567828707866654
+Does it work?	-0.7053479412570054
+Does it's a reason to say it might take two or three or four places to have to block the cancer in the possible mutations?	-0.7657867929791349
+Whose own cancer does it's gotten so cheap what's been cool is in the past four or five years?	-0.8210829004062463

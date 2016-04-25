@@ -1,0 +1,29 @@
+PROFESSOR: Section 2. Fractionating Life. 
+
+At the most crude level, we could describe life in terms of what happens when we grind it up and break it down into atoms. There we have a fairly simple description. We're going to take our nice cell, or our nice butterfly, or something like that. We're going to take the cell, and we're going to grind it up. We're going to break it down into atoms. 
+
+And what I can tell you is the atomic composition of life is pretty similar across all living organisms. At the level of atomic composition, you are hydrogen, 63%. You are oxygen, 24%. You are carbon, 10%. You are nitrogen, 1.4%. You are phosphorus, 0.2%. You are sulphur, less than 0.1%. 
+
+That's most of you. That's accounting for most of you. And you are trace quantities, trace amounts, of ions-- calcium, chloride, potassium, sodium, magnesium, manganese. Teeny, teeny, weeny little bits of selenium, but tiny trace amounts of these ions. 
+
+This is mostly what we're going to focus on-- nothing more than six atoms, six types of atoms. So out of a periodic table of more than 100 elements, you're going to get to know six atoms particularly well. The rest of it we can largely dispense with. It turns out the rest of chemistry requires them for all sorts of things, but we don't. 
+
+All right? So that's what we're going to do-- hydrogen, carbons, nitrogens, oxygen, phosphorous, sulphur. But I'll tell you-- it doesn't much matter. Because this level of description of life isn't much useful for anything. It's not a very satisfying description. 
+
+So, next up, let's get a slightly more satisfying description-- a molecular composition. At the level not of your atoms but your molecules, it's pretty clear that you are almost entirely one particular molecule. And that is? 
+
+STUDENT: Water. 
+
+PROFESSOR: Water. Right? A first-order description of a student at MIT is they're about 80% percent water. All right? If we were just being pretty blunt about it, right? You have other properties, but we've got to start by saying that about 80% of a human being is water, H20. The rest of the 20% turns out to be interesting, but water's a lot. 
+
+So now let's look at the dry weight. And this we are going to do by weight, not by atom count, I think. The dry weight of you is protein. About 50% of your dry weight is protein. About 15% is carbohydrates. We'll talk about those things. Lipids and fats, about 10%. And nucleic acids-- DNA and RNA-- about 15%. 
+
+So we got you at the atomic level. We've got you at the level of these big categories-- water, proteins, carbohydrates, lipids, nucleic acids. Again, this is not that interesting a description. But that's a bulk description. 
+
+We want much more interesting descriptions than that. We want to actually know, what are those molecules there? What do they do? What are these proteins about? What are these carbohydrates about? What are these lipids about? And how do their properties account for the amazing properties of cells? 
+
+So we have to dive in a little bit deeper and understand now. We want to understand now chemistry. And how the chemistry gives rise to the properties. 
+
+So we're going to do a lightning tour of chemistry. We will do complete injustice to a proper course in chemistry, which you are taking elsewhere here at MIT. And people can go take on the web from MIT. But we're going to do the lightning tour of chemistry-- just the amount of chemistry we need in this course. But we do need this amount of chemistry. 
+
+All right. It's question time again. Test yourself by answering this question. 

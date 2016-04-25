@@ -1,0 +1,35 @@
+PROFESSOR: Welcome back. Today we're going to talk about a subject that I like a lot. We're going to talk about genomics, and it's fun for me to describe genomics, because I do genomics, and we're going to talk about the Human Genome Project. As compared to Buchner in biochemistry, where I didn't live through that, and Morgan and Sturtevant, and, I didn't live through that. 
+
+Crick and Watson I both knew, but I wasn't there. I wasn't even born at the time that they went running into the Eagle Pub, saying to everybody they'd found the secret of life. But the Human Genome Project is roughly the period that I've been in biology for, and something that's been a big part of my own scientific life. And so I want to describe how it came to be. Why we bothered. 
+
+Because it's the answer to a question, and I want to tell you about that. And I want to tell you about how it is that we collectively across the world got the project done, and I want to tell you about what's happened since then. So that's the plan for tonight. Let's do it. So what have we done so far? We go back to our coat of arms every time. Function understood through genetics or biochemistry, gene or protein connected through molecular biology. 
+
+And what we've been doing for the past several lectures is taking what was a theoretical picture, genes underscore functions. But how would you what the gene was? Genes encode proteins, but how would you know what the protein was without being able to read DNA? And making it operational with recombinant DNA. Taking this theoretical picture and beginning to make it operational. 
+
+We haven't got it fully operational yet, but we've talked about how you can find the gene underlying certain functions. How given a gene, you can read out the protein by DNA sequencing. Talking about if I had an antibody against the protein, how I might find the gene. We're really connecting up this picture in an operational way. 
+
+So let's just briefly review what we did in recombinant DNA, and then we'll talk about a question I raised at the end of the lecture before last. One we didn't have an answer for, and tonight, we're going to get us an answer for it. So the first thing we talked about under recombinant DNA was making libraries. Given any source of DNA, here's our DNA source. 
+
+We can cut it up or shear it up, break it up in some way into pieces of DNA. We can ligate it to vector molecules. Many vector molecules here, each of which gets a different piece of our source DNA. We can then take a tube of bacteria, these are bacteria, I'm putting little flagella on them so that we remember they're bacteria. And we transform the DNA a into the bacteria. 
+
+And then with the bacteria having at least some of them sucked up that DNA, those circular plasmids there, we plate it on a Petri plate here. And we grow up those single cells that land on the plate and carry our plasmids. They grow and divide and grow and divide to make colonies, and every colony contains an individual different piece of DNA from our source. And that's a library. 
+
+That part we did in the first lecture on recombinant DNA. In the second lecture, we talked about finding our gene. Finding your gene. And we talked about two examples of how you might find your gene. We talked about the case where you had a particular function defined by a mutant, and you could put the piece of DNA, that is all of the different pieces of DNA into the mutant, and find the piece of DNA that could rescue the function. 
+
+That could complement the function, that you do complementation. It's really just the complementaiton test that we talked about in genetics turns out to be one of the great ways you can find the gene. So if you know the gene's function and you have a mutant, you can do complementation by rescuing the mutant, restoring the wild type pehnotype. That's great. 
+
+But we found that while that's very powerful, you could use that to find the genes that encode argenine biosynthesis, if you had an argenine mutant, you couldn't use it if you didn't have a way to rescue the mutant. One example we gave was betaglobin. If we wanted to find a particular protein that we didn't have a mutant, that we weren't going to be able to rescue, instead we talked about doing this by protein expression. 
+
+By instead cloning our library here with, instead of genomic DNA, to make it convenient, CNDA, the reverse transcription of RNA. Putting it into a vector that had a promoter, so that these CDNAs could be used to make RNAs translated into proteins. And then if we had an antibody against our protein, we'd be able to use our antibody to wash it over our library and have it stick to whatever colony had cells making that protein. 
+
+That was pretty cool, too. All right. And then we talked about how given that you had found your gene, how could you sequence and analyze your gene? In here we talked about that exceedingly cool trick that if you had a piece of DNA, three prime to five prime that you wanted to sequence, all you needed to have was a primer that was at the start of it. 
+
+And then you could use a sequencing reaction with some defective T, a T nucleotide was unable to be extended, and wherever it was that a T was in the sequence, with some probability, some of those molecules would come to a stop at the place where there was a T. 
+
+And then you could do the same thing with a defective A and see where the defective As were, because the lengths of the molecules that you got when you did that would correspond to the positions of the As, and so on. 
+
+That was sequencing, and it was gorgeous, and it got better and better and better by doing this not with radioactivity, but with fluorescent dyes all in the same lane, and little laser detectors, and all that. And finally we talked about how once you had the sequence of a gene once, you could get that gene again and again and again by amplification. By doing PCR. 
+
+Once you knew the sequence of the gene once, you could take the whole human genome here, and if you had a pair of primers that flanked the sequence, you could do the polymerase chain reaction back and forth, back and forth, back and forth, as we talked about, and make a thousand, a million, a billion copies of the segment of DNA there. 
+
+And so that's one very powerful thing of knowing the sequence. So that's it. That's a review of all of recombinant DNA that we did. OK, before we go on, try answering this question about the basics of recombinant DNA. 

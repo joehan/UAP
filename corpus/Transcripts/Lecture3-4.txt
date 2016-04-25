@@ -1,0 +1,51 @@
+ERIC S. LANDER: It turns out that one incredibly smart guy, one extremely smart guy, said, I don't want to think about the complications. I want to think about the simple bits. Let's think about the simple bits first. 
+
+And so proteins, secondary structure. He said, I'm not going to solve the whole thing. But are there any simple rules? 
+
+Now this guy was one of the world's best ever, history's best ever chemists, a guy called Linus Pauling. Linus Pauling, who some of you may know, amongst other things, he won two Nobel prizes, one in chemistry and one for peace. It's interesting, worth looking up Linus Pauling. Linus Pauling, he was a very intuitive chemist. 
+
+In 1948, he was the Eastman professor at Oxford University in England. And he caught a cold. And the weather is terrible, often, in England. I spent three years going to graduate school in England. And the weather can be pretty bad. 
+
+Linus caught a cold. And Linus was laid up in bed. And what most people might do, you know, laid up in bed was not what Linus did. Linus said, Oh, I'm laid up in bed. I can't go to the lab. I'm going to figure out how proteins fold. 
+
+[LAUGHTER] 
+
+ERIC S. LANDER: And he had at his disposal paper. And he started doing origami. He started folding the paper along the ways that the various different-- like those bonds, I could tell you-- those rotating thises and thats. He said, can I make any regularities out of this? 
+
+And, of course, what he said was, look, I've got a peptide bond here, right? Let's see. I'm just going to jump right into the middle of a protein here. C, I've got my C alpha, I've got C alpha, C alpha. 
+
+He said, I know those side chains are very, very important. But I'm going to totally forget about them. I'm not going to care about the side chain. I'm not going to care about the side chain. I'm not going to care about the side chain. 
+
+I'm going to note that I have all this wonderful hydrogen bonding potential. I've got those bonds along the backbone of the protein that can make hydrogen bonds. So let me utterly ignore the side chains. And let me ask, with my paper origami, what patterns can I make making hydrogen bonds of just the peptide of the protein chain here? 
+
+And I will not do justice to it, but what he did was he said, you could kind of make a helical structure. And in that helical structure, you could have this pointing at this. I could have my carboxyl and my amino pointing at each other. 
+
+And, he said, if I fold my origami just the right way, it can go around and around and around, such that at every place it's able to make bonds like that. And it's able to continue to come down and make bonds, and make bonds. And you could get a whole bunch of hydrogen bonds from that backbone going around. 
+
+And you get a helix. And that helix has 3.7 amino acids per turn, per turn of the helix, by just perfectly lining up the hydrogen bonds that you can have between this carboxyl and then 3.7 later, this amino. And then, onward and onward and onward, every one of them making this beautiful bond, and making these beautiful hydrogen bonds. 
+
+This was the sort of thing that pissed people off. Because Linus Pauling, sitting in bed with the flu, is able to come up with the fundamentals of protein structure by just thinking about it. You know, this is amazing and did not necessarily endear him to others who didn't think of such things. 
+
+Linus calls this the alpha helix. Not to be outdone, he also says, there's another way I could imagine using all this hydrogen bonding potential. Kinda suppose there was a chain of-- and I'm just going to draw this very roughly here-- somehow a chain like that. And I have-- so here's my peptide backbone here, my protein backbone's going along here-- and I could also do it like that and make lots and lots of bonds along a long chain. 
+
+So instead of making a spiral, a helix, I could have two strands, one strand and another strand, and I could have lots of hydrogen bonds between the strands. 
+
+And in fact, it turns out, you can get the strands going back, and the strands going back. And what you can make are beta sheets. He utterly ignores the amino acids. Now you know it's wrong to ignore these amino acids. I've just told you about these cool amino acids. 
+
+But it turns out, Linus was kind of smart here. He said, many times the amino acids won't matter enough, and its permissive to be able to make an alpha helix. And some amino acids are pretty fine with being in an alpha helix. And some amino acids, you know, they're better for, you know, beta sheets. 
+
+And then there's another possibility, which is neither of the above. Neither of the above is called loops. And it means stuff, things that aren't easily classified as beautiful helices, not easily classified as sheets, but kind of more random-y loops. 
+
+And at a first order approximation, you can kind of make cartoons of a protein, a cartoon of a protein that has either alpha helices in parts of it, beta sheets in part of it, or loops in part of it. 
+
+Let's actually take a look. Right here, here's our alpha helix. And the hydrogen bonds are holding it together along a certain length. Now, one of the amino acids that will not consent to be part of an alpha helix, is the one amino acid that's not an amino acid. Remember, I said that kinky thing, proline, has a constraint. 
+
+When there's a proline in an alpha helix, it breaks that alpha helix. It's kinky, OK? Here's some beta sheet. We've got hydrogen bonds, hydrogen bonds, and you can get these marvelous sheets. 
+
+Biologists draw this, and chemists draw this in all different ways. We have these things we tend to call ribbon diagrams. Here's my ribbon. And this long sheet here, we just draw it. And it's kind of a very nice beta sheet, and it's hydrogen bonding that way. 
+
+So what's this part here? We call this random coil. They're all a little bit different. There's some random coil here and some random coil there. And so we see beta sheet structures. We see alpha helix structures. 
+
+Any questions? All right. So this doesn't totally explain all protein folding, because we've got those amino acids to care about. But it gets us some very basic descriptions, alpha helices, beta sheets. 
+
+Take a few minutes to think about what you've just heard by answering this question. 

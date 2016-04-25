@@ -1,0 +1,592 @@
+What does one particular molecule called G3P convert to it bounces into triose phosphate isomerase?	2.639304423818829
+What does one particular molecule called G3P convert to the other thing it bounces into?	2.5546349186383868
+What say Let has glucose or some other six carbon sugar?	2.5331268032520624
+What do Let's say has glucose or some other six carbon sugar?	2.530659921988431
+What's where the reaction is balanced perfectly at equilibrium?	2.511337556308414
+What 'll try Let with our triose phosphate isomerase numbers here?	2.5025187968675238
+What 've got to know what RT is?	2.4571545932897525
+What do Let's say Let has?	2.444207383932357
+What's the important thing to think what's called entropic consideration?	2.43102811273296
+What has the natural logarithm of the concentrations of the products and the reactants?	2.4292714850053336
+What was DHAP a lot of?	2.3981236761400835
+What does a hexose's going to ferment into carbon dioxide plus ethanol?	2.388548280914752
+What's favorable to a lower energy state?	2.385669230201106
+What was there was a difference in the energy states?	2.382202168945821
+What does delta G0 have the natural logarithm of?	2.361661847743549
+What had no effect on whether the reaction is running forward or backward?	2.32620931259068
+What's the log of a big number?	2.3054503737863836
+What has a RT-- that's a constant there, and that's temperature in degrees Kelvin?	2.3009647476722064
+If delta G is negative what is going to run forward?	2.2988079991077406
+What does one particular molecule called G3P's a mass action kind of?	2.293511717888939
+What does STUDENT: So at equilibrium, that mean that there's going on?	2.286466236887434
+What is the dynamic equilibrium that's obtained?	2.28445335257264
+What took one particular molecule called G3P?	2.2462479999767906
+What does one particular molecule called G3P's?	2.229608488233334
+What was a lot of the product?	2.2245086682515605
+What can Let defuse to?	2.224052336805193
+What can defuse to the enzyme?	2.191529965971185
+What do let's try to check out for example?	2.1886791074942233
+What's why the evolution of enzymes was so very important?	2.1877416383522403
+What's a mass action kind of thing?	2.140268885216751
+What's like falling down the stairs?	2.1301990242247206
+What does a RT-- that's a constant there, and that's temperature in degrees Kelvin's?	2.1177646240375774
+What would be at equilibrium?	2.1067452579705908
+What does RT depend on?	2.094768576803716
+What is triose phosphate isomerase?	2.088619156315409
+What just is all determined by delta G0 prime?	2.083989298179193
+What's the important thing to think about is there's an energetic consideration?	2.070923351356538
+Who does that mean that there's no reactions going on?	2.054883452767524
+What does what's the log of?	2.0463994067900804
+What plug a lot of DHAP, a lot of the product in here?	2.044054257740672
+What is although that makes enormous sense, it's wrong?	2.038409228078517
+What was the point there was?	2.0372608688000136
+What let's actually try this out in practice?	2.034446833612804
+Who is Life not?	1.9978911437299847
+What did an enzyme change it into?	1.9901415827476538
+What's all about speed?	1.9852822774041294
+What does no.? pass it through?	1.9815882975485166
+What does fruit juice have?	1.968893267897377
+What would the concentration be at?	1.962740039320493
+What tells us-- in fact?	1.956063584088189
+What do such let's actually try this out in?	1.9382071172703934
+What is TIM?	1.932926485818722
+What do Let's say?	1.9219810413007643
+What depends on the temperature?	1.9028986653445168
+What's a very uneven, unlikely distribution?	1.8895483344519464
+What's all right for energetics?	1.8736293333368463
+What was DHAP?	1.8735590273510714
+What did g3P over here have?	1.8665512396516601
+What is the log of one?	1.865196942384698
+What does no.? turn out it does it via?	1.8651732492527713
+What did the enzyme actually have?	1.8603194879457305
+What is a static equilibrium?	1.85902750844321
+When does an enzyme's all?	1.8462852958896199
+What does super low temperature stuff's for us?	1.845996010988518
+What is the single reaction?	1.843594917040075
+What is all TIM does that's?	1.8426272276761486
+What is that's a really important observation?	1.8378765071368464
+If delta G is positive what will actually run the other way?	1.836817973804165
+What is thermal energy?	1.8327007239348525
+What does a RT-- that's a constant there, and that's temperature in degrees Kelvin turn out do not?	1.8308803265019256
+What's the key thing?	1.8273206024454458
+What well's just one chemical transformation?	1.825052837399972
+What does not know what the other molecules are doing?	1.8209341319317671
+What's at equilibrium?	1.8042114383387546
+What's a little counterintuitive?	1.8021770301578544
+Who had a slightly lower energy state?	1.800721883864851
+What does what's?	1.791785265111161
+What is the way chemistry really works it involves?	1.7646882537830313
+What is biochemistry?	1.7553763704912926
+Who talked about that big activation barrier to get how triose phosphate isomerase lowered that activation barrier?	1.7544089068829463
+What is thermal noise?	1.7429778572519607
+What is the dynamic equilibrium?	1.728403390260894
+What is genetics?	1.7208147451431306
+What did we talk about to get how triose phosphate isomerase lowered that activation barrier?	1.7099643806307125
+If delta G is positive what will the reaction actually run?	1.6989026286729394
+What's the obvious thing?	1.6776067120563956
+What does STUDENT: So at equilibrium, that mean?	1.6546673985895142
+What 'll be positive?	1.6485910451094257
+What's a pathway?	1.647387381368107
+What would all go to the low energy state?	1.6426445797695461
+What is the concentration?	1.6419294419631554
+What makes enormous sense that if that's a lower energy state, all of it is going to go to the lower energy state?	1.6359698383340775
+What was the molecule?	1.6238112495482284
+What's going to ferment this hexose into carbon dioxide plus ethanol?	1.617754774791762
+What is protein?	1.6130846974132704
+What does a single reaction's at?	1.6114905932806847
+What is gene?	1.6088943664241264
+What's the temperature degrees Kelvin, and in degrees Kelvin Kelvin?	1.6050626109691928
+What is zero?	1.602292145909523
+What is just a catalyst?	1.591064275778745
+Where does Entropy say we cannot have all those molecules over there?	1.5710876914756713
+What could be positive?	1.564773409952712
+Who had a lot of DHAP?	1.5569096564589682
+What is doing its thing?	1.5567428777764047
+Do Let's say Let has glucose or some other six carbon sugar?	1.541651599693488
+What does an enzyme's?	1.5393731079369921
+What is function?	1.5181080943062084
+What is pretty important to know?	1.502265397382387
+What did an enzyme take?	1.5020500914331647
+Does one particular molecule called G3P convert to the other thing it bounces into triose phosphate isomerase?	1.4974243473126227
+What's behaving independently?	1.495910115854825
+What did that by stabilizing this transition state?	1.495528176158178
+What was the transition state?	1.4871322599721826
+Who understand how their various different chemical properties control the shapes of proteins?	1.462308627245287
+What is when there's a lot of these guys?	1.4457424237730785
+What does a go to B goes to C goes to here?	1.427487514705688
+What say it has glucose or some other six carbon sugar?	1.4163631517931061
+What does so that tell this it's going to go from G3P to?	1.4120527054640517
+What so tells this it's going to go from G3P to DHAP?	1.4097921384453165
+What will go the other way?	1.4077443194343808
+If delta G is negative is the reaction going to run forward?	1.4045822038413798
+Who 're obliged to put up the coat of arms here-- function?	1.4040116135603622
+What would happen if we asked about when delta G equals 0?	1.4038770225482238
+Who 're going to pick up on where we left off before?	1.403731521281676
+Who 'd you only get about 5 % that would get converted to in fact?	1.402494880746941
+Is triose phosphate isomerase TIM?	1.3989164809142656
+What actually had no effect on these energetics?	1.3966377396018421
+What does it's going to ferment into carbon dioxide plus ethanol?	1.3923363840712257
+What converts to the other thing it bounces into triose phosphate isomerase?	1.3878317099724784
+What does fact's?	1.3797639021090904
+Who 've got to know what RT is?	1.3714828969656643
+Who 'd only get about 5 % that would get converted to G3P in fact?	1.3695430766657104
+What 'd you only get that would get converted to G3P in fact?	1.3679096915267182
+What is every molecule doing?	1.3498128907923839
+What 'd you only get about 5 % that would get converted to G3P in?	1.3497363075283437
+Who does so that tell this it's going to go from to DHAP?	1.348399964436028
+What does a hexose's going to ferment this hexose into?	1.342818565782724
+What did we understand a simple aspect of?	1.3393505171975346
+What does a RT-- that's a constant there, and that's temperature in degrees Kelvin turn out?	1.3384373805288263
+If you do that arithmetic who should come up with a positive number-- positive number about 0. 18 although maybe somebody will get another number there?	1.3377572264590887
+Who do we 've talked about our enzyme-- our enzyme triose phosphate isomerase amongst?	1.3373709456371405
+What did it do by stabilizing this transition state?	1.3344677170670232
+What does it's going to ferment this hexose into?	1.332230129382601
+What would happen if this asked about when delta G equals 0?	1.331174224603778
+Does STUDENT: So at equilibrium, that mean that there's no reactions going on?	1.322107116522965
+If you 're doing high temperature stuff and super low temperature stuff who cares?	1.3201762202894063
+What does one particular molecule called G3P convert to the other thing bounces into triose phosphate isomerase?	1.316348540124097
+What did an enzyme do by stabilizing this transition state?	1.3114539744588023
+What is more favorable?	1.3102725704573241
+What was the point?	1.3102419284524205
+What 're equal?	1.3097316615275318
+Does delta G0 have the natural logarithm of the concentrations of the products and the reactants?	1.3082799722517273
+What so will actually be generating G3P?	1.3081258890254772
+What is c6H12O6?	1.3076860103152292
+What would anything sensible you 'd think all go to?	1.3037984392982511
+What says we cannot have all those molecules over there on this side?	1.303160089735015
+Does one particular molecule called G3P's a mass action kind of thing?	1.302021418137774
+What does so that tell it's going to go from G3P to DHAP?	1.3009276064287847
+What 'll this try with our triose phosphate isomerase numbers here?	1.2989527349803756
+What does Entropy say we cannot have all those molecules over there on?	1.2962742158818665
+What will the reaction go?	1.2949631325326663
+Can Let defuse to the enzyme?	1.2876822171805
+Was DHAP a lot of the product?	1.286603314251456
+Was the point there was a difference in the energy states?	1.283062452095729
+What does Entropy say we cannot have over there on this side?	1.2818817689874793
+Who does so that tell it's going to go from G3P to DHAP?	1.2803003687454577
+What do we 've got protein structure under?	1.277825042875477
+What does each molecule not know?	1.276713581516654
+What does it convert to the other thing bounces into triose phosphate isomerase?	1.2761996290489321
+Who 've talked about our enzyme-- our enzyme triose phosphate isomerase amongst friends?	1.2760248531328462
+Who understood a simple aspect of pathways?	1.2727126734941776
+Who found?	1.2653693473678957
+What was this intermediate, and by preventing other reactions from going on that would destroy our happy little transition state molecule?	1.2615371419544665
+Did g3P over here have a slightly lower energy state?	1.247316101605629
+What did I have a lot of?	1.244265537013089
+What does it have the natural logarithm of?	1.242683013896397
+What is one reaction in a long pathway like that?	1.239867494081074
+What changed it into another molecule?	1.2361152445794468
+Would the concentration be at equilibrium?	1.2241299897307831
+Who really want to let's start with the energetics of pathways?	1.2171904529431763
+Did an enzyme have no effect on whether the reaction is running forward or backward?	1.215784301973891
+What is determined-- because that enzyme is just a catalyst?	1.2141112022311233
+Does what's the log of a big number?	1.209758043348804
+Who does Entropy say cannot have all those molecules over there on this side?	1.2054132495076688
+What does so that tell us's going to go from G3P to DHAP?	1.202251498933248
+What does it's a mass action kind of?	1.201191264361146
+What passes it through steps?	1.1978500861462504
+Did an enzyme change it into another molecule?	1.1962268656906319
+What do Let's say it has?	1.1925486279323647
+Did an enzyme take one particular molecule called G3P?	1.1893940233111069
+What does so that tell us it's going to go from G3P to?	1.18583739100609
+What's favorable?	1.185284620595117
+Who do we really want to let's start with?	1.1843167182540637
+Who 've got protein structure under control?	1.1838489488456054
+What so tells us it's going to go from G3P to DHAP?	1.1827684770947449
+What is the equilibrium concentration for our reaction?	1.181774162647899
+What do let's try to check that out for?	1.1742158668166716
+If you had a tube that was only DHAP, the more favored state, and triose phosphate isomerase, what would TIM run some of?	1.1673246809295312
+What does it convert to it bounces into triose phosphate isomerase?	1.1634342450758561
+What's unfavorable when you balance out the considerations of the energy and the concentration?	1.159965694194402
+Does RT depend on the temperature?	1.1597129881255808
+What has yeast in it?	1.1578520494611495
+What will get another number there?	1.1577953469963065
+What does the absence of that enzyme TIM help speed up?	1.1556018560942656
+Do such let's actually try this out in practice?	1.1527085964093304
+What did an enzyme have?	1.1467837257151574
+Who call a six carbon sugar a hexose?	1.1429439006907463
+What really is very confusing?	1.14008576644459
+Who adds this big number to a negative number?	1.1373669748910138
+What do we 've got under control?	1.1332588378580608
+Does no.? turn out it does it via a pathway of steps?	1.1328277737895696
+What does so that tell this's going to go from G3P to DHAP?	1.128301046354832
+Who does so that tell us it's going to go from to DHAP?	1.1221846499780663
+What's wrong?	1.1176579334682617
+Is all TIM does that's a really important observation?	1.1133715746389523
+What alone is not enough to explain what Buchner found in that experiment we talked about in very first lecture?	1.1018016587361297
+Who 'll recall we had our G3P goes to DHAP?	1.1016986219731981
+Who talked about that big activation barrier to get there?	1.1014121501352876
+If you had a tube that was only DHAP, the more favored state, and triose phosphate isomerase, what would TIM run?	1.0990550381047623
+What is really telling you the way the reaction will run if the concentrations are equal?	1.0926220303723158
+What is the equilibrium concentration for this's reaction?	1.0849133874476422
+Does super low temperature stuff's just 0. 6 for us?	1.0789025743711504
+What has yeast in that?	1.0712127236352553
+Who really want to understand the logic of pathways?	1.0668616290494617
+What's TIM that does that?	1.0658625717401105
+Who 're going to do all that much chemistry?	1.064452174302125
+Is thermal noise thermal energy?	1.059159735051049
+What will somebody get there?	1.0562490066494732
+Does no.? pass it through steps?	1.0535546581716275
+Does delta G0 have a RT-- that's a constant there, and that's temperature in degrees Kelvin?	1.0520339068017015
+What equals 0. 6 you know if even you 're running a fever or something like that or if your yeast is growing at a slightly lower temperature?	1.0478573327254908
+Is the log of one zero?	1.0377669406574364
+What turns out it does it via a pathway of steps?	1.0353461761625882
+What is all TIM does speeds up?	1.0295332306451264
+What helps speed up that reaction?	1.0276409902567027
+Is the dynamic equilibrium a static equilibrium?	1.0273336895666807
+What do we really want to understand the logic of?	1.0261916044238277
+What try to check that out for example?	1.0180424747849517
+What does it convert to the other thing it bounces into?	1.0128830724686573
+What did we talk about to get there?	1.0124733430800479
+Was the molecule DHAP?	1.0072420196381398
+Will the reaction go the other way?	1.0055768129679352
+Who 'd you only get about 5 % to in fact?	1.00302045248301
+Who have this problem of entropy?	1.0028791305690286
+So if you set that equal to 0 who could solve for the concentration?	0.999511459533202
+What's just 0. 6 for us?	0.9960525012383983
+What does no.? turn out it does via a pathway of steps?	0.9944856433175941
+Will so the reaction actually be generating G3P?	0.9941253746672973
+Who 'll you recall had our G3P goes to DHAP?	0.9936757223450676
+What does no.? turn out does it via a pathway of steps?	0.9933799873439917
+If you do that arithmetic what should you come up with although maybe somebody will get another number there?	0.9836711758251082
+What did an enzyme change into another molecule?	0.9829601384280442
+What has to do with those concentrations?	0.9789197948831025
+Who 'll try it with our triose phosphate isomerase numbers here?	0.9686176061283214
+What does not?	0.9682502362216674
+What did I have?	0.9674262526585318
+What did we understand?	0.9670814631282469
+What's just not the way it works?	0.9658760861054525
+Did Buchner find?	0.9637187893419634
+Is the problem although that makes enormous sense, it's wrong?	0.9589037679128656
+What is?	0.9571651661499847
+Did we talk about that big activation barrier to get how triose phosphate isomerase lowered that activation barrier?	0.9549956913880697
+What 'll you recall we had our G3P goes to?	0.9549282161510961
+What can it defuse to?	0.9512695428228335
+What 'll this try Let with here?	0.9481538692559102
+Who 'll you recall we had goes to DHAP?	0.9438125583634567
+What do we really want to let start with the energetics of pathways?	0.9374900162733504
+Is DHAP more favorable?	0.9343378306103076
+Does each molecule not know what the other molecules are doing?	0.9326062976302378
+What does delta G0 have?	0.931424640940518
+Who does super low temperature stuff's just 0. 6 for?	0.9311169306095786
+What does a problem's just not?	0.9310431400164954
+What do we have this problem of?	0.9256756244658495
+If you had a tube that was only DHAP, the more favored state, and triose phosphate isomerase, what would run some of that reaction backward?	0.9234734606315296
+What's it for energetics?	0.9115585222058527
+What goes to B goes to C goes to D until finally gets to our final products here?	0.9092219660346317
+What can actually say this is just 0. 6?	0.9019285699631943
+What did we talk about that big activation barrier to get?	0.8985968831767759
+What do we 're obliged to put up?	0.8967998353038094
+What does it turn out it does it via?	0.8890971116187834
+What is all TIM does?	0.882332127508249
+What can we actually say is just 0. 6?	0.8781707832858778
+What did it change into another molecule?	0.8779239376812491
+Who did we talk about how triose phosphate isomerase has an active site, and that active site it stabilizes that transition state to help us go from to DHAP?	0.8752791532152344
+Who can actually say this is just 0. 6?	0.8750608863057316
+Does an enzyme's all about speed?	0.8733927565168682
+What do we 're going to do?	0.8726023077540006
+Is function biochemistry?	0.8720459141697028
+What do this plug a lot of in here?	0.8653596550615754
+Who have to actually understand how does that work?	0.8641519918914184
+Does a single reaction's at equilibrium?	0.8638205653339266
+Who 're still over here working on the first part?	0.8561204736066372
+What does it make?	0.855424772393365
+Where does Entropy say?	0.8506846103947747
+Who 're going to say suppose I gave you a ratio of 30 to 1?	0.8456654718336027
+What does that's for energetics?	0.8431065025330178
+Does every molecule's behaving independently?	0.8430296673787223
+Could a big number? be positive?	0.8378086726481555
+Is function genetics?	0.837484288821541
+What does it pass through steps?	0.8360120541140872
+What does this tell us-- in?	0.8348893930958727
+What does no.? pass through steps?	0.8272513074524732
+Does a RT-- that's a constant there, and that's temperature in degrees Kelvin not matter?	0.8263168731838682
+Who throws in G3P?	0.8261901540517282
+Does a problem's just not the way it works?	0.8205056708191734
+What do we 're still over here working on?	0.8192168154670436
+What is speeds it up?	0.8167473289328231
+When does it's all?	0.8143164718724214
+Who talked about how triose phosphate isomerase has an active site, and that active site it stabilizes that transition state to help us go from G3P to DHAP?	0.8141841942015098
+What is not that patient?	0.8122958330914833
+What does it have to do with?	0.810002336786964
+Who write this energy?	0.8059265049084774
+Who 've got the amino acids?	0.8025206924625721
+What can this actually say is just 0. 6?	0.7992790654622237
+If delta G is positive will the reaction actually run the other way?	0.7981496504652406
+What does a go to B goes to goes to D until finally gets to our final products here?	0.7928158172968014
+What does a go to goes to C goes to D until finally gets to our final products here?	0.7925726231832737
+What is it just all determined by prime?	0.7870134379462832
+Will somebody get another number there?	0.7855128906478595
+Does a RT-- that's a constant there, and that's temperature in degrees Kelvin's the temperature degrees Kelvin, and in degrees Kelvin Kelvin?	0.7805178779425821
+What 'll we try with our triose phosphate isomerase numbers here?	0.7802991076201944
+Who 'd have to wait for it to get over by thermal noise over that barrier in the absence of that enzyme TIM?	0.7782396386359154
+What turns out that what happens depends on both the free energies but also concentrations?	0.7658567725315835
+What does it help speed up?	0.7657408559396028
+What do we write?	0.7655293416006534
+What do we 've got?	0.7622723401417595
+What does it's not decide we voted which we 're going to be and we stay that?	0.7595473951570288
+What does that make?	0.7578722443771306
+What does a go to B goes to C to?	0.752421569033833
+Who does this tell-- in fact?	0.7504341499706746
+Who do we 're going to say suppose gave you a ratio of 30 to 1?	0.7406748024148881
+Who does that's it for?	0.7374377184315479
+What's what I got?	0.7332167651708956
+Who do I throw in?	0.7310829648764916
+Is function protein?	0.7297542410916811
+What 'd we have to wait for it to get over by thermal noise over that barrier in?	0.7289728270542852
+What is this just all determined by prime?	0.7264740505731624
+What is our sugar?	0.7257510357266597
+Is function gene?	0.7255639101025368
+What does that have to do with?	0.7248435832936633
+What do I add?	0.7247950272927994
+What do we 've talked about amongst friends?	0.7239338687921011
+What does it turn out it does via a pathway of steps?	0.7229267346711512
+What does it turn out does it via a pathway of steps?	0.7217360282380407
+Who does that's all right for?	0.7213313332078697
+Is every molecule doing its thing?	0.7046394700098573
+Who did we talk about how triose phosphate isomerase has an active site, and that active site it stabilizes that transition state to help go from G3P to DHAP?	0.6966863885416303
+What bounces back and forth due to this entropy consideration?	0.6962590187674889
+So if you set that equal to 0 what could you solve for?	0.6916316618984708
+What's not all the molecules decide we voted which we 're going to be and we stay that?	0.6913251420460997
+Who are PROFESSOR: I think they 're moving in equal amounts, not?	0.6881079249598516
+What do this plug in here?	0.687191482436077
+Who does it's just 0. 6 for?	0.6853567792163415
+What does it pass it through?	0.6845535124120221
+What did it change it into?	0.6843532378675012
+What do we 've got to know?	0.6793030746021147
+What 'd we have to wait for it to get over by in the absence of that enzyme TIM?	0.6744622037702965
+What do we really want to understand?	0.6740327162851181
+What is our hexose-- C6H12O6?	0.6733767773691757
+What did we talk about how triose phosphate isomerase has an active site, and that active site it stabilizes that transition state to help us go from G3P to?	0.672316197394387
+What are PROFESSOR: I think they 're moving in equal amounts, not?	0.6582632271509352
+What do we have?	0.658230484948046
+What is the way chemistry really works involves these equilibria?	0.6515913339423702
+Does a single reaction's favorable?	0.6483038107925183
+What does it bounce back and forth due to?	0.63185350249668
+What does one particular molecule called G3P's not decide there voted which we 're going to be and we stay that?	0.6308862243359117
+Who did I tell?	0.6278865673904133
+What do this 've got to know?	0.6212442347548335
+What starts with our molecule here?	0.618731604915361
+What's not all the molecules decide there voted which we 're going to be and we stay that?	0.6079246021303575
+What does it turn out that what happens depends on?	0.6040810959752527
+Who 'mes not that patient?	0.5985984535085753
+'d you only get about 5 % that would get converted to G3P in fact?	0.5905560108914631
+Who do I 'm not?	0.590238412088671
+What 'd we have to wait for to get over by thermal noise over that barrier in the absence of that enzyme TIM?	0.5871919221478556
+Who does it's?	0.5716558905084108
+Does so that tell this it's going to go from G3P to DHAP?	0.5689165403439231
+What does it's at?	0.5626062207690234
+What is it involves these equilibria?	0.5601378939691091
+What turns out we do not?	0.5513279787220453
+What can we actually say this is?	0.5497416588513437
+What 'll run primarily backward because it's unfavorable when you balance out the considerations of the energy and the concentration?	0.5472094029310612
+What does RT equal you know if even you 're running a fever or something like that or if your yeast is growing at a slightly lower temperature?	0.5439358462857289
+Who would not get all G3P?	0.5392928694718544
+Who does it's not all the molecules decide voted which we 're going to be and we stay that?	0.5343962713808095
+What did you get?	0.5303096783229058
+Who told you?	0.5296944621651838
+Does a problem's wrong?	0.5276074015930141
+What does Entropy say on?	0.5261058120077504
+Would the equation happen if we asked about when delta G equals 0?	0.52526643652996
+Who does it turn out do not?	0.5148888371478917
+What does that's the important thing to think about is?	0.5144134587528904
+Who would you not get?	0.5114373059642294
+What 'll we try it with here?	0.4958152849134607
+Who does that's?	0.48811589830997515
+What does that's?	0.48459780368261884
+Who plug it in here?	0.4790331947028541
+What did it take?	0.47778621323358306
+Does that make enormous sense that if that's a lower energy state, all of it is going to go to the lower energy state?	0.47764543411013527
+Does that's where the reaction is balanced perfectly at equilibrium?	0.47308774136492504
+Does it's going to ferment this hexose into carbon dioxide plus ethanol?	0.471129102739964
+Does it's the temperature degrees Kelvin, and in degrees Kelvin Kelvin?	0.46957676581941366
+What can this actually say this is?	0.46945901184666616
+Do let's try to check that out for example?	0.46122222401691815
+Does a hexose's going to ferment this hexose into carbon dioxide plus ethanol?	0.45996365822205343
+What is that enzyme just?	0.455542278313688
+Who 'res very patient?	0.4545645458452925
+Did I have a lot of DHAP?	0.45410443178974624
+Would the equation happen if this asked about when delta G equals 0?	0.4529163895547268
+Do Let's say it has glucose or some other six carbon sugar?	0.44864847755103643
+What does well that's?	0.4475817549827701
+Do we 've got to know what RT is?	0.4464612931225429
+What does it start with here?	0.44510181687350525
+Does an enzyme do not?	0.44315938451571757
+What 'll you recall we had to?	0.442604038793023
+'ll this try Let with our triose phosphate isomerase numbers here?	0.43783040152662966
+If you do not care if you 're very patient what's quite immaterial?	0.4320758867407499
+Who 're bouncing?	0.43115370355432203
+Do we really want to let's start with the energetics of pathways?	0.430438361356396
+Did we understand a simple aspect of pathways?	0.42140422272230005
+Who does so that tell us from?	0.41524896628594776
+What 're bouncing?	0.4077214593264993
+Who does RT equal 0. 6 know if even you 're running a fever or something like that or if your yeast is growing at a slightly lower temperature?	0.40436988172392185
+What is our molecule?	0.4026254474481159
+Do this 've got to know what RT is?	0.3864613643696244
+Does it convert to the other thing it bounces into triose phosphate isomerase?	0.38357105921959134
+Would anything sensible you 'd think all go to the low energy state?	0.3734498337724026
+Did it do that by stabilizing this transition state?	0.37005667141448617
+Is delta G0 prime really telling you the way the reaction will run if the concentrations are equal?	0.36100407835061565
+Did an enzyme do that by stabilizing this transition state?	0.3494842119632735
+What do we have to actually understand?	0.3464689733779158
+Did the enzyme actually have no effect on these energetics?	0.3428067884808512
+Does so that tell us it's going to go from G3P to DHAP?	0.3427012258859614
+Who does so that tell this from?	0.3358856165299513
+What does it's?	0.3284068626395851
+Was the transition state this intermediate, and by preventing other reactions from going on that would destroy our happy little transition state molecule?	0.32298727286968854
+Does that's the important thing to think what's called entropic consideration?	0.3201314226772314
+Does that's favorable to a lower energy state?	0.3197159567689054
+Do we 've got protein structure under control?	0.3159081793840728
+Who got that?	0.31258784714748256
+Is a problem really very confusing?	0.3121384500900981
+What do we plug in here?	0.3097637817639669
+Is the thing when there's a lot of these guys?	0.3093558665995455
+Does Entropy say we cannot have all those molecules over there on this side?	0.3029200659619704
+Does it's like falling down the stairs?	0.3028036678836643
+Do we 've talked about our enzyme-- our enzyme triose phosphate isomerase amongst friends?	0.2942438249440422
+Do we 're obliged to put up the coat of arms here-- function?	0.2904457361071606
+Did we talk about that big activation barrier to get there?	0.27703672887453346
+Do we 're going to pick up on where we left off before?	0.27484370020769777
+What is this?	0.26589112035646534
+What does it's for us?	0.26551047981123177
+What does not matter?	0.2555983035645793
+Does it's a mass action kind of thing?	0.2540942999754501
+Does it make enormous sense that if that's a lower energy state, all of it is going to go to the lower energy state?	0.25076029286418144
+Did it have no effect on whether the reaction is running forward or backward?	0.2471790870785764
+Does it have the natural logarithm of the concentrations of the products and the reactants?	0.24351936019464526
+Who would get?	0.23904915337089294
+Do we 're going to do all that much chemistry?	0.22990605059321778
+What does one particular molecule called G3P's not all the molecules decide there voted?	0.22665170016853753
+Does that's like falling down the stairs?	0.2262751013843256
+What are PROFESSOR: I think in, not they?	0.22292550462050453
+Is this the dynamic equilibrium that's obtained?	0.2222398703021038
+Does the absence of that enzyme TIM help speed up that reaction?	0.22098991201381724
+Did it take one particular molecule called G3P?	0.21959298964767715
+Does fruit juice have yeast in it?	0.21431671311932954
+Who want to do?	0.1991175498251061
+What do we understand?	0.19883545369927536
+Is all of that determined-- because that enzyme is just a catalyst?	0.19870854592101095
+Is this bit of chemistry pretty important to know?	0.19624536963881312
+Is that alone not enough to explain what Buchner found in that experiment we talked about in very first lecture?	0.19055718617880268
+Is the single reaction one reaction in a long pathway like that?	0.18514964787456822
+Does it have to do with those concentrations?	0.17998989696508483
+Does it turn out it does it via a pathway of steps?	0.1667000095450808
+Do I add this big number to a negative number?	0.16432505418923515
+Does that's why the evolution of enzymes was so very important?	0.1588412800203658
+Do we call a six carbon sugar a hexose?	0.15506402476015735
+Can it defuse to the enzyme?	0.15504767548087983
+Does it have a RT-- that's a constant there, and that's temperature in degrees Kelvin?	0.15140420903249563
+Do we understand how their various different chemical properties control the shapes of proteins?	0.14297233986121327
+Does fruit juice have yeast in that?	0.13239614765604202
+Who 're equal?	0.12803062587213243
+What did it have?	0.11286059719997055
+Do we 're going to say suppose I gave you a ratio of 30 to 1?	0.10795803534650172
+Is it just all determined by delta G0 prime?	0.10312954000009356
+Is all TIM does speeds it up?	0.10122883975791774
+Is the concentration the equilibrium concentration for our reaction?	0.09933703718422349
+Do we really want to understand the logic of pathways?	0.09709529106141446
+Does that have to do with those concentrations?	0.09676386226265477
+'ll you recall we had our G3P goes to DHAP?	0.09564096843406755
+Are PROFESSOR: I think they 're moving in equal amounts, not they?	0.08070426161033906
+What is the way chemistry really works?	0.07946475706239498
+Does a go to B goes to C goes to D until finally gets to our final products here?	0.06928361348985934
+What does it turn out via?	0.06462544567888728
+What does no.? turn out via?	0.05890573127470944
+Do we have to actually understand how does that work?	0.05090606084898619
+Is this just all determined by delta G0 prime?	0.041867662926737825
+If you do that arithmetic should you come up with a positive number-- positive number about 0. 18 although maybe somebody will get another number there?	0.0360347364673812
+Do we have this problem of entropy?	0.03413057511010731
+Do we 're still over here working on the first part?	0.025405673291995168
+If you 're doing high temperature stuff and super low temperature stuff do you care?	0.024891550071687973
+Does well that's just one chemical transformation?	0.02149164226919975
+Who 're constantly moving back and forth?	0.009672871903382507
+Does it turn out that what happens depends on both the free energies but also concentrations?	0.007616446833123902
+Is the concentration the equilibrium concentration for this's reaction?	0.00513615742093565
+'ll we try it with our triose phosphate isomerase numbers here?	0.004121163232452041
+Does that's the important thing to think about is there's an energetic consideration?	-1.4495354255816828E-4
+Is Life not that patient?	-0.002460441518283174
+What do we 're going to say suppose?	-0.014094579827884202
+Do we write this energy?	-0.01806636883137025
+What 're constantly moving back and forth?	-0.020371827778703278
+Do they 're bouncing?	-0.022769959373481585
+Does it help speed up that reaction?	-0.023541873961097304
+Does that's a very uneven, unlikely distribution?	-0.02451370509729256
+Do I throw in G3P?	-0.026448017426713877
+Do we 've got the amino acids?	-0.02850026220473989
+What does it's just not?	-0.04248622952146386
+Does fact's TIM that does that?	-0.04571261856777742
+Does it's unfavorable when you balance out the considerations of the energy and the concentration?	-0.048034615485313514
+If you had a tube that was only DHAP, the more favored state, and triose phosphate isomerase, would TIM run some of that reaction backward?	-0.04831316030094346
+Does it's TIM that does that?	-0.05239916159541824
+Can we actually say this is just 0. 6?	-0.05313098014903428
+Do this plug a lot of DHAP, a lot of the product in here?	-0.057211606867202836
+'ll this be positive?	-0.058586863461055794
+Does it bounce back and forth due to this entropy consideration?	-0.06361176533569135
+Who goes on?	-0.06690237875649996
+Is c6H12O6 our sugar?	-0.07796551106083527
+So if you set that equal to 0 could you solve for the concentration?	-0.0829924816200005
+Does that's the key thing?	-0.0847467128063002
+What does it turn out?	-0.09827258579969089
+Does this tell us-- in fact?	-0.10159704677322123
+'ll it run primarily backward because it's unfavorable when you balance out the considerations of the energy and the concentration?	-0.1131473923585371
+Does a RT-- that's a constant there, and that's temperature in degrees Kelvin turn out this do not?	-0.12910959467477046
+Can this actually say this is just 0. 6?	-0.1320226979726884
+Does it's all about speed?	-0.1371440411665521
+Does it's a little counterintuitive?	-0.161012612937526
+What does one particular molecule called G3P's not all the molecules decide?	-0.16270179740825452
+Does it's at equilibrium?	-0.16392385767795492
+Does one particular molecule called G3P's not all the molecules decide there voted which we 're going to be and we stay that?	-0.1691351802709291
+Does that's it for energetics?	-0.16935905575338417
+Did we talk about how triose phosphate isomerase has an active site, and that active site it stabilizes that transition state to help us go from G3P to DHAP?	-0.18780370605008057
+Is the way chemistry really works it involves these equilibria?	-0.19467899783549325
+What does that's the important thing to think?	-0.19537203658645264
+Could it be positive?	-0.20197132229877646
+What does it turn out on?	-0.20329211019407656
+Does that's all right for energetics?	-0.20529049098360108
+Did it change it into another molecule?	-0.21089648038284636
+What can we actually say?	-0.2113264122381765
+Do you 're very patient?	-0.22532259555115086
+Does that's a little counterintuitive?	-0.22775099489572326
+Does that's the obvious thing?	-0.23689368618612128
+Does it pass it through steps?	-0.2381838483268317
+Does that's what I got?	-0.24234167368205228
+Would you not get all G3P?	-0.26010792667907023
+'d we have to wait for it to get over by thermal noise over that barrier in the absence of that enzyme TIM?	-0.26245859967043694
+Does that's a pathway?	-0.26832216954352894
+Do I 'm not that patient?	-0.27536633159975854
+What turns out this do not?	-0.2878777401114545
+What can this actually say?	-0.29578184678592456
+What is that alone not enough to explain in?	-0.29735490630641825
+Did you get that?	-0.29744946107193426
+Is that enzyme just a catalyst?	-0.3102481519335758
+Do they 're equal?	-0.31202321374747544
+What does it have?	-0.3231751840771072
+Does this not matter?	-0.3480595870581613
+Does it's not all the molecules decide we voted which we 're going to be and we stay that?	-0.3501797276536225
+Is our molecule our hexose-- C6H12O6?	-0.35236272105506683
+What does it's not all the molecules decide we voted?	-0.3524129470237991
+Would you get?	-0.35470792746061175
+What does it's not all the molecules decide?	-0.3565599910334961
+What does one particular molecule called G3P's not?	-0.3579585163310741
+Do this 're equal?	-0.3624081150862999
+Did I tell you?	-0.38251369616719555
+Do we want to do?	-0.3849751536827539
+Does it's favorable?	-0.3948791079195282
+Who are not they?	-0.41291332753851173
+Does it start with our molecule here?	-0.4235089790255169
+Does it do not?	-0.4322093853479747
+Does it's just not the way it works?	-0.4420033684507949
+Does it's wrong?	-0.45235615506038473
+Does RT equal 0. 6 you know if even you 're running a fever or something like that or if your yeast is growing at a slightly lower temperature?	-0.45594503074775306
+If you do not care if you 're very patient does it's quite immaterial?	-0.4580682682896533
+Does it's just 0. 6 for us?	-0.46098378974800003
+Do they 're constantly moving back and forth?	-0.4618066237412237
+Do you go on?	-0.48656869529856506
+Does it turn out we do not?	-0.48723705200649237
+Does it not matter?	-0.5055904240916085
+Do we plug it in here?	-0.6302501422447506
+Is it really very confusing?	-0.6331844546558256
+What 'll you recall to?	-0.7276587361469486
+Is it?	-0.8234831996452121
+What does it's not?	-0.9084553677954316
+Is that?	-0.9332903373378179

@@ -1,0 +1,54 @@
+What is Structure a combination of?	3.248071516763703
+What is Structure?	2.7914859174710447
+What is looking to displace all molecules in order to resume the hydrogen bond network?	2.600193464814421
+What does interaction between molecules happen by?	2.591390396350513
+What happen because of a combination of molecular forces?	2.5398631930706546
+What can hydrophilic molecules form hydrogen bonds with?	2.462090555322465
+What do Hydrophobic molecules need to ``hide'' from?	2.4524246823119236
+What happens by shape matching\/fitting with the use of chemical entities in the faces of the interacting molecules?	2.3786171317113576
+What are due to hydrogen bonds?	2.3708151816752654
+What is a combination of the 3D shape of the molecule and the chemical identities of the different parts of the domains of the molecule?	2.342697444472921
+What are many of the physical properties of water due to?	2.3337418122496643
+What do all interactions in a cell happen because of?	2.32294687883437
+What can hydrophilic molecules form with water?	2.3148552711178394
+What allows all molecules to form vesicles and membranes?	2.1500322395292004
+What make existence of cells possible?	2.115487070584685
+What can molecules that seem to differ in very minor ways have?	2.096835632237801
+How many objects are all molecules?	2.0950960967845687
+What do membranes make existence of possible?	2.029754023196256
+What do amphipathic molecules have?	1.9894382141983222
+What separate inside from outside?	1.8435769572258842
+What do membranes make possible?	1.7859310218182587
+What do membranes separate inside from?	1.7706959344552908
+What are all molecules?	1.7338768403109175
+What enables its function?	1.7133237348712178
+Is water looking to displace all molecules in order to resume the hydrogen bond network?	1.7046263859735373
+What is looking to displace them in order to resume the hydrogen bond network?	1.6430773904216172
+What does structure of a molecule enable?	1.632038755637174
+What is looking to increase entropy?	1.5621304173599746
+Do Hydrophobic molecules need to ``hide'' from water?	1.5329716717885105
+Can hydrophilic molecules form hydrogen bonds with water?	1.5254708954658378
+Can molecules that seem to differ in very minor ways have drastically different properties?	1.3973915421303276
+Are many of the physical properties of water due to hydrogen bonds?	1.3735460906720673
+What can form hydrogen bonds with water?	1.3664570480851332
+Do amphipathic molecules have both hydrophilic and hydrophobic characteristics?	1.362685150588407
+Is Structure a combination of the 3D shape of the molecule and the chemical identities of the different parts of the domains of the molecule?	1.3425765046846174
+Do all interactions in a cell happen because of a combination of molecular forces?	1.3269786716429284
+What need to ``hide'' from water?	1.2911900636637341
+Does interaction between molecules happen by shape matching\/fitting with the use of chemical entities in the faces of the interacting molecules?	1.2091774293435655
+What allows them to form vesicles and membranes?	1.181212066848841
+Do membranes make existence of cells possible?	1.086332304451473
+What have both hydrophilic and hydrophobic characteristics?	1.070438998241456
+What does this duality allow them to form?	1.069925463117916
+What does this duality allow all molecules to form?	1.0375136308880202
+Are all molecules 3D objects?	1.0229830701161529
+Does structure of a molecule enable its function?	0.987511508336161
+Do membranes separate inside from outside?	0.9788505926969335
+Who does this duality allow to form vesicles and membranes?	0.9684025078145775
+What are 3D objects?	0.9433427636413574
+Is water looking to increase entropy?	0.8706859377670988
+Is water looking to displace them in order to resume the hydrogen bond network?	0.7486527732785326
+What can have drastically different properties?	0.5521920518668151
+What does this duality allow to form vesicles and membranes?	0.16857327304688452
+Does this duality allow them to form vesicles and membranes?	0.1627373763102904
+Does this duality allow all molecules to form vesicles and membranes?	0.1218948516034537

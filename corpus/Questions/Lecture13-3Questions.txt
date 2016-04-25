@@ -1,0 +1,266 @@
+What has a segment of HIV that is translated in three separate reading frames in fact?	2.433653116813445
+What is many things on the same strand?	2.377248309843341
+How many steps of a biochemical pathway do multiple independent proteins 're?	2.3611232702889593
+What does hIV have a segment of HIV that is translated in three separate reading frames in?	2.3303040059966507
+What does hIV have a segment of that is translated in three separate reading frames in fact?	2.3212688961721257
+What can be translated in the env protein?	2.2910717808902135
+What does cistronic sort of mean on?	2.262130397039583
+What means on the same strand?	2.240531197683604
+What do multiple independent proteins 're the six steps of?	2.2348315072960006
+What happened at many different levels?	2.185758124517671
+What do viruses exploit?	2.063459956363395
+What do multiple independent proteins 're all used in?	2.059283914201855
+What did the innovations happen at?	2.0436480542040254
+What gets translated into proteins?	2.008676359942062
+What do multiple independent proteins 're?	1.9775462706469227
+What does dNA go to goes to protein?	1.9484440946505621
+What goes to RNA goes to protein?	1.9437213780707026
+What are the bacteria pretty worried about?	1.9342610923161383
+What is the same strand?	1.9048729511190152
+What is called a polycistronic message?	1.8808363135470996
+What's all for now?	1.792497690017058
+What does all right's for now?	1.7358212879852828
+What is one biochemical pathway?	1.7350871606760339
+What does hIV have in fact?	1.7267971256919077
+What does Life never leave alone?	1.6989301227412685
+What's a pretty amazing system?	1.6897507641258371
+What's a pretty impressive thing?	1.679607420999847
+Who never leaves anything alone?	1.6778312178694297
+Does hIV have a segment of HIV that is translated in three separate reading frames in fact?	1.6318402212581646
+What will often string together a lot of proteins on a single message-- very efficient of their DNA?	1.5966537520361068
+Does cistronic sort of mean on the same strand?	1.5149733655348006
+What exploit all those different kinds of genomes?	1.512209222110715
+What does top of each other's?	1.5041555588596294
+What is one process?	1.4995123078425638
+How many steps of a biochemical pathway do they 're?	1.483856969680613
+Who wait?	1.4553925530137124
+What 're the six steps of a biochemical pathway?	1.439754919557764
+What 'll bacteria just stick together?	1.4388394550437922
+What's all a competition down there?	1.4311859333851742
+Did the innovations happen at many different levels?	1.4225607648807785
+What do the message not want?	1.3951268421982537
+What do viruses exploit all those different kinds of?	1.3901253977010573
+Who can make multiple independent proteins off the same one message in fact?	1.3677278015389902
+What can I make multiple independent proteins off the same one message in?	1.3466139245946604
+Is the same strand many things on the same strand?	1.3406938350232318
+Where can you even pack multiple proteins to the same nucleotides?	1.3354010887986698
+What well turns out that in bacteria, you can actually start translating another protein later down the message?	1.3283929828698042
+Do multiple independent proteins 're the six steps of a biochemical pathway?	1.3245222698567019
+What will bacteria often string together a lot of proteins on a single message-- very efficient of?	1.3102835314533745
+Who means I 've got a certain reading frame?	1.3065209922345895
+What are pretty straightforward?	1.2923899195454
+Who can get it translated in three different reading frames-- pretty amazing condensation of information?	1.2915456896682729
+Who 'ves got a handle on something simple in biology?	1.2789884344965277
+Who can pack multiple proteins into a message?	1.2654467650892705
+What are pretty worried about dNA involved in making all that regulatory control?	1.244555746433393
+What do you 've got handle on something simple in biology?	1.2418487473173943
+Actually you 're proposing who could get three separate proteins out of exactly the same message?	1.236749880545907
+What does anything's down there?	1.2325537891818394
+Who 're the six steps of a biochemical pathway?	1.2264843142343018
+Do multiple independent proteins 're all used in one process?	1.224770539929961
+Who do I mean 've got a certain reading frame?	1.2021390078408962
+What do they 're the six steps of?	1.1803771314335054
+What are competing?	1.166325281490752
+Who really wants to get every bang for your buck?	1.1558568114167653
+What do you 've got a handle on?	1.143690252259558
+How many reading frames available do I guess I have and you 're even proposing?	1.116288255052932
+Who can even pack multiple proteins right on top of each other to the same nucleotides?	1.1132886809517513
+What can you get translated in three different reading frames-- pretty amazing condensation of information?	1.0977262128553558
+Who might want to have messages that were polycistronic if I were a virus?	1.0856374625139935
+Who 'mes competing by replicating my DNA?	1.083697180470773
+Who can actually make six proteins off a single message?	1.0642669769515827
+What can you even pack multiple proteins right on to the same nucleotides?	1.058587027970713
+What 're all used in one process?	1.0513317074622428
+What can you even pack multiple proteins right on top of each other to?	1.0446016469249173
+Does dNA go to RNA goes to protein?	1.0190792678868648
+Will bacteria often string together a lot of proteins on a single message-- very efficient of their DNA?	1.014963405019833
+Who prokaryotes-- mRNA have my start?	0.9699579384972639
+What does well it turn out that in, you can actually start translating another protein later down the message?	0.9670419364733924
+Who wrote it on the board?	0.9607610629033987
+What does dNA go to RNA goes to?	0.9601934088955464
+What is not really the first AUG in bacteria?	0.9412365882659832
+Who gets great coordinated regulation?	0.938385940425744
+Does all right's all for now?	0.9378088415064025
+Who 'mes a bacteria?	0.9350231743109603
+Do pROFESSOR: But wait?	0.9325704139714839
+Does top of each other's a pretty amazing system?	0.9303957961664557
+Who 'res proposing in theory?	0.9275731473176818
+What did I write on the board?	0.9255726109398716
+Does top of each other's a pretty impressive thing?	0.9246941980551551
+What is a pretty good sign that it's allowed to do it?	0.9227153110260609
+Is one process one biochemical pathway?	0.9226777715703831
+Are pROFESSOR: All right, here eukaryotes pretty straightforward?	0.9106735981981713
+What will bacteria often string together?	0.8911683190126802
+What do they 're?	0.8900212771642873
+Who copyes your DNA into RNA?	0.8848889776188866
+What do they 're all used in?	0.874123541339827
+What are pretty worried about it?	0.8682040668709894
+What turns out you might have another one over here?	0.8597119591227913
+Who could start plus two?	0.843829570576875
+Who wants my genome to be small?	0.8425679331180365
+Who 're all used in one process?	0.8367386110479282
+Who does it turn out might have another one over here?	0.8314879138646445
+Does anything start making it more complicated?	0.8311672904845835
+What starts making it more complicated?	0.830884703878702
+What do I 'm?	0.8295198365017149
+Who could start plus one?	0.8277507017671366
+Who told you it was the first AUG.?	0.8272293171087937
+What's all very simple?	0.8214559119179417
+What did you write on the board?	0.8187816885141308
+What do you 're proposing in?	0.8165887983671638
+What do I mean I 've got?	0.8048547220767099
+When did I tell you it was?	0.79857506736645
+Does Life never leave anything alone?	0.7973624760020419
+What did I write it on?	0.7946911611311314
+Who guesses I have three reading frames available and you 're even proposing?	0.7830301344442681
+'ll bacteria just stick them all together?	0.7823279741194586
+Who 've got a stop codon here?	0.7777262427061793
+Who has very simple central dogma?	0.7663404256167949
+What 'll just stick them all together?	0.7651287730341703
+What do prokaryotes-- mRNA I have?	0.7496129271442529
+Who could start plus zero?	0.7396045746823436
+Who 'res trying to do things?	0.7312062402486537
+What do you get?	0.7307828098605975
+Who did I tell it was the first AUG.?	0.7278845670822749
+Who makes a protein?	0.7183905782621005
+What could I start plus?	0.7155811371372471
+What do we 've got here?	0.7119592857210966
+What do I guess I have and you 're even proposing?	0.6957707505566268
+If I had six separate genes each with their own regulatory controls that turn them on what do I have to have?	0.6920060807322426
+What did you write it on?	0.6881930418563069
+Do the message not want big genomes?	0.6726430607307481
+What do not want big genomes?	0.6669389055182589
+When is it not really?	0.6664947054021542
+What do you 're trying to do?	0.657842029463958
+What did I tell you was the first AUG.?	0.652296999428426
+Who do I guess have three reading frames available and you 're even proposing?	0.6512344254643165
+Who replicates your DNA?	0.6426246149470016
+Are the bacteria competing?	0.6386121188185889
+What does it's a rule that once you 've got on, you can count on the fact that biology is constantly tweaking, constantly optimizing?	0.6283254108525778
+What does it turn out you might have over here?	0.6106667242873423
+Who makes another protein?	0.609774963507731
+What do I want?	0.6063246771107367
+What do you copy into RNA?	0.6012047736986696
+Who has another start?	0.5988470776152135
+What is your AUG, almost always an AUG.?	0.5935089865458094
+Can I make multiple independent proteins off the same one message in fact?	0.5903199735396498
+Does anything's all a competition down there?	0.5707782688585143
+Who 'll just stick them all together?	0.5699412525272842
+What do I have my start?	0.5582040791439371
+What can you get it translated in?	0.5554214321023798
+What does it go along to get?	0.5433203559039814
+Who has your mRNA?	0.5206014679128215
+What do you really want to get?	0.5183295395605325
+What do I have?	0.5176977973369719
+What goes along to get a stop?	0.4967455191946859
+What does it start making more complicated?	0.4890876696293256
+Does exactly the same RNA overlapping's all very simple?	0.4862111107279925
+Who 'res trying to innovate?	0.48049806281212937
+What do you copy your DNA into?	0.4768538090135319
+What does anything start making more complicated?	0.4714541012096276
+Who do not want big genomes?	0.47040821520567055
+Do viruses exploit all those different kinds of genomes?	0.4671569299840015
+What 'll they just stick together?	0.45782041451770006
+What will bacteria often string together a lot of of their DNA?	0.45181205888796594
+What do they not want?	0.4485378401468243
+What's a rule that once you 've got a handle on something simple in biology, you can count on the fact that biology is constantly tweaking, constantly optimizing?	0.4432117576108858
+Can this segment be translated in the env protein?	0.41558135843731536
+What do you replicate?	0.40620906036865767
+What can I make multiple independent proteins off in fact?	0.3745535107810496
+Can you even pack multiple proteins right on top of each other to the same nucleotides?	0.36321108516718414
+Who 'mes competing?	0.34765465151116404
+What is the board?	0.33460916245771477
+Who 'res competing?	0.31893943145136694
+Can you pack multiple proteins into a message?	0.2961978147529334
+What can I make off the same one message in fact?	0.2958490399983953
+Do they 're the six steps of a biochemical pathway?	0.2834772150032814
+What do you 've got on?	0.28318917144540134
+What do you have?	0.2805593059834164
+Actually you 're proposing how many separate proteins could I get out of exactly the same message?	0.2636859359285135
+What does well it turn out in?	0.259287058217488
+Who guesses?	0.25629229744799154
+If I had six separate genes each with their own regulatory controls that turn them on who has to have DNA involved in making all that regulatory control?	0.2550037316860059
+What does it's down there?	0.2369125221705688
+Do you 've got a handle on something simple in biology?	0.2339274888461742
+How many proteins can I actually make off a single message?	0.21800652324233383
+Who 'res done?	0.19972953467306342
+Who has something simple?	0.19477648944251436
+What does it's?	0.18509455873562763
+Do they 're all used in one process?	0.16600272145211603
+When is your start?	0.1634302834747634
+Are the bacteria pretty worried about dNA involved in making all that regulatory control?	0.15915350152066
+Actually you 're proposing could I get three separate proteins out of exactly the same message?	0.15250872934200288
+What can you pack multiple proteins into?	0.13883019647376527
+Does dNA involved in making all that regulatory control's RNA get translated into proteins?	0.11226611174357792
+What does well it turn out that in bacteria, you can actually start translating another protein later down?	0.10882517432959826
+Can I actually make six proteins off a single message?	0.0956398717021858
+What does well it turn out that in bacteria, you can actually start translating later down the message?	0.0953290225092629
+Do you get great coordinated regulation?	0.09440159973418094
+Did I tell you it was the first AUG.?	0.08593758129770324
+What can you pack into a message?	0.07469755125089561
+What do I mean?	0.06689967451042644
+Do we 've got a stop codon here?	0.06488142991933898
+What does dNA involved in making all that regulatory control's RNA get translated into?	0.05946763865910709
+What can I actually make off a single message?	0.05570694448017832
+Do you 're proposing in theory?	0.04919898779695897
+What can you even pack right on top of each other to the same nucleotides?	0.048592128765140075
+Do I 'm a bacteria?	0.04353181215393276
+What can this segment be translated in?	0.04190895621709689
+Could I start plus two?	0.036172558383429365
+Is it not really the first AUG in bacteria?	0.032850677361625724
+Do I 'm competing by replicating my DNA?	0.028584740974400003
+Do I mean I 've got a certain reading frame?	0.02603894168434495
+What can I actually make six proteins off?	0.02016212729582234
+Could I start plus one?	0.02009368957369073
+Does well it turn out that in bacteria, you can actually start translating another protein later down the message?	-0.019415863043606985
+Do I guess I have three reading frames available and you 're even proposing?	-0.021063831463333793
+Can you get it translated in three different reading frames-- pretty amazing condensation of information?	-0.02123086583771605
+Does your RNA get translated into proteins?	-0.027252619529652078
+Are the bacteria pretty worried about it?	-0.05165522288130808
+Is this called a polycistronic message?	-0.05285398554199694
+Do you have very simple central dogma?	-0.059998300378562464
+Could I start plus zero?	-0.06805243751110068
+What do I guess and you 're even proposing?	-0.08475509816170756
+Do you make a protein?	-0.09220987264078828
+What did I tell you?	-0.10918838760902438
+Actually you 're proposing what could I get out of exactly the same message?	-0.11086708211041629
+Do you really want to get every bang for your buck?	-0.12144148405822275
+Do you 're trying to do things?	-0.12510100206813313
+Does it go along to get a stop?	-0.12757216288463313
+Do I want my genome to be small?	-0.16099149676828972
+Did I write it on the board?	-0.16202257951649734
+Do I 'm competing?	-0.18055460689159797
+Do you 're trying to innovate?	-0.1903153857675839
+Do prokaryotes-- mRNA I have my start?	-0.1968323420164404
+Might I want to have messages that were polycistronic if I were a virus?	-0.1983027149141805
+Do you 're competing?	-0.19915436482164384
+Is the board a pretty good sign that it's allowed to do it?	-0.20029578311787577
+Do you make another protein?	-0.2072168319372556
+Do I make another protein?	-0.209275058782999
+Do I have another start?	-0.21280247905178018
+What does your RNA get translated into?	-0.24427569295192963
+Do they not want big genomes?	-0.2629884487095395
+Did you write it on the board?	-0.2688135019422384
+Do I make a protein?	-0.26969827158754
+What do you make?	-0.27471498552907225
+Actually you 're proposing what could I get three separate proteins out of?	-0.2840706343810515
+Do you 're done?	-0.3125953245705846
+Does it's a pretty amazing system?	-0.31810046291437044
+What does it turn out?	-0.3215199095383773
+Does it's a pretty impressive thing?	-0.32671695619156105
+Does it turn out you might have another one over here?	-0.3282154774672652
+What might I want to have if I were a virus?	-0.3759268944692338
+Do you have something simple?	-0.3934414314988304
+Does it's all a competition down there?	-0.41077287562236964
+What is this called?	-0.4264630576676054
+Does it's a rule that once you 've got a handle on something simple in biology, you can count on the fact that biology is constantly tweaking, constantly optimizing?	-0.44010515387099547
+Is your start your AUG, almost always an AUG.?	-0.44738809305993077
+Do I guess?	-0.4474489475170256
+What do I make?	-0.4502416131641678
+Does it start making it more complicated?	-0.45136490813209607
+Do you copy your DNA into RNA?	-0.45993498345512385
+If I had six separate genes each with their own regulatory controls that turn them on do I have to have DNA involved in making all that regulatory control?	-0.4729907068522716
+'ll they just stick them all together?	-0.4927589178303162
+Do you replicate your DNA?	-0.4940759411796307
+Do you have your mRNA?	-0.5851678254160269
+Does it's all very simple?	-0.6723348637836437

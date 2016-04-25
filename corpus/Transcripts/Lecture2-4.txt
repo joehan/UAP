@@ -1,0 +1,164 @@
+
+Section 4.
+Non-covalent bonds.
+
+Hydrogen bonds.
+Not hydrogen bombs, but hydrogen bonds.
+Much more peaceful things.
+Hydrogen bonds.
+
+We've agreed that oxygen is greedy compared to a hydrogen.
+And so if I have a water molecule,
+I have some negative charge over there, a little bit
+of positive charge over there.
+
+Suppose I have another water molecule over here.
+
+I have a little bit of negative charge over there,
+and I've got a little bit a positive charge over there.
+Not that much, but I got some.
+
+This is like a little magnet, got a positive end
+and a negative end.
+This thing's here a little bit like a magnet, positive end
+and a negative end.
+What happens when I have two magnets?
+
+They attract, or repel.
+And so what's going to happen is these guys
+are going to attract.
+Now that doesn't sound very impressive,
+just these two little atoms-- these two little molecules.
+But I got more of that over here.
+
+I got more of this over here.
+
+And when I have a big cup of water, all of those molecules
+are doing that to each other.
+They're all weakly interacting by those little magnets,
+hydrogen bonds.
+So in fact, what I end up with are big cages like that.
+The water's all coupled to each other by these weak forces.
+And these aren't like huge forces.
+These bonds as compared to my 80 kilocalories per mole,
+these are five kilocalories per mole, just five
+kilocalories per mole.
+And it turns out that, nonetheless,
+because I have so many of them, water
+is highly, highly structured.
+They're all coupled to each other,
+moving around some, structure.
+This is so strong bugs can walk on water.
+Bugs are walking on hydrogen bonds.
+The net the bugs are walking on, that surface
+is provided by the strength of all those hydrogen bonds.
+No hydrogen bonds, the bugs sink.
+You can tell that.
+You put in something disrupts the hydrogen bond, soap.
+They sink.
+So you may not be impressed by hydrogen bonds, any one
+hydrogen bond, but aggregate hydrogen bonds are pretty cool.
+Next time you think of water, think of water as a highly,
+highly structured business.
+All right.
+
+Strength in numbers.
+Next we have ionic bonds.
+Sometimes, sometimes we have the situation
+where a hydrogen may come off here, and move over
+here to create a net positive charge here
+and a net negative charge there.
+So here this is no longer the sharing
+of electrons, but really the exit of an electron--
+the exit of a positive charge to create a negative charge in one
+place and a positive charge in the other place.
+
+This is an ionic bond between charged ions
+here, between ions.
+So these depend, of course, on their distances
+as any of these forces depend, ionic, of these magnetic forces
+depend with distance.
+They're also, on the whole, relatively weakish.
+But you add them up together, and these all have effects.
+Hydrogen bonds have effects.
+Ionic bonds have effects.
+Another kind of bond, even weirder.
+Van Der Waals forces.
+Van Der Waals bonds.
+I told you that carbon carbon, nonpolar.
+Carbon hydrogen, nonpolar.
+Equal sharing.
+
+That's all very nonpolar.
+
+Well, I'm slightly lying.
+It turns out that even though there's
+an equal sharing on average, at any given instant
+the negative charge might be a little on one side
+or a little on the other side.
+It sort of fluctuates back and forth.
+But if these guys are right near each other,
+and it so happens that this instant, this is
+a little more negative and this is a little more positive,
+just temporarily, what is that negative going to do over here
+to the negative charges?
+Push them away.
+It's going to repel those negative charges.
+And they'll go over here a little bit.
+And this will become a little more positive.
+But of course that's only instantaneous,
+because it's a fluctuating back and forth.
+When it's more positive on that side,
+it's going to be pulling negative charges over.
+So both bonds are fluctuating, but they can fluctuate
+in concert with each other.
+They entrain each other.
+And if you have those two bonds that are fluctuating,
+and they can manage to entrain each other,
+then it's as if you have little magnets temporarily going back
+and forth and back and forth.
+And that works, too.
+Now this is even less impressive than hydrogen bonds.
+This gets you an absolutely ridiculously puny one
+kilocalorie per mole.
+Not very impressive, is it?
+But if I have some big molecule, like a protein,
+the sum of all these forces-- the sum
+of hydrogen bonds and ionic bonds
+and these Van Der Waals interactions--
+add up to big, big numbers.
+Big numbers.
+And in fact, biological molecules
+are held together, yes, by their covalent bonds.
+They matter a lot.
+But the shape they take up depends much less
+on their covalent bonds than all of
+these non-covalent interactions that are taking place.
+The hydrogen bonds, the ionic ponds, the Van Der Waals
+interactions, to determine whether some long molecule
+folds up this way or folds up that way or whatever.
+Now just to make you appreciate how powerful those forces are,
+I bring you the gecko.
+The gecko can climb up glass.
+
+It can climb this way.
+Why is the gecko not falling down?
+Well people thought maybe the gecko has glue on its pads.
+It does not.
+What holds the gecko up?
+The gecko is held up by Van Der Waals forces.
+It manages to have its palm have these little flappy pads, that
+can make so much contact that it's
+making lots of these ridiculously tiny Van Der Waals
+interactions with the surface.
+And that is enough to hold up a gecko.
+Do not try this yourself, as it turns out
+that you lack the right kind of pads and, I'm sorry to say,
+are too heavy to be held up.
+But for something the size of a gecko,
+it can be held up by Van Der Waals interactions.
+Strength in numbers.
+We have to understand that to understand biology.
+You're almost done.
+But before we go on we've got a couple questions for you
+about different kinds of bonds.

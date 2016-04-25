@@ -1,0 +1,60 @@
+What explains the mechanisms by which information contained in genes is relayed into proteins?	2.7460926843222255
+What does discipline of Molecular Biology explain by which information contained in genes is relayed into proteins?	2.6953580908408403
+What is done by observing phenotypes of successive generations of crosses to elucidate genotype?	2.6769264513545186
+What is a set of tools that allows scientists to move between genetics allowing?	2.6007038715262465
+What is Big Idea 2: A gene the functional unit of?	2.5836778465169696
+What is the functional unit of heredity?	2.489062738676676
+What is Big Idea 1: Biology based on?	2.4619505875949437
+What are susceptible to multiple alternative interpretations?	2.4011441021499906
+What can be described as recessive, dominant, or codominant only with respect to another phenotype?	2.3992041647935527
+What is designed to exclude as many alternative interpretations as possible?	2.3516857014246018
+What is based on observational and experimental science?	2.337316451829139
+What is a particular version of a gene?	2.330181270225149
+What should models based on experimental data have?	2.318488828258196
+What is Big Idea 2: A gene?	2.294728401184329
+What are factors determining traits inherited as?	2.218161429202867
+What can be studied through genes and proteins?	2.2066761907585613
+What must have controls to be informative and interpretable?	2.167195900703272
+What should have predictive powers?	2.1398044415546
+What is designed to distinguish between hypotheses?	2.13771957338243
+What is a genotype a phenotype is a trait?	2.084863021623157
+What can a phenotype be described as recessive, dominant, or codominant only with?	2.0626330481457864
+What is a genotype the set of a phenotype is a trait?	2.058100101116452
+What must all experiments have to be informative and interpretable?	2.0568631524460215
+What are many observations?	1.9687681691673353
+What are inherited as discrete entities?	1.9038817877949281
+What is designed to make one interpretation likely?	1.9033421762361318
+What are biochemistry and molecular biology?	1.900933629583959
+What is an allele?	1.8615399696089607
+What is recombinant DNA a set of?	1.7743237200686792
+Does discipline of Molecular Biology explain the mechanisms by which information contained in genes is relayed into proteins?	1.7708733747795131
+Is Big Idea 1: Biology based on observational and experimental science?	1.7168068082508974
+What is recombinant DNA?	1.7152240798103842
+What is the set of alleles conferring that trait a phenotype is a trait?	1.7146657137243637
+Is Big Idea 2: A gene the functional unit of heredity?	1.6506761880796814
+Is genetic analysis done by observing phenotypes of successive generations of crosses to elucidate genotype?	1.5903740161508972
+Is recombinant DNA a set of tools that allows scientists to move between genetics allowing?	1.5511660228498987
+What are genetics?	1.5237966331484285
+What refer to phenotypes not genotypes?	1.5060408652199584
+Are many observations susceptible to multiple alternative interpretations?	1.4701131723127876
+Should models based on experimental data have predictive powers?	1.466671426639448
+Are factors determining traits inherited as discrete entities?	1.4452534772816445
+Is an informative experiment designed to distinguish between hypotheses?	1.402138724606464
+Can biological function be studied through genes and proteins?	1.3731997643291476
+Is a well-planned experiment designed to exclude as many alternative interpretations as possible?	1.3560643109516768
+Can a phenotype be described as recessive, dominant, or codominant only with respect to another phenotype?	1.348867488366845
+Is an allele a particular version of a gene?	1.2790728476509479
+Must all experiments have controls to be informative and interpretable?	1.2770611538430918
+What is an allele a particular version of?	1.2613251335356823
+Who can draw conclusions from the results of controlled experiments?	1.1557644427894793
+Do Dominant and recessive refer to phenotypes not genotypes?	1.1394680165779523
+What can we draw from the results of controlled experiments?	1.1236424711252666
+Who think what we think because we can draw conclusions from the results of controlled experiments?	1.0868946401483144
+What can biological function be studied through?	1.0781445609087243
+Is a well-planned experiment designed to make one interpretation likely?	1.0706535684763137
+Are genetics biochemistry and molecular biology?	1.0159884604560316
+What can we draw conclusions from?	0.9870449335304603
+Is a genotype the set of alleles conferring that trait a phenotype is a trait?	0.6297426250658456
+Can we draw conclusions from the results of controlled experiments?	0.1485225666294836
+Do we think what we think because we can draw conclusions from the results of controlled experiments?	0.09352973690304278
+What do we think from?	-0.26069507318182483

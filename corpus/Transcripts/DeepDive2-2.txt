@@ -1,0 +1,27 @@
+MICHELLE: Hi everyone. Welcome back. It's Michelle here again, and today, we're going to continue our discussion of meiosis. Today we'll be able to connect meiosis to Mendel's Law of Independent Assortment. Let's get started. 
+
+OK. Here you see a diagram much like the ones that we saw in the previous video, except this one is a nucleus from a diploid cell with two different chromosomes. That means that 2n equals 4. Remember that this means that the organism contains four chromosomes total-- two copies of the long chromosome and two copies of the short chromosome. Let's imagine that the red chromosomes were inherited from mom, and the blue chromosomes were inherited from dad. 
+
+I'd next like you to assume that this individual has the genotype big A little a, big B little b. So we're going to consider the segregation of the alleles of two genes, the A gene and the B gene, for this example. Next imagine that this heterozygote had a mom whose genotype was big A big A, little b little b, and then dad, who had the genotype little a little a, big B big B. What does that mean? Well, that means that mom contributed big A and little b in her gametes, and dad contributed little a and big B in his gametes. 
+
+OK. Next I'd like you to assume that the A and B loci are on different chromosomes. So given that information, I'd like you to take a minute, and with paper and pencil or through a computer or however you choose, recreate this figure for yourself and label the chromosomes with all the A and B alleles. Pause this video, and then we'll come back and work on it together. 
+
+Great. Let's see how you did. So although we know that the A locus and the B locus are on different chromosomes, we don't know where on that chromosome. So for the purposes of this example, we're just going to pick a spot. But we do know that the red chromosomes are from mom, and the blue chromosomes are from dad. 
+
+Remember that mom contributed big A. So let's just place big A allele here. If we look at the homologous chromosome that you got from dad, at the same locus, the allele is little a. Likewise, let's imagine that this is the locus for the B gene. Mom contributed a little b allele. And at the same locus on the homolog, dad contributed the big B allele. Great. 
+
+So now I'd like you to pause the video for a minute and trace these alleles through every stage of meiosis. What's the genotypes of the gametes that you get? Excellent. Let's go through this together. So the first step of meiosis is replication, and so here we have the replicated chromosomes. And remember that sisters are pretty much copies of each other, so if you placed the alleles on the replicated chromosomes, it's going to look something like this. OK. Great. 
+
+So now the next step, again, is recombination. After recombination occurs, the chromosomes align in meiosis I. So I'm going to show that here. OK. So here we are in metaphase I, and I'm just going to quickly place the alleles on this diagram. I'm going to label both sisters at once for simplicity. 
+
+Is this the only way that the chromosomes can align in metaphase I? Is there a specific reason why I put the red chromosomes on the left side and the blue chromosomes on the other? There's not. The alignment of chromosomes in metaphase I is random. And that means that here is one possible configuration, but there's another. Chromosomes can also align like this at metaphase I. In this alignment, the alleles will look like this. 
+
+What does this mean for meiotic chromosome segregation? Let's first take a look at the meiosis on the left panel. So homologous chromosomes segregate in meiosis I, and sisters split in meiosis II. And so you get two types of gametes-- gametes with a little b big A genotype or a little a big B genotype, like so. 
+
+So now what does this mean for meiosis if chromosomes align in the other way? And so that I'm showing here. Let me just take a minute to place the alleles. And now sisters split in meiosis II. So if chromosomes align like this, you'll get gametes of genotype big A big B and little a little b. So in this population of gametes, you would expect equal frequencies of these genotypes-- big A little b, little a big B, big A big B, and little a little b. 
+
+Now let's think about a Punnett square for a dihybrid cross, where one of the individuals has genotype big A little a and big B little b. So we write that the four combinations of gametes would look like this, and now we can understand why this would be. If chromosomes align in the orientation on the left, you get big A little b and little a big B, which correspond to these two gametes. But in the other half of the population, you'll align in the other orientation and get out gametes that have genotype big A big B and little a little b. 
+
+And these will come out at equal frequencies when the genes are located on different chromosomes and, therefore, assort independently. So to predict all the possible gametes when considering three or more genes becomes very complicated. And when you consider the thousands of genes that humans have on their 23 pairs of chromosomes, it becomes easier to understand why siblings can appear very different from each other. 
+
+Great work, everyone. We've gone through so many concepts already. And hopefully now you understand the connection between meiosis and Mendel's Law of Independent Assortment. See you next time. 

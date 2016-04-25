@@ -1,0 +1,141 @@
+ERIC LANDER: Welcome back. Today, we're going to talk about genomics as a big picture of biology. So coat of arms, again. We've talked about function-gene-protein, the study of individual genes, the ability to use recombinant DNA to study genes. But we've also talked about the fact that studying individual genes, or individual proteins, gives you just a little bit of the picture. You're feeling just one part of the elephant. 
+
+And genomics is about standing back and looking at the big picture, looking at the entirety of the genome. All of the DNA simultaneously, and asking, what can I learn by looking at all of the DNA simultaneously? Or, all of the RNA simultaneously? Maybe I can look at all the messages in the cell simultaneously, and see things by looking at the overall pattern that I can't see by looking at any one gene. 
+
+What about looking at proteins simultaneously? Or, how proteins interact with DNA? Genomics is, in some sense, just global views of a whole set of components in biology. So that's what we're going to talk about today. 
+
+Now, I'm going to-- I'm going to zoom you a little bit to the future, because what we've been doing over the last decade to learn about the genome is partly limited by the tools we've had-- tools of DNA chips, and other kinds of chips I'll tell you about. But of course, what we'd really like to do is just sequence everything and know everything. And we're getting pretty close to being able to do that. We've talked about how the new sequencing technologies make it possible to do that. 
+
+But we're not quite at the point where you can, oh, just on a dime sequence 50,000 people. You can sequence a person for several thousand dollars. But you know, several thousand dollars times 50,000 people-- still pricey. 
+
+But we've got tools that are getting us there. But I'm going to make us imagine today what that world is going to be in, oh, I don't know, the next three, four years. And we'll be able to see how close we are to it today, and what it's going to look like in the coming years. So that's the goal for today, is global views. 
+
+Section One. We've talked about DNA genetic-- DNA variation, genetic variation. What we call DNA polymorphism. The variation in the genome. And we've talked about how we can use DNA variation in medicine. 
+
+And we've talked about how to map Mendelian diseases-- single-gene diseases. Diseases caused by mutations in a single gene with pretty high penetrance-- maybe fully penetrant-- that follow the simple patterns we learned about for human genetics. I'd like to just go back over what we talked about here, and then take it a little bit into the future. 
+
+So what did we talk about? Let's see, we talked about ways of using DNA spelling differences-- DNA polymorphisms-- to trace inheritance. We can study DNA polymorphisms. We can study them, well, all sorts of ways. But I told you about these cool DNA chips. 
+
+And these DNA chips have different sequences in little quadrants of the chip, little cells of the chip here. Here's a DNA a chip where you've got lots of teeny, little spots-- they're blown up here-- each of which has a set of-- an identical set of oligonucleotides here that represent a certain sequence. They might match allele number 1, or allele number 2. They might have a 25-base pair sequence where there's an A the middle, or where that same 25-base pair sequence where there's a G in the middle. 
+
+And one can see the patterns here between the wild type, or the mutant, or the heterozygote, where you see both patterns there. And there's a whole bunch of different-- slightly different variants that are interrogating exactly the same sequence here. So we've got that for one particular polymorphism that can show these different patterns-- big A, big A, big B, big B, and big A, big B, for example, if we wanted to. And we've got zillions and zillions and zillions of these all across the chip. 
+
+All right. So that's one way you can do it. Of course, you could just sequence everybody. If I wanted to, I would just sequence the entire genome of everybody in the family. So that's another way to do it, is I can study it with DNA chips. Since these are single nucleotide polymorphisms-- single nucleotide polymorphisms-- is SNP. These are often called SNP chips. 
+
+We can also just do total sequence. That's another way to do it. However we do it, let's actually imagine that we have the total sequence of everybody in the world even if we wanted to. We're trying to find the cause of a Mendelian disease. We talked about how, if he had a family in which the Mendelian disease was inherited, dad-- let's make it a dominant disease-- passes it on to some of the kids here. 
+
+The gene that's responsible is over here. It has a mutation on this chromosome here. And the copy on the other chromosome is fine. It's a normal copy. 
+
+We have a polymorphic site over here that's got maybe an A spelling here on that chromosome and a C spelling there on that chromosome. And it's some distance away, the distance away, oh, let's say, it's about 1% chance of recombination. That's 1% recombination, which is, I think you'll recall, we said was about one million bases away. Pretty far in terms of letters, but only 1% chance of recombining. 
+
+Well then, within this family, the kids who gets the disease allele, right, will almost always get the A. And this one here will get the A. And the chance that they don't get an A, that they get the C instead, is how much? 1%. 
+
+And then over here, with the chance 99%, they'll get the C in the unaffected. And you just do this, and you count the number of recombinations. You know all of this. This is just plain linkage analysis, counting crossovers, and learning that your genetic marker is near your disease. 
+
+Now, suppose I had another family in which this was occurring. I don't know, maybe this is a family here in Boston, and there's a family somebody's got in Tokyo or in London, or something like that, and it's getting transmitted again. Actually, you know what, we'll make-- we'll have mom transmit it this time. It's getting transmitted from mom to some of the kids here. 
+
+And suppose it even was the case that it was exactly the same mutation-- exactly the same allele, same base change in the gene there. What would be the allele that was carried on the chromosome? Would it also be an A? 
+
+Wouldn't have to be. Could be that it was carrying a C. How could that be? But how would it be that those two families had exactly the same mutation? 
+
+STUDENT: [INAUDIBLE] common ancestor. 
+
+ERIC LANDER: Yeah, they have a common ancestor. Happened some time long ago. It was transmitted through the population. And it went down to a family here, and a family there. Some mutations hung out a long time. But how could be that, even though the exact same mutation which must have been born on some chromosome on some day by a mutation, and that chromosome maybe had an A on it, how might it have a C today? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Sometimes there's recombination, right? 1% is a very small number, unless you have a lot of generations. But if I have a lot of generations, it's very likely. Like if I've gone for 1,000 generations, there's been 10 crossovers already. 10 crossovers is enough to try to randomize which one is there. 
+
+So it's very interesting. Within a family, I can count that A as a very good marker to trace the chromosome. But within a population, it's a crummy marker, because across a population, there's been too many chances for recombination. 
+
+So here, I would have, say, the C allele that was going through, and it was marking the affected chromosome there. All right, that's very important to know the difference, because across a population, I could have many copies of that gene in different people all with exactly the same mutation. But sometimes it'll have an A, sometimes it'll have a C, dot dot dot. Sometimes it'll have a C, et cetera. 
+
+Not to mention, in some families, it'll be a different mutation. It'll be some other nucleotide that's changed in the gene. Does that matter for linkage? 
+
+No, as long as I have some marker that is marking this chromosome, I can trace it, and it will still show linkage, even though it's a different mutation. Everybody got that? Because that's actually a little bit tricky, all right? 
+
+There's one gene, multiple different bases that could have been mutated, and each of them is carried on a chromosome with potentially different flanking markers-- surrounding markers. And it doesn't matter because I'm just tracing in the family. Does it travel together? I'm not tracing across the whole population. 
+
+Hang on to that. I know I'm making a big deal about it. But it's extremely simple. You're probably saying, well, it's so obvious. All right. 
+
+Suppose I was trying to map a disease, and I didn't have families. I can't do linkage anymore. I can't trace that marker along with the disease. 
+
+What do I do? No families. How am I going to do it? 
+
+But with just a subset of markers scattered around the genome, I've told you that there may be no correlation between the allele at my marker locus and this mutation over here. I'll have a lot of other chromosomes that have perfectly good, normal copies of that gene. They'll also have As and Cs, and there's just no correlation across the population between a mutation in the gene and my marker. I can't do linkage without families. What do I do? 
+
+Well, the answer was, until very recently, nothing. In the postmodern world, I have the entire sequence of all the patients. Now I'm going to give you the entire sequence. 
+
+So let's move now to no families at all. No families available, but what I have is maybe one patient, or maybe I've got two patients. For each, I have their three billion nucleotides of sequence. Of course, they're diploids, so there's three billion nucleotides twice. This patient here, I've got three billion nucleotides to sequence, and I've got three billion nucleotides that they got from their other parent. 
+
+And now you can get that, and scan the entire genome in a viewer. You've seen the viewers we've got for individual genes. Well, we're going to give you a problem very shortly where you get to look across a lot of genes. We didn't give you the entire three billion letters of the genome, because we thought that might be a bit much for the class. 
+
+But we're actually thinking that maybe pretty soon, we'll actually cue that up. And we'll probably do that. But not this not this term. But what would you do? Conceptually, if you had all three billion bases, how would you find the gene for the disease? 
+
+STUDENT: [INAUDIBLE] 
+
+ERIC LANDER: Find the actual mutation. Find the gene, find the mutation. Lot of letters. How you going to do it? Welcome to the modern world. What are you going to do? Yes? 
+
+STUDENT: Gene amplification, like what we did with the other 
+
+ERIC LANDER: What gene's amplified? 
+
+STUDENT: Oh, right. 
+
+ERIC LANDER: Right. The problem is, I don't know what the gene is that causes this. I mean, which disease is this? I mean, these will be some rare disease. It's not cystic fibrosis where we are ready know the gene. It'll be some disease which we don't know. 
+
+STUDENT: Can you just look at a bunch of people that do and don't have the gene and see what the differences are? 
+
+ERIC LANDER: That do or don't have the disease, that don't have the phenotype. So I could look at a bunch of people who don't have the phenotype, and a bunch people who do have the phenotype. And if this one is the right gene sitting right over here, what do you think you'll see? 
+
+STUDENT: Some sort of change 
+
+ERIC LANDER: Well, so these are going to be patients, and these will be normal controls in the population unaffected. And you're telling me that when I look, I'm going to see that there are some nucleotides that are different here. Will they all have exactly the same mutation? They might not. Will they have one mutation or two mutations? 
+
+STUDENT: Could be either. 
+
+ERIC LANDER: Because would we expect them to have one mutation or two mutations? Did I say whether the disease was or recessive or dominant? So if it was a dominant disorder, what would I expect? One. If it was recessive? Two. 
+
+So, OK. And then I wouldn't see any changes here, right? And it'd be so simple. There would only be a single gene in the entire human genome that showed mutations-- that is to say, I don't know whether it's a mutation-- but showed a spelling difference on the chromosomes in the affecteds. 
+
+But wait a second, spelling difference is very common in the human genome. We said that about one letter in a thousand are polymorphic. It's a little less in coding regions because they're under some selection, but all right, maybe one in 2,000, or in 3,000. Almost every gene will have some variant amino acid. 
+
+STUDENT: And you can't statistically figure out [INAUDIBLE]? 
+
+ERIC LANDER: Well, now, that's an interesting question. Can I statistically figure out? Suppose the variant amino acid was pretty common in the population. It changed, I don't know, a proline to an alanine. But, you know, 20% of the population had that. You think we could rule that one out, probably? Yeah, it's probably not it. 
+
+So maybe what I'll do is I'll build a big catalog of all the common variations in the population, and cross them off first. We actually have a big catalog of all the common variations in the population. We've now looked at thousands of people, and we have that. And we can cross off anything that's present, even at 1%, half a percent-- we know all of them. Essentially, a total catalog. Cross them all out. 
+
+Now we're just going to look for rare variants, maybe less than a half a percent. Now, what's the chance that a particular gene will have a rare variant that's not been seen before? Turns out that you are carrying about 100 genes-- maybe even 150-- somewhere between 100, 150 genes that have a rare genetic variant that nobody else in this class has. 
+
+STUDENT: He's so special. 
+
+ERIC LANDER: And it turns out that he's not at all special, because every one of you is carrying that level. On average, there's about 150 genes are carrying not just the variant, but a rare a variant-- less than a half a percent, or something like that. And so, I'm going to see a lot of them. That's on the order of about 1% of your genes are carrying some rare variant, which if you didn't know better, you might say could be the cause of a mutation, the cause of a disease. 
+
+So it's-- so I mean, people always think in the newspapers that if I had the whole sequence, I'll know everything. Well, guess what. It's not so easy to know everything from the whole sequence from a single person, because there's enough polymorphism in our population. 
+
+STUDENT: But if patient 1, and patient 2, and patient 3-- 
+
+ERIC LANDER: So if enough patients had it-- ah. So you're saying that the way I'm going to get around linkage is with numbers, because 1% of the genes will contain in any one person rare variants. But we'll see an excess of rare variants in the same gene if we have enough patients. 
+
+So it does require enough. And you have to know some statistics to say how many patients is enough. If I had 100 patients, there'd be no doubt if I saw always exactly the same gene carrying a mutation, it wouldn't be very hard to say that's got to be the guilty gene. 
+
+But if what if it's a relatively rare disease, and there's only five patients? Maybe, maybe not. You got to do some statistics here and see. But that's what the world then looks like. Now, what if it's a recessive disorder? Suppose it's recessive. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: What happens if it's a recessive? 
+
+STUDENT: It will look at multiple-- 
+
+ERIC LANDER: I'm going to expect to see two rare variants, assuming that there are mutations in the coding region. So I'm going to say there might be-- that individual might have two different variants. And this individual here might have two variants in the same gene. If there's about a 1% chance that a gene has a rare genetic variant, what's the chance that both copies have a rare genetic variance? 1% times 1%, which is 10 to the minus 4-- 1 in 10,000. How many genes are there? About 20,000. 
+
+On average, roughly you might see that about once or so in a genome, something like-- that's actually pretty good. Even a single patient with a single-- with a recessive disease, can almost pin you down to the gene. Then, if you have several of them, you can get there. That's roughly what people are beginning to do, is they're beginning to ask, how can I just, for total sequence of some collection of patients, how many do I need and all of that? Can I just zero in, and maybe not even need linkage? 
+
+But notice, if I only have a single patient, I can't do that for a dominant disorder. Linkage is actually very helpful. And what if it turned out that the disease could be caused by mutations in any of five different genes. Could that-- can you imagine that a genetic disease could be caused by mutations in any one of five different disease genes? 
+
+Yeah, of course. Suppose there's a multi-protein complex that has five sub-units, and screwing up any one of the proteins is enough to cause the disease. So well, then it's not looking for a single one, but it's any of five. Can you pick out the five that have the property that there's always a mutation? At least one of the five? 
+
+Now we're getting into the really interesting-- And there are diseases, like certain kinds of blindness-- retinitis pigmentosum-- that have zillions of different genes that can be mutated to produce retinitis pigmentosum. So we're getting into the interesting, kind of complex Mendelian genetics that's going to go on in a world of complete sequences. 
+
+We're going to give you a problem on one of the problem sets where you're going to get at least the subset of genes, and you're going to have to figure out, based on a little bit of linkage information and sequence information, what the cause of the disease is. I think you'll like the problem. All right, before you go on, try answering this question about comprehensive views of DNA polymorphisms in medicine. 

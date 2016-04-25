@@ -1,0 +1,241 @@
+What are called Okazaki fragments?	2.739060433017689
+What does the cell solve by providing DNA polymerase with a three prime hydroxyl group?	2.4075959992111775
+What is a specific sequence that binds specific proteins that will help separate the DNA?	2.3910282173349673
+What was happening discontinuously on the top template strand here?	2.379459437134232
+What does dNA polymerase need to add to an existing three prime hydroxyl group?	2.3466070258909792
+What does dNA polymerase need to add nucleotides to?	2.2900654858842344
+What happens at an origin of replication?	2.2721253620564497
+What is the way that the cell chooses to replicate its DNA?	2.250763603947379
+What does dNA polymerase do on the top template strand?	2.2203163267090047
+What are going to expand so after some time?	2.1556849521286208
+Who will help untangle the DNA as DNA is being unwound?	2.143086078933779
+What will dNA polymerase add on the top template strand?	2.1356643966389584
+What can dNA polymerase fill in?	2.0873834570945133
+What is on the five prime end?	2.024345987529847
+What has another enzyme called primase?	2.001819827075894
+What does another enzyme called ligase come in to make here and here?	1.985806026552001
+What is on the three prime end?	1.9483558967542984
+What was dNA synthesis happening discontinuously on?	1.9123993997141722
+What is your original template strand?	1.8911949827145915
+What would probably take a really long time?	1.8765293160312753
+What is what on?	1.8357385215328241
+What is the three prime end?	1.7986471921573162
+Who will help unwind the DNA?	1.7661036861931914
+What is your newly synthesized strand?	1.7650527825245357
+What is the five prime?	1.764286355695972
+What has dNA polymerase added in?	1.7509108172765924
+Where did we say earlier that, DNA replication happens on two strands in both directions?	1.7049457729743915
+What do you 're going to have where leading strand and lagging strand synthesis are going to be occurring?	1.699289971959593
+What is going to get bigger?	1.6539798175566855
+Where did we say earlier that at origins of replication, DNA replication happens on two strands?	1.6398069669878774
+Who 'res going to have another replication bubble where leading strand and lagging strand synthesis are going to be occurring?	1.6317510828386426
+What are each of these little fragments of the lagging strand called?	1.6083925515441986
+What are going to merge?	1.6012923951691056
+What can dNA polymerase not start from?	1.585978354891422
+What is an origin of replication?	1.5497699033320942
+Will topoisomerase help untangle the DNA as DNA is being unwound?	1.5490839243637384
+What solves this problem by providing DNA polymerase with a three prime hydroxyl group?	1.541867639140046
+What will dNA polymerase add?	1.5190677204871026
+Who have single-stranded DNA that are accessible for the DNA replication machinery?	1.5052144120302349
+What is happening continuously?	1.4945343499015296
+What's Shirleen again?	1.4900270280156647
+Who has more template that's available for a DNA polymerase to synthesize DNA off of?	1.4872951031884205
+What needs to add nucleotides to an existing three prime hydroxyl group?	1.46041433039096
+What was a gap between what there just filled in and what synthesized before?	1.4476131015913527
+What did we say earlier that at, DNA replication happens on two strands in both directions?	1.4295884011632745
+What does the same on the top template strand?	1.4146006452762894
+Does dNA polymerase need to add nucleotides to an existing three prime hydroxyl group?	1.4026224348203495
+Is an origin of replication a specific sequence that binds specific proteins that will help separate the DNA?	1.391640417592296
+Will dNA polymerase come in on the top template strand?	1.3805518750154784
+Who said earlier that at origins of replication, DNA replication happens on two strands in both directions?	1.374342055721483
+What did we say earlier that at origins of replication, DNA replication happens on two strands in?	1.3589718959591193
+Will helicase help unwind the DNA?	1.3581138727629778
+What is a chromosome?	1.354742522798748
+What replicates its DNA starting from very specific locations?	1.3406249770710956
+What comes in to make the phosphodiester bond between these fragments of DNA here and here?	1.327512092558972
+Was dNA synthesis happening discontinuously on the top template strand here?	1.3252361796272818
+Where do now remember that we said DNA replication was beginning?	1.321876442443482
+What's what we call the lagging strand?	1.3150037953726295
+Who 're going to try to replicate this really long strand of DNA?	1.3131193858212873
+Will dNA polymerase add nucleotides in the five prime to three prime direction on the top template strand?	1.309341024590367
+Will dNA polymerase add GGACT?	1.3024533670185003
+Can dNA polymerase fill in the gaps?	1.2990380955042213
+Who call very specific locations origins of replication?	1.2988953808162655
+Who are going to look at DNA replication in this video?	1.2938549129449348
+So if this is the five prime end what is the three prime end?	1.284679643920787
+What are we going to look at DNA replication in?	1.2729606145697971
+Does dNA polymerase do the same on the top template strand?	1.2718028679533742
+What's what we call a leading strand?	1.2600520873774603
+What does a cell and a nucleus have?	1.2590815097280141
+Where does that happen?	1.2275256944331328
+What does it do on the top template strand?	1.2231131092749838
+What does not replicate its DNA from random locations?	1.2063481817404638
+Can dNA polymerase not start from nothing?	1.2034806319387985
+What divides?	1.1939270472753285
+What does dNA polymerase do the same on?	1.1766089012559644
+What's just?	1.1697656694908771
+What can fill in the gaps?	1.1619694120379611
+What is here?	1.161532312038926
+Who does?	1.1584924848482083
+Who could reschematize this big bubble here as this little bubble here?	1.1566593304307689
+Who could do it a couple of ways?	1.1551934342874284
+What is to replicate the DNA at multiple locations?	1.1458361801777266
+Is the replication bubble going to get bigger?	1.1364948000048796
+Is dNA polymerase going to continue to add nucleotides here?	1.1188656490918567
+Who has DNA polymerase of course?	1.0881957474630237
+What could we reschematize this big bubble here as here?	1.0726257456222577
+What could we reschematize here as this little bubble here?	1.0688564601255663
+What is try to separate these two strands of DNA?	1.0597757590130552
+Does SHIRLEEN: Hi?'s Shirleen again?	1.059416845739206
+What cannot start from nothing?	1.0548057471907728
+What do you have DNA polymerase of?	1.0506222174673634
+Is what on the five prime end?	1.0481400829813494
+What do now remember that we said DNA replication was beginning at?	1.040940754307993
+When are these replication bubbles going to expand?	1.0303399035813237
+Where did we say earlier?	1.029767453291683
+What does?	1.0254298828444006
+What remember that we said DNA replication was beginning at multiple places along the chromosome?	1.023303102090651
+Who learned about how a cell replicates its DNA before it divides so in this video?	1.021764715522988
+Has dNA polymerase added in new bases?	1.0144712451616678
+What is going to continue to add nucleotides here?	1.0098877110109776
+What will topoisomerase help untangle as DNA is being unwound?	1.0065775648618862
+Who well 've already kind of solved this problem?	0.9985424364156075
+Who 'll get larger replication bubbles here?	0.9927416196573173
+Is black your original template strand?	0.9896089717891814
+What is so if this is the five prime end this?	0.9809783314601994
+What does now?	0.9737091589408724
+Is what on the three prime end?	0.9721499922058008
+What do well we 've already kind of solved?	0.9625820487559522
+Can dNA polymerase come in?	0.9284415954788521
+What does that happen at?	0.9281299038594255
+What does this not replicate its DNA from?	0.9211166028580204
+What will dNA polymerase add nucleotides in the five prime to three prime direction on?	0.9083780202061358
+What will add nucleotides in the five prime to three prime direction on the top template strand?	0.8887679318732369
+Is blue your newly synthesized strand?	0.8816268398665632
+What has added in new bases?	0.8770108879687024
+Will dNA polymerase come in?	0.8743778333304721
+Does a cell and a nucleus have another enzyme called primase?	0.8629811368137175
+What did you learn about how a cell replicates its DNA before it divides so in?	0.8519024871293484
+Can dNA polymerase not start from scratch?	0.8364175802703802
+What was synthesized before here and here?	0.8310542155886002
+Is dNA synthesis happening continuously?	0.8190639166417673
+What 'll you get here?	0.8087543103733137
+What cannot start from scratch?	0.7958432017839066
+What is that we could separate the two strands and replicate them from one end each?	0.7799723890211809
+What will come in on the top template strand?	0.7663070096126243
+Is dNA being unwound?	0.7642933052699092
+What looks like this?	0.761767057156093
+What do you have?	0.7450930150276713
+What well is?	0.7386384711165426
+Are each of these little fragments of the lagging strand called Okazaki fragments?	0.7361175804044549
+What needs to replicate its DNA so that its daughter cells will have the same amount of DNA as it does?	0.7336834871767706
+Does a chromosome's just?	0.7323532118904947
+What did we say earlier at?	0.730550519941159
+What will helicase help unwind?	0.7160157429972438
+Who has helicase?	0.6903286784603428
+What will add GGACT?	0.6875583504624738
+What does it not replicate its DNA from?	0.684202808832179
+What call this region here our origin?	0.6831796238334207
+Who has a template and a primer?	0.678973718583745
+Do you 're going to have another replication bubble where leading strand and lagging strand synthesis are going to be occurring?	0.6721971694714979
+Does the cell solve this problem by providing DNA polymerase with a three prime hydroxyl group?	0.6602472549686293
+Was a gap between what there just filled in and what synthesized before here and here?	0.6600720014398218
+What does that look like?	0.6566940344581742
+Does primase do?	0.6545301474449889
+Does the DNA separate?	0.6332283036178521
+Who has topoisomerase?	0.621563969528703
+Is here a chromosome?	0.6078106199059323
+When would that way probably take?	0.5707888874794576
+What can it not start from?	0.5653977522910993
+Do we have single-stranded DNA that are accessible for the DNA replication machinery?	0.5595837083987045
+What can come in?	0.5287491853385005
+What was a gap between what it just filled in and what synthesized before?	0.4986252911146487
+What will dNA polymerase come in on?	0.4971751846352588
+Do you have more template that's available for a DNA polymerase to synthesize DNA off of?	0.4802093332263637
+Is one of the first things we have to do try to separate these two strands of DNA?	0.474786491783755
+Does the cell do now?	0.47251083662072113
+Does a cell and a nucleus do?	0.4310983431754447
+What is being unwound?	0.4110602152135716
+So if this is the five prime end is this the three prime end?	0.40559029171864625
+What did we say earlier that at origins of replication, DNA replication happens on in both directions?	0.3917377704316185
+Do now remember that we said DNA replication was beginning at multiple places along the chromosome?	0.3914815079522209
+Did we say earlier that at origins of replication, DNA replication happens on two strands in both directions?	0.3874610217318337
+Who are going to merge?	0.38163331939241285
+Does that happen at an origin of replication?	0.3278282414306868
+Do we 're going to try to replicate this really long strand of DNA?	0.3276785723096003
+Are these replication bubbles going to expand so after some time?	0.30997707696527943
+Are we going to look at DNA replication in this video?	0.3087884646475363
+Does it do the same on the top template strand?	0.2802021040609577
+What do we 're going to try to replicate this really long strand of?	0.2738534010933167
+Do we call very specific locations origins of replication?	0.27381488657455755
+What separates?	0.26576950654911236
+What are we going to look at in this video?	0.2533507370467101
+Do let's call this region here our origin?	0.22501089653129824
+What is black?	0.22296728317399261
+Could we reschematize this big bubble here as this little bubble here?	0.1892232953870554
+What does it have?	0.1887467065265509
+Does another enzyme called ligase come in to make the phosphodiester bond between these fragments of DNA here and here?	0.1854371992932231
+Does that's what we call the lagging strand?	0.18083552264076808
+Who will demonstrate with DNA primers though?	0.17855477781554407
+'ll you get larger replication bubbles here?	0.16941283978093669
+Do well we 've already kind of solved this problem?	0.16288869109244386
+Does this replicate its DNA starting from very specific locations?	0.16005845603664248
+Does that's what we call a leading strand?	0.1293752201326126
+Is this the way that the cell chooses to replicate its DNA?	0.1210516037331888
+Do you have DNA polymerase of course?	0.12096738565026621
+What will I demonstrate with though?	0.10379106685744643
+Is well the only thing that's different about this part of the DNA versus here and here?	0.09095313808196837
+Who know?	0.08965274107385413
+What do now remember that we said was beginning at multiple places along the chromosome?	0.06826211278419292
+Do you have helicase?	0.05322242447013359
+Is the other way we could do it to replicate the DNA at multiple locations?	0.047168205344931824
+Does this not replicate its DNA from random locations?	0.042970491144790124
+What does it do the same on?	0.04072584713846794
+What do you have of course?	0.026905361515363158
+Did you learn about how a cell replicates its DNA before it divides so in this video?	0.019197729553424026
+Where do now remember that we said?	0.012985659155333895
+What does it replicate starting from very specific locations?	-0.004152402867289018
+Do you have a template and a primer?	-0.004281997401264226
+Do you have topoisomerase?	-0.011005416508510946
+What will come in?	-0.016529701603368974
+Would that way probably take a really long time?	-0.03470553459385872
+What is blue?	-0.05835738711173
+What does this replicate starting from very specific locations?	-0.06785560701431792
+Does it replicate its DNA starting from very specific locations?	-0.07603491774103
+Who saw before?	-0.0833446190724264
+Are these replication bubbles going to merge?	-0.08621144391656177
+Does it have another enzyme called primase?	-0.11634394513742952
+What does it not replicate from random locations?	-0.11989791803232164
+Who have?	-0.12624117518508893
+Is this the three prime end?	-0.13340120176703918
+Will I demonstrate with DNA primers though?	-0.14512327365224476
+Could we do it a couple of ways?	-0.14956657678800522
+What is this?	-0.15339836024941045
+Who really want?	-0.16338168352935378
+Are they going to merge?	-0.16684684619071533
+Is this the five prime?	-0.16771301078930323
+Does that look like this?	-0.1686021250711125
+What do we 're going to try to replicate?	-0.16888515742521593
+Can it not start from scratch?	-0.17437911480126544
+Does it need to replicate its DNA so that its daughter cells will have the same amount of DNA as it does?	-0.17493069247638848
+What does this not replicate from random locations?	-0.18314989104285728
+Does it not replicate its DNA from random locations?	-0.19349207174455807
+What do now remember that we said at?	-0.27565565122042934
+Was a gap between what it just filled in and what synthesized before here and here?	-0.2869449743483914
+Is one way to do it that we could separate the two strands and replicate them from one end each?	-0.3551962930098498
+What does it need to replicate so that its daughter cells will have the same amount of DNA as it does?	-0.3789856354348413
+What do we have?	-0.38252195119798427
+Does this video divide?	-0.44410645445737584
+Does it's Shirleen again?	-0.4585092235310386
+Did we see before?	-0.508419400797294
+Where do now remember?	-0.5136994169342024
+Who will get?	-0.525080931274887
+Do we know?	-0.5345529881954703
+Do we really want?	-0.5849713627920572
+Will we get?	-0.6119931864362305
+Does it divide?	-0.6339337966227065
+What is one way to do it from?	-0.6466194238659069
+Do we have?	-0.6954869688321619
+Does it do?	-0.7131868155889134
+What do now remember at?	-0.8237208537964762
+What does that's?	-1.0815856384569411

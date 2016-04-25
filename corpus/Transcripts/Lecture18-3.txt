@@ -1,0 +1,73 @@
+ERIC LANDER: So I want you to find the gene now. It's not the gene that rescues arginine biosynthesis in yeast. Yeas It's not the gene that encodes beta globin where you know that protein very well and you can purify that protein and make antibodies against it. It's Huntington's disease, let's say. 
+
+Huntington's disease, hm. That's a dominantly inherited disorder. It leads to brain degeneration, typically in the fifth decade of life. Dominantly inherited. Dad might be affected here, might have a bunch of children here, and on average, what fraction of the children will be affected? Half of the children will be affected, and let's cause some of them to be affected here. There's no sex preference there. There we go, about half of the children in that family are affected. 
+
+Or maybe it's cystic fibrosis we're talking about. Cystic fibrosis is a recessive disease, and it causes cysts in the pancreas. That's how it got its name. But it also causes, the trend is buildup of mucus in the lungs, which leads to breathing problems, which is one of the serious hallmarks of cystic fibrosis. 
+
+And because it's a recessive disease, the parents are unaffected almost always, but one of the children might be affected, or two, or three. But on average, a quarter of the children will be affected because it's a simple Mendelian recessive. We might have another family over here. Also, the parents are unaffected. They just had two kids, and one was affected, and one wasn't. And one out of two is still a quarter here. It's a half from that family, but it's a quarter overall in the population. 
+
+So here's your problem. Find the gene for Huntington's. Find the gene for cystic fibrosis using our tools. Can we do it? Any takers? 
+
+STUDENT: Only those two? 
+
+ERIC LANDER: No, no. What are we going to do? Can we do it by complementation? Why not? Well, we sort of explored that two lectures ago when we talked about the fact that what that would really mean would be taking a patient with cystic fibrosis and trying to shoot them up with the gene and see if it fixes them. Well, that would be really interesting but highly unethical if you didn't know what the gene was. It would be really impractical because you might have to go through thousands of patients. That's just no way to do it. 
+
+Maybe if some specific cellular defect, you could get cells from the patient and try to put the genes in and do it by function, and that might work. That's not out of the question, but nobody really had a great cellular defect. Which cell was wrong in which way? They characterized things that were wrong with cystic fibrosis cells, but how do you know if they were causes or effects, and that's just hard. 
+
+Huntington's disease, how about that one? Even harder. Can we do that by functional rescue, by complementation? Why not? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: It's not just that you'd have to do gene therapy into somebody's brain, which you would say, and wait five decades and all that, but you think like a geneticist. You're saying, even if you could do all of that, it's a dominant phenotype and we can't do complementation on dominant phenotypes. Very good. 
+
+So even if we got rid of all these problems of the impracticality and unethicality of doing human experimentation to find this, we can't do it because it's dominant. But how about we just do it by finding the protein? Why don't we just make an antibody against the cystic fibrosis protein? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Well, what is the cystic fibrosis protein? What protein? So we all have it, fine, so just purify some cystic fibrosis. I'm guessing you don't have cystic fibrosis, so we'll purify it from you, and make an antibody against it, and do it like we did with beta globin. What's the problem with that? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: No, we don't know the protein is. That's what the problem is. The problem is we see the disease, cystic fibrosis. You see a patient who has a disease, and you have no clue what is the protein that's involved. You have a phenotype, but you don't have a gene and you don't have a protein. You have a phenotype. 
+
+So we're able to do beta globin when we have the protein. We're able to do the arginine genes when we could do complementation and rescue. But what if you can't rescue and what if you don't have a clue about the biochemistry and don't know about the protein, which frankly is going to be the case for most human diseases? How are we going to find the gene? 
+
+STUDENT: [INAUDIBLE]? 
+
+ERIC LANDER: Well, sure, but let's think about it. What tricks do we have? Yeah? Map where the gene should be on the chromosome, but I don't know what the gene is. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: So who did mapping? Sturtevant. So we talked about the idea of mapping genes to a position on the chromosome back in 1913 with fruit flies. Sturtevant was able to figure out by genetic mapping where a gene was without even knowing what the gene was. Bingo. Exactly. 
+
+Well, OK, but we've got an idea, we've got a concept. Let's go with the concept here. Our concept is, that's a great insight there. So our concept is that with fruit flies, just as you said, we're able to map genes to different locations on the chromosome by setting up crosses. 
+
+So let's take your idea. This is a very good idea, by the way. If Sturtevant wanted to find where Cinnabar mapped, and we remember maybe, if you all really remember very well, that Cinnabar was flanked by Black and Vestigial in fruit flies. We're bringing back all that stuff we did in genetics. Turns out to matter. 
+
+So in the fruit fly here, because it's going to be where we're going to get human disease genes, in the first fly, we had 8% recombination here and 9% recombination here, or maybe it was the other way. In any case, we had something like that. Now, how did we know that? Well, in Morgan's lab, they set up crosses. 
+
+They set up a cross between a fly-- here's one fly here, there's my fly-- and maybe it was a heterozygous for Black and Cinnabar, and they cross it to the fly that is a double homozygote. And then they look at the gametes coming out and they count the frequency with which there's recombinations. You either get Black Cinnabar, or plus, plus, non-recombinants, Black plus, plus Cinnabar. And those frequencies, if you just set up this cross and you find out that's 8% and that's 9%, and you could try other genes as you move things along. Here's Cinnabar. Look at that. You could do purple eyes, and lobe, and lots and lots of crosses. There you go. 
+
+By setting up enough crosses, one is able to build a dense genetic map. And eventually, you could find other genes that were pretty close to Cinnabar. That's a strategy. We didn't need to know how to rescue it and we didn't need to know what the protein was. 
+
+So the idea you're proposing-- I like this idea a lot-- is we have the entire human genome. How many chromosomes has a human got? 23 pairs of chromosomes, right? And we have all these chromosomes, and somewhere in the human genome, 23 chromosomes, lies a gene for cystic fibrosis. 
+
+I happen to know that the gene for cystic fibrosis is sort of about over there, but I only know that because I know the end of the story. And I happen to know that the gene for Huntington's disease is about over there, but I only know that because we know the end of the story. So you can hold that in mind, but that's about what we're going to try to find out, is where are they? 
+
+A very cool MIT professor, David Botstein, thought of what you thought of, but he thought about it in 1978. And I'm going to his name here because David Botstein made a major contribution by thinking just the way you did. He said, why don't we just do what we do in fruit flies? 
+
+All right, so let's try to apply the fruit fly logic. In fruit flies, if we want to find the position of a new gene, Cinnabar, we would set up a cross to other fruit flies that had different visible genetic markers, and we would measure the recombination frequency. How do we apply that to the human? What are the problems? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: OK, so number one, it's not so easy to set up a cross, right? You have to find somebody nice, you have to meet their parents, and all that, and then it's really just your own personal cross, and that's not going to produce a statistically significant number of offspring Seriously, humans are not an experimental organism. We can't just set up crosses. And even if you could set up the crosses, just think about how long that would take. You'd write a grant to say, I'm going to need a grant for 30 years to produce enough offspring to see if you can phenotype. It's terrible. 
+
+There's another problem, too, the visible markers. Whereas the fruit flies had these curly winnings and cinnabar eyes and different kinds of antenna coming out of their head and you could use those as visible markers for crosses, we don't, as humans, have so many simple, single gene, visible traits. 
+
+So even if you could set up crosses, what would you be crossing? Well, I don't know, ABO blood group. Great. That's one. Couple other blood groups. But I mean, it's pathetic. We don't have lots and lots of genetic markers up and down the chromosomes. So what do we have to do? We need to get around those two problems. We need genetic markers and we need to get around the fact that we can't set up crosses. 
+
+Finding disease genes by positional cloning is incredibly important. To make sure you've really got the idea, try answering this question about positional cloning. 

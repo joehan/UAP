@@ -1,0 +1,109 @@
+PROFESSOR: Section 3, Linkage Maps, where our hero Alfred Sturtevant, the 19-year-old junior at Columbia, takes home the data and figures out why the Chromosome Theory really truly is right. So he starts out saying black and vestigial, right up there in the cross we did. How far apart were they? What was the recombination frequency? 
+
+STUDENT: 17%. 
+
+PROFESSOR: 17%, so let's put them down on the map and write-- I'll move it over. We'll just put it there. 17%. 
+
+Now he goes to some other piece of data in the lab and he says, oh, yeah, someone did a cross with vestigial and that eye color thing I showed you over there, cinnabar, an eye color mutant. And what they found was that vestigial and cinnabar had 8% recombination frequency. 
+
+He said, where should I put it on the map? Cinnabar is 8% away from vestigial. Where should it go on the map? 
+
+STUDENT: Depends how far it is from it. 
+
+PROFESSOR: Depends on which side it's on. So maybe cinnabar is over here, or maybe cinnabar is over here, but either way it's 8% to the left or 8% to the right of vestigial, if this Chromosome Theory is right. Which is it? How do we know whether it's to the right or to the left? 
+
+[INTERPOSING VOICES] 
+
+PROFESSOR: Ah, testable predictions. For the first time in all this stuff, we're hearing some testable predictions. Testable prediction-- if it's over here on the left and it's 8% away, 8% over here, what should the distance be-- we'll call that cinnabar, because that's what it was-- what should the distance be between black and cinnabar? 
+
+STUDENT: 9%. 
+
+PROFESSOR: It should be 9%. 
+
+But what if instead cinnabar is over here? How far will black be away? 
+
+STUDENT: 25. 
+
+PROFESSOR: It'll be the 17 plus 8. It'll be 17 plus 8. 
+
+He checks the data. Black and vestigial are 17, vestigial to cinnabar is 8, black to cinnabar is 9. He had two choices, and it turned out that this looks like it's the map-- 9, 8, 17. 
+
+Now he goes further. He gets another cross. There's a mutant called lobe. Lobe has 5% recombination away from vestigial. Where do you want to stick it? 
+
+One side or the other. If it's over here at 5%, the lobe mutant-- give me a testable prediction. Cinnabar to lobe will be how much? 
+
+STUDENT: 13. 
+
+PROFESSOR: 13. It is. How far will it be from black to lobe? 
+
+STUDENT: 22. 
+
+PROFESSOR: How much? 
+
+STUDENT: 22. 
+
+PROFESSOR: 22. It is. This is a very good all-nighter. He's sitting there drawing things. 
+
+Try another one over here, curved wing. It's 3 away from lobed. If it's on that side, then this will be 8. That will be 16, et cetera, et cetera. 
+
+Every new gene that I drop into that map ends up making lots of testable predictions. And just the opposite of all the other stuff that has been going on, those testable predictions are being tested and they're turning out to be right. That is so cool. 
+
+Alfred Sturtevant is saying the idea that these things lie on a line makes these testable predictions of all those distances are going to be, and they're all checking out. 
+
+He does one other thing. He says this involves pair wise. These are two factor crosses, crosses that just involve two genes simultaneously. They're like we've been drawing over there. It's just pairwise testing of particular pairs of genes. 
+
+What about three factor crosses? What do I mean by a three factor cross? 
+
+Well, I'm going to forget about black and cinnabar and vestigial and all those sort of things for the moment. And I'm just going to make it very simple and say, suppose I had a cross where in the F1 I had a, b, c, plus, plus, plus. I'm going to cross it to a, b, c, a, b, c, and I'm going to look at the possible gametes that could come out in a three factor cross. 
+
+How many possible gametes can come out in a three factor cross? I've got two choices at the first locus-- at the first gene, I've got two choices at the next gene and I've got two choices and the next gene. That makes eight possible choices, right. 
+
+So let's actually write those down. Let's see. If this theory is right, this Chromosome Theory is right, I've got my a, b, c, I've got my plus, plus, plus, and crossovers could occur. Maybe there's no crossovers or maybe there's a crossover here or a crossover there. 
+
+Oh, I don't know. Let's for the sake of argument, say this is 10% recombination here and 10% recombination here just in my simple example. 
+
+Well, what are the possibilities? I could have no recombinations at all. If no recombination occurs, no crossing over occurs, then what kind of gametes can I get out of that? I could get a, b, c, or I could get plus plus plus. 
+
+Now I could have one recombination that separates a away. So what could I get there? For a recombination occurs that separates from b and c, what kind of gametes could there be? a plus plus or plus b c will be the kinds of gametes that I could get. a plus plus or plus b c, and one recombination can do it. 
+
+What's the chance of one recombination occurring, a recombination occurring here but not here? What's the chance of recombination here? We said 10%. What's the chance of no recombination here? 
+
+STUDENT: 90. 
+
+PROFESSOR: 90%. So that's going to be 10% times 90%, so that means 9% of the time we might see that. 
+
+Let's just check out one over here. What's the chance there's no recombination here and no recombination here? 
+
+STUDENT: 90 times 90. 
+
+PROFESSOR: 90 times 90, 90% times 90% is 81%. 
+
+Let's try this recombination now over here that separates away c. What are the possible gametes? We'll have recombination separating c. 
+
+What do we get, a b plus or plus b c-- I'm sorry, or plus plus c. There we go. 
+
+And what's the probability of that occurring? 
+
+STUDENT: 90%. 
+
+PROFESSOR: 90% times 10% equals 9%. But can I ever get a gamete where b has been separated away from little a and little c? 
+
+STUDENT: Two recombinations. 
+
+PROFESSOR: It takes two recombinations, not one recombination. Two won't do, so one won't do it. You need two recombinations. You need this event and that event. 
+
+Two recombinations, two recombination events, and then you can separate b away. But because b is in the middle, it takes two, and you're going to get plus b plus, a plus c. 
+
+And what's the chance of two recombinations? 10% times 10% equals 1%. 
+
+One of the three is very hard to separate away from the others because it takes two crossovers if it's in the middle. That is a pretty cool testable prediction that based on the two factor distances and the map of who's in the middle, you can predict that one of them is going to be very much harder to separate from the others because it takes two crossovers. And when you look at the data, that's what you see. 
+
+The sun rises over Manhattan. Bleary Alfred Sturtevant realizes that the Chromosome Theory checks out. It makes amazing testable predictions of this whole thing. 
+
+Sturtevant writes it up and it becomes one of the most famous papers in genetics. Why is it such a famous paper in genetics? 
+
+Let's just flip to a fly map here. This is an example of the fruit fly genetic map. This has only got a teeny fraction of what's on the fruit fly genetic map. You've got vermilion and scalloped wings and here's cinnabar and vestigial and lobed curved and black body. Right over here is where we've been working on the map. 
+
+And all of these different traits are there. This is, like, way cool, this map that he's produced and that scientists throughout the rest and rest of the century produce. 
+
+We've got a question for you now about recombination frequency. Try answering this one to be sure that you understand how recombination works. 

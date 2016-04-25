@@ -1,0 +1,91 @@
+ERIC LANDER: Last topic, I'll go really quickly. But I just want to leave you with one amazing additional molecular machine built out of proteins. And I'll do it really quick. 
+
+Anybody get the flu this season? Yeah, a little flu-y. This flu thing-- I don't just mean common cold. I mean the real influenza. Influenza, the flu, is a virus. 
+
+And let's take a moment and just comment about the problems of-- we'll make this Section 3 here-- The Influenza Virus-- The Tricks of a Burglar. I'll do it real quick for you. 
+
+Influenza virus actually has a membrane around it. It has some proteins in its membrane. This is the influenza virus. I'll just say the flu virus here. 
+
+It will, at some point, bind to a cell in your airways. When you breathe in a flu virus, it goes down your airways, and it binds to some cells. And then what happens is, when it binds to the cell, there's an interaction there of molecules, again, highly specific. 
+
+What happens is that membrane-bound influenza virus-- it's got its own genome in it-- gets taken up by the cell like that. And then, the cell actually, what's called, endocytosis it. Endocytosis is just being brought into the cell, endo-- in, cytosis-- the cytoplasm there. 
+
+And so it binds. It's internalized into this thing that is called an endosome. Now, this virus, which would like to infect you, and it has its DNA and all-- or it's RNA actually. But it has its genome here. And it would like to infect you. 
+
+It's now a stuck in an endosome. It's wrapped up in an endosome. And it's a worse than that. 
+
+The cell is about to make that endosome highly acidic, to digest its contents. That's how the cell deals with it. It makes this highly acidic. The pH goes down. 
+
+The pH goes down from neutral pH to more and more acidic pH. And it becomes what's called a lysosome, to lyse or digest or destroy this virus. Now the race is on. 
+
+The virus is in this little lysosome. And the pH is falling. And the virus desperately has to get out and into the cell cytoplasm. 
+
+But it's got a little problem. It's inside its own membrane. And then, it's inside the membrane of this endosome becoming a lysosome here. How's it going to make it through two membranes and get out? 
+
+STUDENT: Membrane cutters. 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: Membrane cutters. 
+
+ERIC LANDER: Membrane cutters. It's going to need something pretty clever, right. It's going to need some membrane cutters or something to get through. Well, I'll just show you the trick, because it's pretty cool. 
+
+We'll just home in on the flu virus here. It has some proteins that have an alpha helix and a loop and an alpha helix and a little bit of hydrophobic stuff here. Here's the membrane of the flu virus Here's my endosome. 
+
+And here's this thing wrapped, two alpha helices with this loop region and hydrophobic thing at the bottom. I've drawn two of those. There's actually three of those. There's one behind it as well. 
+
+It turns out, as the pH goes down, it changes shape. It is induced to change shape by the pH. And what happens is, it springs up and makes a long alpha helix. 
+
+And by the way, what was at the end of that alpha helix? A hydrophobic patch. And what does that hydrophobic patch now like to do? Stick into the other membrane. 
+
+This is so clever. It has a little spring-loaded device. It's got this thing folded over like this. 
+
+And when it gets into the endosome, boing, it comes up. And it sticks out it's little hydrophobic patch. And what do hydrophobic patches want to do? Stick themselves into membranes, because that's more favorable. 
+
+So now it's attached itself. And it's got a linkage between these two membranes. So it's screwed itself into the bottom membrane. And it's screwed itself into the top membrane. 
+
+And now, as the vesicle becomes more and more acidic, it changes shape again. And it collapses like this. And when it collapses like this, it brings those membranes together. 
+
+So now it's going to collapse like that. And it's going to tug those membranes so closely together that they end up fusing. And when they fuse, you now can go continuously from the inside of the flu virus out into the cytoplasm. And it's all induced by the changes in the pH. 
+
+The thing the cell should be doing to destroy it is actually the thing that is activating it to be able to attach itself to the membrane and tug down. Now again, my little drawings here illustrate the key points. But they don't do justice. Let's look a little movie of how this happens. 
+
+So this is a movie. This is a movie made by a company called Crucell. And it's a gorgeous movie. And I think Crucell gets amazing credit for having made this movie. Fire away. 
+
+[VIDEO PLAYBACK] 
+
+-So the virus enters our airways. Here, influenza viruses specifically attach to the surface of the epithelial cells. The viral membrane envelope contains the neuraminidase protein, NA, important for the efficient release of newly produced viruses. The M2 ion channel promotes viral structural changes-- 
+
+ERIC LANDER: And we can jump ahead here. 
+
+
+
+-And the influenza hemmagglutinin protein, HA, is the key player for viral internalization, which facilitates viral binding to sialic acid to [INAUDIBLE] receptors. 
+
+ERIC LANDER: OK. So it's bound to the outside of the cell there. And now-- 
+
+
+
+-In late endosomes, the pH drops, triggering the confirmational change of the cleaved HA molecules. HA1 opens up and allows HA2 to form a triple-alpha helix bundle, which extends towards the endosomal membrane. Once the fusion peptides are anchored in the endosomal membrane, the whole molecule can fold back, allowing the fusion of the viral and endosomal membranes. After fusion, the viral genome can be released into the cytosome. The eight viral RNA-- 
+
+[END VIDEO PLAYBACK] 
+
+ERIC LANDER: That's it. It's pretty cool. All right. So proteins, why do I keep saying proteins are amazing machines? Because they are amazing machines. 
+
+It is such a ridiculously simple structure that all of you can understand. That's just amino acid upon amino acid upon amino acid. But they all have these little variations, these 20 variations there. And they can make amazingly specific shapes. 
+
+They can make shapes like that Porin AMP F that you designed, that has the right amino acids to sit in the membrane and the right whole to let certain things of the right size and right charge through it. They can make triosephosphate isomerase, that makes a hole that stabilizes this active site, that stabilizes a very unfavorable intermediate and provides the groups that moves the protons; can provide groups that stabilize by hydrogen bonds the length of the molecule; can provide a loop that closes down and protects that molecule from floating away and from attack by water; and can make an enzyme that is kinetically perfect, faster than the fusion can work. 
+
+It's pretty remarkable. And then, finally, you can get these incredible shapes where something has been spring-loaded, ready for the trap to spring when it gets to the right pH. Because, of course, when you change pHs, well, some of your side chains change as to whether they're positive or negative. 
+
+Because as you go to a more acidic pH, charges begin to change. When charges change here, your shape can change. And you can adopt these cool things, stick out here your hydrophobic bit, glom on, et cetera. 
+
+It is the coolest engineer you can find anywhere, what has been done with proteins over the course of billions and billions of years. You now know the basics of proteins. It is an unbelievably rich field and extraordinarily complicated. 
+
+As I say, people can't really design any of these things from scratch. We might think we're really smart. All the really cool stuff has been designed by bacteria in human cells and things. And we've learned from it. 
+
+And we're trying to understand the basic principles. We're trying to design some of our own things. But really truly what we're doing is, we're sitting at the feet of cells and marveling at the extraordinary engineering that they have developed. 
+
+So anyway, that's a look at proteins. Next time, we're going to think about putting enzymes together in pathways and get back to Buchner and that whole process of breaking down sugars in fermentation by stringing together a lot of these enzymes. Until next time. 
+
+All right. Last of all, we've got a question for you about the influenza virus. It's a good one. 

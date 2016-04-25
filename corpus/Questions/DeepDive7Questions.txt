@@ -1,0 +1,217 @@
+Who promote Ras to exchange its GDP for GTP become active in turn?	3.1785246346256524
+What do Grb and SOS promote to exchange its GDP for GTP become active in turn?	2.821512281928887
+What do Grb and SOS promote Ras to exchange its GDP for become active in turn?	2.8069996493194247
+What well keeps on signaling for the cell to divide-- even when there is no EGF?	2.762464321581181
+What causes uncontrolled cell division?	2.6526203353081543
+What do Grb and SOS promote Ras to exchange for GTP become active in turn?	2.6273463955092704
+What recruits Grb and SOS?	2.572507933610334
+What do Grb and SOS promote Ras to exchange its GDP for GTP become active in?	2.5563141780651852
+What are the process of a diploid parent cell generating haploid gametes?	2.5551921522167897
+What depends on the type of mutation that happens?	2.5169109937354075
+Where does Ras cause cell division?	2.5167060512784203
+Who does Raf activate?	2.497787504435145
+What are the programmed death of cells that have accumulated massive amounts of mutations?	2.496338974639469
+What prevents the cell from going into cell division?	2.4960328893285575
+When will Ras hydrolyze GTP to GDP in a normal cell?	2.478700438617067
+When is the controlled clock that dictates when cells divide?	2.455168644576374
+What activates Erk?	2.4273595731514397
+What are genes that encode proteins that promote cell division under the right circumstances known as?	2.3649416436397215
+What are genes that encode proteins that prevent cell division known as?	2.3400263024332597
+What do cells go through with proteins that regulate cell division?	2.2865894445159647
+What are the process of a diploid parent cell?	2.2709736375547274
+What causes cell division in the end?	2.2657781571441316
+What activates Raf?	2.2641654565008347
+What will hydrolyze GTP to GDP in a normal cell after some time?	2.263876959249566
+What promotes apoptosis in fact?	2.2529343151917276
+What does mutation turn the proto-oncogene Ras to?	2.237119696609418
+What does the activated Ras phosphorylates and activate?	2.2328188807419123
+What does the protein that is coded by the gene of interest promote in fact?	2.232065137648594
+What does the protein that is coded by the gene of interest promote apoptosis in?	2.2280936822810173
+When will Ras become inactive in a normal cell?	2.2221205437846745
+What will Ras hydrolyze to GDP in a normal cell after some time?	2.2165481318814453
+What does Ras cause cell division in?	2.1927274793939886
+How many types of mutations-- a gain of function mutation and a loss of function mutation do now 're going to discuss?	2.1850146422161068
+What need to divide when no.?'s necessary?	2.1679246906971295
+Who does the receptor recruit?	2.150270418654629
+What will Ras hydrolyze GTP to in a normal cell after some time?	2.1408015343221654
+What will become inactive in a normal cell after some time?	2.1028196023593035
+If now lose both copies what are we in?	2.0971864062402665
+What is called senescence?	2.084278786306738
+What means that the protein that is coded by the gene of interest cannot do what it's supposed to do?	2.066106900419547
+What do now take a moment to think about?	2.059087037204115
+What does mutation turn to an oncogene?	2.052908235774726
+What is the activated Ras phosphorylates and in?	2.018544931576151
+So even if now lose one copy, what expresses the protein?	1.9866452904780003
+So even if now lose one copy, what can compensate?	1.9801736126298166
+What do cells go through a very delicate process known as the cell cycle with?	1.9558138612506093
+What are haploid gametes as?	1.9366671140495348
+So even if now lose one copy, what does the other copy of the gene express?	1.9315330952537277
+What will have a higher level of activity?	1.9224351075771327
+What are such as eggs?	1.8947265624526393
+What will a gain of function mutation have a higher level of?	1.8855495276847163
+What is in effect?	1.8734165598324484
+What accumulates mutations?	1.8701237100085022
+What do let's look at?	1.8608450021069687
+What will a gain of function mutation have?	1.852680707989242
+What 're going to discuss two types of mutations-- a gain of function mutation and a loss of function mutation?	1.8451098874565135
+What binds to its receptor?	1.8341836322177452
+What do now 're going to discuss?	1.7989296220777218
+What think, are your cells dividing all the time?	1.7912642421408302
+Does Raf activate Erk?	1.7812914384223255
+Will Ras hydrolyze GTP to GDP in a normal cell after some time?	1.759585737058842
+What does the answer depend on?	1.7272778959315966
+What look at another gene?	1.7124509312074188
+Does well Ras keep on signaling for the cell to divide-- even when there is no EGF?	1.706365294742827
+What are some cells set not to?	1.6606297922991948
+Who may wonder about the other copy of Ras?	1.6404103005863897
+Will Ras become inactive in a normal cell after some time?	1.6380432826803482
+What does the ligand EGF bind to?	1.6351069084370986
+What is not mutated?	1.623669070578985
+Does the activated Ras phosphorylates and activate Raf?	1.6211319956941685
+What are mitosis?	1.619591912320281
+What are apoptosis?	1.6131508390577018
+Do Grb and SOS promote Ras to exchange its GDP for GTP become active in turn?	1.604508114349947
+Does the receptor recruit Grb and SOS?	1.5956624519865312
+What are meiosis?	1.5757668998314591
+What are known as tumor suppressor genes?	1.5663758142191246
+What is P53?	1.5337191775498615
+What will lead to cancer?	1.5177845659856066
+Does a loss of function mutation in both copies of the tumor suppressor gene cause uncontrolled cell division?	1.5148656004899563
+What gets phosphorylated?	1.4999871622432335
+What are known as proto-oncogenes?	1.4977610516787339
+What is the gene?	1.4916834925216758
+Does the answer depend on the type of mutation that happens?	1.4749272367220772
+Who should be able to explain the genetic and molecular processes that make a regular cell transformed into a cancer cell by the end of this video?	1.4720318363807818
+Who turns the proto-oncogene Ras to an oncogene?	1.4515025243699626
+Are meiosis the process of a diploid parent cell generating haploid gametes?	1.445536480067911
+What go through a very delicate process known as the cell cycle with proteins that regulate cell division?	1.4235827161955976
+What does a loss of function mutation in both copies of the tumor suppressor gene cause?	1.4194443979965143
+What are meiosis the process of generating haploid gametes?	1.4181838312249888
+Are apoptosis the programmed death of cells that have accumulated massive amounts of mutations?	1.4119641687933506
+Are genes that encode proteins that promote cell division under the right circumstances known as proto-oncogenes?	1.408511820102273
+Will a gain of function mutation have a higher level of activity?	1.3923319916535997
+What should you be able to explain the genetic and molecular processes that make a regular cell transformed into a cancer cell by?	1.3868404320508207
+How many types of mutations-- a gain of function mutation and a loss of function mutation do we 're going to discuss?	1.380884789466117
+What do now need to?	1.3710218396758742
+Do cells go through a very delicate process known as the cell cycle with proteins that regulate cell division?	1.361965789368175
+Are genes that encode proteins that prevent cell division known as tumor suppressor genes?	1.3589098175758476
+If now lose both copies are we in trouble?	1.355682189914781
+Who has completed my undergraduate degree here at MIT in biology?	1.3523326039479064
+Who is a gain of function mutation?	1.3463607242836049
+Does Ras cause cell division in the end?	1.340313197272672
+Is the cell cycle the controlled clock that dictates when cells divide?	1.3344930880673322
+If we lose both copies who are in trouble?	1.3307832265121666
+Where does it cause cell division?	1.3268939635080148
+What will no.? lead to?	1.325787015584239
+Does mutation turn the proto-oncogene Ras to an oncogene?	1.3182892956853363
+Does the protein that is coded by the gene of interest promote apoptosis in fact?	1.3042730764454231
+Who need to divide when it's necessary?	1.2944996837415457
+What is such as this state of no division's intestinal cells?	1.2818664416679582
+Do now need to divide when no.?'s necessary?	1.2710945684559856
+What need to divide when it's necessary?	1.2637202667867635
+What is this state of no division called?	1.2630247464372424
+Who has learned about mitosis producing two identical daughter cells, and meiosis and sperm cells?	1.2581258535469093
+What does it turn the proto-oncogene Ras to?	1.250913152329038
+What turns the proto-oncogene Ras to an oncogene?	1.244766433200236
+What have you learned about producing two identical daughter cells, and meiosis and sperm cells?	1.2319537478623386
+What well will be nonfunctional?	1.2221663221382566
+Are mitosis the process of a diploid parent cell?	1.2192643260217522
+Is the activated Ras phosphorylates and in effect?	1.2187101280160362
+What will Ras hydrolyze GTP to GDP in after some time?	1.2095895369182608
+When do now take to think about these questions?	1.2070507952121243
+So even if now lose one copy, does the other copy of the gene express the protein?	1.1961273392145788
+What well will remain active?	1.188049646660981
+What well will be truncated?	1.1782035791420262
+Will well Ras remain active?	1.1780904474894554
+Are haploid gametes such as eggs?	1.162669460988206
+Is Ras not mutated?	1.1607645152042618
+What does Ras cause in the end?	1.1517817365415337
+Does the ligand EGF bind to its receptor?	1.1427900127893262
+What does it promote in fact?	1.1381495340067422
+Does dNA accumulate mutations?	1.136038072336366
+What does it promote apoptosis in?	1.134834458529138
+What may you wonder about?	1.1344626641859277
+If now lose both copies who are in trouble?	1.132627375705611
+What occur?	1.1237357643109886
+Who 're going to discuss two types of mutations-- a gain of function mutation and a loss of function mutation?	1.1224776776220988
+So even if we lose one copy, what expresses the protein?	1.1100613140233153
+What is a mutation like this?	1.105630213461267
+So even if we lose one copy, what can compensate?	1.1031280620156805
+What is the cell cycle?	1.0942778184602833
+Who 'mes originally from Iran?	1.0936476533347785
+Do let's look at another gene?	1.0862772131078904
+Does a loss of function mutation mean that the protein that is coded by the gene of interest cannot do what it's supposed to do?	1.083446905891111
+What have I completed here at MIT in biology?	1.0826896886038746
+What will Ras become inactive in after some time?	1.0719243192909134
+What does it turn to an oncogene?	1.0599553379123652
+So even if we lose one copy, what does the other copy of the gene express?	1.0564876993305439
+Will no.? lead to cancer?	1.0523518682821358
+Who do now 're going to discuss two types of?	1.049822510141417
+What is Samin?	1.0454051506406012
+What is how cell division is controlled?	1.0275209949186757
+What does it cause cell division in?	1.0175989852739291
+What take a moment to think about these questions?	1.0123436470584615
+What have I completed my undergraduate degree here at MIT in?	1.0122646801603041
+Will well the protein be nonfunctional?	1.0028885639767329
+If we lose both copies what are we in?	0.9951764900104447
+What is such as your intestinal cells?	0.9852361926372082
+What are mitosis the process of?	0.9843086521810014
+What do we 're going to discuss?	0.9758272484397807
+So even if now lose one copy, can the other copy of the gene compensate?	0.9712602384286506
+Will well the protein be truncated?	0.9639261932185195
+Does the receptor get phosphorylated?	0.9506078985313311
+Who does dNA accumulate?	0.9488815293242303
+Who studies how cancer cells spread?	0.9417327844826442
+Do now 're going to discuss two types of mutations-- a gain of function mutation and a loss of function mutation?	0.9415278910376048
+What are apoptosis the programmed death of?	0.9385735098905255
+What is divide as?	0.9306205575238959
+What have I completed my undergraduate degree here at in biology?	0.923567947932306
+Are some cells set not to divide?	0.8866981646893597
+What are set not to divide?	0.806244888681859
+Is the gene P53?	0.7533633371751769
+What do I 'm originally from?	0.7402908726136896
+What will be promoting this pathway now, as long to Ras is bound to GTP?	0.7211203398360946
+Do people age, and more cell divisions occur?	0.7154869121435827
+May you wonder about the other copy of Ras?	0.6722641672122274
+Does well it keep on signaling for the cell to divide-- even when there is no EGF?	0.5559022116194283
+Will it be promoting this pathway now, as long to Ras is bound to GTP?	0.5304798006370319
+Should you be able to explain the genetic and molecular processes that make a regular cell transformed into a cancer cell by the end of this video?	0.5086530941795107
+What does a loss of function mutation mean that the protein that is coded by the gene of interest cannot do?	0.36522371430165745
+Will as long to Ras be promoting this pathway now, as long to Ras is bound to GTP?	0.3547719161353875
+What do they need to?	0.3449027794569304
+Who is a mutation like this a gain of?	0.34143167066584423
+Is this state of no division called senescence?	0.3386323959598485
+Does it turn the proto-oncogene Ras to an oncogene?	0.33747983427054074
+So even if we lose one copy, does the other copy of the gene express the protein?	0.3212924858904427
+What will it lead to?	0.32027967756655307
+Have you learned about mitosis producing two identical daughter cells, and meiosis and sperm cells?	0.2967300865453475
+Does the protein encoded by this gene prevent the cell from going into cell division?	0.2919175517976895
+Is a mutation like this a gain of function mutation?	0.2914864175258658
+What does the protein encoded by this gene prevent from going into cell division?	0.29049802942178315
+If we lose both copies are we in trouble?	0.2536722736849595
+Who do we 're going to discuss two types of?	0.23448162232127423
+Does it promote apoptosis in fact?	0.215516758286737
+Is divide such as this state of no division's intestinal cells?	0.20986895348913315
+What have you learned about mitosis?	0.19878901581207442
+Does it cause cell division in the end?	0.17437598155296374
+Do we 're going to discuss two types of mutations-- a gain of function mutation and a loss of function mutation?	0.1369855921813543
+Do now take a moment to think about these questions?	0.11590647222306982
+Do I study how cancer cells spread?	0.11184408456756145
+So even if we lose one copy, can the other copy of the gene compensate?	0.09597953018888461
+Is divide such as your intestinal cells?	0.09285086388451935
+Do I 'm originally from Iran?	0.07502166397239929
+Do they need to divide when it's necessary?	0.07099477074254246
+Will it lead to cancer?	0.053870004328176346
+Have I completed my undergraduate degree here at MIT in biology?	0.04642633863350687
+What are now think, ?	0.027889402108919326
+Who may know?	0.012878898646117465
+Who saw?	-0.004941932600794008
+What does a loss of function mutation mean?	-0.005829353476004329
+What does it cause in the end?	-0.023346757578526
+Is what you have not learned yet in this course how cell division is controlled?	-0.10443216061846394
+Will well it remain active?	-0.15094739327854834
+What is what you have not learned yet in this course?	-0.20061112321125507
+Is my name Samin?	-0.3032567845703342
+What do I study?	-0.5660037539948553
+May you know?	-0.6066183022158387
+Did you see?	-0.6432501231402459

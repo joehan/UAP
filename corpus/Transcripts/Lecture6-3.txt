@@ -1,0 +1,165 @@
+PROFESSOR: Mendel, check. You've got that. Section 2. Let's talk about Mendel's experiments. 
+
+Mendel is an amazing scientist. He said if he's really going to be this analytical person who's going to understand the laws of heredity, he's going to design a really careful experiment. The first thing he does that's absolutely amazing is the most boring thing you can do in science and the most necessary. 
+
+What Mendel did was the controls. He did the controls first. Now what do I mean by that? What I mean is that Mendel, if he wanted to breed plants together, needed to know what he would expect if he hadn't bred them together. 
+
+So he had to choose a particular plant. He had to make it a good choice of plant. He had to choose varieties of that plant and make sure that they bred true. 
+
+Because in fact, if you took a strain of a plant and kept breeding it and breeding it, and you kept getting variations without crossing into anything, that was a pretty poor choice, wasn't it? So Mendel went to the market. And he came back with 34 different varieties of peas. 34 varieties of peas. And he bred them to see if they transmitted their traits faithfully. 
+
+And what I mean by he bred them, I mean he spent two years breeding them to show that they transmitted faithfully. And he picked about 22 that were really clearly faithfully transmitting. Two years doing the controls to set up the experiment. Wow. But had he not done that, it might not have worked very well. 
+
+And by the way, he picked peas for good reasons, too. Peas didn't take up that much space in the monastery garden. I've actually been to the garden of Mendel's monastery in Brno. It's a pretty cool place. And there's not that much space in the middle of the monastery there. Peas don't take up much space. 
+
+And peas have this other features where the fertilizing organs are enclosed in a kind of closed keel. They self-fertilize, usually. And there's no risk that pollen from some other plant is going to get in there if you don't want it to. You can open it up and put pollen in. But it's an ideal plant for doing genetics because you don't randomly get much cross-pollination. 
+
+So he does that. And for example, he has one trait-- seed shape. Some seeds are round. Some plants give seeds that are round. And some give seeds that are wrinkled. 
+
+And he breeds, breeds, breeds, and shows that round ones continue to give rounds. And the wrinkled ones continue to give wrinkles. He looks at other traits. He's got roundness and wrinkled, green and yellow. 
+
+He's got pod color-- here, pea color, pod color. He's got the shape, whether they're inflated pea pods or constricted pea pods. He's got whether the flowers are purple or white, whether the flowers are at the top or along the middle there, the stem length. These are seven traits that he studies intensely in his peas. And he shows that they all transmit completely faithfully when you just self-breed the particular strain. 
+
+All right. Then what he does is after doing the controls, he sets up an experiment. The experiment is he crosses rounds by wrinkles. And what does he see? He sees that in the next generation, all of the progeny are round. 
+
+We'll call this the F0 generation and the F1 generation. F stands for filial. Some people like to call it P0 for parental. I call them F0, F1. 
+
+In the F1, all the seeds were round. They weren't puckered slightly. They weren't in between rounds and wrinkled. They're every bit as round as the round parent. 
+
+No blending inheritance here. It didn't blend. It was a total domination. It was completely round. 
+
+So you might think, well, maybe somehow the wrinkledness totally disappeared. But then Mendel does the next bit of his experiment. He takes round, wrinkled, as we said, F0, F1, gets the round. And then he selfs those first generation plants. He lets them mate with themselves. They self-fertilize. 
+
+And what he sees in the next generation is some rounds and some wrinkleds. Now that was stunning, because the wrinkled was completely gone. There was no wrinkled. And yet it reappeared. 
+
+The first generation, wrinkled totally disappeared. But it hadn't gone away. It was just hidden somehow. And wrinkled was still there. And it came back every bit as wrinkled as the parental wrinkled strain. And he could compare it, because he had the parentals. And he knew, from breeding many generations, that that was the case. 
+
+That's stunning. That alone says that inheritance of this trait is quantal. It's an all or none kind of thing. Very different than this blending stuff. 
+
+But Mendel does one more thing that makes my heart beat fast. He counted. He didn't just observe qualitatively. He counted. And what did he see when he counted? 
+
+STUDENT: Ratios. 
+
+PROFESSOR: What ratios? 3 to 1? He saw 3 to 1? 
+
+STUDENT: Probably 9 and 6. 
+
+PROFESSOR: Well, in fact, exactly. He didn't see any of those things. What he saw was that the rounds were 5,474. And the wrinkleds, there were 1,850. That's what data look like. That's not what textbooks look like. But that's what data look like-- you see 5,474, 1,850. 
+
+Then he has to go beyond just the counting and say what's that mean to me? And what it meant when he checked the ratio was not three to one. Mendel never observed a 3 to 1 ratio anywhere in his paper. He observed 2.96 to 1. 
+
+STUDENT: Our bad. 
+
+PROFESSOR: Well, but wait a second. Wait a second. Why is 2.96 the same as 3? Because in fact, elsewhere he saw 3.15 to 1, and some other things. And it takes an active inspiration to say that 2.96 in that experiment and 3.15 over here, and a 3.03 over there is somehow trying to be 3. 
+
+There's an act of science in that to say I'm expecting a regularity. I want a regularity. I'm trying to see a regularity. And that regularity, somehow, is 3 to 1. 
+
+Now he then does something else. What Mendel does as his next act is he makes a model. He says how can it be that my wrinkled trait totally disappears and then reappears, and it's in this funky ratio of 3 to 1? And he observes that roughly 3 to 1 ratio for everything. 
+
+So he makes a hypothesis, a model. It's a really important thing in science. Make an abstract model. Mendel didn't know what was going on. He said, I don't know. I'm going to make up a model. 
+
+And his model was this. He said every organism has two particles of inheritance, two particles of inheritance. This round thing has a certain particle of inheritance, actually two copies of a particle of inheritance that make it round. 
+
+He has no idea what these particles of inheritance are. He doesn't know from DNA. He doesn't know from proteins. He knows a lot from peas, that's it. 
+
+And the wrinkleds, they have a particle of inheritance of this same type, the shape controlling particle of inheritance. And it's a different flavor, a different kind. It's not a capital A. It's a lower case a. It's not a big A. It's a little a. 
+
+Now he's just making this stuff up. He's saying, I'm guessing that there's a big A, a big A here, a little a, a little a here. And when you cross it together, each parent contributes one of what it's got on offer. 
+
+And if this guy has got too big As, the only thing you can offer is a big A. And if this guy is too little As, the only thing it can offer is a little a. And it's kind of random. But it doesn't much matter there. 
+
+And that plant there has a big A and a little a. And that's round because why? Why is big A going to make it round? 
+
+STUDENT: Dominance. 
+
+PROFESSOR: No. No, big A makes it round, because that's the only way it's going to fit the model. He doesn't have any prior expectation that the capital letter A is dominant. 
+
+He's saying, to explain this, the only way I can explain it is if the big A is somehow dominant and the little a hides behind it. The word recessive means to recede, to hide behind, to go behind. So the little a recedes. But he's just trying to come up with a model that fits the data. 
+
+Now though, he says how could it be that in the next generation I would see little wrinkleds come back? Well, in the male gamete, I either am going to be contributing a big A or a little a. And then in the female gamete, a big A and a little a. 
+
+And so there are four possible combinations that could appear randomly. You could have a big A, big A received by one of the progeny, a big A, little a, a little a, big A, or two little As. 
+
+And what would this give? This would give a round, because that's what we assumed at the beginning. This would give a round, because we had to assume that. So now we're applying what we had before. This would give a round. And that would give a wrinkled. 
+
+So if we know that big A, big A is round, big A, little a is round and little a, little a is wrinkled, and if we assume that these little particles are distributed randomly, it explains the 3 to 1 ratio perfectly. That's exciting. He's perfectly explained that ratio. 
+
+What do you do then, scientifically? 
+
+STUDENT: Do it again. 
+
+PROFESSOR: Well, he did it again. He actually did it for seven different traits. And he solved for seven different traits. He'd gotten this 3 to 1 ratio. His model explained all of them. 
+
+And so what a scientist does, then, is publishes, wants to write it up. You want to write it up. And how does a scientist write something up? You get out your laptop. Mendel gets out his laptop. And he tries writing this thing up quickly. 
+
+And he's going to send it off to a great journal, a scientific journal. Today you would send it, say, to Nature in London. So you're going to send it to Nature in London. 
+
+So Mendel writes up this paper describing these amazing results. I did these controls for two years. I crossed them. I got this. I got that. I got this. Writes it all up, says here's some laws of inheritance. I have a model that perfectly explains the data, and emails it off to London to Nature. 
+
+What does Nature do in the scientific process? Sorry? What does Nature do when it receives a paper? 
+
+STUDENT: Send it out. 
+
+PROFESSOR: They have to send it out for what's called peer review. They want scientific peers to review the paper to see if it holds up to scrutiny, because the editor in London isn't going to necessarily know whether it's good or not. So you send it out to peer review. 
+
+So they send it out to peer review. And they send it to you. As the peer reviewers, should Nature accept Mendel's paper? 
+
+STUDENT: So many trick questions. 
+
+PROFESSOR: I mean, this is my hero. How many of you vote to accept Mendel's paper? OK, we've got some takers for Mendel's paper. Who's going to say no? We have all these conscientious abstainers here. Wow, you don't want to take a stand here. What's the problem? 
+
+STUDENT: I want him to test his model. 
+
+PROFESSOR: Wait a second. This model fits the data perfectly. 
+
+STUDENT: But then couldn't you say, cross your-- so using your model here. 
+
+PROFESSOR: But the model fits the data perfectly. 
+
+STUDENT: True. 
+
+STUDENT: What about someone else's? 
+
+PROFESSOR: Well, he kind of had the data when he made up the model. So maybe he tried 14 models until he got a model that fit the data. And maybe you're not so surprised, because it's sort of an ex post facto model, they might say. 
+
+Of course the model fits the data. You made up the model to fit the data. Why should I be so impressed? So you ask instead-- 
+
+STUDENT: Test the model. 
+
+PROFESSOR: Test the model. Fine, your model explains the data. A lot of good that does in convincing me. Now go make a prediction based on your model that would not have otherwise been obvious. That's what you have to do in science. 
+
+The Greeks could sit around and philosophize about models. Models are powerful if they point you to things you wouldn't have otherwise known. So you say, Mendel, make some predictions based on this model. 
+
+So let's take a look. Give me some predictions. Yeah? 
+
+STUDENT: What happens when you cross two hybrids? 
+
+PROFESSOR: Well, actually, what happens even if you just take these guys and self them? Selfing's easier. If you just self-cross them, what happens? What happens to this guy? 
+
+STUDENT: It stays the same. 
+
+PROFESSOR: So all of its progeny, all the progeny will be round. If I self this guy, what do I see? All wrinkled. Which generation are we talking about here? This was the F0, the F1, the F2. So now we're down here in the F3 generation, produced by selfing. All rounds, all wrinkled. 
+
+But what about these guys if you self them? You're going to see a mix of three rounds to one wrinkled. Now does Mendel know by looking at the peas whether they're big A, big A or big A little a? They all look very round. But what will you see? 
+
+You'll see that if I take the rounds and I self them 2/3 will give a 3 to 1 ratio. And 1/3 will only give rounds. That is a pretty wacky prediction that you would not make in the absence of this model. That's a pretty wacky prediction. 
+
+Mendel does that experiment, and it works. Mendel shows that in the third generation. That's exactly what you get. He can't tell you which ones that's going to be. But of the rounds, 2/3 actually are carrying this little hidden particle and give 3 to 1s, and 1/3 are not anymore. 
+
+And Mendel actually goes further and does it even more generations. So what he does here, which is remarkable, is he makes a prediction. Actually there are other predictions you could make. 
+
+Let's try a prediction. That's prediction number one. He also does prediction number two. Mendel says, suppose I take this F1, big A, little a from the F1, and I cross it back to a wrinkled. What's wrinkled, little a, little a? Little a, little a. 
+
+Now what will happen in the next generation? Do I get 3 to 1 again? I don't get 3 to 1. Why is that? Well, which of the two particles do I get from this parent? Half the time I get an A. Have the time I get a big A. Half the time I get a little a. 
+
+What do I get from this parent? Always little a. So half the time I'm getting this. And we know that's round. And half the time I'm getting this. And we know it's wrinkled. 
+
+So we know that instead of a 3 to 1 ratio, he's going to see a 1 to 1 ratio. That's another prediction. He didn't see 1 to 1s to start. He saw 3 to 1s. 
+
+But based on the model he made based on these 3 to 1s, he now predicts a 1 to 1 is going to happen. And bingo, that's what happens. Pretty cool. So Mendel's predictions hold up remarkably well. 
+
+All right, that's Mendel. We have in your resource box and on the web we have Mendel's original paper translated into the English. And it's wonderful to just go back and read Mendel's original paper. It's a little funky. 
+
+I'll warn you in advance that Mendel actually uses big A, little a for those plants that we were talking about. But when something is big A, big A, he unfortunately just writes big A. He doesn't use two As, even though he's talking about two particles that are the same. So if you actually go to read it, you're going to find that funny bit of notation there. But otherwise, it's a totally readable paper, even today. Anyway, that's Mendel. 
+
+OK, time for a quick break. Think about what we've just talked about. And answer this question about simple Mendelian crosses. 

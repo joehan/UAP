@@ -1,0 +1,97 @@
+ERIC S. LANDER: We have a long chromosome. Some chromosomes are extremely long. Base pairing here. I'm not showing it as a double helix, but of course it's twisted around as a double helix. And you know it goes 5 prime to 3 prime and 5 prime to 3 prime in that direction there. 
+
+A portion of this chromosome, a portion of this DNA, is a region that we'll refer to as a gene. Within this gene, a segment of that DNA is transcribed from DNA into RNA. The gene has some other instructions around it, too. But what a gene is is just the segment of the chromosome that is transcribed into RNA and has some controls around it. And I'm only going to worry about the transcription part here. 
+
+So to get in there, just like with DNA, you need to imagine opening it up. I'm going to open up this chromosome, 5 prime to 3 prime, 5 prime to 3 prime. And let's imagine a sequence here. Let's suppose this chromosome runs T C T A G C T A G C. That's the DNA sequence on this strand. 
+
+If DNA polymerase was coming along and replicating this as DNA, what would the matching DNA sequence be? We'd start with 5 prime. The 5 prime. What's the matching thing to T? 
+
+STUDENTS: A. 
+
+ERIC S. LANDER: A. Matching to the C? 
+
+STUDENTS: G A T C-- 
+
+ERIC S. LANDER: Et cetera. Good. With RNA what's it going to be? 
+
+STUDENTS: G 
+
+ERIC S. LANDER: A G-- 
+
+STUDENTS: A. 
+
+ERIC S. LANDER: A. 
+
+STUDENTS: U. 
+
+ERIC S. LANDER: U C G A U C G, et cetera. That's it. That's it. Pretty straightforward. It looks for all the world here like replication, but it has the difference that it's using ribonucleotides, not deoxyribonucleotides. 
+
+It has one other important difference. Huge difference. Replication's replicating the entire chromosome, both strands along the entire length. However here, this gene is carrying out transcription on one of its two strands, not both strands. It's carrying out transcription on, not surprisingly, the transcribed strands. 
+
+The sequence is complementary to it. The other strand-- let's write what that other strand of DNA was. You actually told me, it's the matching strand. So it goes A G A T C G A T C G. This one here is the non-transcribed strand. It's not being transcribed into RNA. 
+
+But in fact, the sequence matches the sequence of the RNA, apart from the Us and Ts, right? So we refer to this as the coding strand, because it contains the information that will end up on the RNA, even though the RNA is made from the non-coding strand. OK? A little confusing but pretty straightforward. 
+
+The transcribed strand is complementary to the RNA. The non-transcribed strand matches the RNA. So if you're reading a G and you want to say, what's the RNA going to look like, you just look over to the strand, and that's what the RNA's going to look like. This is extremely simple. 
+
+Now, I told you this gene was a segment of the DNA on this chromosome. The portion of it that is going to be transcribed into RNA, let's say here, will transcribe into RNA. There are some other important segments. So this is what's transcribed to RNA. 
+
+There's the place that transcription will start. And that is called the promoter of the gene. That's where transcription starts, the promoter. There's a place where it terminates. And that's called the transcriptional terminator. And those are specified by sequences in the DNA. 
+
+In addition, there are regulatory sequences. We'll talk more about that soon. But regulatory sequences that may tell the cell when to transcribe this gene. Because while your DNA is the same in every cell in your body, essentially, which genes are transcribed differs between your liver cells and a brain cell and a skin cell. And that's how you read out the program in the DNA differently in different cell types. 
+
+So somehow this uniform piece of DNA has signals in it that say, start transcribing here. Stop transcribing there. Transcribe if it's a liver cell. Transcribe if it's a liver cell after lunch, but not before lunch-- well, lunch changes all sorts of physiology, and those signals come into your body-- they come into cells and they come into gene regulation. So it's pretty straightforward. 
+
+Now, how does this transcription happen? How does the process in this little region of copying the DNA, transcribing the DNA into RNA, how does it happen? There's an enzyme. There's always an enzyme. What enzyme polymerized the DNA? 
+
+STUDENTS: [INAUDIBLE]. 
+
+ERIC S. LANDER: DNA polymerase. Take a rough stab at what enzyme polymerizes RNA. 
+
+STUDENTS: RNA-- 
+
+ERIC S. LANDER: RNA polymerase. Great guess. OK. So this is done by RNA polymerase. 
+
+Now, the whole process by which RNA polymerase is recruited to this promoter and knows which way to go and all that stuff turns out to be really complicated. And that's called gene regulation. And the truth is, we know a lot about gene regulation, and there's still a tremendous amount we still don't know about gene regulation. Even now, decades after the double helix, people are still studying why are genes turned on, and what particular times, and what's the machinery that does it. 
+
+A lot of it has to do with proteins that will bind at those sites of DNA. But why are there proteins binding at those sites? Well, because proteins got made. Then, why did those proteins get made? Well, because the genes that were responsible for the proteins got turned on. But how did they get turned on? Well, because other things turned them on. And as they say, it's turtles all the way down. Right? It's tricky, and it's fun, and it's complicated to figure out exactly how that works. 
+
+Now, what happens is the DNA sequence gets copied into the single stranded RNA, representing a portion of it, 5 prime to 3 prime, that RNA. And that RNA is going to go off and be translated into protein. Now before I go on, let's do a higher-- let's zoom out to a greater distance. 
+
+That might be gene number one. And it might be transcribed that way. That is, this is the transcribed strand. But just down the chromosome lives gene number two. And it might be transcribed in that direction, using the other DNA strand as its transcribed strand. 
+
+This would be frowned upon by good engineers. Good engineers would say, come on, establish a direction. We're going from left to right. Biology does not work that way. It will transcribe things on this strand here, that strand there. Actually, general rule-- remember this-- anything that can happen does happen. Because life has a long time to try things out, and it's tried out almost everything. 
+
+I draw this simple picture. Transcriptions going this way, transcriptions going that way. It even turns out occasionally you can have genes and other genes that overlap them. And this one's getting transcribed that way, and this one is getting transcribed that way. 
+
+Now, those genes are not allowed to exist in first year biology textbooks, but they are allowed to exist in life. They're not that common, but there are even genes that are overlapping going in opposite directions. It makes your head hurt. Basically anything that could be worked out gets used somehow. And you'll find that rule is going to apply almost everywhere. 
+
+So there are genes scattered around. How big are genes? How dense are genes? How many genes are there? Differs between organisms, but pretty much there are regions. 
+
+How many regulatory sequences are there to a gene? Differs between genes. Differs between organisms. How far away are those regulatory sequences? It differs. We'll come back. Almost everything that's so simple and gorgeous about DNA and all the simple story I'm telling you, once you get into the details of individual genes, almost everything has been tried out somewhere. 
+
+Now, couple of other minor points to mention. This RNA polymerase differs from DNA polymerase in one interesting way. I told you DNA polymerase-- what was its accuracy? Anybody remember approximately? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: By the time we were done it turned out to be pretty good. The initial insertion had an error rate about 1 in 10,000. Each base. But then what did we have? 
+
+STUDENT: One of the [INAUDIBLE]. 
+
+ERIC S. LANDER: Well, we had a proofreading activity that helped us by two orders of magnitude. And then we had a repair mechanism that came along, a mismatch repair mechanism that detected mismatches and got us down in the neighborhood of one in a billion. RNA polymerase has no proofreading. Makes a mistake 1 every 10,000 bases. Accuracy here is only-- it's an error at 1 in 10,000. 
+
+Why do we tolerate that? Why do you put up with that? Why don't you insist on perfect fidelity? Yes? 
+
+STUDENT: Because it only works on a much smaller portion of the gene. 
+
+ERIC S. LANDER: It's working on a small portion of the gene. And what are we doing with that RNA? 
+
+STUDENT: Making [INAUDIBLE]. 
+
+ERIC S. LANDER: We're going to temporarily use it as a messenger. We're using it as a yellow sticky note that we are sending off to produce a protein. It's not our archival copy of anything. If that RNA has an error in it, so what? All right, so it will make a few proteins that are slightly wrong, so what? Because in fact, when a gene gets transcribed it's not making just one RNA, it's making many copies of this RNA. We have an amplification mechanism. 1 gene might make 100 copies of an RNA, 1,000 copies of an RNA. 
+
+Actually, how many copies it's making is under control of the cell, too. Not just whether the gene is on or off, but how much it's on or off. And all of those RNAs should be thought of as ephemeral, temporary sorts of things. They will be degraded soon. 
+
+It's your DNA that you better worry about. If you're RNA, so what? OK? It's just got to be good enough. But it does not have to be perfect and archival. 
+
+All right, stop and take a moment. Test your understanding with this question about transcription. 

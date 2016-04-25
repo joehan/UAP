@@ -1,0 +1,109 @@
+PROFESSOR: Let's check out some amino acids here, which have been provided to us right here. There are 20 flavors of amino acids-- 20 types of amino acids-- because there are 20 different side chains. Now chemically, there could be more, but life has chosen to use 20, not 21, not 19, not any other number. It's chosen to use 20 amino acids, and those are incredibly important and they're worth getting to know. 
+
+Now the first time you're going to meet 20 separate amino acids, you know, you don't want to remember them all as crazy different things. So let's group them together into important categories of amino acids. Let's see. We haven't written the C-alpha, C-O, H, or N-H, we haven't written this each time because that's the boring-- and the H over here-- because that's the boring part. Let's just put a blue dot there. 
+
+The side chains. We've got a side chain here, CH2OH. Is that polar? Non-polar? Polar. Why's it polar? 
+
+STUDENT: It's got the hydroxyl group. 
+
+PROFESSOR: It's got the hydroxyl group there, so that's a polar bond. That can make polar bonds. That's good. So if this side chain is here, this side chain can make polar bonds very good. It can make hydrogen bonds. 
+
+What about this guy here? How does threonine differ from serine? Well, it's again, that's C, here we go. Instead of just CH2OH, we've got an extra C over here. And still it's polar, nothing special, but it's a little bigger. Does that matter? Might matter. A little bigger might matter. What about over here? We've got an amino acid that's called asparagine, and it also is polar. And we've got glutamine, and it also is polar. But they're all different shapes and different sizes. But they're all polar. 
+
+Now, all of these are polar, uncharged molecules. In this column, there are two amino acids which at neutral pH-- the body's pH of about pH 7-- at neutral pH, these are negatively charged. Aspartic acid and glutamic acid are both negatively charged amino acids. At a different pH they might not be negatively charged, but at pH 7 they're negatively charged. 
+
+How do they differ? What's the difference between aspartic acid and glutamic acid? Can you see a difference between these two molecules? What's the difference? 
+
+STUDENT: The extra CH2. 
+
+PROFESSOR: Extra-- the carbon chain here is one carbon longer. Pretty trivial, right? It's just a teeny bit longer. One extra carbon is not very long, but maybe that'll turn out to matter. And we'll come back and, in fact, we will see in the next lecture that that one extra carbon can make a huge difference in something working. So already I'm asking to anticipate that something as trivial as one extra carbon in length here can have a massive effect if in the right place. 
+
+So we've got some negatives. There are two of them. We've also got some positives-- lysine, arginine, and histidine. And these are positively charged at pH 7. OK? Positively charged. Positively charged. Positively charged. All right, so we've got polar uncharged, polar charged-- polar positive, polar negative. 
+
+You'll notice, every amino acid has a name. And because it's boring to write out threonine and glutamine all the time, it has a three letter code. Ser for serine. Thr here for threonine. Asparagine, Asn. 
+
+And it has a one-letter code, as well. And some of the one-letter codes make enormous sense. Serine is S, and threonine is T, and asparagine is N because it's going to turn out another amino acid got the A already and asparagine had to settle for the N. 
+
+And glutamine well, it turns out there's another amino acid who got the G. And you know, there's only 26 letters and 20 amino acids, and some poor amino acids have to settle for Q, right? There you go. So glutamine is Q. And the people who made up this code, it was reasonable choices. You know, histidine is an H, and arginine is an R because it's "AR-ginine," and things like that. OK? So it's the best you can. 
+
+You should get to know these amino acids, at least basically the types of amino acids those are. Now how many have we got so far? One, two, three, four, five, six, seven, eight, nine so far. I owe you 11. OK. So let's go over here. 
+
+We've got a bunch more amino acids. We've got hydrophobic amino acids. So far we've had polar bonds here, but now we're going to get to our nonpolar molecules here. 
+
+Ah, where'd that A go? Instead of asparagine getting A, Alanine got the A. And let's see what we got. Again, we have our boring bit here. It's just CH3. No polar bonds there. It's hydrophobic. Valine-- V. OK? We've got CH3s. No polar bonds here. No hydrogen bonding capability. Methionine is funny. What's methionine got that we haven't seen before? 
+
+STUDENT: Sulfur. 
+
+PROFESSOR: It's got a sulfur in the middle of it. That's very interesting. And there will be a time in the course that methionine having a sulfur will turn out to be really important, but that's many weeks away. But don't forget that methionine has a sulfur. 
+
+Leucine-- CH3, CH, CH3, CH2, you know, it's all just hydrocarbon. This is just some boring bit of hydrocarbon here and leucine and isoleucine. Why is this isoleucine and that's leucine? Because they are isomers of each other, right? It's basically the same thing, just rearranged in different ways. I have leucine. I have isoleucine. 
+
+And then I have phenylalanine here. Phenylalanine has a ring structure here. So that's what I've got. I've also got tyrosine and tryptophan. And you're going to tell me there's an OH here. And it's a little bit polar, but it's mostly not. And so it gets classified here primarily as a hydrophobic amino acid. But it is true that there is one OH bond there, but it gets classified as hydrophobic. 
+
+All right, so now we've got our polars. We've got uncharged polar, negative polar, positive. We've got our hydrophobics. They differ by shape. They differ by size within their classes. And they differ dramatically between the classes. We've got three more to go in understanding amino acids. 
+
+Glycine. Glycine-- that's where our G went, by the way-- is just a measly hydrogen. It has no side chain to speak of at all, and therefore, it's an extraordinarily flexible amino acid. There's nothing that's really bumping into it, constraining it in any important way. 
+
+By contrast, what we have here in proline is just the opposite. This is our alpha carbon here. Our alpha carbon has hanging off it a chain-- CH2, CH2, CH2. This is a hydrophobic chain hanging off the alpha carbon. And what has it gone and done here? Instead of like every other amino acid sticking out into space like it's supposed to, it has come around and bonded with this nitrogen. That's the amino group that's not supposed to be playing any role, right? The side chain is supposed to be hanging off, and this side chain is not hanging off. 
+
+This actually is not an amino acid. Technically, it is not an "amino" acid. It's an "imino" acid. Because the chemists distinguish between these things, this is technically not in an "amino" acid but an "imino" acid. I'm not going to care, and we're just going refer to all of them as "amino acids," and everybody refers to all of them as "amino acids." But nonetheless, you should know at least once. 
+
+Now, because that's happened, whereas I said that glycine here was incredibly flexible, this guy is just the opposite. Because it's wrapped around and bonded back to that amino group there, it is constrained in the kinds of angles it can make. And so prolines act as interesting constraints on proteins. 
+
+And finally, we have this one weird guy-- cysteine. What's again unusual about a cysteine? Has our sulfur in it, but here the sulfur is at the end. And what happens is, if I have two cysteines pointing at each other, under many circumstances they can spontaneously make a covalent bond. So if in a long protein somewhere there's a cysteine sticking out, and somewhere else there's a cysteine sticking out, and they happen to come near each other, you can get a disulfide bond. All right. A disulfide bond. 
+
+So now I told you the protein structure was incredibly straightforward. We have simply an amino acid, an amino acid, an amino acid. They get joined together. All we do is we make these peptide bonds here. They have some angles, and we have some different groups. That makes it sound really boring. 
+
+But if I have a peptide-- peptide means a short chain, a protein is a long chain-- suppose I have a dipeptide, just two amino acids stuck together. How many options do I have? How many different dipeptides exist? Well, I've got 20 choices for the first one and 20 choices for the second one, so I have-- 
+
+STUDENTS: 400. 
+
+PROFESSOR:  400 possible. How about tripeptides? 8,000 possible. Tetrapeptides? Six-- 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: 160,000 tetrapeptides. Proteins can be hundreds of amino acids long. The number of options is huge. Let's just take a look at one for starters. Let's just look at a dipeptide for a second here. Here's a dipeptide. I just brought up a dipeptide and we're going to see how well this works here. 
+
+Now, spin this guy around you see. Here we go. We've got arginine. Let's see. Pull this around like that. Why don't we do here-- that's. Spinning it around. Come on. Oh, yeah. 
+
+So what we've got here is the side chain for arginine hanging off. We've got the side chain of leucine hanging off. Arginine's side chain here. That's the R group. The side chain is in blue. The side chain here is in purple. And here is the backbone of the peptide here. OK? 
+
+We've got-- we'll move that a little bit so you can see it. Oh, yeah. There we go. It's hanging off the alpha carbon. Here's the carbon that has an oxygen, the carboxyl there that was there. Then it goes down here to the nitrogen. Then it goes to the alpha carbon off which is hanging that leucine. 
+
+So let's take a look at this thing. What's striking is that peptide backbone we were talking about. It's pretty small compared to these side chains. The peptide backbone is the thread that's holding this all together. But those side chains can be pretty big, and they are very different in their chemical properties. 
+
+All right. What does that mean? What does that mean for how proteins are going to fold up? Remember when we did something simple like how lipids fold? We were able to say, we're going to get all the hydrophobic bits, and we're going to put them together. We're going to put the hydrophilic bits and put them together. And they're going to make this beautiful, you know, lipid bilayer. 
+
+Can you explain to me how we're going to fold up a protein? Suppose I give you a chain of 100 amino acids, and I'll tell you which ones they are. That's what I mean by the primary structure. The primary structure, arginine, leucine, methionine, tryptophan, histidine, et cetera. I'm going to give you a word of length 100 written in the language of amino acids. How are you going to fold it? Any proposals? Yeah? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Fold it back on itself. 
+
+PROFESSOR: Fold it back on itself. Well, but what if, like, two positive charges end up near each other? 
+
+STUDENT: Then you have to take something that's out of-- 
+
+PROFESSOR: So clearly, I don't want the positive charges next to each other, right? OK. What about the hydrophobics? Should they be nearer the polars? 
+
+STUDENT: No. 
+
+PROFESSOR: Now, let's get all the hydrophobics together. So we'll make a little convention of hydrophobics here. All the hydrophobics are all visiting together. We're trying to get the positives not by the positives, but positives by negatives sound pretty good. Of course, there's the cysteines. If two cysteines are near each other, they could make a disulfide-- this starts getting complicated. This is actually very complicated. 
+
+There's a zillion different in a peptide, in a protein of 100 amino acids long. There are a lot of ways to make these connections, to try to make a bridge between a positive and negative side chain, to try to organize the hydrophobics, to kind of be away from the solution away from the water, to the hydrophilics to be kind of pointing at the water. You might have to write a really complicated computer program to fold up a protein to best satisfy all of these somewhat conflicting rules. 
+
+So that's called the "protein folding problem." The "protein folding problem" is incredibly easy to state. I give you the amino acids; you give me the structure. The "protein folding problem" remains, to this day, unsolved. No one can really write a computer program that just takes the sequence of an arbitrary protein and nail it as to exactly what structure it's going to form. Although folks are doing better and better and better with protein folding, it's not perfect. 
+
+And it's because of two things. One, you've got to look at a whole bunch of funny combinations. There's lots and lots of alternatives. But there's one other thing-- that life makes it deliberately hard to fold a protein. And that's because the structures that proteins take up are right on the edge of stability. 
+
+You might think, if I wanted to build a great protein I'm going to make it so rigid. I'm going to get lots of positives pointing at lots of negatives. I'm going to get everything arranged perfectly, and I'm going to get a structure which there's no alternative to it. It's going to be really nailed together, welded together, beautifully held by the laws of chemistry and physics. 
+
+And the problem with that is it then is not very flexible. Proteins need to change. Proteins respond to their environments. They change in interesting ways. And the only way that's possible is if actually there is life on the edge. They're metastable. 
+
+For people who think in terms of physics, they're not in some deep well that's hard to get out of. They're sitting right up here on the edge often easily perturbed in different ways. That's what makes the protein-folding hard. It's easy to give you a protein that wouldn't be hard to fold, but those tend not to be so interesting to life. 
+
+All right, so boy, it seems to make your head hurt to think about how in the world you would ever fold a protein. Proteins fold by themselves. If I give you an amino acid sequence, and I toss it into the cytoplasm of the cell, it folds itself up. But it's how could you understand how it's going to resolve all those conflicts? 
+
+All right, before going on, test yourself with two questions about amino acids. 

@@ -1,0 +1,111 @@
+PROFESSOR: So, all right. Today we're going to pick up on where we left off before, when we looked at how proteins function, and we saw in particular how an enzyme functions. 
+
+Remember this enzyme triose phosphate isomerase? It took one particular molecule called G3P, and it changed it into another molecule, DHAP. And it did that by stabilizing this transition state, this intermediate, and by preventing other reactions from going on that would destroy our happy little transition state molecule. 
+
+Well, that's just one chemical transformation. That alone is not enough to explain what Buchner found in that experiment we talked about in very first lecture. What Buchner found, remember, was that if you took a glass of fruit juice and you put it out, it would ferment. You would get, starting with sugar, carbon dioxide and ethanol. 
+
+Well, there's a long and complicated pathway to go from carbon dioxide and ethanol and that's what we're going to talk about today, biochemical pathways that string together transformations. So let's dive in. 
+
+As always, we're obliged to put up the coat of arms here-- function, biochemistry, protein, genetics, gene. And we're still over here working on the first part. 
+
+So we've got protein structure under control. We've got the amino acids. We understand how their various different chemical properties control the shapes of proteins. We've talked about our enzyme-- our enzyme triose phosphate isomerase, TIM amongst friends. And we talked about how triose phosphate isomerase has an active site, and that active site it stabilizes that transition state to help us go from G3P to DHAP. 
+
+But does that have to do with how we go from our glass of fruit juice, which has yeast in it-- and the fruit juice has a six carbon sugar. Let's say it has glucose or some other six carbon sugar. The six carbon sugar-- remember, C6H12O6-- and it's going to ferment. We call a six carbon sugar a hexose. It's going to ferment this hexose into carbon dioxide plus ethanol. 
+
+How does it do that? Does it do that in one magic step? No. It turns out it does it via a pathway of steps. 
+
+It starts with our molecule, our hexose-- C6H12O6, our sugar here-- and it passes it through steps. A goes to B goes to C goes to D until finally gets to our final products here. That's a pathway. 
+
+And what we want to do is understand the logic of pathways. How do pathways work? 
+
+So we understood a simple aspect of pathways. Let's pull that up. We understood a simple aspect of pathways, but now we really want to understand the logic of pathways, and let's start with the energetics of pathways. 
+
+In fact, let's just start simply with the energetics of a single reaction, one reaction in a long pathway like that. You'll recall we had our G3P goes to DHAP, and it's TIM that does that. And G3P over here, DHAP over here, had a slightly lower energy state. Free energy was lower, and it was lower by about-- I think we said minus 1.86 kilocalories per mole. 
+
+And we talked about that big activation barrier to get there and how triose phosphate isomerase lowered that activation barrier. But the point was there was a difference in the energy states and it was minus 1.86, so DHAP was more favorable than G3P. Does that mean that if you have G3P, all of it will get converted to DHAP? What do you think? 
+
+Why not? DHAP is more favorable. 
+
+STUDENT: Wouldn't it depend on the diffusion and the access to TIM? 
+
+PROFESSOR: Let's say there's lots of triose phosphate isomerase around, tons and tons of it, not a problem. It can defuse to the enzyme, and you're very patient. So I throw in G3P. 
+
+This energy-- we write this energy, by the way delta G0 prime. That's favorable to a lower energy state. And it makes enormous sense that if that's a lower energy state, all of it is going to go to the lower energy state. That's the obvious thing. It's like falling down the stairs, right? 
+
+The problem is although that makes enormous sense, it's wrong. It's just not the way it works. It really is very confusing. But the way chemistry really works is it involves these equilibria. If all of the molecules end up over there in DHAP, that's a very uneven, unlikely distribution and we have this problem of entropy. 
+
+Entropy says we can't have all those molecules over there on this side. Then there's a statistical distribution, and it turns out that what happens depends on both the free energies but also concentrations. 
+
+If you had a tube that was only DHAP, the more favored state, and triose phosphate isomerase, TIM would run some of that reaction backward, some. Now you wouldn't get all G3P. In fact, you'd only get about 5% that would get converted to G3P. 
+
+But that's the important thing to think about is there's an energetic consideration and what's called entropic consideration. And it has to do with those concentrations. And so we have to actually understand how does that work? 
+
+Well, the way it works, the way you know which way a reaction is going to run, whether all this will get converted to all that or this will get converted 5% back to that depends on this number, delta G, which is not delta G0 prime, because it doesn't have a 0 prime on it. 
+
+Yeah. Good, you got that. 
+
+What it is is delta G0 prime plus a term that has to do with entropy with relative concentrations. So it has a RT-- that's a constant there, and that's temperature in degrees Kelvin-- and it has the natural logarithm of the concentrations of the products and the reactants. 
+
+So if our reaction was A converted to B, then it would be the log of B over the log of A. That's the key thing. And if delta G is negative, the reaction is going to run forward. It's favorable. We're going to do all that much chemistry, but this bit of chemistry is pretty important to know. 
+
+And if delta G is positive, the reaction will actually run the other way. It'll run primarily backward because it's unfavorable when you balance out the considerations of the energy and the concentration. 
+
+Such let's actually try this out in practice. Suppose I gave you a reaction here where the concentrations were equal. If the concentrations are equal-- the concentration of B and the concentration of A-- then what's their ratio? 
+
+STUDENT: One. 
+
+PROFESSOR: One. And the log of one is zero, and so this doesn't matter. And it just is all determined by delta G0 prime. So delta G0 prime is really telling you the way the reaction will run if the concentrations are equal. So when they're equal, that tells us it's going to go from G3P to DHAP. 
+
+But suppose I have just a huge amount of B and very little A. What will this ratio be? A big number. And what's the log of a big number? 
+
+STUDENT: A big number. 
+
+PROFESSOR: A big number. And when I add this big number to a negative number, it could be positive. So if there's enough B around, then this'll be positive and the reaction will go the other way. 
+
+So for example, let's try to check that out. We'll try it with our triose phosphate isomerase numbers here. And we're going to say suppose I gave you a ratio of 30 to 1. 
+
+Suppose we had G3P to DHAP was 30 to 1-- sorry, was 1 to 30. I had a lot of DHAP, a lot of the product, 1 to 30. 
+
+Then when we plug it in here, let's see what delta G will be. Delta G will be-- delta G0 prime was minus 1.86. We've got to know what RT is. 
+
+Now, RT depends on the temperature. So do we have to know what temperature our reaction is going on at? It turns out we don't, because it's the temperature degrees Kelvin, and in degrees Kelvin you'll live your life at essentially the same degrees Kelvin. 
+
+You know if even you're running a fever or something like that or if your yeast is growing at a slightly lower temperature, for all practical purposes for all of biology, RT equals 0.6. It doesn't matter. So we can actually say this is just 0.6. 
+
+If you're doing high temperature stuff and super low temperature stuff you care, but for us it's just 0.6. So, 0.6 times the log of 30 over 1. And if you do that arithmetic, you should come up with a positive number-- positive number about 0.18, I think, although maybe somebody will get another number there. That's what I got. 
+
+So that tells you it's a positive number, and that tells you when there's 30 times as much DHAP, the reaction will actually be generating G3P. Any questions about that? It's a little counterintuitive. Anything sensible you'd think would all go to the low energy state, but it doesn't. It bounces back and forth due to this entropy consideration, and this tells us-- in fact, if you solve the equation, what would happen if we asked about when delta G equals 0? Does the reaction run forward or backward? 
+
+Neither. It's at equilibrium. And so if you set that equal to 0, you could solve for the concentration, which would be at equilibrium. And that concentration, the equilibrium concentration for our reaction there is about 1 G3P to 22 DHAPs. That's where the reaction is balanced perfectly at equilibrium. OK, yes, please? 
+
+STUDENT: So at equilibrium, does that mean that there's no reactions going on? 
+
+PROFESSOR: So no molecule at all moving from the left to right or the right to left. 
+
+STUDENT: Does it mean that they're moving equal amounts? 
+
+PROFESSOR: What do you think? 
+
+STUDENT: They're moving equal amounts? 
+
+PROFESSOR: I think they're moving in equal amounts, aren't they, because, you see, each molecule doesn't know what the other molecules are doing. It's a mass action kind of thing. Every molecule is doing its thing. It bounces into triose phosphate isomerase, it converts to the other thing. 
+
+But the thing is when there's a lot of these guys, DHAPs are bouncing into triose phosphate isomerase and converting back the other way. And when there are a lot of G3Ps, they're bouncing. 
+
+Every molecule's behaving independently, and what's really happening is we're counting out the dynamic equilibrium, not a static equilibrium. It's not all the molecules decide we voted which we're going to be and we stay that. They're constantly moving back and forth. And this is the dynamic equilibrium that's obtained. OK? 
+
+All right. That's it for energetics. Yes, please? 
+
+STUDENT: Where are we considering the enzyme in the equation? 
+
+PROFESSOR: Where are we considering the enzyme in the equation? How does the enzyme change delta G0 prime? It doesn't. The enzyme actually had no effect on these energetics. It had no effect on whether the reaction is running forward or backward. 
+
+All of that is determined-- because that enzyme is just a catalyst. It's not changed, it doesn't do anything, it doesn't change the energy states. What does it do? 
+
+It helps speed up that reaction, because in the absence of that enzyme TIM we'd have to wait for it to get over by thermal noise, thermal energy, over that barrier. All TIM does is speeds it up, and that's a really important observation. The enzyme doesn't change a thing other than the speed with which this is all going-- and that other thing I told you, it protects that intermediate sometimes from a side reaction. 
+
+But it's all about speed. As we talked about, the enzyme speeds it up merely by a factor of 10 to the 10th, and the 10 to the 10th, as you remember, was the difference between one second and three centuries. But if you don't care, if you're very patient, it's quite immaterial. OK. 
+
+I'm not that patient. Life isn't that patient, and that's why the evolution of enzymes was so very important. 
+
+Before you go on, take a moment and answer this question about favorable and unfavorable chemical reactions. 

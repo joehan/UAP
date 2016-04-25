@@ -1,0 +1,341 @@
+What bind to receptors-- the EGF receptor, and the PDGF receptor, and the FGF receptors?	3.685920850380321
+What is a classic example of a Rube Goldberg machine?	2.9372031623431623
+What have a lot of sites-- where there's a tyrosine in the sequence?	2.734943880591715
+What puts phosphates on tyrosines on the other guy?	2.584570105194916
+Who add a phosphate to a tyrosine residue?	2.5519082625331646
+What is a Y. So there are specific places?	2.522151685317756
+Where does well what happens is some protein like to bind?	2.516525904580277
+What cetera a lot of growth factors?	2.5149579674554583
+What found that an enzymatic activity's putting the phosphates on?	2.4836286948758133
+What is Tyrosine a Y. So there are?	2.4500350370161197
+What examples of growth factor cetera?	2.444409785506732
+What is Tyrosine So there are specific places?	2.4169915195265324
+What are in constant conversation with each other?	2.380109887554924
+Who does each of the duo put phosphates on tyrosines on?	2.376577273610895
+What are the most important pathways to understand about cancer?	2.3630353089848835
+What interacts with RAS?	2.341528621595372
+What's there's general Rube Goldberg machine part one?	2.323000407494469
+Who tickles RAS?	2.3069417289484084
+What does each of the duo put on tyrosines on the other guy?	2.286916339736151
+What does each of the duo put phosphates on on the other guy?	2.2737278455606953
+Where does grb2 bind?	2.2459489905487753
+Who is the whole point were around in the cytoplasm?	2.2256598440256266
+What does well what happens is some protein like to bind to?	2.2250908888970535
+Who has on who some other things that will bind to something else?	2.214635550581967
+What is anything that adds phosphates called?	2.2012751433970923
+What puts phosphates on certain tyrosines?	2.17539434511035
+What does some growth factor's not sending down into the nucleus of the cell-- nucleus of the cell there?	2.168010199979059
+What does grb2 have on some other things that will bind to something else?	2.1532957328324276
+What are cells in constant conversation with?	2.1318508798227205
+What transphosphorylate each other in fact?	2.1103729142653918
+What do certain tyrosines transphosphorylate each other in?	2.098815270669179
+What does RAS interact with?	2.0959600559727694
+What will go over a couple of boards?	2.0895744593245626
+What does some growth factor's not sending any signals down into there?	2.088027566716258
+What adds phosphates to things?	2.0635892783027385
+What are cells in with each other?	2.05176703895018
+What is by actually putting out molecules called growth factors?	2.0337164252540147
+What does an enzymatic activity put on certain tyrosines?	2.022697846560035
+What cares whether it's called Grb2 or not?	2.0198632983867273
+What are sending signals to each other?	2.0036375653004566
+What do certain tyrosines transphosphorylate in fact?	1.9945214426594633
+What does an enzymatic activity add phosphates to?	1.9823819194812586
+What are called SH3 domains?	1.968706945119168
+What does an enzymatic activity put phosphates on?	1.962967229384881
+What's an adaptor protein?	1.9555759943991171
+What does an enzymatic activity add to things?	1.950016622965969
+What is it's a kinase?	1.9446366337606655
+What is RAS attached here to?	1.9019432023942175
+What are cells sending signals to?	1.885869531175905
+What is the enzymatic activity it's?	1.8832774702886996
+What does grb2 bind to?	1.8787850367912138
+What are cells sending to each other?	1.8783709234063601
+What do some have a lot of?	1.874700937464382
+What are tyrosine kinases?	1.8601799064270756
+What has some growth factor receptors?	1.856561007751239
+Who has an enzymatic activity?	1.8523086415999246
+What are particularly proline-rich sequences?	1.8497843739363957
+What is sending signals saying or do not grow?	1.8429562919272713
+What will Hang go over?	1.822939910542229
+What's called Grb2?	1.7719077291422205
+Who 'mes going to give you the Rube Goldberg machine for cellular growth?	1.7614725430114886
+What is attached here to the membrane?	1.7543500695591936
+What is why dimerization is so important?	1.7387277106507204
+Who does not know how many of you know Rube Goldberg machines and Rube Goldberg cartoons?	1.7251420409145606
+What are the pathways of cell growth?	1.7245185670863015
+What are specific proteins?	1.7243302675478727
+What is Tyrosine a Y.?	1.7090480686008012
+Do some have a lot of sites-- where there's a tyrosine in the sequence?	1.7010047989693313
+What do some have?	1.6971919921150174
+What is Hang?	1.6912617535523153
+What's going to be complicated?	1.668385597351117
+What is a very big deal?	1.6631016829578325
+What is called a kinase?	1.6474575767518134
+Does each of the duo put phosphates on tyrosines on the other guy?	1.576894092595475
+Who 'mes going to pick a particular protein that goes by the name Grb2?	1.5521280019365147
+Will Hang go over a couple of boards?	1.5307437452017791
+What examples of growth factor cetera a lot of?	1.5201805892440206
+Is Tyrosine a Y. So there are specific places?	1.5186903977274717
+What have SH2 domains that know how to bind a phosphotyrosine at a particular amino acid sequence?	1.5073109617706097
+Who is RAS?	1.502917697750225
+What's not sending any signals down into the nucleus of the cell-- nucleus of the cell there?	1.4987862749557537
+Who 've got to understand the normal process in order to understand what goes wrong with it?	1.4938112831031423
+What does grb2 have on who?	1.4766881923500048
+What does who's called?	1.4732217376601071
+Who 've got a whole bunch of adaptor proteins?	1.464510646759663
+Who is Tyrosine a Y. 'm just drawing some of them?	1.462031200471254
+What found that it's putting the phosphates on?	1.4619719911099573
+Does RAS interact with RAS?	1.453779731524452
+What is an enzymatic activity that's a tyrosine kinase in?	1.4485801521927772
+Do many proteins have SH2 domains that know how to bind a phosphotyrosine at a particular amino acid sequence?	1.433092739678456
+What did those tyrosines find that an enzymatic activity's putting on?	1.4300536602380536
+What's our general Rube Goldberg machine part one?	1.4276477581524896
+What did those tyrosines find that it's putting on?	1.4104286767125167
+What well let's zoom in?	1.4097431641142601
+What do the adaptor proteins then bind?	1.4070796740029745
+Who is Tyrosine a Y. I 'm just drawing some of?	1.39843805615324
+What are the most important pathways to understand about cancer the pathways of?	1.3789972092815703
+Are the most important pathways to understand about cancer the pathways of cell growth?	1.3703796672981015
+What is Tyrosine a Y. I 'm just drawing some of?	1.365952355210693
+What is this a classic example of?	1.3618478229168618
+What do these guys add to a tyrosine residue?	1.3532687552494909
+What is Tyrosine a Y. I 'm just drawing?	1.3511763661690996
+Is anything that adds phosphates called a kinase?	1.3463933604510183
+What does the way there binds it is it have here?	1.3278326578742232
+What does it's not sending down into the nucleus of the cell-- nucleus of the cell there?	1.3130458687549584
+What do these guys add a phosphate to?	1.304722974543807
+Are cells in constant conversation with each other?	1.2940973835674594
+What do they recognize a whole class of?	1.2926556437684167
+Who has on it some other things that will bind to something else?	1.2768735659718842
+What do you 've got on the receptor?	1.270493939652872
+What is a Y. I 'm just drawing some of them?	1.2625379844739522
+Who 'ves got phosphates on the receptor?	1.2618865873782923
+Who bind to receptors-- the EGF receptor, and the PDGF receptor, and the FGF receptors?	1.2402030641149095
+Who is spending its time right near the membrane?	1.2386568446440873
+What is these guys were around in the cytoplasm?	1.2361886406411684
+Who 'll pick one called Sos?	1.2241178136133115
+When is this guy spending right near the membrane?	1.214569205443361
+What do well now let zoom in?	1.2117380988500006
+Does some growth factor's not sending any signals down into the nucleus of the cell-- nucleus of the cell there?	1.193574978342033
+What do we 've got to understand in order to understand what goes wrong with it?	1.190982439119797
+What are sequences?	1.1854857972043875
+What's pretty good?	1.1778930670115444
+What is the whole point these guys were around in?	1.1732282493346342
+What was here?	1.171007656762146
+Do certain tyrosines transphosphorylate each other in fact?	1.1643556192907178
+What gets phosphorylated?	1.1636594258785669
+What is Tyrosine I 'm just drawing some of them?	1.1562322970050931
+Are growth factors proteins that are growth factors?	1.153526202742484
+Does the growth factor cause a growth factor receptor to dimerize?	1.1534379836143374
+Who is spending this's time right near the membrane?	1.150544409265727
+What is some protein that is normally floating around in the cytoplasm now?	1.1467515120159102
+What causes the receptor-- at least I 'm giving you the general picture-- to dimerize?	1.1396646734863283
+What recognize a whole class of sequences?	1.133017403802309
+Does Hang's going to be complicated?	1.1320946972635322
+Do examples of growth factor-- epidermal growth factor, platelet-derived growth factor, fibroblast growth factor, hepatocyte growth factor, nerve growth factor, et cetera, et bind to receptors-- the EGF receptor, and the PDGF receptor, and the FGF receptors?	1.1316446984877153
+Who recognize a whole class of sequences?	1.1264049483480454
+Who does it cause the receptor-- at least 'm giving you the general picture-- to dimerize?	1.1206168299470907
+Does an enzymatic activity put phosphates on certain tyrosines?	1.1147568037055344
+Who now is spending its time right near the membrane?	1.1141021545724001
+Does grb2 have on who some other things that will bind to something else?	1.0959601455281263
+When is this guy now spending right near the membrane?	1.089640961609538
+What is Hang this kind of?	1.083108853737908
+What causes a growth factor receptor to dimerize?	1.0814045115946667
+What does it's not sending any signals down into there?	1.0795162136822531
+Is the protein some protein that is normally floating around in the cytoplasm now?	1.0793671140568013
+What do examples of growth factor-- epidermal growth factor, platelet-derived growth factor, fibroblast growth factor, hepatocyte growth factor, nerve growth factor, et cetera, et bind to?	1.0706177766974054
+What are proteins that are growth factors?	1.065144351502421
+What is this guy spending its time right near?	1.057333242436889
+What is the whole point in?	1.0554085834187847
+Who recognize different amino acid sequences plus a phosphotyrosine?	1.0548432579617857
+What do many proteins have?	1.0464450877847868
+Does an enzymatic activity add phosphates to things?	1.0442923364134473
+Is the enzymatic activity it's a kinase?	1.040406871689012
+What is this kind of a thing?	1.0332290656858358
+Who now is spending this's time right near the membrane?	1.0281807777239682
+What recognize different amino acid sequences plus a phosphotyrosine?	1.023476067188847
+Who 'mes just going to put one of them?	1.0166089445232749
+Are specific proteins specific pathways?	1.0129295577125825
+What do we 've got?	1.0075431746530898
+What's my zoom in?	0.9859781913903369
+Does who's an adaptor protein?	0.9805644426116193
+What is this guy spending this's time right near?	0.9682861557635676
+Does who care whether it's called Grb2 or not?	0.9671781406691875
+Does a cell have some growth factor receptors?	0.958096174491486
+What does the growth factor cause receptor to dimerize?	0.9564147908642864
+Who is this one do want you to remember?	0.9535456396556405
+Are sequences particularly proline-rich sequences?	0.9533049410185233
+Is RAS attached here to the membrane?	0.9525306265138687
+Who is this one I do want to remember?	0.9420114745148758
+What is this guy now spending its time right near?	0.9305971105559505
+What is?	0.9251509047909552
+What does this guy tickle?	0.9231109637932462
+Are cells sending signals to each other?	0.9230879225457231
+What do they transphosphorylate in fact?	0.9209038883322518
+What do we 've got to understand the normal process in order to understand with?	0.9188255955106901
+Does the nucleus of the cell-- nucleus of the cell do it?	0.9100385680081167
+What do we 've got to understand the normal process in?	0.9077352416245317
+Who transphosphorylate each other in fact?	0.9066927022799449
+What do they transphosphorylate each other in?	0.906086493224894
+Who 'ves got my receptor binding its growth factor?	0.8938437552448757
+Is RAS a very big deal?	0.8908437910877893
+What does it put on certain tyrosines?	0.8826203023129167
+What binds to this site?	0.8757182208730812
+Who 'mes just going to give you the general case here?	0.8736785706169341
+Who transphosphorylate by putting phosphates?	0.8709386990801007
+What is not to memorize these things?	0.8707450742720462
+What are specific pathways?	0.8683706677706995
+What is the enzymatic activity's a kinase?	0.860820195631645
+What is one I do want you to remember?	0.8588504586963968
+Do the adaptor proteins then bind something else?	0.8584032097541068
+Who 'mes going to draw my cell there?	0.854404490841016
+What does it add phosphates to?	0.8475031257571339
+What is this guy now spending this's time right near?	0.8440007568379082
+What do they recognize?	0.843223386535314
+What transphosphorylate by putting phosphates?	0.8430981512161022
+What 'll I pick?	0.8417531189338012
+Who do I 'm just going to put one of?	0.8288865527123828
+What does it put phosphates on?	0.823936624760979
+What does that's?	0.8238260237077584
+Who just loves these cartoons?	0.8237332289191506
+What is in this receptor?	0.8132779250881663
+What do I 'm just going to put one of?	0.8024288355031945
+Does the receptor dimerizes?	0.7995847855090548
+What is it this kind of?	0.7977138765646128
+What does it add to things?	0.7954417338475752
+What is this?	0.7949589795955829
+Does who's called Grb2?	0.7846114755940761
+What is this I do want you to remember?	0.780260244598113
+What does this recognize?	0.7766430743698185
+What then bind something else?	0.7718352903826808
+Who will not be surprised to learn that the growth factor finds the growth factor receptor?	0.770994554059184
+What does it interact with?	0.7564701249078272
+Does the growth factor bind?	0.7422964113902664
+What are these called?	0.7419885776023469
+What does the nucleus of the cell-- nucleus of the cell do?	0.7338319662165989
+Is this a classic example of a Rube Goldberg machine?	0.72236674007718
+Does the way there binds it is it have some funny domains here?	0.7012693691119434
+What do I just love?	0.6786251436677571
+What recognizes that?	0.6780993648726066
+Do well now let's zoom in?	0.6606692511914081
+What does who's?	0.6472421345453274
+What do I 'm going to draw there?	0.6170202885973803
+What do I 'm just going to put?	0.6169346712353889
+What does a cell have receptors?	0.602903188620501
+What does this guy have?	0.6022514625375519
+What had a phosphate on it, and that distinctly changes its shape?	0.6022116898124492
+What was my tyrosine?	0.6021746548796434
+What did those tyrosines find?	0.5999451065963486
+Does a growth factor come along?	0.5909099412779069
+Did here have a phosphate on it, and that distinctly changes its shape?	0.5723476563695284
+Do I 'm going to pick a particular protein that goes by the name Grb2?	0.5595985139860056
+What has some funny domains here?	0.549826676980239
+Who 're brought together?	0.5448677219847404
+What well likes to bind to that spot?	0.5277719943082648
+What will it go over?	0.5260437521369743
+What 're brought together?	0.5187904955752121
+Do we 've got a whole bunch of adaptor proteins?	0.5172136274949706
+Does that's our general Rube Goldberg machine part one?	0.5030375532514832
+Is an enzymatic activity that's a tyrosine kinase in this receptor?	0.4971566224648818
+What does grb2 have on it?	0.4926344140952721
+Did those tyrosines find that an enzymatic activity's putting the phosphates on?	0.49025125957002036
+What does it's called?	0.4846456811230233
+Who does not care if you memorize what they are?	0.4794165033423674
+Did those tyrosines find that it's putting the phosphates on?	0.47919346524005935
+Do they bind to receptors-- the EGF receptor, and the PDGF receptor, and the FGF receptors?	0.4755644527584013
+Does here's my zoom in?	0.4716439891451041
+What are growth factors?	0.4659485433510082
+Does growth factor come along-- and?	0.46027019320848495
+Do I not know how many of you know Rube Goldberg machines and Rube Goldberg cartoons?	0.458048556558738
+Who 'mes just saying?	0.4357036307965516
+What dimerizes?	0.42176402725438944
+Do I 'm going to give you the Rube Goldberg machine for cellular growth?	0.4192337598856706
+Do these guys add a phosphate to a tyrosine residue?	0.4105361488853556
+Does that's there's general Rube Goldberg machine part one?	0.40525965368769423
+What are these?	0.40217301514120307
+Will it go over a couple of boards?	0.39543167236066834
+What does the way it binds it is it have here?	0.3896169665546494
+What do we 've got a whole bunch of?	0.38230503131041216
+Do you 've got phosphates on the receptor?	0.3598902640331616
+Do they recognize a whole class of sequences?	0.35649325662226783
+What is inactive right now?	0.3558979960875519
+What is it?	0.33646318958052324
+Who 'mes now going to just look here?	0.32819718419658117
+What does it?	0.30583735600075146
+Will you not be surprised to learn that the growth factor finds the growth factor receptor?	0.3022156735557888
+Does this guy tickle RAS?	0.28387476071668516
+What do I not care if you memorize?	0.2834311341357778
+What is one way this happens by actually putting out molecules called?	0.27980816091878147
+Do they recognize different amino acid sequences plus a phosphotyrosine?	0.27520545488390136
+Is one way this happens by actually putting out molecules called growth factors?	0.27153441250859567
+What binds?	0.2680430679609891
+Does well what happens is some protein like to bind to that spot?	0.2601569679864211
+Is Tyrosine a Y. I 'm just drawing some of them?	0.25729803379334726
+'ll I pick one called Sos?	0.25417229836686017
+Is the whole point these guys were around in the cytoplasm?	0.24801929265887424
+What does it do?	0.22549741659341938
+What do you 've got phosphates on?	0.2217308160156466
+Does it cause the receptor-- at least I 'm giving you the general picture-- to dimerize?	0.21631965673779163
+Does it's not sending any signals down into the nucleus of the cell-- nucleus of the cell there?	0.21490952299777932
+What does it cause-- at least I 'm giving you the general picture-- to dimerize?	0.21286191035521584
+What does it cause the receptor-- at least?	0.20870789922970756
+Do we 've got to understand the normal process in order to understand what goes wrong with it?	0.17909840548881384
+What does a cell have?	0.16437934037861268
+Does it interact with RAS?	0.13170457079154163
+Who cares?	0.12682608088969127
+Does grb2 have on it some other things that will bind to something else?	0.12190942371406432
+What do they bind to?	0.07382819064165247
+What comes along-- and?	0.0729318664211025
+Does grb2 bind to this site?	0.07171341189323766
+Do they transphosphorylate by putting phosphates?	0.07168714786120134
+Is the goal not to memorize these things?	0.0701738318638756
+Is this guy spending its time right near the membrane?	0.06927902784341322
+What comes along?	0.05927991101206764
+Are these called SH3 domains?	0.043676709755813725
+What do I not know?	0.030131991997735863
+Is the way this works?	0.0036599398133940753
+What did here have?	0.0033796022133932117
+Does it put phosphates on certain tyrosines?	-0.004630590554118852
+Is this guy spending this's time right near the membrane?	-0.017532349037030714
+Do they transphosphorylate each other in fact?	-0.024493210881834093
+Is Hang this kind of a thing?	-0.03666683158593376
+What is the protein?	-0.03776181180466942
+Is this one I do want you to remember?	-0.04961004340327868
+Do I just love these cartoons?	-0.050986091077548146
+Does this recognize that?	-0.051116065025022195
+Is this guy now spending its time right near the membrane?	-0.05753356639916807
+What is the enzymatic activity?	-0.061428759192641236
+Do they 're brought together?	-0.06530646422866715
+Are these tyrosine kinases?	-0.06907815835949793
+Does it add phosphates to things?	-0.08600330806156498
+Does it have some growth factor receptors?	-0.1014088299237006
+Do I 've got my receptor binding its growth factor?	-0.11209441213941873
+Does this guy have an enzymatic activity?	-0.11358198934825525
+Is this guy now spending this's time right near the membrane?	-0.12960352788223428
+Does it's going to be complicated?	-0.15437639501950118
+Was here my tyrosine?	-0.15830696363000563
+Is these growth factor receptors inactive right now?	-0.17128813533739073
+Is this why dimerization is so important?	-0.17322978755209095
+Does it's an adaptor protein?	-0.17514083600231967
+Is it this kind of a thing?	-0.18159310030953923
+Does it's called Grb2?	-0.2039645809430075
+Did it have a phosphate on it, and that distinctly changes its shape?	-0.23265550800186263
+Does the way it binds it is it have some funny domains here?	-0.2352113317979767
+What do I 'm going to pick?	-0.24444749688081568
+Do I 'm just saying?	-0.24646949383333094
+Do I 'm just going to put one of them?	-0.28009512970566575
+What does the way it binds have some funny domains here?	-0.2902144138787781
+Do I 'm going to draw my cell there?	-0.3002308891722687
+Do I 'm now going to just look here?	-0.3102151974580074
+What does the way there binds have some funny domains here?	-0.3458337653866679
+What does it have receptors?	-0.3480656285633894
+Does this get phosphorylated?	-0.3857276926350548
+Do I 'm just going to give you the general case here?	-0.4107706883176765
+Do I not care if you memorize what they are?	-0.4497590694362732
+Does that's pretty good?	-0.5323722574862801
+What does it's?	-0.5329887962010356
+What is this one?	-0.5571560607372084
+Do I care?	-0.5820716429465211
+Does it do it?	-0.7206329470095811
+What does it have?	-0.8001742079077454
+What did it have?	-0.8276593941628334

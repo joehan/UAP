@@ -1,0 +1,178 @@
+What's where the promoter comes into play?	2.601345714361704
+Where does the activator need cAMP to bind?	2.5853249416207134
+What is the cell's way of indicating that there's low glucose in the cell?	2.535747654398669
+What is a very widespread mechanism in order to keep a cell from producing proteins that are a waste to produce?	2.5101714407185143
+What also needs the activator to be bound to the promoter in order to bind?	2.489331919210408
+What is a collection of genes that produces the lactose metabolism machinery when expressed?	2.4647432892195926
+What is able to metabolize lactose?	2.308561394903891
+What finds only an activator at the promoter?	2.2959287796098584
+What does the activator need to bind to the activator binding site?	2.2864089036170214
+What does the activator need cAMP to bind to?	2.2786143140041593
+What makes a molecule called cyclic AMP, or cAMP?	2.256553996158021
+What is Gene regulation?	2.200303261192082
+What prefers to metabolize glucose?	2.1380903190341844
+What can thus bind to the promoter?	1.9544914059575162
+What does rNA polymerase need to express?	1.936896876116078
+What so cannot bind to the promoter?	1.89113341424101
+What comes to the promoter?	1.8360434434285482
+Who 're going to demonstrate the gene regulation of the E. coli lac operon in this clip?	1.819389835228657
+What do we 're going to demonstrate the gene regulation of the E. coli lac operon in?	1.7783615886300814
+Who 've covered when the E. coli would like to express this operon?	1.723810677668725
+What is cAMP?	1.716802280013099
+What is glucose low in?	1.6905900383482664
+Is cAMP the cell's way of indicating that there's low glucose in the cell?	1.675899877290893
+Who 've now covered how the E. coli organism is able to regulate the transcription of the lactose metabolism machinery?	1.6636028280997146
+Does the repressor only bind to the promoter when there is no lactose?	1.6579244200921197
+What do we 're going to demonstrate in this clip?	1.6450245354158777
+Who have a site where a repressor can bind and a site where an activator can bind in this particular promoter?	1.6393982778634708
+What can thus move downstream to transcribe?	1.6154203692224243
+What can the polymerase thus move downstream to?	1.6139485682214745
+What is the lac operon a collection of?	1.5669577208456227
+What needs to bind to this promoter in order to transcribe?	1.5445601779736227
+Is Gene regulation a very widespread mechanism in order to keep a cell from producing proteins that are a waste to produce?	1.5431186269499322
+Who does rNA polymerase need to bind to in order to transcribe?	1.5388433644072017
+Is E. coli able to metabolize lactose?	1.536104704167209
+Does Polymerase also need the activator to be bound to the promoter in order to bind?	1.4970988365060722
+What does the cell make?	1.4954731346803458
+Who does the repressor only bind to when there is no lactose?	1.4759828850167356
+What only binds to the promoter when there is no lactose?	1.4713721545467644
+Is the lac operon a collection of genes that produces the lactose metabolism machinery when expressed?	1.3991343816023343
+Does the repressor come undone from the promoter?	1.3931330689436208
+What needs cAMP to bind to the activator binding site?	1.3904568643819277
+Does the activator need cAMP to bind to the activator binding site?	1.35044820373614
+What is only one example of many genes in many organisms that are regulated by mechanisms such as this?	1.3336299153086961
+What is the lac operon?	1.3245203143076756
+Who does rNA polymerase find only an activator at?	1.2980559728261962
+Does rNA polymerase find only an activator at the promoter?	1.2577858053924946
+Who is where RNA polymerase binds?	1.2502799072159396
+Is the promoter where RNA polymerase binds?	1.2360134841180774
+What can thus express the lactose metabolism machinery that we have here?	1.2113296857667004
+What are expressed?	1.210018816584949
+What absolutely needs to be able to metabolize this lactose?	1.2069464518184785
+Does lac operon prefer to metabolize glucose?	1.20623832367612
+Does the cell make a molecule called cyclic AMP, or cAMP?	1.1960809852292207
+Who 'mes also adding lactose to the system?	1.1948462426941213
+What comes along?	1.1884991576809119
+Can the polymerase thus bind to the promoter?	1.1783536747617158
+What do I 'm also adding lactose to?	1.166159035516039
+What comes undone from the promoter?	1.1636982227775774
+Who does the repressor come undone from?	1.1591658786828045
+Who have a couple of different situations?	1.1540342152698098
+Is the repressor able to bind lactose?	1.1281136498551025
+What does rNA polymerase need to bind to this promoter in?	1.1067174882035
+What is not able to bind at this promoter?	1.088632459261436
+Who has a molecule of cAMP right here?	1.0799235362498711
+What do we have a couple of?	1.0649072626833314
+What does Polymerase also need to bind?	1.064593996439759
+Who have glucose in this first situation?	1.0602824902061685
+Can the polymerase thus move downstream to transcribe?	1.0368022505333911
+Can the activator not bind to the promoter anymore?	1.0305390423595813
+What is able to bind lactose?	1.0300663299525934
+Can so polymerase not bind to the promoter?	1.0226239297779771
+What does rNA polymerase find at the promoter?	1.0126490095817222
+What needs to express these genes?	1.0096485717767458
+Does rNA polymerase come to the promoter?	1.0034195467763647
+Who do want to express the lac operon?	1.0032436612343423
+What do we have glucose in?	0.9917450816925075
+What's not able to express these genes?	0.986344762496387
+What can the polymerase thus express that we have here?	0.9846769620633486
+What does lac operon prefer to metabolize?	0.968778155524314
+What's not going to be able to grow with the available energy source?	0.9655489305958478
+Who can the polymerase thus bind to?	0.933977845048729
+Does the repressor bind to lactose?	0.9280354990141932
+What cannot bind to the promoter anymore?	0.9051701016858085
+Who can the activator not bind to anymore?	0.9037744000994787
+Who do not want to express the lac operon?	0.8992546503019412
+What do we 've now covered?	0.8741553827058921
+Who does rNA polymerase come to?	0.8720662418261624
+Who has neither my lactose nor my cAMP in the system?	0.8718927494540614
+Can Repressor not bind anymore?	0.8692802373548301
+Is Activator now bound?	0.8587477550770182
+Is glucose low in the cell?	0.8514515616722498
+Who 'mes removing glucose?	0.8482332725775557
+What am I adding back?	0.8469783229279975
+What is cAMP the cell's way of indicating?	0.8400389482200774
+What do we have?	0.8209387955208789
+Who remembers from the lecture clips?	0.8132138896112211
+What do we have in this particular promoter?	0.8082539972684846
+Who is adding back cAMP?	0.800617484871857
+What's going to metabolize the glucose instead?	0.7947875383056688
+Do we 're going to demonstrate the gene regulation of the E. coli lac operon in this clip?	0.793723731310406
+Does rNA polymerase come along?	0.7815410890712151
+Who do have lactose?	0.7770596085935468
+Who can so polymerase not bind to?	0.7770203175385357
+What do we want to express?	0.7475376002901752
+Do we 've covered when the E. coli would like to express this operon?	0.7472892506023205
+What is low in the cell?	0.7407543223156283
+What is this only one example of?	0.7288848164587061
+Who have no glucose?	0.7280559220430611
+Who has an activator?	0.7167302917833516
+Who has a repressor?	0.6949634635854436
+What bindes to lactose?	0.6948791790001707
+What do we not want to express?	0.6911736663947206
+What do you remember from?	0.6881606778115656
+Do we 've now covered how the E. coli organism is able to regulate the transcription of the lactose metabolism machinery?	0.6738968409983239
+Who add lactose?	0.6732889046092636
+Who do we have a site where a repressor can bind and a site where an activator can bind in?	0.6644246741741222
+Is the repressor bound?	0.6569317151875973
+Do we have a site where a repressor can bind and a site where an activator can bind in this particular promoter?	0.635799684857357
+Who remove glucose?	0.6288377738096764
+What do I have a molecule of?	0.6143075333811572
+Who have glucose present but not lactose?	0.5997249630580328
+What's pointless for it to create this machinery because it's not going to actually use it?	0.5546740335298801
+Does that's where the promoter comes into play?	0.5369440730170951
+Who do not have lactose?	0.5308576383140264
+Is no the activator not bound?	0.5228435091864163
+Does rNA polymerase need to bind to this promoter in order to transcribe?	0.5209009550861676
+What can the polymerase thus express the lactose metabolism machinery?	0.4307595020427708
+What it to create because it's not going to actually use it?	0.40445776996867333
+Does the E. coli absolutely need to be able to metabolize this lactose?	0.4022293264862804
+What to create this machinery because it's not going to actually use it?	0.3655659419106485
+Do we have a couple of different situations?	0.30353505879759135
+Is this only one example of many genes in many organisms that are regulated by mechanisms such as this?	0.2788150169684269
+What's not going to actually use it?	0.2727580092807538
+What cannot bind anymore?	0.26621399204799556
+What is now bound?	0.26620582881742494
+Does rNA polymerase need to express these genes?	0.26516749653958627
+What is this?	0.264983905206698
+Does it's not going to be able to grow with the available energy source?	0.23046015181483082
+Do we have glucose in this first situation?	0.20670376788928158
+What no is not bound?	0.20315350123148246
+Is rNA polymerase not able to bind at this promoter?	0.1963127636534936
+Do I 'm also adding lactose to the system?	0.18070150251863426
+Do we want to express the lac operon?	0.17641754119600472
+What does it's not going to actually use?	0.16661742075284125
+Can the polymerase thus express the lactose metabolism machinery that we have here?	0.1495055847035771
+What do we have in this first situation?	0.13618159736261104
+What is bound?	0.11003494826553872
+Do we not want to express the lac operon?	0.1050466992514032
+What do I 'm also adding to the system?	0.10125157946854912
+Does it prefer to metabolize glucose?	0.0892521890813236
+Am I adding back cAMP?	0.06874517841845096
+Who can see here?	0.06050894761125969
+Does it's going to metabolize the glucose instead?	0.05273179377724757
+Does rNA polymerase's not able to express these genes?	0.017397736102871875
+Do we add lactose?	0.004836743065928406
+Does it's not able to express these genes?	-0.002550022061263979
+Do I have a molecule of cAMP right here?	-0.010536156625383208
+Do you remember from the lecture clips?	-0.024039569712466013
+Do we remove glucose?	-0.03072416157374125
+Do we have lactose?	-0.042910653873721394
+Do I 'm removing glucose?	-0.06920965005727653
+Do I have neither my lactose nor my cAMP in the system?	-0.07895138372242916
+Do we have no glucose?	-0.08859967259159518
+Do I have an activator?	-0.09363722976058697
+Do we have glucose present but not lactose?	-0.1093442571036678
+Do I have a repressor?	-0.11132019585237307
+What does it prefer to metabolize?	-0.1559454247011125
+What does it's going to metabolize instead?	-0.16274910169835666
+Do we not have lactose?	-0.251472996247341
+What do we remove?	-0.291898701053255
+What do we add?	-0.2985158236184853
+What do I 'm removing?	-0.31740477441310433
+Does it's pointless for it to create this machinery because it's not going to actually use it?	-0.3640914147772629
+What do I have?	-0.37567291978743156
+Are these expressed?	-0.4918183247064838
+Can we see here?	-0.5254236919362745
+What do we not have?	-0.5322048801502057
+Does it's not going to actually use it?	-0.7669503461963361

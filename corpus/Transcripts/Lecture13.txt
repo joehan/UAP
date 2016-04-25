@@ -1,0 +1,105 @@
+ERIC S. LANDER: Last time, we talked about how DNA goes to RNA goes to protein. We gave the simple story. DNA replication, transcription, translation, universal genetic code, ribosomes, all very similar. This time we're going to talk about all the variations on the theme. Because it turns out that, I think I've already said, life likes tweaking with things. Almost anything gets tweaked and optimized and changed. 
+
+And now that you have a pretty good handle on how DNA goes to RNA, goes to protein, I now want to throw some curveballs at you. Throw some of the complexities of what really happens. So this DNA goes to RNA goes to protein, goes by the name, the central dogma. You'll hear the term, the central dogma a lot. It means DNA goes to RNA goes to protein. It's all weird. Why do people call this the central dogma? Dogma is religious doctrine. 
+
+It's supposed to be accepted on faith. Well, it turns out that, as almost everything else I'm telling you, it sort of goes back to Francis Crick. I'm fond of Francis Crick, as you may know. Francis Crick said, actually not that DNA goes to RNA goes to protein. He said that all information flows from nucleic acids to protein and not in the reverse direction. He was actually very clever. We'll see in a moment he actually got this exactly right. 
+
+All information flows from nucleic acids to proteins but not in the reverse direction. And Francis also knew enough to say that at the time he made that claim, we didn't know that. And so he called it the central dogma, meaning it was a religious statement then. It was a statement of faith. Now we actually know to be a fact, but it gets referred to still as the central dogma, because that's what it was called at the time. 
+
+But it was actually said even slightly tongue in cheek, the central dogma, or something. Occasionally microbiologists get berated by social scientists about, why do you refer to this as dogma? And I think they don't appreciate that, actually, this was a little bit of a light-hearted thing. But it then just kind of stuck, because it's turned out to be quite true. So I'm going to refer to the central dogma as DNA goes to RNA, goes to protein. 
+
+Although I'll tell you that Francis Crick said it was nucleic acids go to protein. Francis Crick said that, by the way, because he couldn't see any reason, I think, why RNA couldn't go to DNA. And so he was careful about that. We'll come back to that. OK. Now, we're going to talk about how this actually works in different organisms. How does this replication, transcription, and translation occur in three kinds of organisms? 
+
+Replication, transcription, and translation in eukaryotes. That is, nucleated organisms with nucleated cells, like MIT students. MIT student here, or yeast, or whatever. For our current purposes, yeast and MIT students are essentially the same thing. Prokaryotes, prokaryotes, bacterial cells here. This is not drawn to scale, obviously. You're a lot bigger than E. coli here. 
+
+Here, distinct nucleus. Here, no distinct nucleus. And also, viruses. Viruses are even smaller. They are little protein coats, or we call them capsids, protein capsids. Or membranes, with some protein stuck in them. You have protein capsid, or membrane bound viruses. And inside comes the nucleic acid. And there again, much smaller than prokaryotes. But they all do things slightly differently. 
+
+Let's talk about how the central dogma plays out in each of these organisms. Section one, replication. Let's start with a eukaryote. Eukaryotes replicate their DNA, and how does DNA replication happen? Well, you have a long DNA molecule, a chromosome, and there are places where replication will begin-- origins of replication, and replication will start happening here. And we've already looked at replication. 
+
+Then opening up this continuous replication, all looks just fine, right? We've talked about all of that. Kind of straightforward, except right at the very end. There's a little problem at the end, because eukaryotes have these linear chromosomes that have ends. You've seen your chromosomes. We've shown them to you. They're long, they have an end. What happens at the end of a chromosome? 
+
+Well, at the end of chromosome we have a complicated process to replicate. The end of a chromosome, let's see. We have our DNA replication. It's going to proceed here five prime to three prime. It's going to get to the end and stop just fine. But what happens in the other strand, when we get to the end of the chromosome? You call your DNA replication. 
+
+A little primer gets made, copy, copy, copy, copy, copy, copy, copy, copy. But wait a second. What if I didn't get my primer right at the very end? What if my primary was 10 bases in? What would that say about your chromosome that you copied? 10 bases too short? Oh, who cares? 10 bases, right? But that's 10 bases every time you replicate. And what if it's 50 bases, or 100 bases? 
+
+You've got a problem at the end of your chromosomes. If you're going to replicate a linear chromosome, coming back in that direction when you plant the primer there, unless you nail it right at the end, that chromosome is going to be short. And over the course of many, many generations of replication, you're going to lose genetic material off the end. That's a problem for replication. So the story I told you doesn't hold up for the ends. 
+
+These ends, the word for end. This is a Greek word, telos. So ends are called telomeres. And we've run into a problem at our telomeres here. We somehow have to solve it. Any proposals on how we're going to solve the fact that our telomeres are going to grow to the ends of our chromosomes? These telomeres are going to be too short. 
+
+Create something nice on the end that you know. Create a sequence on the end that you know, and put some extra copies back on. So it turns out that eukaryotes use tricks. At the ends of their chromosomes, that is the ends of your chromosomes, in humans, it ends with that sequence. TTAGGG. T2AG3. Other organisms use other sequences. There's a long, repetitive sequence of T2AG3. 
+
+And you have something that, at your ends, adds back TTAGGG to keep your chromosomes from getting too short. What do you think does that? An enzyme, which not unreasonably is called telomerase. Telomerase makes telomeres. So that's how we solve this little trick here. Telomerase comes along and does that. So, little tricks. So this is the problems that eukaryotes have, because they have linear chromosomes. Linear chromosomes. How many linear chromosomes do you have, remind me? You, humans? 23 pairs, right? 
+
+And how big is your whole genome? Anybody check the owner's manual? How big is your genome? 23 pairs of chromosomes, but how many nucleotides? How many bases of DNA? Did you check to make sure you got the right amount of DNA? 7,000 bases? No, that seems short. Seven billion bases? Too many? I don't know. Lots. You guys need to know this. 
+
+This is important to make sure that you've got the right amount. 3 billion bases. 3 times 10 to the ninth bases from mom, and 3 times 10 to the ninth bases from dad. If you didn't get that, check and ask your parents where the rest of it is. OK? So that's what you're supposed to get. That's a human. Mouse. What's a mouse got? It's got about 20 chromosomes. 20 chromosome pairs. 
+
+And it's got almost the same thing you do. It's a little bit less. 2.7 times 10 to the ninth. Tomatoes. Tomatoes, 12 chromosomes. About 3 billion base pairs. Field lilies. A lot more DNA than you do. Tons more DNA than you do. Field lilies. Much longer genomes than you do. They're actually very big genomes. They measure in billions of base pairs. 
+
+You know, mammals, and-- fruit flies, hundreds of millions of base pairs. Oh, that's a great question. Why do some organisms-- so you consider yourself superior to the field lily? And you measure your self worth in your genome length. So you're worried now that the field lily might have like, 10 to the 10th, 10 to the 11th base pairs, and you've only got 10 to the ninth. You're feeling a little inadequate. All right. Interesting. 
+
+So we'll come back to this question, we should come back to the question of why are some genomes so big? What have they got that you don't have? That's interesting. Yes? Are they polyploids? Some are polyploid, but that doesn't account for it here. Polyploid means not just diploid but extra copies of chromosomes. Yeah, there are some things that are polyploid. Wheat is a hexaploid, and it turns out that bananas are pentaploid. 
+
+But that's not enough to account for these orders of magnitude differences there. It's pretty interesting. A little disturbing. Good. All right. I'm glad you're bothered by that. Take that home and be bothered by that. OK. But you know, like, flies, the Drosophila we've talked about, four chromosome pairs, about 200 million bases. Yeast. Yeast has a neighborhood of about 13 million bases. 
+
+Some have more, some yeast have less. So millions to billions of bases. Linear chromosomes. Cute little problem at the end there. All right. That's fine. Prokaryotes. How big are prokaryotic genomes by comparison? Prokaryotic genomes are a lot smaller. So prokaryotic genomes, like E. coli, E. coli is just 4 million bases long. 4 times 10 to the sixth. 
+
+There are even some bacteria, mycobacteria, that are even less than a million. Just 700,000 bases long. There are some bacteria that are more, but you know, think on the order here of millions of bases, where these are tens, hundreds, billions of bases. But the other difference is these are not linear, but circular DNA. E. coli chromosome is a circle. About 4.6 million bases. 
+
+And that makes replication a lot easier, because if I open up my circle, and I'm replicating, and I'm replicating, I don't have any problem with telomeres. No telomeres. So that's actually much easier. It's very convenient being a prokaryote. So eukaryotes have a little problem here, prokaryotes have it easy here. Viruses. How do viruses replicate? 
+
+Well, first you have to tell me, well, first, how big are viruses? Pretty small. I mean, viruses can be as small as hundreds of bases long. Typically more like thousands to tens of thousands, to hundreds of thousands bases long. That's a typical virus size. They're not that big. I do it's, 90,000 bases long, off hand. That's right. So let's say they're typically in the range of thousands, I'll say 5,000 to 200,000 might be a good range. 
+
+But there are some that are even smaller than that. This is a typical range. Are they double stranded linear DNA? Or are they double stranded circular DNA? Which is it for viruses? Well, who votes for double stranded linears? Who votes for double stranded circulars? Who votes for both? Turns out viruses, see, small things can get away with all sorts of things. 
+
+Remember, I said something like, almost everything that can be done gets done. There are double stranded circles and double stranded linears. So that's no problem. Some viruses look like that, some viruses look like that. Got any other options? Well, wait a second. How about single stranded DNA? Let's just try out all the changes here. Why not have a virus-- can we reinvent a virus that in its capsid just has a single stranded DNA? 
+
+Any objection? Why not? When it gets in the cell, what's it going to do? Replicate to make a double stranded circle. But there's no reason why when it goes traveling in its capsid, it needs to bring the other strand. It can just bring one strand, because each strand is a good representation of the whole. So some viruses can be single stranded DNA. Now, what else can a virus be? RNA. Is that allowed? Can RNA store information? 
+
+Sure. In principle, RNA can store information as well as DNA can store information. But we got a little problem here. If you wanted to make a virus out of RNA, how is it going to replicate? So I got an RNA virus, a single stranded RNA virus. Single stranded RNA virus. I have an RNA. I got to replicate this RNA. I have DNA polymerases in the cell. The cell that I infect has DNA polymerase. 
+
+I could just trick the DNA polymerase of the cell into replicating my viral DNA if I'm a virus. What do I do if I'm an RNA? What kind of an enzyme do I need? Yes? Except the word I used before for RNA polymerase when we talked about transcription was kind of a DNA- directed RNA polymerase. 
+
+It read DNA and made RNA. You want now not a DNA directed RNA polymerase, but a RNA directed RNA polymerase. Sorry? Well, that's an interesting question. If you're an RNA virus, make more RNA. So why not make-- we'll come back. You have an option two? We'll come back to your option. How about an RNA directed RNA polymerase? What it might do is copy back that. 
+
+Uh-oh, and then I'm going to need to copy its other stand back also, to get back this strand. So I'm going to have to run it twice. Once to get the complementary strand and once to get this strand. But I could have RNA directed RNA polymerases. But the problem is, is the cell going to have available for me an RNA directed RNA polymerase? No. So what's the virus going to do? Make it. 
+
+The virus is going to make its own. But how can the virus, like, make an RNA directed RNA polymerase? It's got to make an enzyme. Oh, wait a second. What would you like? You want this RNA a to be a messenger RNA that encodes the very code for making its own polymerase? Nice. OK. This is called a plus strand virus because it's a messenger RNA. 
+
+The virus is a messenger RNA. It brings in its own polymerase by coding for its own polymerase. Pretty cool. But there are other solutions. There also are minus strand viruses that don't encode their polymerase. How do they get their polymerase? They have to bring it with them. It's got to be part of their capsid that they're bringing with them. But that's possible. 
+
+When the virus gets made and packaged up in the previous cell, it encoded the instructions, but on the other strand. So what we really mean is every virus comes in with a set of instructions to make things. To make copies of itself. To make its capsid. To manipulate the cell however it needs to manipulate the cell to reproduce itself. 
+
+Each virus has in its genome those instructions to subvert the workings of the cell to replicate that virus. So in this case, this one in the previous cell instructed that cell to produce the polymerase, the RNA directed RNA polymerase and package it up with the virus. And when it comes to the cell, it brings with it its own polymerase. So this is BYOP. Bring your own polymerase. All right? 
+
+So two options, bring your own polymerase or bring a message for a polymerase. Now of course, these messages also may contain other things. So it isn't just the polymerase. This message might include multiple different things, and that's how it works. So now we've got an RNA-- we had DNA directed DNA polymerases, RNA directed RNA polymerases. But you offered me another option. What was that? 
+
+RNA directed DNA polymerases. Oh, that's interesting. suppose I brought an RNA, and instead of copying it back into RNA, this is RNA going to RNA. Suppose this RNA was copied into DNA, and this DNA was then copied into another DNA. This RNA could make double stranded DNA. Is there a reason why that couldn't happen? 
+
+No, because information can flow from nucleic acid to nucleic acid. Now, this was a big deal at the time. People had no idea how these RNA viruses could do something like this, but in retrospect it's not a big deal to imagine that you can have a-- when I say not a big deal, it won a Nobel Prize, of course, by yet another person who's on the MIT faculty. 
+
+But this is David Baltimore's Nobel prize, and also Howard Temin, for showing that there was an enzyme that could copy RNA at the DNA. Now, that's the opposite direction to transcription, right? Transcription is DNA going to RNA. RNA going back to DNA is the reverse of transcription. The enzyme is referred to as reverse transcriptase. Exactly. All this stuff makes great sense. So reverse transcriptase. 
+
+Now, once that DNA has been made, what these viruses do is they insert it into your chromosomes, and it becomes a permanent part of your genome. It bothers you. She's still having trouble with the field lily. Now you're bothered that this thing is getting into your chromosomes, right? And it now becomes essentially a gene in some of your cells. And that gene can then be transcribed and make proteins, and produce more viruses and things like that. 
+
+It actually installs genes into your own DNA. A little creepy, if you ask me. These things are called retroviruses. Not because they're old fashioned. The retro means they go backwards from RNA to DNA. And yes, ah, how do you get rid of them? How do you excise the retrovirus that has, say, inserted itself into one of your cells? Simple answer. You don't. 
+
+Actually, I happen to know in the last 12 months an interesting trick that might work. And that we may get to that later in the term, but it's only just sort of been thought of recently. It's an interesting idea, but at the moment the official answer is you don't. There's no way to get them back out. It's disturbing. Yes, good. OK, see, now you're dealing with both the field lily and these retroviruses. I'm going to send you home with a lot to worry about tonight. 
+
+Can anybody give me an example of a retrovirus? HIV. It's one of the things that makes HIV insidious. By the way, reverse transcriptase is necessary for HIV to copy itself in the RNA to the DNA. What's one of the ways you could fight HIV? Make a drug that inhibits reverse transcriptase. 
+
+And as you know, the three drug cocktails that are used to fight HIV have reverse transcriptase inhibitors. The more we know about the processes, the more we're able to actually use it to our advantage in health, in fighting disease. Yes? 
+
+STUDENT: [INAUDIBLE]? Or did it evolve from the virus and then [INAUDIBLE]? 
+
+ERIC S. LANDER: Yeah, where did viruses come from? Did viruses come before organisms, or organisms before viruses? Come first because the virus needs the organism. Yeah. But maybe some RNA got a little too smart for its own good, or that is, for your good, and managed to somehow package itself up and depart and go infect another cell. 
+
+And in fact, it might turn out that-- we'll talk later in the term, that within your own cell, you actually have some jumping genes. So RNAs that can turn back into DNA and slam themselves into your chromosome. Turns out within your own genome, the process of reverse transcription sometimes happens, and you have elements. I wasn't planning to say this, but since you've raised it, I'll mention it. 
+
+There are parts of the human genome that are viruses without the capsid. They're just intracellular virus-like elements. They make an RNA, and they can be copied back into DNA and slam themselves elsewhere in your genome. Do you know how much of your genome consists of this stuff? I'm going to disturb you and say 50% of the entire human genome is the detritus of this process that has been going on for billions of years. 
+
+If you read the sequence of the human genome, 50% of it is what we call transposable elements, which can be thought of as protoviruses living in your own cells, hopping around making copies of themselves, and probably viruses evolved when one of those guys figured out how to wrap itself in a protein coat and go over to the next cell. Pretty interesting. Yeah. I'm sending you home very disturbed about your own genome. 
+
+Because basically at 50%, it means that your genome isn't even really your genome, right? It's all this other stuff. And it's probably more than 50%. We can only recognize 50%. But I can certainly recognize 50% of your genome is these elements that have been hopping around your genome using this process here. 
+
+OK, before you go on, stop for a moment and test your understanding of replication in different organisms with this question. 

@@ -1,0 +1,261 @@
+ERIC LANDER: I have to be able to knock out a gene, take a perfectly good functional copy, and not randomly hope that I get a mutation, but deliberately put a mutation into a piece of DNA in a living organism. How am I going to do it? Well, first thing I have to talk about is how you add DNA to a genome. Turns out we've done that already. How have we added DNA? Where did we add DNA? 
+
+STUDENT: Viruses. 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: Viruses. 
+
+ERIC LANDER: Well, viruses add DNA. That's right. Or when we made a library, we added DNA. We added plasmids to cells, and bacteria were willing to take up DNA on plasmids. So we know that sometimes we can get DNA into cells. That's not so impossible to imagine. So we can just plain add DNA to bacteria, to yeast, on a plasmid. And it can propagate within the cell, right? Little plasmids can do it. 
+
+It turns out, actually, that you can just inject DNA into a cell if you want to. You can inject DNA into a newly-fertilized egg. If you take an egg from a mouse and fertilize it-- here's an egg that's been fertilized. In fact, the little nucleus from the sperm and the bigger nucleus from the egg haven't even fused yet. They're referred to as pronuclei at this stage. 
+
+If you have a really steady hand, you can take a really sharp pipette-- you can-- and if you've prepared some DNA in the lab, you can inject that DNA into the nucleus, and random pieces of DNA. What do you think a nucleus will do if it sees some random pieces of DNA? 
+
+STUDENT: Use it up. 
+
+ERIC LANDER: It's going to say, oh my goodness, my chromosomes have broken in some way, because the nucleus thinks that random chunks of DNA are broken chromosomes. And it goes into repair mode. And it says, I don't know where this goes, but I'm going to stick it somewhere. I'm serious. That's what happens. It gets stuck somewhere. Because repair mechanisms do that, and you can insert it into the genome. 
+
+And then if you take that egg, and put it into a female mouse-- not to scale, obviously-- you put it into the uterus of a pseudo-pregnant mouse-- that is, a mouse that has been hormonally primed to receive a fertilized egg-- it can actually grow up into a mouse. And you can make a mouse that carries a piece of DNA randomly stuck somewhere. Or maybe 10 copies of that DNA, because it's kind of hard and messy, and it's not a very elegant way to do it. But that's how people started making transgenic mice. So this is a transgenic. 
+
+So what happens is this gives birth to a little pup here. There's more little pups. And some of them, if you put in multiple eggs there, will be transgenic. All right. It's messy. 
+
+Even better, it turns out, is to not have to keep using eggs and injecting them, which is tedious and if you're not really steady, very inefficient too, but use what are called embryonic stem cells. 
+
+So it turns out that better is if you take a mouse embryo at the blastocyst stage, which looks roughly like this. You've got a bunch of cells around the outside. Cells, cells, cells. And then, you have a pile of cells here in the middle. In this inner region here, there's a pile. There's sort of a mass of cells here in the middle. And this mass of cells here inside is called, not unreasonably, the inner cell mass. 
+
+If you take some cells out of the inner cell mass, they can grow and divide in a Petri plate. So single cells here can grow and divide and grow and divide, and I can get what are called embryonic stem cells. Now, why are they called embryonic stem cells? Because it turns out those cells taken at that stage have the full potential to make a mouse. They can give rise to the whole embryo, the whole mouse. 
+
+How are they going to do that? They're not going to give rise to a mouse sitting there in the Petri dish, for goodness' sake, right? You know those cells aren't going to suddenly turn into a mouse. But what you can do is you can take ES cells here and go back to another blastocyst-- inner cell mass-- and take some of your embryonic stem cells and put them there in the mix. And they will give rise to part of the mouse when I put that into the pseudo-pregnant female. 
+
+How would I know that when that goes back into the mouse and pups are eventually born, how would I know that some of those cells from my ES cells growing in a dish had contributed to making that mouse? That the mouse was partly these original cells but partly my embryonic stem cells? In other words, that this mouse actually has some cells of each type. How could I easily see that? 
+
+STUDENT: Genes. 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: Genes. 
+
+ERIC LANDER: Genes. I could sequence them. That's a lot of work. 
+
+STUDENT: Did any of the mice have superpowers? 
+
+ERIC LANDER: Superpowers. What kind of powers might the mouse-- so basically, you want differences. Yes? 
+
+STUDENT: Could we mark them? 
+
+ERIC LANDER: Could we mark them? How are you going to mark them? 
+
+STUDENT: Fluorescence or-- 
+
+ERIC LANDER: Fluorescence? 
+
+STUDENT: They'd glow. 
+
+ERIC LANDER: They could glow. Hold that thought. We're going to get there in just a moment. Yes? 
+
+STUDENT: You could start with a black mouse. 
+
+ERIC LANDER: Start with a black mouse and inject it into a white mouse. How about that? Cheap. Very nice, I like that. That's easier than sequencing. Not that I don't like sequencing. Don't get me wrong, I love sequencing. And fluorescence is always cool. 
+
+But just start with a black mouse and inject it into a white mouse or vice versa. It kind of works. And so if what you see here is that these pups are stripy, they've got black patches, but the parent from which this came was a white mouse, it pretty well clearly came from the black mouse. And it turns out that's cheap and easy, and that's what you do. 
+
+This thing is called a chimera from the Greek monster with parts from different animals. It's a chimera, and we call that a chimeric mouse. Now, how do I make a mouse that's entirely-- oh, so wait a second. I haven't put any genes in. Why did I bother doing this? 
+
+I did this because once I was growing my embryonic stem cells here in a dish, I could manipulate them. I could play all sorts of games with them. I could add things and subtract things. I can do molecular biology on them. 
+
+So suppose-- but we haven't said what-- I can modify the genomes here. The point is by growing the ES cells in a dish for many generations there, I can modify them. I can check that they're right and be sure I've got my modified ES cell before I put it back into the mouse. Much more elegant than just squirting in DNA. 
+
+So now, of course, I have a little bit of a problem here. This chimera, some of its cells come from the cells I've modified, and some of them are the unmodified cells. Some of those are black cells, and some of them are the white cells there. Some carry my genetic modification that I'm about to tell you how we're going to make, and some don't. How do I get a next generation of mouse which is going to be completely carrying my genetic modification? 
+
+STUDENT: [INAUDIBLE]? 
+
+ERIC LANDER: No, I have to breed it. I got to breed it, this chimera, to, say, a white mouse, and I look at the offspring. And will the offspring be all white or all black? It depends. It depends on whether or not what? 
+
+Let's say that this was a male mouse here. Are the sperm of that male mouse cells that carry the genetic modification from the black mouse, or are they the cells that don't? Who knows? It depends which cells contributed to the germline, to the sperm-producing cells. 
+
+But suppose you were lucky, and some of the cells had contributed to the germ line. Then some of the sperm would then give rise to a mouse which was no longer chimeric, but completely carried your genetic modification. That's called going germline, and people are always, ooh, did your cells go germline? Meaning, did you manage to get lucky enough to get them into the germline and transmit to the next generation. We now have tricks to make that more and more likely. 
+
+All right. So that's the plan. You can just kind of squirt DNA in, but better is use embryonic stem cells, cells capable of being taken out, propagated, modified, put back in, and used to grow up mice. Now, the only little detail is we have to modify the genes. But I've got a convenient system. I now have mammalian cells growing in a dish that if we could modify them, we could put back in and get a whole mouse. So now, it's pretty easy. It's now cell culture. 
+
+So how are we going to do that? I've got embryonic stem cells growing in a dish. I somehow want to modify a gene. I think you wanted us to knock out a gene. How are we going to knock out a gene? Hmm. 
+
+Somewhere in the genome, we've got-- let's take a look at this embryonic stem cell here. It's got a nucleus. In that nucleus, there's this gene that you particularly want to knock out. This is your favorite gene, the gene you're really interested in. How are we going to knock it out? 
+
+STUDENT: RNA? 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: RNA? 
+
+ERIC LANDER: RNA? Yeah? 
+
+STUDENT: Can you just cut it and then glue the other parts together? 
+
+ERIC LANDER: Cut it and just glue the other parts together. How do I get in there and cut it? 
+
+STUDENT: Restriction enzymes? 
+
+ERIC LANDER: But restrictions enzymes cut everywhere. There's like G-A-A-T-T-C. They're going to cut up. They're going to make mess if I throw in a restriction enzyme. I need something that's targeted just to your particular gene. How am I going to make something that's targeted to just one particular gene? 
+
+STUDENT: Bacteria? 
+
+ERIC LANDER: Bacteria? What kind? What do I want to do? Bacteria? 
+
+STUDENT: Do they have those? 
+
+ERIC LANDER: Well, do you think bacteria have arranged to have something that targets each human gene alone? 
+
+STUDENT: Yes. 
+
+ERIC LANDER: No, that's a little bit much to ask of the bacteria, that they have something that targets each and every human gene. I need somehow what we would call a targeting construct, a guided missile aimed at just that gene. Let's think about this. Here's my genome. Here's my gene. I need something that is-- yes? 
+
+STUDENT: Could we make a piece of DNA that is bad at both ends? And then, when it tries to duplicate, it-- no, that  won't work. 
+
+ERIC LANDER: Keep going. You want a piece of DNA kind of related to this gene? 
+
+STUDENT: Kind of related-- 
+
+ERIC LANDER: OK. So hang on a second. Let's get a piece of DNA related to this gene, OK? Because that's going to be at least targetable, right? So you want a synthetic piece of DNA that kind of matches this gene. What do you want to do to it? 
+
+STUDENT: Well, I was going to put bad ddNTPs on both sides. 
+
+ERIC LANDER: So it can't be extended or something, right? 
+
+STUDENT: Yes. 
+
+ERIC LANDER: OK, OK. But then, it's just floating around there. How do I get it into the chromosome? Yeah? What do I want to do? 
+
+STUDENT: There are some proteins that are designed to break DNA and put it back together again, like the topoisomerase, right? 
+
+ERIC LANDER: Topoisomerase can do that, that's true. 
+
+STUDENT: So if you had a modified form or exploited it somehow to do that. 
+
+ERIC LANDER: So you want some kind of an enzyme that can do this. Yes? 
+
+STUDENT: You could design TALENs for it. 
+
+ERIC LANDER: Well, hang on to that, because I haven't got those yet. Hang on to that. We'll get there. I'd like to swap in my pink copy for the black copy there. What could exchange DNA? 
+
+How about plain old recombination? It's sort of like two chromosomes. Maybe just some genetic recombination could occur. Remember, chromosomes undergo recombination. Instead of worrying about bacteria and complicated this and that, cells themselves have mechanisms to recombine DNA. 
+
+Suppose I just threw in a matching piece of DNA. If I threw in a matching piece of DNA, very often it will be slammed into some random place in the genome. But sometimes, recombination will put it into exactly the right place. Huh. Very convenient. 
+
+The problem is, most of the time, it doesn't go into the right place. But maybe a percent of the time or half a percent of the time, it goes in the right place. Because that's only a fraction of the time, I have to select for those cases. How could I select for the cases where the DNA was retained and it was in the right place? Yes? 
+
+STUDENT: Include a resistance-- 
+
+ERIC LANDER: Oh, so you want me to include a resistance marker. So you would like me to take my pink copy of the gene and, say, smack dab in the middle of it, replace some of the gene by a resistance marker. OK? So an antibiotic resistance marker. 
+
+Oh, and by the way, in doing that, I'm going to screw up this gene. I'm now going to have a screwed up version of that gene, because I've interrupted the gene. I've broken the gene, and I've put in an antibiotic resistance marker. Cool. 
+
+So now, I just transform this DNA in, and this DNA gets inserted into the right place. And I can tell, because it's got the antibiotic resistance marker. But wait a second? What if it gets inserted into the wrong place? It still has the antibiotic resistance marker. That's why you're raising your hand, because all I'm doing is I'm telling that the DNA got in and got stuck in the chromosome somewhere. How do I know it got stuck in the right place? Yes? 
+
+STUDENT: Well, if the antibiotic resistance destroys the function when it gets in the right spot, the gene won't be expressed. But if it's in the wrong-- 
+
+ERIC LANDER: I know. But I've got to sort through gazillions of different cells to find one which doesn't express it. Or it doesn't work, and I don't know its function. I'm lazy. I want to do it by selection. I got a positive selection here. I can select for the positive antibiotic resistance marker being retained in the cell. Here's the trick. There's no particular reason you're going to come up with the trick on your own, because this all contributed to a Nobel Prize, and its therefore worth at least a few evenings, right? 
+
+So suppose we had a piece of DNA attached to this which was negatively selectable. That is to say, that piece of DNA carries a gene which will cause cells to die when treated with a certain medium. There's a gene that'll do that, the thymidine kinase gene if you add HAT medium. Don't worry about it. But if you have that blue gene, and we grow these cells in HAT medium, the cells die. So now if that piece of DNA were randomly slammed somewhere in the genome, it would be carrying both that brown antibiotic resistance marker, but also the blue gene. 
+
+How is it that a cell manages to get only the brown guy but not the blue guy? Recombination. It turns out that this effectively selects for the cells that have had a recombination event that have swapped in this sequence instead by recombination. Because that's how you keep the antibiotic resistance marker and lose the negative selection marker. Turns out it works. 
+
+You actually just make a synthetic construct of DNA that has your gene, broken-- antibiotic resistance marker in the middle, negative selection marker at the end-- transform it, and select for cells that both are antibiotic resistant but don't die in this HAT medium. Bingo. 
+
+You select for a cell in which you have mutated the gene. You can then grow it up and check that you've mutated the gene, that it's in the right place. Any questions? Because this is a cute trick. Yes? 
+
+STUDENT: How do you transform the DNA into the [INAUDIBLE]? 
+
+ERIC LANDER: Not so hard. You can use just chemical tricks to get the DNA in, for example. Like you transform bacteria, you can transform mammalian cells by just treating them in the right way. Yes? 
+
+STUDENT: Can't you just do recombination without the negative selection marker somewhere else? 
+
+ERIC LANDER: Well, to do recombination, the sequences have to match. Recombination is actually so specific, because it depends on matching sequences. So that's what's so cool about it is I make something that only fits that place in the genome. If it's going to recombine, that's where it's recombined. It works. 
+
+I can therefore make ES cells that are knockout cells. I can what's called knock out the gene. And then, what happens is I take these ES cells that I've selected to be knockouts. I put them back into a blastocyst. I grow up a mouse. I have it go germline. And now, I have a mouse that's heterozygous for a knockout. 
+
+If I take two mice that are heterozygous for a knockout, and I breed them, I can get offspring that are homozygous for a knockout. I can go backwards in my triangle. I can make the mutant. I make the mutant by taking ES cells, manipulating them, and I manipulate them by using the trick of recombination to insert right in the middle of the gene something that disrupts it. 
+
+And I use that cute trick. So the ES cells plus this technology deserved a Nobel Prize for three people. And they got it for knockout technology, because it's been used to make knockouts for thousands and thousands of mice. 
+
+STUDENT: Who was it? 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: Who was it? 
+
+ERIC LANDER: Mario Capecchi and Olivier Smithies and Martin Evans won Nobel Prize for that. Yes? 
+
+STUDENT: But this use of antibiotic resistance genes, does this still work on mammalian cells? 
+
+ERIC LANDER: Oh, it turns out that you can get some antibiotics that'll kill mammalian cells growing in a Petri plate, too. Neomycin. 
+
+STUDENT: Oh, ok. 
+
+ERIC LANDER: So you can use some antibiotics that'll kill mammalian cell. Yeah, it's pretty cool. Everything is a cute trick. Now, all right. Yes, question back there. 
+
+STUDENT: What happens to the piece of DNA that recombines out? 
+
+ERIC LANDER: The little piece of DNA that recombines out? Oh well, it gets degraded, that little piece of DNA there that got recombined out. This thing here got recombined in, and this thing gets recombined out. It's just a free-floating piece of DNA, and it gets degraded. That's it. 
+
+All right. So now, I can now find the functions of genes. I can knock them out. I can make a mouse knockout, transmit it in the germline. I could breed them together to makes homozygotes. One issue is when I make homozygotes, very often, what do you think the phenotype is of the homozygous knockout mouse that doesn't have the gene at all? 
+
+STUDENT: Is it dead? 
+
+ERIC LANDER: Dead. Dead meaning when I breed the two heterozygotes, the mice that come out that are homozygous, they're stillborn. Or they actually died embryonically and were resorbed into the mother's body. In fact, I don't see them. I often see the lack of homozygotes. Maybe about 15% of genes are homozygous lethal. 
+
+STUDENT: Aww. 
+
+ERIC LANDER: What do I do about that? So I can't study those. Oh, but we're not going to tolerate that. We're not going to tolerate this not able to study that. Suppose I did this. Suppose now, as gene knockout technology gets really sophisticated, the construct I put in didn't actually any longer disrupt the gene. 
+
+But suppose a few years later, we invent the following technology. Suppose we were to put in a certain exact direct repeated sequence. It goes by the funny name loxP. I'll tell you why in a moment. I'm not going to disrupt the gene. I'm just going to flank it by loxP sites, which now you know I could install into the genome, because I have a genome installation technology. I'm going to use it not to disrupt the gene, but I'm going to use it to flank the gene with these loxP sites. 
+
+Now, I'm going to tell you that if I grow up a mouse, I can make this homozygous mouse, and I haven't disrupted the gene, and it's perfectly fine. But I'm going to tell you that these loxP sites came from a certain bacterial virus. And this bacterial virus-- yes? 
+
+STUDENT: Can we turn off out gene on command by-- 
+
+ERIC LANDER: Can we turn off our gene on command? How do we do that? 
+
+STUDENT: We can feed our mouse some chemical that, say, makes the loxP sites, anything between them, stop being expressed? 
+
+ERIC LANDER: Stop being expressed? How about if I could make those loxP sites recombine with each other? Suppose I were to take those loxP sites, and suppose I could force them to recombine and throw out the stuff in the middle. And suppose I could do that on command in just the cells I wanted to or at just the times I wanted to. 
+
+I would have a conditional knockout, a knockout on the conditions I wanted. I would have conditional knockout. All I would have to do, mind you, is somehow have some magic protein that could recombine those two loxP sites. 
+
+Now, these are special loxP sites. They come from a bacteriophage called P1. That phage has a protein that recombines those sites. Because as part of its own life cycle, when it comes into a cell, it's a linear chromosome, and it circularizes itself. And it circularizes itself by recombining those sites. And so, if only I had this protein that causes recombination. 
+
+What that protein is called is Cre. It causes recombination, the Cre protein. If I had the Cre protein present, the Cre protein would cause recombination, and it would just throw out the stuff in the middle. So how do I get the Cre protein there? 
+
+STUDENT: With the mice? 
+
+ERIC LANDER: I actually make a transgenic mouse carrying Cre. I can make transgenic mice that also has a Cre protein. But maybe I only use the Cre protein-- I take that transgenic mouse with a Cre gene-- and I put it driven by a promoter that's only expressed in liver cells. Then what happens? I only make the Cre protein in liver cells. The gene gets lost only in liver cells. And I can grow a mouse in which this gene is now mutated but only in the liver cells. 
+
+If I had a promoter that was only turned on in eye cells, in blood cells, in bone cells, I can make a mouse that has lost that gene in whichever cell type I want. Or if I had a promoter which was turned on when I fed the mouse a drug, I could turn on the Cre protein when I feed the mouse that drug. There are such things, things that are turned on or off by tetracycline. So if something was an embryonic lethal, I could leave the gene in perfect tact through the whole embryonic development, turn on the Cre protein, and lose the gene in adult life, or in adult life only in the liver. 
+
+STUDENT: Wouldn't it kill them then? 
+
+ERIC LANDER: Well, what you'd find out is, does it kill them? What's the phenotype associated with losing that gene in the liver versus the phenotype associated with losing that gene in the pancreas? Maybe, in fact, it's harmless to many of these organs, and it's critical here. Maybe it plays a certain role in the immune system but also played a certain role in early embryonic development. 
+
+If I have different Cres, I only have to make one mouse that is flanked by the lox sites. And then, I can cross it to other mice that carry Cres that are turned on under different conditions. And I can knock that gene out wherever. 
+
+You're getting a sense of the power of biotechnology right now. I can control where that gene gets lost. Pretty powerful. All right. I can also do other cool things, by the way. 
+
+I can also do modifications to this gene. I can modify the gene to say, hmm, let's see. In the human, we found in a particular genetic disease this exact mutation. I'd like to see what that mutation does to that protein when put into a mouse. 
+
+I can modify the gene to have a particular mutation resembling what I saw in the human. I could have a protein that has a certain domain to it. I could take out just that domain of the protein and make a mouse that carries a version of that gene that doesn't make that extra domain of the protein and find out what the domain of the protein is good for. I can make any version I want of that gene and dissect it and see what portion of the gene does what certain things by putting in altered versions. 
+
+I could do something else. You liked fluorescence, right? Turns out there's a protein that's fluorescent green. It's called green fluorescent protein. It's this guy here, green fluorescent protein. 
+
+It actually is naturally fluorescent, a protein sequence that's naturally fluorescent. It's called green fluorescent protein. I could take the gene and add at the end of its protein coding sequence. 
+
+I could fuse onto the protein coding sequence the instructions to make green fluorescent protein. Now when it makes its protein, it'll make the normal protein plus green fluorescent protein sticking out the end. I could then do microscopy and see where that particular protein is in the cell, because I've made that particular protein glow green, because it has a little green fluorescent protein at the end. By the way, this also won a Nobel Prize. 
+
+And you could, for example, follow actin microfilaments. Here's an example where a particular protein has been labeled. And you can see these filaments here, because that protein is taking part in these filaments here, and it's glowing green. You could take any protein. I could find out whether this protein goes to mitochondria, whether this protein is localized in the nucleus. Because the minute I can start modifying the gene, I can knock out parts of it. I can add bits to it. 
+
+Oh, and green fluorescent protein has been tweaked to get red fluorescent protein and yellow fluorescent protein by tweaking little bits and things like that. And so, in fact, you can do multi-colored, beautiful pictures like this and look at the relative localizations of proteins in the cell. Pretty cool. 
+
+All right, that's gene knockout technology. That completes our triangle. Now, it turns out we can do a little more. It still takes a lot of time to make a mouse. Making a mouse is a slow process. I gotta make this mouse. I gotta get it to go germline-- well, we've gotten better at that these days. I gotta cross it. 
+
+Suppose I would just kind of like to knock out the gene instantly. Well, that's harder, but there are some tricks. There's some cool tricks. 
+
+Before you go on, take a moment and answer this question about knocking out genes in a genome. 

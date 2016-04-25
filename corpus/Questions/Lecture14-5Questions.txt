@@ -1,0 +1,491 @@
+Who provides the place where RNA polymerase will sit down and start transcribing?	2.8009854391315994
+What starts out at the five prime end with an AUG.?	2.629508469052442
+What's a distinctive kind of fold with a certain distinctive number of alpha helices?	2.6037631780449164
+What is the place where the poly tail is put on called?	2.5553712748525528
+What 're going to do the beginning of the translation of beta globin?	2.5385948762658166
+Where does the heme's being held by the proteins?	2.5250343709890086
+What gets taken off by what's called a post-translational modification?	2.4557827633509244
+What are Alpha and beta subunits encoded by?	2.4311657985644244
+What turns out that at some point there's a stop?	2.4148188098695735
+What is located 120 bases into exon 3?	2.392714350322227
+What is the place where there's cut called?	2.3687137020259015
+How many amino acids are 432 bases translated to get?	2.351194788966866
+What is encoded by the beta globin gene?	2.3407788680540738
+What's what a gene kind of looks like?	2.3367942494858065
+What is encoded by the alpha globin gene?	2.3346005017228277
+What did what find out that there's a coding region to?	2.314736401679635
+What do what 're going to do the beginning of?	2.308067853632935
+What's being held in place by the proteins?	2.305568536138484
+What does the heme's being held in place by?	2.2569837765739247
+What does a lot of alpha's?	2.2555984866039847
+What does the heme's being held in by the proteins?	2.2372228578186606
+What are the lengths of the exons?	2.2035296002666085
+How many three-digit numbers do what 're going to try to add here?	2.1948279040044314
+What have 50 bases in is where we get our AUG.?	2.1829975193860296
+What do what 're going to put on as an electronic problem on the web?	2.174961524189644
+What is the stop codon located 120 bases into?	2.168843241291157
+What put on the long tail of As?	2.1486397509931483
+What are encoded by different genes?	2.1426170829007307
+How many alpha subunits and two beta subunits was the tetramer?	2.0868426780348064
+What is the beta subunit encoded by?	2.060881883206595
+What is the alpha subunit encoded by?	2.054398009276856
+Who was two alpha subunits and two beta subunits?	2.0524322147559593
+What do what 're going to do?	2.0291426983122722
+What want to venture a guess as to what is the region at the other end that's not translated?	2.027327641365106
+What contains both the exons and the introns?	2.0256976417934895
+What is a stop codon?	2.024059002683456
+What 're going to try to add three three-digit numbers here?	1.9608286003329358
+If the oxygens are not there what moves?	1.9558874565574393
+What is now connected of course?	1.9525854767310487
+What is ATG?	1.928724117063757
+What is a very compact little gene here?	1.9210733816134522
+What is just getting to know a gene?	1.9202919036322874
+What do anyone want to venture as to what is the region at the other end that's not translated?	1.9179937922031751
+What are 432 bases translated to get?	1.9060977541658637
+What want to divide by three?	1.895042507233859
+What's MIT?	1.8850793420526468
+What does the initial RNA contain?	1.8834499811731884
+What do somebody want to divide by?	1.8514246935634062
+What did what find out to?	1.8441174149630832
+What is the mature RNA?	1.8326211634763225
+What happens to the introns?	1.8283421751015725
+What's an in-frame stop?	1.8259573938719478
+What is the mature messenger RNA?	1.814123779646613
+Who is 140 bases?	1.8116675320525926
+What 've got 140?	1.8091916937238681
+What is beta globin?	1.8027619080831705
+What is 222 bases long?	1.7966943370511093
+What do what 're going to try to add here?	1.7944244177146982
+What 're just getting to know a gene here?	1.7926543200194716
+What's got small introns?	1.791771443566355
+What's in the reading frame?	1.7854426997460164
+What's got small exons?	1.7839482475116442
+What do somebody want to by three?	1.7721711953145034
+What's on chromosome 16?	1.7642751415764422
+What is 252 bases long?	1.7631071119265744
+What's on chromosome 11?	1.761855199940206
+What is 140 bases long?	1.7594115741122702
+What is dNA language?	1.7586397144197052
+What is tAA?	1.7456286325604509
+What is the immature RNA?	1.7387293027487
+What is called the polyadenylation site?	1.736586221781467
+What did three prime untranslated?	1.7354043965053703
+What does what happen to?	1.732694029892306
+What is the whole RNA?	1.7317323013781487
+What is all very reasonable?	1.705863974851098
+What is the very compact little gene here?	1.7036185887909832
+What does the splicing machinery take out?	1.7007101850336463
+What's 120 bases in?	1.7002882769648275
+What do what 're just getting to know here?	1.6929228579777382
+What untranslated region?	1.6827254272816685
+What here is holding oxygen?	1.6611454157505494
+What have an AUG.?	1.6586254131322085
+What have our 222 bases?	1.6501302070055888
+What get a stop?	1.6467783559108773
+What 're going to have four?	1.6379821878046992
+Is the place where the poly tail is put on called the polyadenylation site?	1.6366763690643973
+What do what 've got?	1.6365216143014567
+What takes what out?	1.6308954464070793
+What is what?	1.6304123050362715
+What was the tetramer?	1.6201092492791187
+What does heme's got?	1.6181497927980972
+What does here's?	1.6061643920329638
+What does no way go on like?	1.6040593498206424
+What does the alpha subunit's on?	1.6034657722178707
+What got 252?	1.594936418282736
+What got 222?	1.5921140082144023
+When do what have?	1.5638660716988981
+What is the heme here holding?	1.5625782770884626
+What did what put on?	1.5582572820951484
+What did what get?	1.5570944559900073
+Does ERIC S. LANDER helices here?	1.5555530743070842
+What do not just have a stop?	1.5517551573234634
+What do what 're going to have?	1.5432884486981278
+What does a stop's in?	1.5422634365094867
+What's what's stop codon?	1.5368372498316938
+What do what get?	1.536141754041996
+What's 432?	1.5251366866527476
+What helices here?	1.5247751260385893
+Does the methionine get taken off by what's called a post-translational modification?	1.5237711772040683
+What is just a gene?	1.5231151039326556
+Who 're going to do the beginning of the translation of beta globin?	1.5115654266178948
+Are Alpha and beta subunits encoded by different genes?	1.5087772909637387
+What is ERIC S. LANDER: 90 plus 222 plus 120?	1.479511123379434
+What's TAA?	1.4776506670341794
+Who sit where they sit in the human genome?	1.4766160611929413
+What does a stop's?	1.470124754256606
+What just do the arithmetic here?	1.468677731951899
+What stay in?	1.4678650470297252
+What do what end up with?	1.4668762004140097
+What end up with a mature RNA that just has those exons in the splicing machinery?	1.4576355037249678
+What does heme change?	1.455319664738667
+How many bases are translated to get 144 amino acids?	1.44684244665833
+What sit where they sit in the human genome?	1.4452488704200026
+What do what not just have?	1.4405053577359441
+Is the place where there's cut called the polyadenylation site?	1.4383428731697103
+Is the beta subunit encoded by the beta globin gene?	1.4372737846674153
+What is A?	1.428698183871914
+Is the alpha subunit encoded by the alpha globin gene?	1.4286823153825812
+What is the place where it's cut called?	1.4240890831752306
+What are pretty small?	1.419166812483086
+What is the polyadenylation site?	1.409318985265033
+Who arginine?	1.4077054183704814
+What found out that there's a coding region to this gene?	1.4055847664791892
+Do what 're going to do the beginning of the translation of beta globin?	1.382400426827033
+What come out?	1.3809082843142644
+Who found out that there's a coding region to this gene?	1.3782646594486625
+Are 432 bases translated to get 144 amino acids?	1.3781692584699194
+What did we find out that there's a coding region to?	1.3772589326456295
+What do somebody just do here?	1.368515732166677
+What leaves over 132 bases on this side?	1.360931377190823
+What do we 're going to do the beginning of?	1.3557665290276906
+What did we find out that there's to this gene?	1.353172726776628
+What's pretty much there?	1.329735088991742
+Does a lot of alpha's a distinctive kind of fold with a certain distinctive number of alpha helices?	1.3281690940871806
+Is the stop codon located 120 bases into exon 3?	1.3239225013166687
+What lives about there?	1.322912168727352
+Who 'mes going to write it in DNA language OK?	1.3187411627104453
+Who end up with a mature RNA that just has those exons in it?	1.3137050705250468
+How many bases is the stop codon located into exon 3?	1.3105245279503408
+What is the gene that encodes one of these two proteins?	1.30760822294476
+What starts here?	1.3034126799619847
+Does the heme's being held in place by the proteins?	1.2927079343167311
+Who can look at this view like that?	1.2911439716519513
+What did what find out that there's to this gene?	1.2910870085947561
+What does it turn out that at there's a stop?	1.2903112782637476
+What oK bases?	1.2892862379560857
+What 're going to put this on as an electronic problem on the web?	1.2844807356691503
+What does it turn out that at some point there's?	1.2836373204939533
+Who 'll see that it's holding heme?	1.2682195712793494
+What is pretty cool?	1.258495819847011
+Who 're going to put this on as an electronic problem on the web?	1.2577031890861532
+What would be poly?	1.2535255357142674
+How many three-digit numbers do we 're going to try to add here?	1.2468263527521968
+Who 've got a question for you here about the beta globin gene's structure?	1.2468181044149356
+What do we 're going to put this on as an electronic problem on?	1.244619648515184
+What comes off?	1.2435882227314088
+What do we 're going to put on as an electronic problem on the web?	1.2289307023908722
+What carry?	1.2247734915672743
+What could you tell that from so no way?	1.2162139050771978
+What does that turn out that at there's a stop?	1.2139480651006425
+Who could tell that from the DNA so no way?	1.2102214533140168
+What could you tell from the DNA so no way?	1.2101593330802607
+What does that turn out that at some point there's?	1.2072741073308482
+What do what 're going to put this on as an electronic problem on?	1.1915701440589048
+Is tAA a stop codon?	1.188266387592345
+What could you tell that from the DNA so?	1.1864321405558131
+Who is my own guess 'm actually off by two somewhere?	1.1760909662301628
+Does the initial RNA contain both the exons and the introns?	1.1722178715671157
+What bases?	1.164047495492727
+What are wrong?	1.1552266979229875
+Who have 50 bases in is where we get our AUG.?	1.1502549015932284
+What is the stop codon located into exon 3?	1.1460940619743352
+What are translated to get 144 amino acids?	1.1363896266980347
+Who thinks it's actually 146 amino acids?	1.134894673785241
+What is I 'm actually off by two somewhere?	1.1257994758057972
+Who had in E. coli?	1.1237678421149564
+Is dNA language ATG?	1.1217413720719942
+Who put on the long tail of As?	1.119511109137524
+How many bases are 30,000 bases?	1.1089435255889373
+Do what have 50 bases in is where we get our AUG.?	1.104779895795006
+Who 'mes going to zoom in on it?	1.1038389176677414
+What's actually not?	1.1030305572927506
+What do I 'm going to write in DNA language OK?	1.1010320627160217
+Who 've talked about hemoglobin?	1.098045698700222
+Did what put on the long tail of As?	1.0944114338948885
+Who saw that before, last time we saw hemoglobin?	1.0854271674278935
+What are those the lengths of?	1.0825227278039078
+What's close enough?	1.0812613113501297
+What do we 're going to do?	1.0693167703392614
+What's good?	1.0687077305102828
+Was the tetramer two alpha subunits and two beta subunits?	1.0613549399102467
+Does Methionine come off?	1.05440445737407
+Are 10,000 bases 30,000 bases?	1.0518126895005664
+What turns out that that's about 50 bases in?	1.0509102099006538
+What yes's what I get?	1.0406601135414193
+What does the minimal promoter for this gene provide?	1.0403302708959292
+What's probably about right?	1.0115063673625801
+Do what 're going to try to add three three-digit numbers here?	1.0082333179934584
+Is the whole RNA the mature RNA?	1.0061152468060435
+If the oxygens are not there does heme move?	1.0020544827244797
+Do the exons stay in?	0.9959891407907218
+What is my own guess I 'm actually off by somewhere?	0.989960171415224
+How many bases are 10,000 bases?	0.9893166045089401
+What do we 've talked about?	0.9867650363659004
+What can we look at?	0.9755385077405079
+Who just keeps reading off the code there?	0.9679072512701858
+Did three prime untranslated region?	0.9659746682834798
+What do somebody want to translate for me?	0.9562304534779045
+Who 'mes just noting that there were 90 bases there?	0.949137837928431
+What do you just keep reading off there?	0.9465401991073545
+What do I 'm going to write it in OK?	0.94605437527959
+Does the alpha subunit's on chromosome 16?	0.9436205760280778
+Does the alpha subunit's on chromosome 11?	0.9420181269907899
+What is it 50 bases in in?	0.9404393787076379
+What get--?	0.9402890929285996
+Who 're going to try to add three three-digit numbers here?	0.9331693930227036
+What do I think's actually 146 amino acids?	0.9325369489746589
+What's translated?	0.9304482069328224
+Does a stop's in the reading frame?	0.919779689344526
+What want to translate these for me?	0.9193007232182575
+What is 50 bases in in fact?	0.9132134898392934
+What does it's?	0.9128178583407163
+Do the introns come out?	0.9111167821148269
+How many bases are 2 million bases?	0.9099843344246321
+Do anyone want to venture a guess as to what is the region at the other end that's not translated?	0.9093588402204507
+What does it start out at?	0.9088608152273143
+Does what happen to the introns?	0.9057091249357689
+What did we find out to?	0.9021470144352446
+What do I 'm going to zoom in on?	0.8951260926308084
+Who 'll write base pairs?	0.8922879956676053
+Does a very tiny region of DNA's translated?	0.8908737474048349
+What 'll you see that it's holding?	0.8907479170412684
+What's called the five prime untranslated region?	0.8822036313946107
+What is this junction now connected of?	0.8669665353250195
+What's got these oxygens?	0.8654494293140096
+Do somebody want to divide by three?	0.8642209394939326
+Who do somebody want to translate these for?	0.8619481397331383
+Does heme change its shape?	0.8605170114292824
+Who 'll find out the methionine's not there?	0.8450259441219194
+Did what get 252?	0.8441147899801358
+What do we 're going to try to add here?	0.8421230931094543
+What 'll I write?	0.8420267900621452
+Did what get 222?	0.8418399111465575
+Is the polyadenylation site all very reasonable?	0.8342483796007243
+Do what 're just getting to know a gene here?	0.8330801539974662
+What does that start out at?	0.8263555100730393
+Does here's TAA?	0.824106909424648
+Do what 've got 140?	0.8148013781928276
+Who 've got exon 1, exon 2, and exon 3?	0.8136717761790906
+Does a stop's an in-frame stop?	0.8114007063833799
+Does oK 432 base?	0.8111939350690729
+Does beta globin gene live about there?	0.8111667124357007
+Did STUDENT: A, arginine?	0.8102493230740528
+Does the coding region start here?	0.8019284082378608
+What 'll you find out's not there?	0.8001804505286305
+Is the heme here holding oxygen?	0.7862199302832089
+What are 30,000 bases?	0.7795727264624075
+What does it turn out at?	0.7786900530842629
+Who yeah did this before?	0.7762369509393299
+What changes its shape?	0.7757979801343295
+What's our beautiful hemoglobin?	0.7692420144452052
+Who 're just getting to know a gene here?	0.7641134519820043
+What did we have in?	0.7632519631015398
+Does the splicing machinery take what out?	0.756822263704451
+Does here's what's stop codon?	0.7564153869950565
+Who 've got 140?	0.7480910358206405
+What did we see that before, last time we saw?	0.7408137482395032
+What do we 're just getting to know here?	0.7386149724744233
+Is ATG A?	0.7327835173918968
+Does the minimal promoter for this gene provide the place where RNA polymerase will sit down and start transcribing?	0.7318217010850168
+What goes on like that?	0.7305863149892939
+How many amino acids do I think it's?	0.7305323141680296
+Who even saw hemoglobin before?	0.7230200959694528
+What adds up to my 140?	0.7206224771160699
+Is the beta globin gene pretty cool?	0.7010878636838835
+Do what have an AUG.?	0.7003228448819783
+What does it's called?	0.7002428784129324
+What does that turn out at?	0.6961847479299881
+Do what get a stop?	0.6911656437106781
+Do what 're going to have four?	0.6755819020265703
+Do what have our 222 bases?	0.6732891682182702
+What takes them out?	0.6720466073924698
+When do we have?	0.6580257027916556
+What do you look at?	0.657420569163224
+What are 10,000 bases?	0.6562467581584615
+Who looks at the protein?	0.6479394790077861
+Who go, beta globin?	0.6464782628310348
+What's our stop codon?	0.6440379645175167
+What did we even see before?	0.6361845939434845
+What are those?	0.6310829449422444
+What did we put on?	0.6293114983184742
+Did we find out that there's a coding region to this gene?	0.6150077577285504
+What did yeah I do?	0.6142144378465046
+What did we get?	0.6136344834047638
+Who get a stop?	0.6129475235099988
+Who have an AUG.?	0.6125943955731625
+Is ERIC S. LANDER: 90 plus 222 plus 120 what?	0.6117111190569575
+Does Methionine's actually not?	0.611373051851418
+Who have our 222 bases?	0.6078958750940411
+Who 're going to have four?	0.6071741921829124
+What does it go on like?	0.6067617625076316
+Do what not just have a stop?	0.5999627627799962
+What do we 've got?	0.598438255756125
+Do somebody just do the arithmetic here?	0.5934669969801669
+What is this beta globin?	0.587786649986455
+What do we 're going to have?	0.583462520725117
+What do we get?	0.5806039218861543
+What are 2 million bases?	0.5668987137952051
+How many our bases do what have?	0.5630815095150885
+Who have chromosome 11?	0.5630156176606214
+Who could have written something down wrong?	0.5592508113609587
+Did what find out that there's a coding region to this gene?	0.5521108158047361
+Does 614 base?	0.5512309296714084
+What does it's in?	0.5441504928323853
+Who got 252?	0.5431816784253791
+Who got 222?	0.540359268357046
+What does this's?	0.5376224185710448
+Do no carry?	0.5360557419304499
+Does it turn out that at some point there's a stop?	0.5339929325943267
+What does it's on?	0.5209008320051929
+Who do not just have a stop?	0.5144800264995595
+What does it's got?	0.514013222417603
+Who thinks who is counting?	0.5113317836709932
+Who does the splicing machinery take out?	0.5063672272417792
+What do we not just have?	0.5024625411448636
+Who comes really close to it?	0.4974261403571729
+Is the place where it's cut called the polyadenylation site?	0.49578307152339596
+Do we 're going to do the beginning of the translation of beta globin?	0.48435585975546047
+What do we have?	0.46859696349392554
+Do we 're going to put this on as an electronic problem on the web?	0.4629527152468249
+What did I probably leave out up here?	0.4612283720519308
+Does that turn out that at some point there's a stop?	0.4582911754918091
+What does this's got?	0.45794092072971937
+Could you tell that from the DNA so no way?	0.43769745974304186
+Does it's a distinctive kind of fold with a certain distinctive number of alpha helices?	0.4207164728970736
+What do we go, ?	0.41751653967657365
+Does it start out at the five prime end with an AUG.?	0.41675158877683005
+What is this just?	0.41489642820855055
+Do what get--?	0.39752519032196076
+What does that add up to?	0.387114234961224
+What do I think it's?	0.379403033193074
+What's pretty much it?	0.3773045391545389
+What does that's?	0.3736165279919317
+Do what 're going to put this on as an electronic problem on the web?	0.36007760857344806
+Who probably left out something up here?	0.35207648544171355
+What does yes that's?	0.3511841300855494
+Does that start out at the five prime end with an AUG.?	0.34104983167431246
+Can we look at this view like that?	0.33019970588860037
+What do you come really close to?	0.3263167080586258
+What does it change?	0.3253615498191824
+What do we end up with?	0.32525671690600744
+Does all right's close enough?	0.31489444916807896
+Do what end up with a mature RNA that just has those exons in the splicing machinery?	0.30612536691136727
+What could I have written?	0.29237683216667953
+Does that leave over 132 bases on this side?	0.28748189077991526
+Who thinks that's about right?	0.285430457832327
+Is beta globin the gene that encodes one of these two proteins?	0.28070493050907075
+How many bases does it turn out that that's in?	0.2763057301839087
+How many bases is it in in fact?	0.26024906076741194
+Do they sit where they sit in the human genome?	0.2541147984530987
+Do we 've talked about hemoglobin?	0.252914314033299
+How many bases in is where we get our AUG. do what have?	0.2516909106286498
+Does that's what a gene kind of looks like?	0.24409684735615844
+Do we have 50 bases in is where we get our AUG.?	0.21895714975559688
+Did we have in E. coli?	0.18140641065646212
+Do we 've got a question for you here about the beta globin gene's structure?	0.1745589886407828
+Does it turn out that that's about 50 bases in?	0.17271330932492113
+What did we see?	0.17200905312531956
+What do I think?	0.16990081072443552
+What 'll you see?	0.16693031963555827
+Did we put on the long tail of As?	0.16414967737907116
+Who 'll see?	0.15180542475516123
+Who knows?	0.13847923433993303
+Does it's called the five prime untranslated region?	0.1366903348448134
+What 'll you find out?	0.13373102038552553
+Are those the lengths of the exons?	0.12216735404371581
+What is this?	0.11581790391201707
+Do we 're going to try to add three three-digit numbers here?	0.10792493862662633
+What does that's pretty much?	0.09799219907956336
+What does it turn out that that's in?	0.08143205084611171
+'ll I write base pairs?	0.07652468208539487
+Is this junction now connected of course?	0.07583105564970571
+How many bases do I 'm just noting that there were there?	0.07027861192765794
+Does yes that's what I get?	0.05837197181717002
+Are any of my numbers wrong?	0.0528397608336717
+'ll you find out the methionine's not there?	0.02256551091900727
+Do I 'm going to write it in DNA language OK?	0.01519692085389579
+Do we end up with a mature RNA that just has those exons in it?	0.005680478516746579
+Do somebody want to translate these for me?	0.001263815840748972
+Are 30,000 bases 2 million bases?	3.948516213099218E-4
+Is the very compact little gene here this beta globin?	-0.0014708811021810764
+Did we see that before, last time we saw hemoglobin?	-0.0040011852584209695
+Is this a very compact little gene here?	-0.004257992060520133
+Do we 've got exon 1, exon 2, and exon 3?	-0.005370887423231663
+Is it 50 bases in in fact?	-0.007661568546985409
+'ll you see that it's holding heme?	-0.011554972152984844
+Is this just getting to know a gene?	-0.012509306503725393
+Does it's TAA?	-0.015311809795840903
+Do you just keep reading off the code there?	-0.015574772589644459
+Is my own guess I 'm actually off by two somewhere?	-0.0248344197506587
+Do I 'm just noting that there were 90 bases there?	-0.028500620464209092
+If the oxygens are not there does it move?	-0.029042432547528918
+Does it's MIT?	-0.03233012993793749
+Did yeah I do this before?	-0.03824731786015123
+Do I 'm going to zoom in on it?	-0.04493445038334731
+Do I think who is counting?	-0.05832126440976193
+Do we 're just getting to know a gene here?	-0.07031524213562945
+Does heme's got these oxygens?	-0.07316314523457246
+What is it in in fact?	-0.07983089262791498
+Does this's MIT?	-0.0834136274443269
+Does here's our stop codon?	-0.09332487715135795
+Who get--?	-0.09618672165398401
+Did we get 252?	-0.09934518260510838
+Did we even see hemoglobin before?	-0.10126639822569139
+Did we get 222?	-0.10162006143868574
+Do we 've got 140?	-0.10352430127793388
+How many bases is this guy?	-0.10785222553397111
+What do I 'm just noting that there were there?	-0.1094413070517044
+What's cut?	-0.1112193205035319
+How many bases does that's in?	-0.1153940646629128
+Is this the mature messenger RNA?	-0.11792461427774148
+What does that leave over?	-0.12593827208349118
+Does the splicing machinery take them out?	-0.14314072556673096
+Is this 222 bases long?	-0.14514984740573622
+Does it's got these oxygens?	-0.1527424506499293
+Does it's an in-frame stop?	-0.15411142790387933
+Do I think it's actually 146 amino acids?	-0.1577629261517417
+Does that's our beautiful hemoglobin?	-0.16598392746621737
+Do you look at the protein?	-0.16756728778624685
+Does it's in the reading frame?	-0.17266156390106202
+Does it's got small introns?	-0.17312952400541315
+Is this 252 bases long?	-0.17873707253027105
+Does it's got small exons?	-0.17986868091529384
+Is this 140 bases long?	-0.18243261034457525
+Do we go, beta globin?	-0.1900553633669606
+Is this the immature RNA?	-0.19327006373657474
+Do we have an AUG.?	-0.20176576039945426
+Is this guy 140 bases?	-0.20285225136992446
+Does that add up to my 140?	-0.20476101730543705
+Do we get a stop?	-0.21158257388446322
+Does it's on chromosome 16?	-0.21650072388488395
+Does it's on chromosome 11?	-0.21857031155014273
+Does that's 120 bases in?	-0.22112259500802667
+Are these introns pretty small?	-0.22559850013290594
+Does no way go on like that?	-0.22716927045216573
+Does this's got small introns?	-0.22897896061725276
+Does it go on like that?	-0.22929957332050144
+Do we 're going to have four?	-0.23533809747429202
+Does this's got small exons?	-0.2357181175271339
+Could I have written something down wrong?	-0.24904373906707478
+Does it's 432?	-0.2580980246530824
+Do we have chromosome 11?	-0.26058471677869854
+Do we not just have a stop?	-0.2884482377181177
+Did I probably leave out something up here?	-0.3217277378957035
+Do I think that's about right?	-0.3226030742962651
+Does that's 432?	-0.34163801685151807
+What is my own guess by?	-0.34952815020116057
+What do what have?	-0.38218835729899947
+Is this just a gene?	-0.40220055477675865
+Does it's translated?	-0.40577725963701283
+Does that's good?	-0.45269347518616243
+Does it's cut?	-0.45366474267648194
+'ll you see?	-0.4661919365338667
+Would it be poly?	-0.4671488779372275
+Do you know?	-0.4792440444068866
+What is this guy?	-0.49960568533990224
+What does that's in?	-0.5090985400548398
+Do we get--?	-0.5091067133617324
+Do we have our 222 bases?	-0.5262853729382477
+Would this be poly?	-0.5292209234014562
+Does that's pretty much it?	-0.5358679620091691
+Does it change its shape?	-0.5366531373107546
+Does that's pretty much there?	-0.5863223884880617
+Do you come really close to it?	-0.6146733633350772
+Does it's close enough?	-0.6706356652967311
+How many bases in is where we get our AUG. do we have?	-0.6824193413072244
+How many our bases do we have?	-0.6833890867426082
+Does that's probably about right?	-0.6912008761647479
+Does it's actually not?	-0.7323069903370312
+What does it turn out?	-0.8501933022786532
+What do I 'm just noting?	-1.1011927172447984

@@ -1,0 +1,89 @@
+PROFESSOR: One more thing you need to know. Whoops. The one more thing you need to know is something that's not really a bond or a force at all. But it is what we call hydrophobic forces. 
+
+What do I mean by hydrophobic forces? What I mean is, if I give you a long molecule like this, and all it is is a hydrocarbon-- lots of carbons with hydrogen around it. And you know that all of those bonds are non-polar, right? Will that make any interactions-- any hydrogen bonds with water? No, because it doesn't have any polar bonds there. 
+
+So suppose I were to drop this poor, unsuspecting molecule into my highly structured cage of water, bouncing around there. When it gets in there, like a bull in a China shop, it is disrupting hydrogen bonds that the water molecules would like to make with each other. It's breaking favorable bonds. It's energetically unfavorable for this non-polar molecule to be coming into this polar liquid. And when it occupies any space, it is breaking apart hydrogen bonds. That's a big energetic cost. 
+
+Suppose I were to take a whole bunch of these non-polar molecules, and throw them into water. And every one of them is there, disrupting the neighborhood, breaking up the hydrogen bonds in its neighborhood amongst the water. That's energetically very unfavorable. 
+
+The waters would all like to be communicating with each other, hydrogen-bonding with each other. And they would like to push out these into interlopers, these non-polar molecules. And what's going to happen? Now-- 
+
+STUDENT: They're separated out. 
+
+PROFESSOR: They're going to separate. Oil and water. That is oil and water. 
+
+If I try to mix together oil and water, they're going to separate. All right, I got an oil and water not mixing. And that's because the non-polar molecules can't hydrogen-bond. So again, macroscopic, big observable difference comes from these hydrogen bonds. 
+
+All right, so you now know everything. Most everything. You now know enough. You know enough that we can now start applying what we've learned to try to explain some of the amazing properties of life. 
+
+Section 5-- understanding the properties of molecules. Let's try something. Let's try to understand the cell membrane. Example-- making a membrane. It's arguable that the distinctive, critical thing about life is having a cell membrane. I've got to separate the inside from the outside. 
+
+If I've got a cell, an early cell, I've got to have some bag, some sack of material, separate from the whole primordial sea. And so having a membrane is a really critical to having life. Why does this magical membrane get formed? 
+
+Well, it turns out simple chemistry tells us how the magical membrane gets formed. And it's not so magical. Let's start with our highly non-polar molecule over there. Let's take that guy. I'm going to put six C's here, but it could be different numbers. 
+
+And oh, by the way, I'm beginning to drop my hydrogens. And there'll be a whole deep dive in the course about how to write molecules. And I'm just going to drop the hydrogens right now. 
+
+Tell me about the property of this molecule. Is this going to be a molecule that likes to be in water, or not? No. Not like to be in water we call hydrophobic. It's hydrophobic. It doesn't like to be in water. It fears water. 
+
+Versus hydrophilic-- liking water. This is a hydrophobic molecule. Now it turns out I can modify this hydrophobic molecule in the following way. OH. A group that you'll come to learn on the homework is called a hydroxyl group. 
+
+OH is a polar bond. It turns out that merely putting an OH there converts this into from a hydrocarbon into what we call an alcohol. And it can dissolve in water. The ability to make that polar bond with its OH is enough to make it dissolvable in water. 
+
+That's soluble. This becomes hydrophilic. Now, it's not absolutely hydrophobic, absolutely hydrophilic. There are degrees of hydrophobicness, and hydrophobicity, and hydrophilicity. But it becomes more hydrophilic. 
+
+Let me modify this further for you. I'm going to put on another group here. I'm going to put on a carboxyl group-- also hydrophilic. All good. 
+
+All right, we're practicing our hydrophobics, our hydrophilics. Now let me carry out a chemical reaction here. I'm going to take-- boy, I'm getting bored drawing this. So how about if I just do this, and you'll know what I mean. OK? 
+
+Let's take that, and we're just going to represent our-- take another one of these guys. And another one of these guys. Three of these guys. Three of these, we call these fatty acids here. These are fatty acids. 
+
+And we do chemical reaction with the following molecule. The chemical reaction I'm going to do is I have those two hydroxyls pointing at each other. And I'm going to do a reaction you're going to see again and again and again and again and again. 
+
+Which is what's called dehydration synthesis-- two H's and an O are kicked out to make a water molecule. Water comes off. Water comes off. Water comes off. And I now just instead have a bond here. 
+
+All right, so I have my three long hydrocarbon tails. I've got rid of my hydroxyls completely. I just have that bond there. Oxygen connected here. Oxygen connected, oxygen connected here. 
+
+This molecule turns is called-- let's see, it's got three of these fatty acids. It's sometimes called a triacyl glyceride, or just amongst friends, a triglyceride. This molecule here's called glycerol. 
+
+But this thing here when we combine them is called a triacyl glyceride, or just plain triglyceride. I bet-- I don't know whether you've had it done, but your triglyceride levels are measured by your doctor. That's actually part of your cholesterol and fat, and other-- and you know, when they do an analyses, they'll measure your LDL cholesterol, and your HDL cholesterol, and your triglyceride levels-- things like that. 
+
+That's what triglyceride is. It's a hydrophobic molecule. It's mostly very hydrophobic. 
+
+If I mix that with water, what would happen? 
+
+STUDENT: It'd separate. 
+
+PROFESSOR: Separate. OK. So now, one more thing. One more thing. We'll get rid of this. 
+
+If I take my triglyceride-- C, O, O, O CH2 here, CH3 here. CH2 here. Sorry. 
+
+C-- wiggle, wiggle, wiggle, wiggle. And I take off one of those three tails. I just have two of these tales. And instead, I put on here CH2. I put on-- whoops-- a phosphate group, which is negatively charged. 
+
+What do you think a phosphate group is, in terms of hydrophilic or hydrophobic? It's got these charges-- philic, right? It's got charges. 
+
+If it's got charges there, it interacts happily with water. The other part of the molecule is hydrophobic. This part of the molecule is hydrophilic. Is this molecule hydrophobic or hydrophilic? 
+
+Both. It is confused. This is a confused molecule. Confused technically is called amphipathic. That's a word for confused, right? This molecule here has these two-- I'm now going to even simplify my picture further. I'm just going to say, wiggle, wiggle, wiggle, wiggle, wiggle, wiggle. 
+
+And I'm going to say this head here that's kind of negative, very polar. And this is non-polar. And if I have that molecule, it's terribly confused. And if I throw it into water, the head is saying, let's go hang out with the water. 
+
+And the tail is saying, the water's pushing away the rest of the tail. Because the tail is interfering with all those nice hydrogen bonds water wants to make. So if I mix this up, what's going to happen? 
+
+STUDENT: It's going to fly into itself. 
+
+PROFESSOR: It's going to adopt the configuration that best resolves the problem. And the way the low energy configuration that it's going to adopt could be like this. Point your charged hydrophilic heads out into the water solution. And stick those obnoxious hydrophobic tails in here. 
+
+And can those hydrophobic tails interact with each other? Yeah, by Van der Waals interactions. Not very impressive, but they'll have a good little Van der Waals party in the middle. 
+
+And they've got these charges outside. And that's a structure that resolves the problem. That's one way to do it. There's another structure that resolves the problem. 
+
+If I had sort of a glass, they could decide to do this. Hydrophilic head groups out there. And then another layer here. And what I would have is what's called a lipid bilayer. This structure goes by the slightly funky name micelle, spelled like that. 
+
+This is a lipid bilayer. Because very cleverly, it's arranged itself to point the hydrophilic group's out and the hydrophobic groups in. There's one other way to get this lipid bilayer to work, other than having it going to the edges of my glass here, which is the following. 
+
+Water on the inside. Water on the outside. Lipid bilayer all around the [INAUDIBLE] sphere. I don't need anything fancy. If I shake it up spontaneously just by resolving this bonding property, I get a membrane. 
+
+That's where membranes come from. I don't need magic. I just need those laws of bonding to get it to work. 
+
+So I get this very pretty structure here-- somewhat better drawn there-- of the lipid bilayer. And this is the basis of cells. Take a few minutes to think about what you've just heard by answering this question. 

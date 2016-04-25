@@ -1,0 +1,103 @@
+ERIC S. LANDER: And the next problem is fidelity, fidelity. It turns out that when I'm replicating DNA, and I'm dropping in base after base after base after base, A here matches a T. C here will match a G. It can't be perfect. It can't be perfect. Chemistry doesn't allow it to be perfect. 
+
+What we mean by one base fits and the other base doesn't fit is one base is energetically favored over another base. Not that it's impossible, it's just energetically less favorable. So that means the wrong base will not go in as often as the right base. 
+
+But there's some delta G that tells you that there's some equilibrium where you put in the wrong base. And it so happens the right base goes in much more often. 
+
+The wrong base goes in only one time in 1,000. That's it. So the wrong base, the wrong nucleotide, goes in only one time in 10 to the third. So your accuracy is 99.9% accurate. Pretty good? It's terrible. It's terrible. 
+
+You've got your genetic material passed down from generation to generation lovingly over billions of years to get to you, and you're going to replicate it, and you're going to screw it up in every one letter in 1,000? I don't think so. That's not very good. 
+
+It'll turn out genes in length are often just a couple thousand bases, you know, so if there are a couple thousand bases, you're making several mistakes per gene, by the way, every time the cell replicates. 
+
+Not acceptable. But the chemistry can't do better than that, because that is the energy favorability ratio. So I'm just going to tell you in polymerizing and sticking the bases in, you can't do better than that, unless you think of a new trick. 
+
+STUDENT: Quality control. 
+
+STUDENT: And check it. 
+
+ERIC S. LANDER: Quality control department. You need a quality control department. The quality control department is checking. When you write your work, you write it. And then what do you do, I hope? 
+
+STUDENT: Spell check. 
+
+ERIC S. LANDER: Spell check, proofread, something. You proofread. DNA polymerase proofreads, too. It turns out, there's proofreading activity. When the enzyme comes along, and it puts in say, an A opposite a T-- here, I'll draw the enzyme-- it might take out the A. 
+
+After putting in the A, it takes out the A. It might actually run backwards and take out bases. 
+
+This is kind of wasteful. We're polymerizing in the five prime to three prime direction. But we're also removing bases, so we polymerize five prime to three prime. But we remove bases. 
+
+We have what's called an exonuclease-- that's something that takes things out-- we have an exonuclease activity that runs in the three prime to five prime direction, and it removes bases. So it's both running forward and running back. It's putting bases in and taking bases out, putting bases in and taking bases out. 
+
+But the trick is it's more likely to take a base out if the base was wrong. It'll take bases out if they're right, too. But it's just a game of probabilities. It takes them out more often if they're wrong than if they're right. 
+
+And by coupling a polymerization step, that's only making one step-- well, one mistake in 1,000-- with a proofreading step that's biased to taking out wrong things over right things, running those two activities together, you can improve your accuracy to about 1 in 10 to the fifth to 1 in 10 to the sixth. 
+
+Pretty impressive, right? Now we're down to maybe a couple mistakes per million, just a couple of mistakes per million. Do you know how big the human genome is? Billions of bases. 
+
+So that still is not quite good enough, because you'd still be making thousands of mistakes per cell generation. But it's a pretty good start. Well, it turns out that there's one more thing that goes on. There's something called mismatch detection and repair. 
+
+What mismatch detection does is after you've synthesized your DNA, if I have accidentally matched an A with a G-- am I allowed to match an A with a G-- 
+
+STUDENTS: --no-- 
+
+ERIC S. LANDER: No, I'm not supposed to do that. It's supposed to be an A with a T. But if I have a mistake, it's not going to feel right. 
+
+The shape of the DNA isn't going to be right, and other proteins will come along and feel, and say something's funny here. And what do they do? 
+
+STUDENT: Fix it. 
+
+STUDENT: They fix it. 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: Fix it. 
+
+ERIC S. LANDER: Fix it. Well, of course, what do they do? They take out the A and put in a whatever. You know, it's a little hard to know. What they do is they cut out some of it, and they have the polymerization machinery have another go and try to do better this time. And so they detect, they cut, and they say, try again. Yes? 
+
+STUDENT: How does it know which strand is the old one and that it should-- 
+
+ERIC S. LANDER: --oh, my goodness. How does it know? Because when there's a mismatch-- when I was doing it with extending the strand-- then I knew it was the new strand I was going to go back and proofread, right, as I was moving along. 
+
+But now I've got two strands there. How do I know? How does E. coli know which strand is the old one and should be cut? Now, you could say, well, you know, it's a coin flip. You'll get it right half the time, wrong half to time. But you don't really want to do that. 
+
+STUDENT: Accelerate it. 
+
+ERIC S. LANDER: How are we going to-- 
+
+STUDENT: --check back with the other strand? 
+
+ERIC S. LANDER: Check back. But how do the strands know who is old and who is new? 
+
+STUDENT: Primase? 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: The new one's a lower primase? 
+
+ERIC S. LANDER: No. Turns out in E coli there's a very cute mechanism, which you don't necessarily have to know about, but I'll tell you about now that you're asking. The cute mechanism is there's a certain kind of mark, a methylation mark, added to the DNA strands. 
+
+But it comes a little slowly. After long enough, the double helix has this methylation mark on both strands. 
+
+But immediately upon replication, the methyl marks haven't been added yet to the new strand. The old strands have them. The new strands don't. E. coli still, actually, leaves these little methylation bread crumbs on the old strand. 
+
+Eventually, the new strand gets methylated, too. But it actually leaves bread crumbs that tells it which was the correct one to use as a template, preferentially. It doesn't always get it quite right. For example, that's what E. coli does to know those things. 
+
+So now, when I do this, when I combine reasonably good starting accuracy, proofreading, and mismatch detection, I can get down to levels between 1 in 10 to the eighth and 1 in 10 to the ninth. That is close to error rates of 1 in a billion. Your genomes are 3 billion. 
+
+Now in point of fact, it's actually a little bit higher than that. It's sort of more like the 1 in 10 to the eighth. When you were born, you actually had 30, 40 odd mutations relative to your parents. But that's it out of 3 billion bases. That's about what the rate of new mutations occurring in you is. That's the level of accuracy that is imposed. 
+
+And you may think, who cares? I mean, this is just these molecular biologists fussing over all of these different repair mechanisms. We think it's so cool. But you know what happens? 
+
+Some people carry mutations that inactivate one copy of one of the genes that encodes the mismatch repair system. That's OK, because they have the other copy. But if one of their cells, by any chance, loses the other copy, then that cell can no longer carry out mismatch repair. 
+
+Some of the cells in their body can't carry out mismatch repair anymore. They have a very high incidence of colon cancer. 
+
+We know that this matters because, in fact, mutations in the mismatch repair machinery, in the genes that encode the proteins that carry out mismatch repair, are the causes of things like hereditary polyposis coli, a hereditary form of colon cancer, for example. 
+
+These machineries are actually very important. And without them, high rates of cancer. 
+
+So all right. We've now got DNA replication. Meselson and Stahl have shown us the Crick-Watson model works. Arthur Kornberg has gotten us a polymerase that polymerizes. 
+
+Over the course of some years, the details get filled in. It's actually a little trickier to do this, continuous replication on one strand, discontinuous replication with these primers being put in and having to be ligated-- you know, the extensions being ligated-- these little fragments and all that, the topological problem of the DNA all wrapped up, having to be solved by topoisomerase, the accuracy, the fidelity, having to be solved by all sorts of mechanisms, including proofreading and mismatch. There's only one more thing left to say. 
+
+DNA replication's a pretty amazing process, isn't it? Test your understanding of it with this question about the accuracy of DNA replication. 

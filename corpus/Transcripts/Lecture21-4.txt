@@ -1,0 +1,115 @@
+PROFESSOR: I'm going to close by talking about two cool new methods for engineering genomes, editing genomes. And they're pretty cool. So hang on for section three. 
+
+By modern genome editing I mean that, one of the things I'm going to tell you about has really only been being used for the last three years maybe. The other one has only been used for the last year. All right, that's what modern means in molecular biology. And I'll just be brief about them. 
+
+It turns out, as happens with everything we're doing, there's something weird somewhere in life. We figure it out. And it becomes a tool for us. 
+
+So there's something weird. There's a particular plant pathogen called Xanthomonas. So Xanthomonas is a plant pathogen. It's a bacterial plant pathogen. And what it does is it injects into plant cells a protein. 
+
+It's a protein that binds to DNA and activates genes in the plant. It takes over the control program of the plants, by injecting a protein that knows how to bind to DNA and activate certain genes, like I was talking about. I've talked about before, how the lac repressor bound in certain places or the estrogen receptor bound in certain places. 
+
+Suppose this plant was smart enough to make a protein that bound to a particular set of genes it wanted to turn on. And it could turn them on. Well, it did that. 
+
+It has certain proteins and this class of proteins goes by the name TALENs. These TALEN proteins can target the things. They're transcriptional activators of genes. And they can target things. 
+
+And I showed you, very early in the course, a cool protein that could wrap around the DNA double helix. Very early on when we talked about protein structure, I showed you this guy. It's wrapping around and around the double helix. 
+
+These are TALENs. They can bind to DNA. Every one of these subunits specifies one base of DNA in the sequence it's going to bind to. And it turns out to be a beautifully general code. 
+
+There is a 34 amino acid unit, of which there can be many copies. This 34 amino acid repeat unit comes in four flavors. Flavor red binds T. Flavor green binds A. This one binds C. That one binds G. 
+
+They're identical, except for these middle two amino acids. If you change the middle two amino acids, you can either bind T, C, A, or G. So suppose I wanted to make a protein that bound the sequence-- A A G T G C A C G T A? I just look up the sequence. 
+
+I say, it's this subunit, that subunit, that subunit. I can just write the protein. I can order up a protein to bind any given sequence of the genome I'm looking for. 
+
+We did not think this up. Xanthomonas thought this up. Xanthomonas uses this in different ways to bind different genes. 
+
+But once we know, we can make our own proteins. If I want to make a protein that binds any particular spot in the genome, I just string together these TALEN subunits, these 34 amino acid repeats, by choosing the right ones. And I can target any gene in the genome. 
+
+So suppose there was a particular gene that I wanted to activate. I could build a TALEN that bound exactly to that sequence, oh, and maybe also had attached to it an activator domain that helped to track the RNA polymerase. 
+
+Or maybe I want to repress any gene in the genome. I could pick that gene in the genome. I could fashion me a TALEN that bound there. And I could attach a repressor domain that would help repress transcription. 
+
+Suppose I wanted to cut any gene in the genome, just snip it right in a particular location? Turns out, I can take that location of the genome, make a TALEN that binds here and attach to it half of a restriction enzyme dimer. And I can make a TALEN that binds here and attach to it the other half of a restriction enzyme dimer. 
+
+Only at the place where those two proteins sit down next to each other does the dimer form. And then it cuts the DNA there. So I can edit the genome. 
+
+When it gets cut, what happens is, it's cut, enzymes come along madly, chew it back a little bit, slam it back together. But it's almost always a broken gene. So I can take these TALENs, and I can attach things that are transcriptional activators or repressors at that one location. I can attach this particular nuclease and cut at those locations. I can direct whatever I want  to, wherever I want it in the genome. 
+
+And in the past year or two, people have come up with very efficient ways to build TALENs on demand and build 100 different TALENs in a few days, to target different sequences in the genome. And it's pretty cool. Yes? 
+
+STUDENT: So these are subunits of protein, not  any of nucleic acid? 
+
+PROFESSOR: Sorry? Those TALENs? 
+
+STUDENT: The colored units. 
+
+PROFESSOR: Those are proteins. Those are proteins. They're 34 amino acids. This whole set of 34 amino acids is forming a whole domain whose entire purpose is to recognize one letter of DNA. Let's go back to that picture. It's mind-blowingly cool, right? 
+
+Let's go back to that picture. This guy is wrapping around. Here is one of those 34 amino acid things. And it's making contact with one nucleotide. 
+
+Here's the next 34 amino acid thing. It's making contact with one nucleotide. Here's the next 34 amino acid thing, making contact with one base of the DNA. And it's just wrapping around and reading the DNA, as it's going. 
+
+STUDENT: How do you get that big of a protein inside a-- 
+
+PROFESSOR: How do you get that big of a protein inside a cell? You put the gene for it inside of the cell. You transfer the gene, let's say, by transfecting it in, or with a virus. And you make it inside of the cell. 
+
+That's how. You just make everything inside the cell. You don't get it in there any other way. All right. And they're really pretty too, in addition to being way cool. All right. One last trick-- this is the one, by the way, that there was a popular demand for, a little bit earlier, CRSPR-- last cool system I'm going to tell you about, CRSPR-- 
+
+Yet another shaggy dog story, about something that goes on in the cell-- it turns out that bacteria, lots of bacteria, maybe 40% of bacteria have a very funny region in their genome, just a weird region in their genome. They have a cluster of palindromic repeats, regularly-spaced, repeated sequences in the DNA that are regularly spaced-- Clustered Regular Short Palindromic Repeats. And then there's just stuff in between. 
+
+And everybody said, kind of weird that bacteria have these repetitive things interrupted by equal-sized spacers. And of course, people were mostly thinking about these repetitive things and not thinking about the spacers. This went on for quite a long time, because these things were present in many bacteria. But the spacers were considered just spacers. 
+
+The secret was the spacers. Turns out, those spacers match bacterial viruses. This might match virus number 22. And that guy might match a piece of virus number 37. I'm just making up their names here. 
+
+But what was eventually realized is, these spacers matched viruses that might infect the bacteria. What they were were a little library of information of segments of viruses that might infect you, if you were that bacteria. It was an immune memory. 
+
+It was a memory system of viruses that had previously infected the ancestor of that cell. And it kept that memory stored in its DNA, in a very explicit fashion. And what it would do is, it would make RNA. 
+
+It would make an RNA from this CRSPR locus. The RNA would then get processed up into separate pieces. And each of those pieces, processed up like that, could then be used by a certain protein present in the bacteria, to search and destroy any matching DNA. It would cut any matching DNA. 
+
+So just as your body has immune cells that are able to recognize invaders you've seen before, viruses you've seen before, the bacteria has stored in its genome a record of viruses that were seen before. And it's constantly making these RNAs, chopping them up. And those RNAs allow you to cut a matching piece of DNA. 
+
+And all you have to do is specify about 20 odd bases. These are about 20 odd bases long. And it will direct and cut the matching piece of DNA-- insidiously clever. Now of course, when a bacteria gets infected with a virus, often the bacteria will die. But sometimes the bacteria lives. 
+
+And it's those bacteria that capture pieces of the virus and stick it into their CRSPR locus, their CRSPR repository, their little CRSPR file, of things that our species has seen before, and uses them to cut DNA. But of course, now that we know how it works, we can make our own CRSPR. 
+
+Suppose you want to cut a particular human gene, a particular mouse gene, just make a CRSPR, make a CRSPR RNA that has that little sequence and has those little flanking things and add the one protein that goes by the funny name Cas9. Add the Cas9 protein, together with a little set of CRSPR instructions, and you can then cut at that gene. 
+
+The ability to do this in mammalian cells is less than 12 months old. It's only just been developed. And everybody I know is off using CRSPRs to go edit the genome in all different ways and make cuts and make changes, because it's incredibly quick. They're still working out all the details, how perfectly it has to match. 
+
+A new paper just came out the other week about that. One I just saw was being submitted on the details of how to perfectly design CRSPRs and things like that. But it's pretty powerful tool. 
+
+Any questions? There should be. And I mean, I may not even know the answers, because this is all still being discovered, as we teach Introductory Biology. Yes? 
+
+STUDENT: Why doesn't the CRSPR cut its own locus? 
+
+PROFESSOR: Why doesn't the CRSPR cut its own locus? That's a great question. I don't know. 
+
+I'm not embarrassed to say, for new stuff that I've never taught before, I don't know, actually. It's a great question. What doesn't the CRSPR cut its own locus? It's supposed to cut DNA. I owe you an answer to that. 
+
+Think maybe the little triangles do it? Could be. Those triangles are, of course, just DNA sequences. They're not necessarily triangles. There aren't really triangles there. I just draw triangles. 
+
+I'm not positive. There's got to be something, I'm sure, that'll protect the CRSPR locus. But if you remind me, I'm going to go find my colleague, Feng Gong, who works on CRSPRs. And we're going to find out. 
+
+That's a great question. Why doesn't CRSPR cut its own locus? What else do I not know, any other questions? Yes? 
+
+STUDENT: Where is the Cas9? 
+
+PROFESSOR: Where is Cas9? It's encoded by another gene. So if I want to make this work in mammalian cells, I have to make a mammalian cell has a Cas9 gene in it. So I just add back the Cas9 gene. But you guys are inured to that by now. You say, big deal. I'm just going make a transgenic Cas9 protein in the  cell. Yes? 
+
+STUDENT: Is the CRSPR cell DNA or RNA? 
+
+PROFESSOR: The CRSPR DNA locus is DNA. But it makes an RNA. And it's the RNA which is the active element that is used by the Cas9 protein to cut the DNA. It functions as a little RNA piece. But it's kept permanently in the DNA file of the DNA chromosome of the bacteria. Yes? 
+
+STUDENT: As she asked, I think you kind of said it. But the RNA is held by the protein and then binds to the DNA? 
+
+PROFESSOR: The  RNA is held by the protein and binds. It's used as a guide to know what to cut-- pretty cool. All right. And I'm glad to be telling you about something that's just discovered, because it gives you the right sense that this is a totally fast-moving field. You're pretty much now up at the cutting edge of how we do things like genome editing. 
+
+So what have we done? We have now closed the triangle. Given genes, we can mess around with the gene and its DNA. We can mess around with a gene and its RNA. 
+
+Given a protein, we could find the gene and mess around with that gene. So I'm going to say we get credit for being able to go back from a protein, by going to its gene and going back. We can now edit the genome. 
+
+There are a lot of tools for editing the genome and make the genome of your choice there, with edits; knocking out at the DNA level; knocking down at the RNA level; doing all sorts of different kinds of editing; even beginning to rewire cells; changing the wiring diagrams by adding TALENs that bind to particular places and bring particular activator domains. You have only begun to see what's going to happen with this, as people can write their own circuitry in DNA. That completes our triangle. And that's all for today. 
+
+OK, one last question. Try answering this question about the cool new tools for genome editing. 

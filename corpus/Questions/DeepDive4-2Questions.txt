@@ -1,0 +1,145 @@
+What number these carbons by convention, ?	2.3577333194051926
+What are held together by three hydrogen bonds?	2.3061390713238037
+How many highly charged, high energy phosphate groups does ATP carry?	2.2305356965536345
+How many aromatic rings do both have?	2.192083411231518
+What carries three highly charged, high energy phosphate groups?	2.1768431192207847
+How many phosphates leave?	2.1595497339074092
+What are held together by two hydrogen bonds?	2.0355195024050743
+What does ATP carry?	1.991378978980707
+What would be deoxy ATP?	1.9757062432190688
+What have two aromatic rings?	1.966829859833864
+What have one aromatic ring?	1.9294425101480386
+What is a building block of DNA?	1.918998165065497
+What is your deoxyribose?	1.891368373539608
+What do thymine and cytosine have?	1.8780323847567912
+What do the smaller bases have?	1.853478160779341
+What is a nucleotide?	1.8361018779630123
+What is transcription, and translation?	1.817687403936434
+Who is SHIRLEEN: My name Shirleen 'm a grad student at MIT?	1.7825421620760888
+What is dNA replication?	1.7760145461324424
+What do both have?	1.7143467016497347
+What is pyrimidines?	1.7121901748885573
+What is purines?	1.7072364876110706
+What is actually a deoxyribose?	1.7043538563369323
+What is the larger name?	1.6966191074365844
+What is the smaller name?	1.6856009377341876
+What was the nucleotide?	1.6839916201092335
+What these carbons by convention, 1 prime, 2 prime, 3 prime, 4 prime and 5 prime?	1.678635536358682
+What's a five carbon sugar?	1.6701455027772134
+What is Shirleen I 'm a grad student at MIT?	1.6539430375458406
+What would molecule be?	1.6132219580973914
+Who is SHIRLEEN: My name Shirleen I 'm at MIT?	1.5781869068530079
+What number these carbons by, 1 prime, 2 prime, 3 prime, 4 prime and 5 prime?	1.5638190908425957
+Who learned about how to join together nucleotides to form a strand of DNA?	1.560050336329784
+Who 'mes going to be doing a series of videos on DNA replication?	1.5163082159602537
+What is going to be formed in a 5 prime to 3 prime direction?	1.4912080597691206
+Are G and C held together by three hydrogen bonds?	1.470162996699952
+What is SHIRLEEN: My name Shirleen I 'm a grad student at?	1.4687277389604856
+Who 're going to talk a lot about the 5 prime carbon and the 3 prime carbon?	1.4501066102886893
+Is dNA going to be formed in a 5 prime to 3 prime direction?	1.41803208421904
+If you said ATP, who 'res right?	1.4077731999113778
+What do we 're going to talk a lot about?	1.3980105702340424
+What are G and C held together by?	1.3932890648029463
+Who needs a five prime phosphate group, and base attached to your 1 prime carbon?	1.3771178517865912
+Does ATP carry three highly charged, high energy phosphate groups?	1.3600963168606701
+Who 're going to form a bond between the 3 prime hydroxyl group and the 5 prime phosphate, like this?	1.334777644939209
+If this base were an A what what would this be?	1.3230493623072972
+What leave?	1.3131829956483352
+Who likes to remember that the larger bases have the smaller name?	1.2969324864849514
+Is a nucleotide the building block of DNA?	1.2626134095503163
+Do thymine and cytosine have one aromatic ring?	1.2368938459588787
+Is your deoxyribose a building block of DNA?	1.235408092063898
+What do we need to make a nucleotide?	1.2257579426019456
+Do the smaller bases have the larger name?	1.2227875536805337
+What is a nucleotide the building block of?	1.222683613002277
+What here is nucleotide number two?	1.2194324884495205
+What is the building block of DNA?	1.2093773056414436
+Who would want a strong covalent bond to hold these nucleotides together?	1.2055302381492248
+Who learned about the nucleotide so in this video?	1.201078355567342
+What is your deoxyribose a building block of?	1.1954782955158585
+What do I like to remember that the larger bases have?	1.1869940212544345
+What is so here?	1.1715010499532477
+Was the nucleotide the building block of DNA?	1.1100282866280806
+What is called a phosphodiester bond?	1.0833217720049433
+Are a and T held together by two hydrogen bonds?	1.0795698631860562
+What was the nucleotide the building block of?	1.0695596135704468
+What was the building block of DNA?	1.0619004923705369
+Do both have two aromatic rings?	1.0509648713002626
+Would molecule be deoxy ATP?	1.0381070051346777
+What do we 're going to talk?	1.0204026853670563
+What do we 're going to form?	1.0203857374357557
+What did you learn about the nucleotide so in?	1.0199452152818127
+Who do any of those?	1.0094330075727305
+What do we do any of?	0.9997397424415733
+Is the larger name pyrimidines?	0.9904218006267824
+Who do what do need to make a nucleotide?	0.9882846367512295
+Is the smaller name purines?	0.9845929272766554
+What can be A, T, C, or G.?	0.9667196417208748
+Who 're going to have to join together many nucleotides?	0.9541654544011142
+Who can imagine repeating this?	0.946757228032971
+Is dNA replication transcription, and translation?	0.9460090050315639
+What can you imagine repeating?	0.9408819138390341
+What have the larger name?	0.9335609012482797
+Who 're A for adenine?	0.9329379069259893
+What does each nucleotide actually bring to form this phosphodiester bond that holds together nucleotides?	0.9144722224218631
+What can your bases be?	0.9060985487898738
+What 're A for adenine?	0.9050973590619908
+What are a and T held together by?	0.8698738248992584
+What do they 're A for?	0.8410916909121986
+Who might remember that A always pairs with T. And G always pairs with C. So take a moment and think about what bonds are holding together these complimentary base pairs?	0.8358235704432517
+What might you remember?	0.779062250278852
+Who call these purines?	0.7735206241166228
+Who call these pyrimidines?	0.7640564711186077
+What do we do?	0.7574165688225323
+What is SHIRLEEN: My name Shirleen at?	0.731976841453311
+Who needs a ribose?	0.7213180009128934
+Now if you said who is absolutely right?	0.6958506482738316
+What is this ribose actually?	0.5973641423548606
+What do we call?	0.582229154132162
+What do you need?	0.5761180232802015
+What would it be?	0.5754665469669848
+Did you learn about how to join together nucleotides to form a strand of DNA?	0.5551837689840711
+Is SHIRLEEN: My name Shirleen I 'm a grad student at MIT?	0.5416982339219962
+Who will see you next time in our video on DNA replication?	0.5065401903359041
+Do I 'm going to be doing a series of videos on DNA replication?	0.4828181260200606
+What does each nucleotide actually bring its own energy to form?	0.4768470143528183
+Do we 're going to talk a lot about the 5 prime carbon and the 3 prime carbon?	0.46854456982270687
+Is so here nucleotide number two?	0.4493878027965481
+What does that's?	0.41715341930118677
+Do we 're going to form a bond between the 3 prime hydroxyl group and the 5 prime phosphate, like this?	0.35702868743827976
+Do I like to remember that the larger bases have the smaller name?	0.2956101203786723
+Can your bases be A, T, C, or G.?	0.2906992711829366
+What will I see you next time in?	0.25660425645389884
+Will I see you next time in our video on DNA replication?	0.25160658079589515
+If this base were an A would what molecule this be?	0.24686383534353906
+Did you learn about the nucleotide so in this video?	0.24011383494087468
+Would I want a strong covalent bond to hold these nucleotides together?	0.23550891687101183
+What actually brings its own energy to form this phosphodiester bond that holds together nucleotides?	0.22985152298603984
+What did you learn about so in this video?	0.19259377224286345
+What would I want a strong covalent bond to hold together?	0.15906470657657357
+Is that bond called a phosphodiester bond?	0.15765923842715956
+Does each nucleotide actually bring its own energy to form this phosphodiester bond that holds together nucleotides?	0.1475314870200788
+Can you imagine repeating this?	0.13609178277720302
+Do they 're A for adenine?	0.12481846142666786
+Might you remember that A always pairs with T. And G always pairs with C. So take a moment and think about what bonds are holding together these complimentary base pairs?	0.1237279106083049
+Do we 're going to have to join together many nucleotides?	0.11898335444474117
+Do what do we need to make a nucleotide?	0.11824989118107831
+If you said ATP, do you 're right?	0.11326468948123969
+What do what do we need to make?	0.11087993965975373
+Do you need a five prime phosphate group, and base attached to your 1 prime carbon?	0.1022454466219922
+What would I want to hold these nucleotides together?	0.08918623928169467
+Who can see?	0.08153463584904252
+Do we do any of those?	0.05191480750818389
+Would it be deoxy ATP?	0.017938209921916304
+Do we call these purines?	-0.07400451140149777
+Do we call these pyrimidines?	-0.08193097608067834
+Do these two phosphates leave?	-0.12506218601328056
+Do you need a ribose?	-0.12829389804972946
+Is this ribose actually a deoxyribose?	-0.13205345687209524
+What is that bond called?	-0.1851026403015621
+Does that's a five carbon sugar?	-0.2541606134198149
+What do we 're going to have to join?	-0.3076916848152649
+Now if you said are you absolutely right?	-0.39973711709581705
+Can you see?	-0.5147786751574217
+What do I like to remember?	-0.7347088604674921
+What do what do?	-0.9625437169438218

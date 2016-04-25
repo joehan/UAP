@@ -1,0 +1,129 @@
+DR. ERIC LANDER: Welcome back. So last time, we talked about the human genome, how the human genome was sequenced and assembled. Today we're going to talk about what's actually in the human genome. 
+
+So put up our coat of arms. You all know it by heart, so this time I'm not even going to bother writing function, gene, protein, biochemistry, biochemistry, genetics, molecular biology, and recombinant DNA. But I am going to write genomics. 
+
+Genomics is stepping back and looking at the big picture there. That's really the last piece of our coat of arms. This is being able to look at all of these components, the genes and the proteins, as a collective whole. That's really what sets genomics apart from genetics or biochemistry, is it's looking at an integrated whole. And we're going to talk today about some of the things you can learn. 
+
+So last time, we talked about the motivation for the Human Genome Project, the ability to do cloning of disease genes. To be able to identify disease genes without knowing in advance, without having a way to use the piece of DNA to rescue a function, without having a way in advance to know the protein or the biochemical function. You could do it just by position, using that wonderful idea from 1913 of mapping by position. 
+
+Pretty cool. Except it was a tremendous amount of work. You could, in theory, have the whole human genome. You could, in theory, have lots of genetic polymorphisms, genetic variations, sequence differences up and down the genome. 
+
+And if your favorite gene, the gene that caused the particular disease you were studying, resided right over there, and you tested genetic markers nearby, you could detect linkage in a family. And if you tested markers on this chromosome, you'd see nothing, and this chromosome, you'd see nothing. But right over there, you'd see 
+
+it.  So by pulling the slot machine a lot of times and trying a lot of markers, you might eventually get this. Then you would have to use those genetic markers as a starting point, and march in and isolate the pieces of DNA, the next piece of DNA, the next overlapping piece of DNA, until you had connected across the entire region and could identify your disease gene, sitting smack-dab in the middle. 
+
+Now you remember that for cystic fibrosis, this took five years of work. For Huntington's disease-- after that very lucky fact that the linkage was found very early-- the actual molecular cloning took 10 years. That motivated this excitement about being able to find disease genes. 
+
+But the difficulty of actually executing the whole program motivated the Human Genome Project to collect the entire sequence, to have every bit of DNA sequenced, to know where there were sites of genetic variation, to annotate this with where the individual genes were, and have a complete human genome reference sequence. As I mentioned, a rough draft sequence was produced February 15, 2001, and a finished sequence was actually completed on the 50th anniversary of the Watson-Crick paper, and actually came out in the journal a little bit later. 
+
+Once you had one reference sequence, you could compare it to other sequences. You could compare it to other human beings and find polymorphisms. You might, in theory, compare it to other species and look at the similarities and differences. One was a tremendously good handle. 
+
+So today-- you know, last time, we basically thought about the genome as a tool for cloning genes. Now I want to talk about what happens with all that information. If you have all the information and you can read it as a whole, what do you learn? What's in the genome? 
+
+So when we sequenced the human genome, we got, for the first time, to see what the whole landscape of chromosomes look like. This is chromosome number 11 here. There's chromosome number 11. Runs across-- actually, this is just the short arm of 11. The long arm of 11 keeps going this way, but I just see we have just the short arm fitting on this slide here. 
+
+These are positions of genes. If you look at this, just the positions of genes-- I haven't said what genes they are. It doesn't matter what genes there are. But you can see some funny things. 
+
+There's a really dense collection of genes here, and then there's a really sparse collection of genes. And dense collection and sparse collection of genes. It's incredibly uneven. It's like the landscape of a country, where you have dense urban regions, and then long plains and things like that. It's not any sort of sensible way to organize a genome, you would think. 
+
+So in fact, the first observation had to do with gene density. On average, it looked like there was something in the neighborhood of, oh, seven or eight genes per million bases. We write megabases, meaning million bases, or just Mb. Seven genes or so. 
+
+But it varied tremendously. Rather than everybody sticking close to that average, it varied all the way to some regions having 40 genes in a megabase, whereas other regions had zero genes across a million bases. 
+
+Wildly different. Why run a genome like that? What's the point of having-- these were called gene deserts. And you really do get this landscape picture, here. Gene deserts. 
+
+We had only a rough idea. I've got to admit, and we'll come to a little bit later in this lecture, that our ability to actually pick out the genes was mediocre. We did the best we could. How'd we do it? 
+
+We have the sequence of the human genome. We also sequenced a lot of cDNAs-- that is, the translated RNAs. And then by computer, we were lining up cDNAs against the genomic DNA, and it wasn't always perfect, but we tried to patch together, as best we could, where the genes were. 
+
+In fact, the protein-coding sequences, the actual number of nucleotides, that encoded a protein of any gene whatsoever were a tiny fraction of the genome. Are a tiny fraction of the genome. We'll come to how much-- but I'll tell you. It's between 1% and 2% of your genome encodes protein. 
+
+1 to 2-- so we fussed over "DNA goes to RNA goes to protein." And yet "DNA goes to RNA goes to protein" concerns 1% to 2% of your entire genome. That's it. That's a little bit of a strange thing. It's a little disturbing that a tiny fraction of your genome has anything to do with the central dogma stuff. 
+
+What does the rest of it do? That's a pretty important question. Why do you carry around this other 98% of your genome? 
+
+Well, we've already hinted that maybe regulatory sequences, promoters and regulatory sequences. But it's kind of hard to imagine how that's going to make up 98%, compared to this 1% or 2% that's the protein. 
+
+So what is in this genome? It turns out the single predominant thing in your genome-- as they always proverbially say, if a Martian landed and looked at your genome, they'd say, what's the purpose of this genome? The majority of your genome is transposons. It's transposable elements. Elements that have been hopping around in your DNA for a long time. 
+
+So we should say a word about transposons. Because they constitute greater than 50% of the DNA. A transposon, to remind you-- we've briefly mentioned this before-- is a segment in the genome. Let's pick-- there's a transposon called LINE elements. There's one family of transposons that are called LINE elements. Long, interspersed elements. They're long. They're about 7,000 bases long. 
+
+What happens is LINE elements get transcribed into an RNA. That's the mRNA. The RNA gets translated into a protein. The protein-- here's the protein it encodes. The protein happens to be something that recognizes this mRNA and acts as a reverse transcriptase. It's a reverse transcriptase. 
+
+What does a reverse transcriptase do? Changes back to DNA. So what it does is it changes RNA back to DNA, and it has a preference for the sequence at the end of this LINE element. So it recognizes the LINE element that made it, or an equivalent LINE element, and it copies it back into DNA. 
+
+So this gets copied back into DNA, and it also inserts it somewhere else in the genome. Pretty clever. What does that thing do? The purpose of that thing there is to make an RNA, to encode a protein, and have the protein turn the RNA back into DNA and stick it elsewhere in the genome. Well, what is that doing for you? 
+
+STUDENT: Evolution. 
+
+DR. ERIC LANDER: Well, I mean it doesn't look like it's that much interested in you. It's sort of like a parasite. It's kind of a parasite in your DNA. They call it a selfish piece of DNA. 
+
+Its interest-- to the extent we can talk about the interest of a piece of DNA. I'm anthropomorphizing a double-helix, of course. But its interest is in simply making more copies of itself. 
+
+And it doesn't pass from organism to organism. It's an infection in your own chromosomes. Your chromosomes are infected with LINE elements. In fact, we have been infected with LINE elements-- we and our ancestors and our ancestors' ancestors-- have been infected with LINE elements for a billion years. We haven't got rid of this infection. 
+
+In fact, the number of LINE elements of one form or another in your genome is about 100,000 of these elements. Now that gives me the willies, I gotta say, just the thought that I've got all this stuff jumping around my DNA, serving its own purpose, not my purpose. But we'll come back to that, maybe, briefly. 
+
+Most times that it hops and lands somewhere, when it goes in, this is a broken, non-functional copy. So the vast majority of these 100,000 elements are non-functional. They hopped there a billion years ago, or 10 million years ago, or 300 million years ago. And they got there, they didn't work, and they just sit there and they pile up mutations over time. 
+
+This parasite called the LINE element-- I'm calling it a parasite now, but maybe we're going to upgrade it to a symbiont. I've got to mention to you, there are things called SINE elements, which in you, are about 300 bases. What do you think a SINE is? A short interspersed element. 
+
+A short interspersed element produces an RNA which encodes nothing. However, its end, the end of the SINE element, happens to be recognized by the reverse transcriptase of the LINE element. And the reverse transcriptase of the LINE element copies it back into DNA and slams it somewhere in the chromosome. 
+
+You have about a million copies of these things in your genome. This doesn't even bother to encode a reverse transcriptase. Who's it relying on? The LINE element. It's a parasite on the parasite. 
+
+[LAUGHTER] 
+
+I mean, it's really pretty clever. There's a cognate SINE element to this LINE element that just cheats. And its smaller and hops around relying on the LINE element. It's very clever down there, you've got to admit. 
+
+So it means that your genome has some occasional master copies that are working of this LINE element-- or maybe of a SINE element, or other ones I'm not telling you about. And what happens is that master copy is functional, and it produces descendant copies around the genome. Maybe there are a few working copies. 
+
+Now over time, this guy sustains some mutations. It's not working anymore. But some new element takes up, and it sends off descendant copies around the genome. Once it gets to a particular location, it's usually dead-- it's usually not a functional sequence-- and it just piles up mutations. 
+
+If I were to just look at all the LINE elements you've got and look at their mutations, could I tell which ones had hopped recently and which ones had hopped 50 million years go and 100 million years ago? How would I be able to date them? They're all kind of like meteors landing in your genome, and I now want to do dating on when they got there. 
+
+STUDENT: You could see how many mutations there are. 
+
+DR. ERIC LANDER: I could see how many mutations they piled up, like carbon dating. It's kind of like a genomic carbon dating. Now, of course, how do I tell how many mutations something's piled up? I don't know what its ancestral sequence was. 
+
+STUDENT: Can you not reference them to other similar ones? 
+
+DR. ERIC LANDER: How about reference them to each other? 
+
+STUDENT: Yeah. 
+
+DR. ERIC LANDER: Ooh. What if I start assembling all the LINE elements that I see in the genome, and I say, aha, these guys are pretty similar, and those are similar, so there's a family here, and then a family there. And begin to build up a family tree of LINE elements and see which guys are similar to each other. And in fact, by reconstructing the history of all those spelling errors, I can tell that there are particular SINE elements that have so few changes that they've all been hopping in the past couple million years. And others, I can date and say they were 20 million years ago. 
+
+In fact, rough scale-- this isn't exact, but I'll give you a very rough scale here. That looking at the changes that have occurred, over about 100 million years, we expect about 0.2 changes per base to have occurred. Any base has about a 20% chance of changing. Over 10 million years-- so in other words, let's see. That's one in five, right? One change in five bases, every five bases. 
+
+Over 10 million years, it'll be one change in 50 bases. Over one million years, we'll expect about one change to occur every 500 bases. And so, in fact, they're very similar if they're in  the last million years. There's only about one in 500 letters of change. 
+
+Going back 10 million years, we'll see a whole family of guys who are similar, but one in 50, on average, have changed. Going back 100 million years, which is about the time of the beginning of mammals, you can see about one change every five bases or so, is what's been piling up. So you can actually carbon-date them-- so to speak. It's not really carbon dating them. 
+
+[INAUDIBLE] 
+
+And we did. Fewest changes. More and more and more and more and more and more and more and more and more changes. Census of the different number of elements. 
+
+What you'll notice is that it's not uniform at all. There was a certain amount of transposon-hopping which peaked some tens of million years ago and has been plummeting down. And you're not actually so active in transposons right now. Other species are more active. Dogs are more active. Mice are more active. You don't have as much transposon-hopping going on right this moment. 
+
+But isn't it mind-blowing that we can actually tell that? We can actually do the dating on these elements across the genome? Yes? 
+
+STUDENT: What are the colors for? 
+
+DR. ERIC LANDER: Different flavors of elements. Different kinds of elements. I've referred to LINEs and SINEs, but there actually four or five types of transposable elements. 
+
+There are some that even transpose by a different mechanism than I've said. Not just by reverse transcription, but actually by cutting out pieces of DNA and moving the piece of DNA to a new location, not through an RNA intermediate. So I've just told you about a few. There's whole varieties of them. They come in all sorts of families. 
+
+Wait a second. Wait a second. If I've got a family of transposons that haven't undergone a lot of changes, all the copies are pretty similar, they had to have hopped pretty recently. If they had to have hopped in the past couple million years, and we diverged from the chimpanzee six million years ago, should we see any of those in chimpanzee? 
+
+No, they're all very recent. This thing only came into being with its precise sequence a few million years ago. So I've got a slight variation on this element. I've got a subclass of this element, where there's a particular sequence. And that particular subclass of sequence has been hopping around from an active element that existed a few million years ago, but there's no evidence that there was any hopping of that element earlier than a few million years ago. In theory, it shouldn't be in the chimpanzee. 
+
+In any case, that's a testable prediction. If we believe that this tells us when different particular family members came into existence, variant elements, variations on the sequence came into being, we ought to be able to say, these are unique to humans. These could be shared with chimpanzees. 
+
+These could be shared with orangutans. These could be shared with lemurs. These could be shared with-- we ought to actually be able to go back and see whether that same sequence family, with the particular little spelling differences that were in the ancestral element here-- each of these elements differ just slightly-- we ought to be able to have a testable prediction as to which species have which of those elements in common with us. This family is shared with dogs. This family is shared before there were mammals. That's a pretty cool testable prediction. 
+
+In fact, we've done those tests. They hold up. These are remarkably good statements about when they really did occur, both based on sequence reconstruction and by whether or not the other species have them or not. Bingo. 
+
+So actually, look at that. We're beginning to reconstruct history out of the landscape of the genome. So let's take that a little bit further. 
+
+OK, before you go on, test yourself with some questions about the landscape of the human genome. 

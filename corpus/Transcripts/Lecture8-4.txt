@@ -1,0 +1,63 @@
+ERIC S. LANDER: Autosomal recessive inheritance? Here's a pedigree-- mom, dad, got some kids. Autosomal recessive-- what's going on here? 
+
+STUDENT: Both parents are heterozygotes. 
+
+ERIC S. LANDER: Parents are heterozygotes. What fraction of the kids are affected? 
+
+STUDENT: One quarter. 
+
+ERIC S. LANDER: One quarter of the kids are affected. This is, of course, just Mendel's peas, but with fewer peas, and the kids are not round and wrinkled. They might have, instead, something like cystic fibrosis. 
+
+Cystic fibrosis is a disease associated- it gets its name from cysts in the pancreas. But its most severe phenotype is all sorts of mucus in the lung that causes breathing problems. And about one in 2,000 live births in the United States are children who were affected with cystic fibrosis. So in this case, is it present in every generation? No. 
+
+Not present in every generation. Are the parents usually affected? If I have an affected individual, are their parents usually affected? No. Parents of an affected, usually not affected. 
+
+What happens if an affected were to marry a carrier? 
+
+STUDENT: Half the kids. 
+
+ERIC S. LANDER: Half the kids. It's just like Mendel's crosses. This is pretty straightforward. It's just like Mendel's crosses here. And let's do our population genetics. 
+
+I want you to tell me if cystic fibrosis is-- got a frequency of one in 2,000 in the population, what's the frequency of the mutant allele running around in the human population? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: What is the frequency of the mutant-- let's go back up here. We'll go plus mutant, plus mutant, plus plus, plus mutant, plus mutant, mutant mutant. The frequency of this guy is q. The frequency of this guy is 1 minus q, which is called p, 1 minus q. 
+
+And who's affected in our picture if this is autosomal recessive? Just this one, right? That's the affected class. And if we look at our frequencies, they are p squared pq, pq, and q squared. And so what's the frequency of affecteds in the population? 
+
+q squared. The frequency of affected individuals, the frequency of the disease in the case of an autosomal recessive is q squared. And I told you that the frequency for cystic fibrosis was what? 
+
+STUDENT: One in 2,000. 
+
+ERIC S. LANDER: One in 2,000. So using advanced mathematics, what is q? 
+
+STUDENT: Square root of 2,000. 
+
+ERIC S. LANDER: Square root of 2,000, one over the square root of 2,000. We'll call it, for practical purposes, 1 over 44. That's good enough. So q is 1 over the square root of 2,000, which I'll call 1 over 44. 
+
+That's the frequency, the chance that a randomly chosen human chromosome-- what chromosome is cystic fibrosis on? No reason you would know, but it's chromosome seven. The chance that cystic fibrosis of random chromosome seven would carry a cystic fibrosis mutant allele is 1 over 44. 
+
+What's the chance that a random person in the United States is a carrier? If a random chromosome has a 1 in 44 chance and you have two chromosomes, two copies of chromosome number seven, what's the chance you're a carrier? 
+
+STUDENT: It's double. 
+
+ERIC S. LANDER: It's about double-- 1 in 22. So you're going to predict to me that the carrier frequency, the proportion of the population of the United States that are carriers, is 1 in 22. It's almost 5%-- wow. 
+
+5% of individuals are carriers for cystic fibrosis. That's a very high number. One in 2,000 live births sounded like a small number, didn't it? But one in 2,000 small births, when you plug it into population genetics, tells you that's a 1 in 44 chance on a given chromosome, a 1 in 22 chance for an individual who has two chromosomes. That's 5%. 
+
+That's a big number. 5% of all individuals are carriers for cystic fibrosis-- interesting. Could even be worth couples testing to know if they're carriers for cystic fibrosis, for example. Suppose you were a carrier for cystic fibrosis. 
+
+I don't know if you're a carrier for cystic fibrosis. I'm not supposed to know those things. What's the chance that you're going to meet someone and they'll also be a carrier for cystic fibrosis? 
+
+STUDENT: 1 in 22. 
+
+ERIC S. LANDER: 1 in 22, a 5% chance. So that means somebody who knew that she was a carrier for cystic fibrosis knows that there's a 5% chance that the person they might marry will be a carrier for cystic fibrosis. Anyway, these are actually meaningful numbers in the population, things people might want to know. 
+
+So we've got that. We've got x-linked. We've got dominant. We've got recessive. Pretty easy, isn't it? 
+
+This is all incredibly simple math. It's logic puzzles. That's genetics for you. Don't bet on it. It ain't nothing like that. 
+
+This is what's called textbook genetics, toy genetics, genetics as practiced in intro bio textbooks. We'll probably want you to practice this on exams, because it's a good exercise for your brain to be able to trace through the inheritance of alleles. And you can't do real human genetics until you can do textbook human genetics. 
+
+Stop for a moment, and test your understanding about autosomal recessive inheritance. 

@@ -1,0 +1,51 @@
+ERIC S. LANDER: Welcome back. Last time we completed our triangle. We made it fully operational. Over here, we have our triangle. 
+
+And I've reduced it to its iconic form, because it is complete. We now know how to go from functions to genes, from functions to proteins, by genetics, by biochemistry, finding mutants and cloning them by various different techniques, cloning by complementation, for example, cloning by position. We know how to do purification of proteins given a particular biological assay. 
+
+We know the connection between gene and protein, through DNA goes to RNA goes to protein. And with the tools of recombinant DNA, we can clone a gene, sequence it, and read out the protein. If we knew the protein because we purified it biochemically, we would be able to use it, say, an antibody against it. Or if we can determine its amino acid sequence, we could kind of figure out what its DNA sequence must be, up to the degeneracy of the genetic code. We could make some DNA sequences that would probably encode it and use them as probes in the library. 
+
+We can go back and forth here. But the critical thing that we couldn't do until the last lecture that we did was go back from a gene to a function by knocking out that gene. But now we can do that too. 
+
+We talked about how to knock out genes in a mouse. We talked about all these cool tools for interfering with genes at the level of DNA and RNA. We talked about cool tools that have just come along in the past couple of years, some in the past year or so, for editing the mammalian genome. The idea of editing the mammalian genome, like with these cool CRSPR tools, that was only published a few months 
+
+Ago, which is what I love about introductory biology, is you guys can learn and understand things that didn't even exist, weren't even possible, the last time we taught introductory biology at MIT. And it's kind of cool that you can be right up at that cutting edge. 
+
+So we're sort of done with the triangle. What we now need to do is apply it. And so today what I want to do is talk about rational medicine, how we can use all the things we've learned about the biochemistry and the genetics and the molecular biology to think about disease. And I hope you will be surprised at how all these tools you've learned about come together and make it possible to think about some really important and really complex problems. 
+
+So let's have a crack at it. And I'd like you, within this span of about an hour, to please solve heart disease. All right? That's your assignment is to devise therapies for heart disease. 
+
+So Section 1. We'll put it right here. Heart disease. 
+
+We'll give you the very brief summary of physiology. You all have a heart. Your heart pumps blood. We haven't actually covered much physiology in the course right now. But I'm assuming you kind of are familiar with that. 
+
+Amongst other things, the blood going around does things like provides nutrients for cells. It provides oxygen to cells, getting the oxygen-rich blood from the lungs. It pumps hormones and other signalling molecules around your body. 
+
+It pumps away waste products. And it pumps around whole cells, including red blood cells-- those are the oxygen carriers there-- and white blood cells of your immune system. So it's pretty useful to have a heart pumping your blood around. 
+
+Here is a high resolution diagram of the human body. There's the brain over there. That's a brain. We'll draw some heart here. Here I'll put a heart. That'll represent our heart. 
+
+And blood goes to the brain. Blood goes to the body. Blood importantly comes back and supplies the muscles of the heart itself. And oxygen-rich blood coming from the lungs is what gets pumped around. 
+
+That's basically the circulatory system. I've left out a few details. But that's the important bit. 
+
+And the important bit is underscored by the fact that if it stops working, bad things happen. What happens if I block a major vessel, a major vessel in the body? Bad things. 
+
+So let's say for the sake of argument that there was a blockage over here to a portion of the brain. What do we call that? That's a stroke. A stroke occurs. Let me get a nicer marker than that. 
+
+Stroke occurs if one or more vessels here, going up to the brain, gets blocked, because the brain gets deprived of oxygen. And those brain cells begin to die pretty quickly without oxygen. What happens if blood vessels here that are supplying the heart get blocked? 
+
+STUDENT: Heart attack. 
+
+ERIC S. LANDER: Heart attack. That's pretty easy. Heart attack. OK. 
+
+How do they get blocked? Well, they get blocked because if we look at one of those vessels-- here's the vessel-- all sorts of gunk can pile up here in the vessel. And it can begin to occlude the vessel and stiffen the walls of that vessel. 
+
+And sometimes, chunks of this gunk, plaques-- atherosclerotic plaque. And let's take a look here. This is not a happy vessel here. There's a lot of stuff. You would be very disturbed to know that your own coronary vessels-- you will find in students of your age, not this bad, but you will find accumulations of atherosclerotic plaque already. 
+
+And if chunks of this break off and are carried down and they go into a vessel of smaller diameter, they can occlude, they can block that vessel. And you can get strokes and you can get heart attacks. And that happens increasingly with age. 
+
+These atherosclerotic plaques here have some proteins, some lipids, and cholesterol. And you've all learned by now that cholesterol is evil, right? You know, you've heard that there's an association between cholesterol and cardiovascular disease. 
+
+And that's what we're going to talk about some today. So that's the problem. And it's a serious problem, because in this country alone, in the US, oh, there's something like 800,000 deaths per year from cardiovascular disease. 
+
+OK. Before you go on, answer this question about heart disease. 

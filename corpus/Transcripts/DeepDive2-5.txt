@@ -1,0 +1,65 @@
+Hi, my name's Josh Meisel, and I'm a graduate student in the biology department of MIT. And my deep dive is on modes of inheritance. 
+
+I study the genetics of host pathogen interactions in worms. But today, we're going to use Drosophila-- fruit flies-- as a model system to understand mode of inheritance-- how traits are inherited. So what we have here on the left is two flies-- a wild type female fly that has wings and a mutant fly-- a male mutant fly that does not have wings. 
+
+And we're interested in how this wingless trait is being inherited. Is it being inherited in a dominant or recessive fashion? In an autosomal or sex-linked fashion? And we're going to do crosses. We're going to do experiments and analyze the results to distinguish between these possibilities. 
+
+So the first question that we're going to ask is, is the wingless trait, which is being caused by a mutation in some unknown gene, being inherited in a recessive or dominant fashion? And what we're going to do to answer this question is we're going to cross our wild type female flies to our male mutant flies. And we're going to call these the P0 generation because there are parentals. 
+
+We have our wild type female fly. We're going to cross it to our wingless male fly. And all the progeny in the F1 generation are wild type. They all have wings. So this tells us that the wingless trait is being inherited in a recessive manner. 
+
+Now we can give symbols to the alleles of this unknown gene, which is causing the wingless phenotype. Because it's recessive, we're going to give the mutant allele-- we're going to denote that as lowercase "wg." And the wild type allele we're going to know with a "plus." 
+
+Now the second question we want to ask is whether this trait is being inherited in a sex-linked manner. That is, does the gene responsible for the wingless trait reside on a sex chromosome? Or is it being inherited in an autosomal manner? That is, is the gene responsible for the wingless trait residing on one of the non-sex chromosomes? 
+
+Let's write out the genotypes of our flies so far for each scenario, autosomal and sex-linked. First, we'll write out the genotypes assuming the wingless trait is sex-linked. Our wild type fly has two wild type copies of this gene. 
+
+Our wingless male fly that we started with has two mutant copies of this gene. And our F1 progeny will all be heterozygotes for the mutant allele. And since the wingless phenotype is recessive, all the F1 progeny are wild type and have wings. 
+
+Now let's write the phenotype in the scenario where the wingless trait is sex-linked. Our wild type fly has two wild type copies of the X chromosome. When we're dealing with sex-linked genes, we write the allelic symbol as a superscript over the X chromosome. 
+
+We also assume that sex-linked genes reside on the X chromome, not the Y chromosome, because there are very few genes on the Y chromosome. The vast majority of sex-linked genes reside on the X chromosome. 
+
+Our wingless male has a copy of the X chromosome with the wingless allele, and a Y chromosome because it's a male. The F1 progeny then can either get a wild type X chromosome from their mother, and a mutant X chromosome from their father. These files are female. 
+
+Or if they can get a wild type copy of the X chromosome from their mother and a Y chromosome from their father. These flies are male. And both these flies will have the wild type phenotype. They'll both have wings. 
+
+Again, the male has one wild type copy of the X chromosome. And the female is a heterozygote, and since the wingless phenotype is recessive, those flies will have wings. So from this first cross, we cannot determine whether this trait is sex-linked, as in this scenario, or autosomal in this scenario. The data is consistent with both of these. 
+
+So we need to do another cross. And this cross will involve mating F1 siblings with each other. So in an autosomal scenario, we'll mate female, which is heterozygote-- plus over wingless-- to a male, which is also heterozygote-- plus over wingless. And now we're going to look at what the F2 progeny will be from this cross. 
+
+We can use a Punnett square as a tool. So from their mother, the gametes produced will be plus and wingless in equal numbers. And from their father, plus and wingless in equal numbers, resulting in a quarter of twos that are plus over plus, which will be wild type. 
+
+Quarter which will be plus over wingless, which is wild type. Another quarter, which will be plus over wingless. And finally a quarter, which will be wingless over wingless, resulting in 3/4 wild type and one quarter wingless. 
+
+What will happen in the sex-linked scenario? We're going to mate these F1 siblings with each other. Let's draw a Punnett square again. And the gametes produced by the F1s-- let's see. The mother will produce a wild type X chromosome, and a mutant X chromosome. And the father will produce a wild type X chromosome, and a Y chromosome. 
+
+So the F2 progeny will either be wild type X over wild type X. These will be wild type females. They could be wild type X over mutant X. These will be also wild type females. 
+
+They could be wild type X over Y. These will be wild type males. Or they could be mutant X over Y. These will be wingless males. So what that breaks down to is all the females be wild type, and one half of the males will be wild type, and one half of the males will be wingless. 
+
+Notice that, just like the autosomal scenario, a quarter of the F2s are mutant wingless. But in this case, all of the flies with the wingless phenotype are male. Whereas in the autosomal scenario, the wingless F2s are an equal mixture of males and females. And in this way, we can determine, by comparing the data from this cross, the wingless trait is being inherited in an autosomal or sex-linked manner. 
+
+So we've determined successfully that the wingless trait is being inherited in a recessive fashion. Now, we're going to turn to a slightly more complicated example and analyze the mode of inheritance of a fly with a wrinkled wing. 
+
+Now we're going to do a slightly more difficult scenario. So imagine again that we're given a wild type female fly. And now we're going to be given a new mutant. This mutant is a male that has curly wings. 
+
+So once again, the first thing we're going to do is determine whether this trait, this wrinkled wing trait, is being inherited in a dominant or recessive manner. So we're going to mate our wild type female flies to our wrinkled male flies. And in the F1 generation, this time what we get is one half wild type flies and one half wrinkled flies. 
+
+This tells us that the wrinkled trait is being inherited in a dominant fashion. So now we can give symbols to the alleles in this problem. We'll denote the wrinkled allele as capital "WR," because this is dominant. And we'll denote the wild type allele as "plus." Now we'll try and determine if this wrinkled trait is being inherited in a sex-linked or autosomal manner. 
+
+Now we're going to do a slightly more difficult scenario. So imagine again that we're given a wild type female fly. And now we're going to be given a new mutant. This mutant is a male that has curly wings. 
+
+So once again, the first thing we're going to do is determine whether this trait, this wrinkled wing trait, is being inherited in a dominant or recessive manner. So we're going to mate our wild type female flies to our wrinkled male flies. And in the F1 generation, this time what we get is wild type females would be X plus over X plus. 
+
+The wrinkled males would be X wrinkled over Y. And the F1s then would be one half X plus over X wrinkled. These would be wrinkled females. And one half X plus over Y. These would be wild type males. 
+
+So the data we have is consistent with this hypothesis that the wrinkled trait is being inherited in a dominant sex-linked fashion. But it requires that all of the wrinkled flies in the F1 generation be female. Let's imagine that this is not the case-- that the wrinkled flies in the wild type flies in the F1 generation are in equal distribution of males and females. Is there any way that this data could be consistent with either the sex-linked or the autosomal hypothesis? 
+
+Well, let's go back to the autosomal scenario. And we assumed that the wrinkled male here was homozygous for the wrinkled allele. But what if it was a heterozygote? The wrinkled male that we're given would still appear wrinkled because the wrinkled phenotype is dominant. 
+
+But now when we did the cross, half of the F1s would be plus over plus. And half of the F1s would be plus over wrinkled, giving us half wild type flies of both genders and half wrinkled files of both genders consistent with the data that we were given. So from this, we can conclude that the wrinkled phenotype is being inherited in a dominant autosomal fashion. And that the original wrinkled mutant fly that we were given was a heterozygote. 
+
+So I've taken you through two sets of experiments that you can use to determine whether a mutant phenotype is being inherited in a recessive or dominant fashion, or a sex-linked or autosomal fashion. And these are the kind of experiments that we do in the lab when we're presented with mutants. 
+
+So today you've learned how to experimentally tell the difference between a trait that's being inherited in an autosomal fashion versus a sex-linked fashion. We also learned how to tell the difference experimentally between a trait that is recessive versus dominant. So thanks for listening. 

@@ -1,0 +1,135 @@
+PROFESSOR: Section 2. Fruit Flies and the Linkage. To explain what resolves this, I have to tell you about one more person. There's another really interesting person, a guy called Thomas Hunt Morgan, who spends decades as a naturalist and an embryologist. And he studies all sorts of different kinds of critters. And he's fascinated by everything in the natural world. 
+
+And he has one of these labs where he kind of works on everything. All sorts of crazy things are going on. And when this whole Mendelism stuff comes back, he's interested in the Mendelism stuff too. 
+
+But he is really an experimentalist. He doesn't go in for this high-faluting theory. Morgan is not a theory guy. He's a data guy. He's very suspicious of all this talk of factors and things like that. 
+
+In fact, Morgan begins to do genetics work in his lab, not to study Mendelism, but to study evolution. He starts crossing fruit flies together. He starts about 1908, crossing fruit flies together in the hope that he's going to discover evolution happening in the lab, new forms coming up. 
+
+We know it's going to be new mutants. But that's not what he was looking for originally. He's looking for these kinds of new forms. And I know that in 1908, when he was beginning to do this work, he was no believer in this whole chromosome business. I actually found an article he wrote in 1909 that tells you what kind of a skeptic he was. 
+
+He says "In the modern tradition of Mendelism, facts are being transformed into factors at a rapid rate. If one factor will not explain the facts, then two factors are invoked. If two factors prove insufficient, now three will sometimes work. The superior juggling sometimes necessary to account for the result may blind us, if taken too naively, to the commonplace that the results are so excellently explained, because the explanation was invented to explain them." Just like what we talked about. That was exactly what was bothering him. 
+
+"We work backward from the facts to the factors and then presto, explain the facts by the very factors that we invented to explain them." That is a good skeptical scientist. He says I love your high-faluting theory over there, but I'm not buying it. And he's off making fruit flies. He's off growing fruit flies because he wants to discover facts about evolution. And he begins to find weird things that appear to be evolving right before his eyes. You know, they're going to turn out to be mutants, but that's not what's going through his mind. 
+
+Let's take a look at some of what he finds here. This is a fruit fly. Drosophilia melanogaster. It's a pretty tiny thing. It grows on fruit, bananas, things like that. 
+
+This is a female Drosophilia melanogaster. You can see that she's got a lighter body here. She's actually laying an egg in this picture. Really beautiful red eyes here. Straight wings. 
+
+This is a male Drosophilia. It's got a black end here. A little smaller often than the females. Beautiful red eyes there. That's the wild type. We use the word wild type to mean normal in our experiments. Geneticists call them wild type, if it's our version of normal. 
+
+Let's look at some of the weird kinds of flies that can emerge. So these are different flies, and we picked them here because you can see the eye colors are very different. This is wild type right over here. 
+
+But going around, this is brown eyes. This is cinnabar-colored eyes. This is sepia-colored eyes and vermilion-colored eyes and white-colored eyes and our normal red-colored eyes here. 
+
+In addition, you can see different body colors. This fly is kind of a brown body color. And this one is a black body color. And actually this one has a yellow body color here. So we've got all sorts of different strange forms that appear on the cross. 
+
+Mendel's very interested in these things. And because of this whole Mendelism going on, Morgan is very interested in this stuff. Now Morgan. Morgan is very interested in this stuff. And he began to start crossing these things together and learning things about them. 
+
+They have one great advantage by the way over Mendel's peas. They take two weeks to grow. And you don't need a garden plot. You grow them in little vials and things like that. So you can do a lot more experiments in a given year than Mendel could have ever hoped to have done sort of in his lifetime. So pretty good. 
+
+So he's got all this stuff. And he's really interested in this. And in 1910 and 1911, the next two years, some things happen in his lab that totally shift his opinion. And he is totally convinced within two years that the Chromosome Theory is absolutely right through crossing these fruit flies. 
+
+And not only that, within a couple of years after that, so is the world. The entire world is largely convinced that the Chromosome Theory is right. How can you prove that from the fruit flies? Well, let's take a look at what they began to find as they crossed their fruit flies together. 
+
+So here's our fruit fly. This is a less good picture of a fruit fly. So that's our fruit fly there. And we're going to look at two traits. We're going to have our body color. We'll either have the wild type-- I'll write wild type. Sometimes I'll write plus for wild type. That's synonymous. Plus and wild type mean the same thing. Or maybe we'll look at that black body color we saw there. 
+
+And they had wing phenotypes. So you can look at the wings. And you could have wild type wings or scrawny little wings, vestigial wings. 
+
+So these traits-- black body and vestigial wings-- are both recessive traits, recessive phenotypes. So what Morgan does is sets up a cross here in the F0 generation. He takes flies that have a normal body-- a wild type body and wild type wings. And we'll take females of that sort. 
+
+Now look I've just introduced a whole new genetic notation, which is closer to the thing that geneticists like to use. I've written plus over plus and plus over plus. And somehow you're supposed to know that that's the body and that's the wing. I'm no longer giving big A, little a, big G, little g. This is the body, and that's the wing. In particular, those particular genes-- the gene for body color and the gene for wing. 
+
+And he crosses that to-- this is a more normal genetic notation-- A male from a homozygous double mutant strain that's got b over b, meaning a black body and vestigial over vestigial meaning it has a vestigial wing. So he mates these together. And, in the F1 generation, he sees-- what's going to come out of this? There's only one genotype that could possibly come out. What's the genotype that comes out? 
+
+STUDENT: Black. 
+
+PROFESSOR: Plus-- no, the genotype, not the phenotype. What's the genotype that comes out? Plus over black, plus over vestigial. That's all that could happen, because you've got a plus, plus here, and a black vestigial there. And what's the phenotype? What does it look like? 
+
+STUDENT: Wild type. 
+
+PROFESSOR: Wild type. Why? Because I told you that those two phenotypes were recessive. OK? Now he takes a female of the F1 and crosses it back to this parent, black over vestigial-- a male there. And how many kinds of gametes can come from this parent? 
+
+Well, this is exactly what we were doing over here. We have two Mendelian factors, and there are four possible gametes that could emerge. Let's name those gametes that could come from this parent. 
+
+One of them is plus over plus. The next one that could emerge is, let's say, black vestigial. The next kind that might emerge, in theory, of the four gametes is plus vestigial. The next, black plus. 
+
+That's what could come from the first parent. What can come from the second parent? What's that got to contribute? 
+
+STUDENT: Black and vestigial. 
+
+PROFESSOR: Just black and vestigial, right? OK, so that's one possibility. Black and vestigial, that's another possibility. Black and vestigial, that's another possibility. Black and vestigial. Great. 
+
+But what we care about is that first gamete, the gamete that came from the first parent. These gametes here-- plus, plus and plus, vestigial schedule-- those were the combinations that went into the cross, right? Those are the-- we'll call those the parental combinations. You've got either wild type, or you've got black and vestigial. 
+
+These, however, are not the parental combinations. Because you see wild type body but vestigial wings or black body with wild type wings. Those are new combinations. They are recombinant flies. These were parental flies. 
+
+Now here's the drum roll. He counts. He finds out how many of each are there. And if it turns out that they're on different chromosomes and they are sorting independently, we'll see equal numbers. 1 to 1 to 1 to 1, right? If they're on the same chromosome, and the chromosome theory is right, we'll see 1 to 1 to 0 to 0. 
+
+So either he's going to get an equal set of numbers. Or two classes will be equal, and the others will be 0. And the actual numbers are 965, 944, 206, and 185. Is that 1 to 1 to 1 to 1? 
+
+STUDENT: No. 
+
+PROFESSOR: Is it 1 to 1 to 0 to 0? 
+
+STUDENT: No. 
+
+PROFESSOR: It's neither. So it's somewhere in between. So neither Mendel nor the Chromosome Theory seems to be right. What's going on? How can it be? We've got some funny-- Now, what did Mendel teach us? Mendel taught us look at the ratio. So let's look at the ratio. 
+
+Let's take a look at the ratio. If we do this, we can work out what we might call-- let's see, these are recombinant flies. Let's call it the recombination frequency-- the frequency of recombination. What fraction of the flies are recombinant types? So that'll be 206 plus 185 over 206 plus 185 plus 965 plus 944 equals 17%. That is the magic ratio. 
+
+Is that the magic ratio? That doesn't feel like 3 to 1. 17% seems like a kind of weird number. Is it the case, then, that whenever you cross things, you're going to get 17%? 
+
+No. They began crossing things, and sometimes they found they got 10%. For other pairs of genes, they got 22%. It was like no magic number. They were all different, depending on-- it was the same. If you cross the same pair of genes again and again and again, you'd get the same number for that pair of genes. But you take a different pair of genes, you get a different number. A different pair of genes, you'd get a different number. 
+
+So the idea of some simple magic number that could explain what that frequency is-- so people scratched their heads, saying what are these numbers about? Why is it that 17% of the flies seem to have a recombinant combination? And there were all sorts of wacky theories having to do with developmental biology, things having to do with the cells and cell processes and a lot of crazy things. 
+
+But one interesting idea was proposed by people who were thinking about the Chromosome Theory. The Chromosome Theory might suggest to you that if these genes lived on chromosomes, and in meiosis-- oops, in meiosis-- one had black vestigial, black vestigial, plus plus, plus plus, what might happen is the chromosomes might somehow exchange material. There might be some kind of an exchange of material. 
+
+They swap parts. And that's how you get a new combination. That if the chromosomes were to swap their parts, you'd explain recombination. Does that sound convincing? Or does that sound like an explanation that's made up to explain the data? Sounds like an explanation made up to explain the data. But wait, wait, wait. 
+
+People could see in the microscope. If you looked in the microscope, sometimes you could see when you prepared chromosomes and squashed them down with a cover slip, you can actually see chromosomes lying over each other like that. And you could imagine that they might be swapping. 
+
+People called those little crosses chiasma, meaning crosses-- these little Xs there. Does that sound convincing? No, if you take chromosomes and you squash them down with a cover slip, so is it a big surprise that they might be on top of each other? No. 
+
+People would say I think I see funny little things at the junctions there where they're laying. But that doesn't sound very convincing either, because you can convince yourself you could see anything. 
+
+So we have two ideas. Either we're completely hallucinating, or somehow chromosomes really can exchange parts. Maybe they can exchange parts once, or actually maybe they can swap parts twice. When those two chromosomes are near each other, maybe at randomly chosen locations, they can undergo a swap. And chromosomes get one swap or maybe two swaps or three swaps. 
+
+And what would it mean that you see recombination very rarely? If I tell you that two genes only show recombination 1% of the time, what would you tell me about where they're located on the chromosome? 
+
+STUDENT: Close to each other. 
+
+PROFESSOR: Very close to each other. Because if they're really close to each other on the chromosome-- suppose we picked gene number one and gene number two-- and they're really close, then they'll travel together. You'll see them in their parental combinations, unless there's a recombination, a crossover event. And if they're very close, the chance that one of those random crossovers lands smack in the middle of them is low. So maybe that explains why they're 1%. But what if they're further apart? A greater chance of there being at least one recombination there, and therefore recombining. 
+
+So this theory is fantastic. It explains how it is you can get sometimes 1% or 2% or 5% or 17%. Because it's just the function of how far apart you are on the chromosome. And it perfectly explains the data. 
+
+And are you the least bit convinced? No. Because we're making this up. We're making up in order to-- see, we saw that sometimes it was 17 and sometimes 5 and sometimes 1. And so we said, well, it just depends on how far apart you are. Any number you want to give me, I'll say that that's how far apart you are. And that doesn't sound very convincing. And Morgan, being a hard-headed guy who didn't want to just make up arguments all the time didn't buy this. 
+
+What's the solution when you have a really hard problem? What should scientists do when they have really hard problems? Make a model? That's one possibility. 
+
+STUDENT: Design more experiments? 
+
+PROFESSOR: Design more experiments. 
+
+STUDENT: Break into smaller problems? 
+
+PROFESSOR: Work together. 
+
+STUDENT: Ask the professor what the answer is? 
+
+PROFESSOR: Ah! Ask somebody older. Exactly not. The solution turns out to be ask somebody younger. It turns out the answer  is ask somebody younger. Everybody was so busy in the lab collecting data, that nobody was thinking that hard about the data. 
+
+And what it took was a college junior, a 19-year-old kid, working in the lab. At MIT, we would call it a UROP. So it took a UROP. For everybody's who watching this on the web, it's Undergraduate Research Opportunity Program, the chance to work in labs. It was the equivalent of a UROP, like an MIT UROP, except it was Columbia University. And it was 1911. 
+
+And this 19-year-old is working in the lab. And he's got all this data everywhere. Everybody's mapping the frequencies of recombination between all these different genes. And he says, would it be OK if I just take home the data and kind of look at it? 
+
+And he takes home the data. And he pulls an all-nighter and blows off his homework. And he actually writes many years later, I blew off all my homework and pulled an all-nighter and looked at the data. And it's the most famous all-nighter in the history of genetics. 
+
+Let's tell you about Alfred Sturtevant's all-nighter. And I'm going to say to everybody in the class if you can have such a good all-nighter, you can blow off your homework too. 
+
+STUDENT: We're going to remember that. 
+
+PROFESSOR: I will too. Absolutely. That's an absolute promise. You get an all-nighter half as good as Sturtevant's all-nighter, and you can blow off homework for the rest of the term. 
+
+OK, it's important to consolidate what you know about genetics. So try answering this question about a cross with two genes. 

@@ -1,0 +1,49 @@
+Who is going to explain to Thomas Hunt Morgan how to trace linked and unlinked genes through meiosis?	3.003826264175801
+Who is going to explain to Thomas Hunt Morgan how meiosis works?	2.99621088574978
+What's the beginning of genetics-- an incredibly important part of course and the thing Thomas Hunt Morgan really love?	2.325964402378371
+When works with fruit?	2.085529043160775
+When this phenomenon called recombination early flies, when his lab discoveries they do not get resolved until the experiments of Thomas Hunt Morgan?	1.9104166639969846
+Who 're going to start with Gregor Mendel and his experiments that showed the basis of inheritance?	1.9075716870309298
+What does the 20th century work with?	1.8666306778293937
+Who is going to explain to you how to trace linked and unlinked genes through meiosis?	1.63084344884723
+Is Michelle going to explain to Thomas Hunt Morgan how meiosis works?	1.617545384010004
+Who is going to explain to you how meiosis works?	1.5767058856377547
+Is Michelle going to explain to Thomas Hunt Morgan how to trace linked and unlinked genes through meiosis?	1.5649175867386114
+What do we 're going to talk about?	1.5060656053908628
+Who 've got all sorts of deep dives for you?	1.4252182393878718
+Who 're going to talk about the Chromosome theory of Inheritance and the correspondence and the conflict between those two?	1.4215307090555194
+What early in the 20th century flies, when his lab discoveries they do not get resolved until the experiments of Thomas Hunt Morgan?	1.3767344859217077
+What are recessive or dominant?	1.3601069850069765
+Who 've also got a deep dive for you on how to trace inheritance in fruit fly crosses and tell whether traits are recessive or dominant?	1.3243045402158766
+Who really likes genetics because I 'm a geneticist?	1.2811498299905448
+What do we 've got all sorts of?	1.142238286103653
+Who do we 've also got on how to trace inheritance in fruit fly crosses and tell whether traits are recessive or dominant?	1.131684660672584
+Does the 20th century work with fruit?	1.1094442581208375
+What's the beginning of genetics-- an incredibly important part of course and the thing I really love?	1.0529330422785708
+Who do we 're going to start with?	1.0425299822324057
+What's really pretty remarkable?	0.9599128890247386
+Who turn to genetics?	0.915265922485653
+What do I really like because I 'm a geneticist?	0.8823278307489786
+What do we 've got?	0.8585848607457258
+What do we turn to?	0.8214800263932593
+Who 'mes a geneticist?	0.8210568488072787
+Who stumble into the idea that you can build maps showing the locations of genes without even knowing what genes are about?	0.780761934606405
+Does this phenomenon called recombination's the beginning of genetics-- an incredibly important part of course and the thing Thomas Hunt Morgan really love?	0.7469038297831383
+What stumble into the idea that you can build maps showing the locations of genes without even knowing what genes are about?	0.746404763975886
+Who do I 'm?	0.7060247517600231
+Are traits recessive or dominant?	0.6953999981545309
+Do we 're going to start with Gregor Mendel and his experiments that showed the basis of inheritance?	0.5825310343858221
+Is Michelle going to explain to you how meiosis works?	0.5238094613014304
+Is Michelle going to explain to you how to trace linked and unlinked genes through meiosis?	0.5116859023995599
+Do we 're going to talk about the Chromosome theory of Inheritance and the correspondence and the conflict between those two?	0.4033740327828568
+What do they stumble into the idea that you can build maps showing the locations of genes without even knowing?	0.26054659050295603
+What do they stumble into?	0.1863285113698756
+Do I really like genetics because I 'm a geneticist?	0.135033816540719
+Do we 've got all sorts of deep dives for you?	0.10490864709693204
+Do we turn to genetics?	0.09488861721535713
+Do we 've also got a deep dive for you on how to trace inheritance in fruit fly crosses and tell whether traits are recessive or dominant?	0.04444563334722318
+Do I 'm a geneticist?	-0.08446070582871057
+Do they stumble into the idea that you can build maps showing the locations of genes without even knowing what genes are about?	-0.23086415910166513
+Does this phenomenon called recombination's really pretty remarkable?	-0.24823668074278404
+Does it's the beginning of genetics-- an incredibly important part of course and the thing I really love?	-0.25366044991251635
+Does it's really pretty remarkable?	-0.6074906221686589

@@ -1,0 +1,207 @@
+DR. ERIC LANDER: I want to find a human gene now. I want to find the gene for beta globin. Beta globin. You'll recall, of course, we've talked a lot about beta globin. Hemoglobin has two alpha sub units, two beta sub units. It makes this tetramer. Binds oxygen. Very beautiful. 
+
+Beta globin is one of the two proteins here that make hemoglobin, and it's encoded by the beta globin gene. And I told you all about the structure of that beta globin gene, right? Recall, it's a pretty compact gene. It just had a handful of exons and a handful of introns. 
+
+Well, how did we know that? How did we know what the gene was for beta globin? You were willing to let me tell you that it was about this long, and it had these exons, and I gave you the lengths, and we added them up, give or take. How could we have known that? How did we find the beta globin gene? Let's do the same thing. 
+
+Let's see. Somebody walk me through what we're going to do here. Yeah? 
+
+STUDENT: Well, first, you're going to need someone who has a correct, a working beta globin gene. 
+
+DR. ERIC LANDER: I have a working beta globin gene. So you got me. What do you want to do with me now? 
+
+STUDENT: And then you're going to cut up your DNA. 
+
+DR. ERIC LANDER: Cut up my DNA. I can do that. 
+
+STUDENT: Splice it into working-- 
+
+DR. ERIC LANDER: Good, keep going. This is great. 
+
+STUDENT: Splice it into a vector. 
+
+DR. ERIC LANDER: Splice it into a vector, yes. 
+
+STUDENT: And then the host cell is going to be someone who doesn't have a working beta globin gene, which is someone who has sickle cell anemia. 
+
+DR. ERIC LANDER: Someone who has sickle cell anemia. 
+
+STUDENT: And then we're going to put your spliced gene, your vectors, the spliced gene, into the-- 
+
+DR. ERIC LANDER: The cells from someone with sickle cell anemia. 
+
+STUDENT: And then the ones that grow would be the ones-- 
+
+DR. ERIC LANDER: Ones that grow. 
+
+STUDENT: Or the ones that-- yeah, there's a problem. 
+
+DR. ERIC LANDER: There's a problem. OK. 
+
+[LAUGHTER] 
+
+DR. ERIC LANDER: Fantastic. Excellent. Bingo. Very good. That was great. Because that all worked up to the point where you said, wait a second, the cells without a working beta globin gene, they'd probably grow just fine. So now I don't have a way to find it by virtue of conferring a function. But that's perfect. That's really good. So, yes? 
+
+STUDENT: But can't you see the shape of them? 
+
+DR. ERIC LANDER: The shape? 
+
+STUDENT: Because the beta globin changes the shape of-- 
+
+DR. ERIC LANDER: Oh, changes the shape of the red blood cell. Ooh. Pretty fancy. I like that. Very interesting. Transform it in and look for a functional change. 
+
+You can do things like that with mammalian cells sometimes. Turns out you can't do that for beta globin, because red blood cells are a little weird. Red blood cells don't have nuclei, DNA. They digest their DNA. 
+
+Red blood cells are big bags of hemoglobin. They don't grow and divide. They are terminal cells that are big bags of hemoglobin that are so committed to just being big bags of hemoglobin that they digest up all their DNA. So frankly, that's not going to work. It's a good idea, again, too. And sometimes you can do cloning by complementation in mammalian cells, but it's hard. Yes? 
+
+STUDENT: Can you stick them into a different type of cell? 
+
+DR. ERIC LANDER: I'm going to stick it into a different type of cell.  Maybe I'll stick them into skin cells. Now what do I look for? Yes? 
+
+STUDENT: Could you just stick the gene into bone marrow cells and then check the shape of the red blood cells produced in the bone marrow? 
+
+DR. ERIC LANDER: Ooh. Stick them into bone marrow cells. That is, whose bone marrow are we using? 
+
+[LAUGHTER] 
+
+STUDENT: The test  subject with sickle cell anemia. 
+
+DR. ERIC LANDER: Oh. The test subject with sickle cell anemia. We're going to be injecting in libraries into a human being, into their bone marrow-- by the way, that's pretty painful stuff-- trying to carry out transformation in the human, and then looking for what? 
+
+STUDENT: Looking at the shape of the red blood cells produced. 
+
+DR. ERIC LANDER: OK. And so suppose the shape of the red blood cells is now cured. Then whatever I injected in was right? 
+
+STUDENT: Possibly. 
+
+DR. ERIC LANDER: Well, I'd say you could say definitely. The problem is, most pieces I put in won't be right. I'll have to go through about a million separate people, injecting into each one the DNA, and see which one gets cured. So I'm basically doing gene therapy in order to find the gene for betaglobin. 
+
+STUDENT: I would be a bad experimental biologist. 
+
+[LAUGHTER] 
+
+DR. ERIC LANDER: No, no, no. You'd be a great experimental biologist. Because you should think these things, and then, in that case, discard it and think of something else. 
+
+[LAUGHTER] 
+
+DR. ERIC LANDER: But all good experimentation starts with walking through things and then realizing, boy, that would not be an effective way to find the gene. See-- yes? 
+
+STUDENT: Do you have to put it in human DNA? Or human cells? 
+
+DR. ERIC LANDER: Do I have to put it in human cells? Maybe not. Where do you want to put it? I didn't say anything about human cells. He wanted human cells. But what do you want? 
+
+STUDENT: I don't know, one of the ones we've been working with? 
+
+DR. ERIC LANDER: Put it in yeast cells or bacterial cells. Great. Fantastic. Let's put in yeast cells. Or bacterial cells. Put it in bacterial cells. Now what do I look for? 
+
+STUDENT: [INAUDIBLE] mice or something? 
+
+DR. ERIC LANDER: Mice. So I'm going to inject millions of mice and find the one which now makes-- so I've got to have mice with sickle cell anemia. Then I gotta-- 
+
+[LAUGHTER] 
+
+DR. ERIC LANDER: This is so good. I love you guys. This is great. So maybe we're seeing that the challenge here is there's not an obvious function to go rescue. Especially a red blood cell function, because the red blood cells, which every one you rescued, will have chewed up its DNA, and you won't even know what you put in there. Yes? 
+
+STUDENT: Could you transform it into yeast and then use some kind of biochemistry to [INAUDIBLE]? 
+
+DR. ERIC LANDER: Ooh, wait a second. So you're saying, forget this complementation stuff. Instead, transform it into yeast and look for a yeast that does what? 
+
+STUDENT: Produces hemoglobin? 
+
+DR. ERIC LANDER: Produces hemoglobin beta. Look for the protein. Oh, so are you proposing a different kind of cloning? Cloning by protein expression. Look for a yeast that is able to make beta globin. 
+
+Now how are we going to tell if it makes beta globin? Is it going to turn into a red blood cell? No. How can I tell which yeast is making beta globin? Chemistry. What kind of chemistry? 
+
+STUDENT: It would have lower levels of oxygen around it. [INAUDIBLE]. 
+
+DR. ERIC LANDER: Well, 'cause they'll be sucking oxygen out of the environment. Clever. It's going to be hard to see that. And it's not even clear you'll get enough. But that's good. What else? 
+
+But can I actually just find the protein? What if I were to grind up tons and tons of yeast cells, each colony, and look to see if it had beta globin? By-- how do you recognize beta globin? How do we tell whether there's a protein there? 
+
+STUDENT: Add alpha globin. 
+
+DR. ERIC LANDER: Add alpha globin, and yeah, yeah. Here's a trick. It turns out with the immune system, your immune system will make antibodies against foreign substances. If I take human beta globin and inject it into a bunny rabbit, the bunny rabbit will make an immune response against beta globin. It'll produce antibodies against beta globin. That antibody is a cool reagent, because it will stick to and recognize beta globin. 
+
+I now give you, for your bag of tricks, antibodies against beta globin, to now recognize which cell is making beta globin. So now add that to your armamentarium. How are we going to do it? I've got antibodies that can recognize beta globin. I purified beta globin from blood. I injected into a rabbit. I let it develop an immune response. I got its antibodies. I've given you a tube of antibodies. What am I going to do now? Yes? 
+
+STUDENT: Label the antibodies. 
+
+DR. ERIC LANDER: Ooh. Label the antibodies with something. What would you like to label them with? 
+
+STUDENT: Something fluorescent. 
+
+DR. ERIC LANDER: Fluorescent. Put a fluorescent tag on the antibody. I'm now giving you fluorescently tagged antibodies. Now what do you want to do? This is great. I mean, we're just making up experiments, we're making this stuff work. We've got fluorescently tagged antibodies. How are we going to recognize our beta globin? 
+
+STUDENT: Stick them on the plate and see where they concentrate? 
+
+DR. ERIC LANDER: How about that? Why don't we take source DNA-- human being. Let's take our vector. Well, we'll come back to it. Some circle. We'll discuss what kind of circle it might be. What's our host cell going to be? Well, maybe we use yeast. Actually, we might be able to use bacteria. We'll think about that. And how are we going to recognize? 
+
+Well, one way to do it is we take our Petri plate, and you want to see where the antibody would stick. Except that's not a very good experiment. But with a slight, tiny difference, I can make it a good experiment. 
+
+If on the Petri plate I put a piece of filter paper-- so I'm now going to load on top of this some filter paper. Filter paper there. And I'm going to grow my colonies right on top of that filter paper. And then I'm going to peel that filter paper off the Petri plate. And I'm going to have a piece of filter paper that has lots of colonies on it. 
+
+Now I want to crack open those bacterial cells or yeast cells and let them spill their guts on the filter paper. And it turns out there's an easy way to do that. I'll take my piece of filter paper-- there's my piece of filter paper-- that has on it lots and lots and lots of colonies. And all I have to do is stick it in the autoclave, heat it up to extremely high temperature, and the cells crack open. 
+
+Their guts spill out and they kind of stick to the filter paper. All their proteins stick to the filter paper. All the bacterial proteins are there, or yeast proteins, or whatever host cell I had. And if one of those cells was making beta globin, beta globin is there. 
+
+One of those cells is making beta globin. This cell here is making beta globin. I've now gotten it to spill its guts out onto that filter paper. All the proteins have stuck. How do I find that cell? You asked for a fluorescently labeled antibody against beta globin. I take my filter paper, I wash my fluorescently labeled antibody against beta globin, and it's going to stick to one of those spots. That spot. And it's going to light up. 
+
+And in fact, that's exactly what we've got here. We have a Petri plate. We have filter paper here. All these different bacterial or yeast colonies have different things that have been cloned into them. 
+
+We have our fluorescently labeled antibody. Good asking for a fluorescently labeled antibody. We just happened to have one here on this slide. It washes over, and bingo, it sticks right there and it lights up. 
+
+That's the colony. Pretty cool. We've cloned it not by its function to rescue something. We've cloned it by the protein, because we could get, somehow, an antibody against the protein by just purifying the protein and injecting it. 
+
+There's a problem. Will the bacteria express the gene for beta globin? Maybe. Maybe's not really good enough. Do you think the bacteria will express the gene for beta globin? Do you think the instructions, the regulatory instructions for the beta globin gene-- which, if I recall, included this complicated locus control element 100,000 bases away, and all sorts of specialized things that work in mammalian cells-- is that likely to work in bacteria? Frankly, it's not even likely to work in yeast. 
+
+What about when the beta globin gene, if it were to be expressed, made its transcript? Would the bacteria splice the transcript correctly? Definitely not. Because bacteria don't have splicing. 
+
+Oh, goodness. So this is all a beautiful scheme, but bacteria and yeast won't turn on that gene. Bacteria and yeast won't splice the RNA. So no beta globin's going to get made. 
+
+Now we could go back to doing this in human cells, maybe. But human cells are a lot more trouble to work with. And we'd have put in this big piece of DNA, and even then, getting it to-- can we somehow trick bacteria into expressing beta globin for us? Yes? 
+
+STUDENT: Can we use cDNA? 
+
+DR. ERIC LANDER: Why cDNA? 
+
+STUDENT: Because it won't have any introns? 
+
+DR. ERIC LANDER: It won't have any introns. If we used cDNA-- oh. If instead of using a genomic DNA library, we used a cDNA library, we wouldn't have any problem with the introns. 
+
+So the human source DNA should be human cDNA. All the introns are gone. So this can be a cDNA. It's all ready now, all prespliced. 
+
+But the problem is, it's a cDNA. It doesn't come with any of its genomic controls to turn it on and be expressed as a protein. No RNA. No sites telling polymerase, come transcribe here. What's going to happen? Will the bacteria start transcribing there? 
+
+STUDENT: If you add a promoter in. 
+
+DR. ERIC LANDER: Oh? What do you want? 
+
+STUDENT: Add a promoter. 
+
+DR. ERIC LANDER: Add a promoter. What kind of a promoter? 
+
+STUDENT: The kind that gets-- 
+
+DR. ERIC LANDER: A bacterial promoter if it's a bacterial cell, or a yeast promoter. Bingo. Great. Let's add a promoter. 
+
+So if we have a bacterial promoter that bacteria recognize, and a cDNA that has already been spliced up, then what will this bacteria do? It will use that promoter. It'll make RNA. And it will translate that into protein. 
+
+What have we just invented? The biotechnology industry. We've just invented the biotechnology industry, because this is how you can make human insulin, human growth hormone, human erythropoietin. If I had a cDNA for any human gene and I could attach it to a vector that had your expression, your promoter on it, I could cause some other cell to make that RNA and get translated. And I could then produce therapeutic quantities of insulin and growth hormone and erythropoietin and other things, and that is the basis of the biotechnology industry. 
+
+So by the way, along the way of this, we've also, just to make a little footnote, invented the biotechnology industry. And if we had only been the first to do it, we'd be really rich. But we've come along a little late, because people did think of this already. And it's very impressive. 
+
+So notice, very much the same thing. You need a source DNA. You need a vector. You need a host cell and a way to recognize it. 
+
+Our source DNA-- human cDNA. Our vector-- your bacterial promoter on a bacterial plasmid. Put it into bacteria. Plate it. Put it on a piece of filter paper. Autoclave it and use an antibody to recognize it. Anything I have an antibody to, I can now clone the gene for. Pretty cool. 
+
+Last question. How do I clone the gene for cystic fibrosis? By now, I bet you're thinking you're probably not going to do it by complementation, by injecting it into patients with cystic fibrosis and trying to rescue them. That's a bad idea. 
+
+Can we do it by protein expression? Here's the problem. Nobody knew what the gene was, or even what protein it encoded. You can tell that somebody has a disease, but might not know what the gene is, or the protein. 
+
+Can't do functional rescue. Can't do protein expression. How are we going to do it? That will be the subject two lectures from now. Because that turns out to be what motivated the entire Human Genome Project. 
+
+So we'll come back in two lectures and talk about the entire Human Genome Project, and how that cloning problem motivated why we ended up sequencing the human genome. But what we're going to do in our next lecture is we're going to take our clones, our clones for ARG1 or our clones for beta globin, and we're going to ask, how can we read out their information? Having found them by rescue, by complementation, or by their protein expression, we're now going to ask, how can we read out their DNA sequence? That will be the subject of the next lecture. 
+
+Be back. 
+
+So we just saw that another way to find your gene is by protein expression. Test your understanding of this method by answering this next question. 

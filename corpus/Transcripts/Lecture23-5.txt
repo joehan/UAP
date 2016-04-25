@@ -1,0 +1,159 @@
+PROFESSOR: How are we going to have cancer happen here? Well, a lot of different ways. We have these growth factors, remember, at the top of the chain there, coming from the other cells saying, turn on. I'm going to send you some growth factor. And of course, that's regulated, not too much, not too little. 
+
+Suppose the cell had some mutations occur that caused-- Who makes growth factors? Other cells. And this cell's making growth factors too, to talk to its neighbors. 
+
+Suppose this cell began making a lot of growth factor that stimulated itself, just overexpresses a growth factor for itself. What do you think happens? It stops paying attention to its neighbor. And its own local signal starts activating itself. 
+
+One way to derail this pathway is to have mutations that cause you to overproduce growth factors. That's one way. A cell-- when I say "you," I mean a cell here-- a cell that made a lot of growth factor that came back and activated itself, it would be called autocrine stimulation. That's one idea, and that can happen. 
+
+But there's an even easier way. How does that receptor get turned on? 
+
+STUDENT: It follows through the phases of-- 
+
+PROFESSOR: Well, no. It binds the growth factor, which causes it to dimerize. What kind of mutation might be insidious? 
+
+STUDENT: Anything that causes nonbinding. 
+
+PROFESSOR: Anything that causes nonbinding. If it prevented the receptor from binding the growth factor, what happens? 
+
+STUDENT: Then it can't turn off-- or it can't turn on. 
+
+PROFESSOR: It can't turn on. That won't cause cancer. That's sort of the opposite. The cell wouldn't be able to get a growth signal. So let's do the opposite of what you said. Any takers? 
+
+STUDENT: It can't get rid of-- 
+
+PROFESSOR: Yep. 
+
+STUDENT: It can't let go. 
+
+PROFESSOR: Couldn't let go. 
+
+STUDENT: You couldn't let go of your growth factor. 
+
+PROFESSOR: How about-- So it couldn't let go of the growth factor, or--? 
+
+STUDENT: A mutation that causes it to dimerize without growth factor. 
+
+PROFESSOR: Oh! How about ligand-independent, growth-factor-independent dimerization. Nice. Actually, not nice. 
+
+[LAUGHTER] 
+
+PROFESSOR: So if we can have-- remember, ligand is something that binds-- ligand-independent activation of the growth factor receptor, how could that happen? Well, it turns out that some growth factors have the possibility that there are mutations right over here that cause them to dimerize all on their own. There's something called Her2 receptor. 
+
+And there are particular mutations that change in this membrane region a valine to a glutamine. And it causes it to dimerize even though there is no normal signal for dimerization. And therefore, it starts this whole pathway going, sending its signal out. 
+
+There are other things that can happen. For example, the EGF receptor. If a mutation happens-- for reasons we don't understand-- that somehow removes the extra cellular domain, and you just have the membrane domain and the cytoplasmic domain, so you have just the loss here-- dot, dot, dot-- loss of the extra cellular domain of EGFR, it too causes it to dimerize without having any ligand. 
+
+And other things can happen. If you just get too much receptor getting made, if a cell overproduces a receptor, the receptors can start dimerizing, activating, each other. So in breast cancer, about 30% of cases of breast cancer make 10 to 100 times more of the Her2 receptor. 
+
+And what you can get is a lot of receptor dimerization without ligand. For example, I think it's about 30% of breast cancers have Her2 overexpression. All of these things gives rise to a signal inappropriately. 
+
+All right. Now, what else could go wrong? Suppose there was mutation that destroyed GreB. Would that give rise to an activating signal? No. 
+
+Suppose there was a mutation that eliminated Sos. Would that gave rise to an activating signal? 
+
+STUDENT: No. 
+
+PROFESSOR: No. Suppose there was a mutation that eliminated Ras. Would that give rise to an activating signal? No, because Ras is sending a signal. 
+
+STUDENT: Phosphate group? 
+
+PROFESSOR: What? 
+
+STUDENT: The phosphate group? 
+
+PROFESSOR: What phosphate group? 
+
+STUDENT: Raf. 
+
+PROFESSOR: Well, before you get to Raf, I said eliminating Ras would not give rise to the signal. But what you would give rise to the signal? 
+
+STUDENT: Lots of Ras? 
+
+PROFESSOR: Loss of--? 
+
+STUDENT: Lots. 
+
+PROFESSOR: Lots of Ras. Oh, lots of Ras. It's hard to say all these things. What else could give rise to a signal? Sorry? 
+
+STUDENT: A mutated Ras? 
+
+PROFESSOR: Mutated Ras. Not a destroyed Ras but a mutated-- What kind of mutation? 
+
+STUDENT: It's like the GAPs doesn't bind, so it's always active. 
+
+PROFESSOR: If the GAP didn't bind, so it was always active. How else could it always be active? You've got it. How do we make Ras always active? 
+
+STUDENT: The different GAPs. 
+
+PROFESSOR: GAFs and GAPs and all that, how about just Ras itself? What is Ras's own activity? 
+
+STUDENT: If it doesn't need anything to-- 
+
+PROFESSOR: What's Ras do? What's its enzymatic activity? 
+
+STUDENT: It like-- 
+
+PROFESSOR:  --hydrolyzes. 
+
+STUDENT: Yeah. It adds its phosphate group. 
+
+PROFESSOR: Well, actually-- 
+
+STUDENT: Oh, wait. 
+
+PROFESSOR: --removes the phosphate group, right? 
+
+STUDENT: Yeah. 
+
+PROFESSOR: It hydrolyzes a GTP to a GDP. It's an enzyme. That enzyme carries out a reaction, taking off the phosphate. It has an active site. What happens if I had a mutation that destroyed the active site of Ras? 
+
+STUDENT: So it wouldn't bind to the GT-- 
+
+PROFESSOR: It would bind the GTP. 
+
+STUDENT: It would always be on there. 
+
+PROFESSOR: It wouldn't let go. It wouldn't hydrolyze it. Because it could stay in the GTP-bound state because it couldn't turn GTP into GDP. Ooh! That is a horrible thought. 
+
+[LAUGHTER] 
+
+PROFESSOR: No, it's a really terrible thought. Because I haven't even told you all the things Ras is doing. This is just one of the many signals that are coming out of Ras. Ras is in this delicate balance of an inactive state to an active state, back and forth. If it gets stuck here because it can't hydrolyze the GTP, we're in big trouble. 
+
+So another thing would be mutations in Ras that destroy the GTPase activity and leave it bound to GTP and active. Now, which amino acids are found in the active site? In the active site here, we have amino acid number 12. There is a glycine at position 12 that is essential for the activity of this GTPase. And if it mutates-- for example, to a valine-- it doesn't work anymore. 
+
+It turns out that in the active site, the 12th position is critical. A huge number of cancers have mutations at that amino acid. Also the 13th site, rarely in the 61st first site, are sites of Ras mutations. Because you can't destroy the Ras protein. That wouldn't cause it. 
+
+And you can't cause it not to be an effector and all that. But right in the active site, and it is extremely common to find mutations in many, many, many cancers that affect Ras, because Ras is so important. All right. So Ras, big deal. 
+
+Where else can we put mutations here? So if Ras is stuck in the active state by virtue of a mutation that prevents it from hydrolyzing GTP, now what else? Suppose I-- We already said if we destroyed one of the GEFs, that doesn't matter, right? Because that's not going to promote it. But--? 
+
+STUDENT: But the GAPs. 
+
+PROFESSOR: But the GAPs, the GAPs, the guy who promote the hydrolysis, if we lost them, that would be bad. So you might predict that mutations in the GAPs could do it. And here, just destroying the GAP, just a loss of function. Just a loss of function. 
+
+All right. Let's go down the pathway further. So we could have mutations that produce more growth factor mutations that cause the receptor to dimerize, mutations and Ras leaving the active state, mutations that destroy the GAP that promote leaving the active state. How about here? 
+
+This guy, Raf, needs to get phosphorylated to become active. What if there was a mutation-- 
+
+STUDENT: Didn't phosphorylate-- 
+
+PROFESSOR: --that caused it to be active all the time. Suppose there were mutations that activated Raf? OK. So now this would not be a loss of function. This would be mutations in Raf that cause it to be permanently active. 
+
+All right. So you see, too much growth factor, dimerization without growth factor, mutations in Ras that leave it active, mutations in proteins that move Ras out of the active state, mutations that would activate the downstream guy, Raf-- which of these happens in cancer? 
+
+STUDENT: All of them. 
+
+PROFESSOR: All of these you've seen. Different ones in different cancers, but all of these things can happen. Every one of these things can happen. 
+
+You see some of these in breast cancers. And you see some in neurofibromatosis, loss of a GAP protein. 50% of melanomas, of skin cancers, have activating mutations in the gene called BRaf. 
+
+And then there are some total wild cards. I'll tell you one wild card, a strange wild card. Here's a strange one. 
+
+There is a protein called the ABL kinase. And it so happens that there's sometimes a translocation between two chromosomes, chromosome 9 and chromosome 22. And they're translocated to make a funny fusion gene. And the translocation between these two chromosomes produces a gene that gives rise to a protein that consists of a chunk of the BCR gene and a chunk of the ABL kinase. 
+
+The BCR gene causes this fusion protein to form tetramers and activates the ABL kinase. And the ABL kinase goes running around and phosphorylates stuff, including transcription factors for growth. It's kind of weird. It's not really in the pathway. But when highly activated, it's running around and it's phosphorylating things. And it goes and creates signals by phosphorylating transcription factors. 
+
+This all follows Murphy's law-- anything that can go wrong does go wrong. And we observe it, in increasing rate. All the different ways that you can screw up the growth signaling happens because you have an awful lot of cells and an awful lot of time to have an awful lot of mutations. 
+
+OK. To be sure you understand that, stop a moment and answer these questions about the kinds of mutations that can cause cancer. 

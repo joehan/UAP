@@ -1,0 +1,105 @@
+How in the world does it do this? This is pretty remarkable. So let's take a look at how TIM really does this. And I'm going to do this in my simple cartoon way. How does TIM work? 
+
+Well, I've told you what it does. It stabilizes the transition state. It makes it easier to do that reaction. It keeps it from losing its phosphate. But how does it do it? 
+
+Well, TIM is a big protein. In fact, about 250 amino acids. 250 amino acids. And it's actually a dimer. There are two of these 250 different amino acid proteins. But I'm going to ignore most of it. It's actually very large compared to my little things. It's about 150 times larger than our little G3Ps and DHAPs. 
+
+But what I'm going to do is I'm just going to draw kind of a pocket in which that's existing. And let's put our molecules in here. We have C, H, double bond, O, C, OH, H, and stuff. I'm not going to worry about the rest of it. 
+
+I've got to move this proton to here. I've got to move my hydrogens, right? These guys going up. Well, here's the way it does it. 
+
+There is a side chain here that has on it an extra hydrogen. It's a positively charged amino acid. It's positively charged, because at neutral pH, it has an extra proton there. 
+
+There's also an amino acid pointing in here that is a negatively charged side chain, at just the right spot. And what's going to happen is that hydrogen transfers over here. This amino acid over here steals this hydrogen. The negative guy here steals the hydrogen. 
+
+And now look-- this guy's now become neutralized. This has got no charge. That's got no charge. My positive has lost the hydrogen there, my negative has picked up that hydrogen, and I've got a cis-enediol sitting here. Now what's going to happen? 
+
+Now what's going to happen is-- what happens now? I need to get this guy up here, and so this guy here takes that hydrogen that it stole from there and gives it over here, becoming negative in the process. This guy here now becomes a single bond. That's my O and onward. And this guy here becomes positive began by stealing the H that was here. 
+
+So let's just go over that. This guy starts by being positively charged, gives up its H here, and it steals the H from here. And it's sitting at just the place to do that. We had to move an H on one side and move an H on the other side. It's sitting perfectly. It has an H. It first gives the H and then grabs an H. 
+
+Same thing is going over here, but it instead grabs a H and gives an H. That's it. It depends on these side chains being in exactly the right place. You've got to have a pocket that binders these triosephosphates. And you've got to have a pocket that has amino acids sticking out at exactly the right place in exactly the right distance at exactly the right charge to move those two hydrogens. 
+
+That's it. That's how an enzyme works. And when people tell you that enzymes are complicated things, and you've got to pay money and pay investments and all that, and talk to your broker and all that. You don't pay anything. All it's doing is it's arranging it to be very easy to move those hydrogens by making the perfect pocket for doing it and by having the right donor and acceptor groups there to do it. That's it. 
+
+Now let's see. We've got to have a positive group and a negative group. Do we have any candidates for positive and negative groups? What do you got? Positives, negatives. Three choices for positive. Who should we use? 
+
+STUDENT: Lysine. 
+
+ERIC S. LANDER: Lysine. That's an idea. As it turns out, lysine might be a good choice. We'll come to it. 
+
+It's actually using histidine. It's using, this guy here is using-- but lysine would be a good answer. Histidine, number 95. What do I mean by histidine number 95? I mean in the primary sequence of that protein, there are 250 amino acids. The 95th amino acid is a histidine. And the way it folds up, His 95 is pointing in that way. 
+
+Now I need me a negative amino acid here. What do I got on offer? 
+
+STUDENT: Glutamic. 
+
+STUDENT: Aspartic acid. 
+
+ERIC S. LANDER: I got either aspartic acid or glutamic acid. You like glutamic acid? Bingo. Turns out it uses Glu at position 165. OK? That's what it's got. It's got the histidine and it's got the glutamic acid, and that's how it does the exchange. 
+
+Do I have to use Glu? Maybe we could use aspartic acid. 'Cause look at it. Aspartic acid and glutamic acid are virtually the same. What's the only difference between aspartic acid and glutamic acid? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: One extra carbon. The chain is one carbon longer. That's the only difference between aspartic acid and glutamic acid. If I made triosephosphate isomerase and substituted, instead of at position 165 a glutamic acid, an aspartic acid, would it work? 
+
+Turns out it'll work 1,000 times worse. It will just work, but if instead I made Asp here, it's about 1,000-fold worse in speed. I think I told you in the last lecture that that little difference of one carbon bond could make a big deal. That little one extra carbon bond positioning that donor in the right place makes a difference of 1,000-fold to the speed of this enzyme. Pretty impressive. 
+
+Now that's only trick number one. This is trick number one. We got some more tricks still to go. Let's take a look at trick number two. 
+
+Trick number two is-- well, I'll go through it much more quickly. But within this pocket here, we have our pocket here. We've got-- and I'm just going to draw attention to it here-- we've got carbon with a double bond here. We've got carbon, we've got O, P, O, O. 
+
+We got a lot of hydrogen bonding potential over here. Lot of things that wouldn't mind hydrogen bonding. Turns out that there's a bunch of guys on the side that help stabilize this whole guy. And a positive amino acid here, a positive side chain, could electrostatically interact with a lot of those guys. So installing a positive side chain will help stabilize this guy as well. 
+
+What do you got on offer for a positive side chain? Lysine. Turns out that at position 12 of this protein, there is a lysine. Lysine 12. It turns out that Lysine 12 helps stabilize that whole set of potential hydrogen bonds and helps stabilize that transition state. 
+
+Now how do I know that this matters? Well, suppose I changed lysine to a non-charged amino acid. Let's change it to, I don't know, methionine, a hydrophobic amino acid like methionine. Does the enzyme work? 
+
+STUDENT: Do you lose your phosphate? 
+
+ERIC S. LANDER: No. Turns out the enzyme's just dead as a doornail. Doesn't even work. You can't get it to catalyze at all. 
+
+But what if I change it to another positive? How about arginine? If I substitute an arginine here, well, it still works, but it's about 200 times worse, because the positive charge is not in the ideal place. And so it matters. So arginine helps a great deal. I mean, the lysine-- sorry-- helps a great deal. 
+
+Now trick number three. I told you we have our molecule here, and we have this phosphate. And I said that our phosphate, when this is in the cis-enediol state, that phosphate will normally come off pretty spontaneously quickly. It will lose the phosphate and turn into what's called methylglyoxal there. And it's going to come off. And in fact, actually it turns out that that transition state, it's even going to float away. It's not sufficiently well bound. It's going to float away. 
+
+So we have problems. That we've got to hang on to that transition state. We've got to keep it from getting attacked by water. What are we going to do? 
+
+STUDENT: Hydrophobic. 
+
+ERIC S. LANDER: Hydrophobic. I mean, look-- if you don't want something to go away, what do you do? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: You know, you've got to clamp down on it somehow, right? You got to, somehow, just prevent it from getting away. How about, how about we have some kind of a loop, and this loop closes down on it? 
+
+Turns out there's a loop part of the protein that closes down on the active site. And four amino acids make hydrogen bonds here. And this is kind of marvelous, because it prevents this intermediate from floating away. And because it's closed down, it actually prevents water from getting in there. And so it protects it. 
+
+If you remove that loop-- if you leave everything else. I got my my Glu 165. I keep my His 95. I keep my Lysine 12. But I just make a version of this that doesn't have the little loop? This guy is about 100,000 times worse in speed. That loop really matters. 
+
+It all matters. That's what an enzyme does. So when Buchner said we really didn't understand how enzymes work, he was right. It took quite a long time to figure out how enzymes work. It probably took, actually, till fairly late in the 20th century to have this description of triosephosphate isomerase and how it really works. 
+
+Now you will appreciate my elegant drawings of triosephosphate isomerase here. Let's look at triosephosphate isomerase in a somewhat better rendition. Here we go. Triosephosphate isomerase. There's triosephosphate isomerase. 
+
+You know, sort of you can spin it around. Space-filling view. You can't really see that all much. 
+
+Let's go to an internal view. There we go. Now we can see our substrates. I told you it was a dimer, two copies of the same protein sequence. And there we go. And you kind of see it sitting up here. There we go. 
+
+And let's take a look-see. Its cradled right in here, and we can now see these side chains coming along. Here's my phosphate. Here is my Glu 165. Here is my His 95. Here's my Lysine 12. 
+
+Here's my loop coming over this thing. And it's holding it in here. There's my nice loop. That's worth a factor of 100,000. This guy here is worth a factor of 1,000. That's worth a factor of 200. 
+
+Let's actually zoom right in just close up on those guys and see what's happening there. I've got our molecule. I've got our triosephosphate. We'll spin it around here. 
+
+Here's our triosephosphate. It's right there. There's oxygens here. This is our phosphate here. And here are these side chains pointing in at it. 
+
+And you will see that this guy-- yep, there we go, we have our three things-- are perfectly positioned around this thing. When I talk about TIM lovingly cradling this molecule, it's really lovingly cradling this molecule. When I talk about one carbon shorter, it's a big deal that it's one carbon shorter. 
+
+So all right. That's triosephosphate isomerase. Every enzyme you hear about has something like this going on. The truth is, for most enzymes, we can't tell you the full detailed story. But I can tell you that most enzymes look like this. Because when people look, they can really begin to understand what's in the active site. 
+
+And there's another clue. TIM-- triosephosphate isomerase-- is in essentially every organism. It's in yeast, and it's in you. And we'll see why very soon. 
+
+And in every one of these organisms, all these amino acids I've told you about, despite the fact that these organisms are more than a billion years apart evolutionarily, these amino acids do not vary. There evolutionarily conserved, telling us that they are the solution. There really isn't a better solution, because there's been more than enough time to explore other solutions there. So it's pretty impressive there. 
+
+All right. You're almost done. But before going on to the next segment, try answering this question. 

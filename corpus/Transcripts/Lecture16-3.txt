@@ -1,0 +1,57 @@
+PROFESSOR: I've talked so far about cloning in a bacterial plasmid. We said we had our vector-- was a bacterial plasmid, a small circle that propagates in bacteria. Its form is circular. And it grows or it replicates in, is replicated in, bacteria. 
+
+And in these plasmids, you can carry source DNA inserts of anywhere from hundreds of nucleotides long to 5,000 or more nucleotides long. I say bases. We either speak of how long it is in nucleotides or bases. We mean the same thing here. 
+
+But suppose I wanted to clone in yeast as my host. Could I do that? Turns out you can, but I need to have a yeast plasmid. But it so happens that yeast also have plasmids. And so if I want to do a cloning project to make a library of molecules carried in yeast cells, I can use a yeast plasmid. 
+
+And where do I get yeast plasmids? 
+
+STUDENT: In the catalog. 
+
+PROFESSOR: They're in the catalog. They're all in the catalog. I can get up to like 5,000 bases. Bacteria have viruses that infect them. They're also replicating creatures, there, these viruses, bacterial viruses. 
+
+We've talked about bacteriophage. Well, it turns out you can take the genome of a bacterial virus and clone into it, and use it to grow and replicate. So I can have that and I can infect bacteria with it. Suppose I want to infect a mammalian cell. What if I wanted to infect a mammalian cell? Say, mouse cells growing in culture, human cells growing in culture. 
+
+Turns out there are mammalian viruses. And you can use those to clone into. And then, same thing, make a library in mammalian cells. Pretty much anything that has a replicating piece of DNA, whether it's a plasmid, a virus-- Actually, how about a whole chromosome? Could I make an artificial chromosome? 
+
+That would be cool, wouldn't it? I can. Turns out in yeast, people have worked out exactly what it takes to make a yeast chromosome. Remember, we talked about having these ends of yeast chromosomes, or the ends of chromosomes, telomeres. So people worked out the telomere sequences, and an origin of replication, and selection, and then a site into which you can clone. 
+
+And you can make yeast artificial chromosomes. Yeast artificial chromosomes because they're not real chromosomes, we just made them. And what's really cool about them, they'll grow on yeast, is that you can grow, sometimes up to 1 million bases of DNA. 
+
+And no sane person does this anymore. Yeast artificial chromosomes were really important though in the 1990s as part of the Human Genome Project. We used a lot of them. But they're a real pain to work with, so we don't do them much-- but you can do them if you want to. People have even made human artificial chromosomes that grow in human cells. 
+
+So pretty much anything that can be replicated can be turned into a cloning vector. And if you need a little bit or a lot, depending on how much you're trying to clone, hundreds of bases, thousands of bases, tens of thousands of bases, hundreds of thousands of bases, millions  of bases, there's an app for that. OK. And there's something else in terms of cloning types that's worth mentioning, our source DNA. 
+
+Our source DNA, I've been assuming up to now, it is genomic DNA. It's the genome of the organism. Suppose instead, I wanted to make a library that contained the RNA that had been expressed. So the RNA. 
+
+Here's a messenger RNA, an mRNA, that's in the cell. Maybe that's from the beta globin gene, and here's another one, and here's another one. Could I just clone the RNAs into a vector? How could I do that? I mean, the vector is this double-stranded piece of DNA, and RNA is what? 
+
+It's RNA, not DNA. It's single-stranded, not double-stranded. Is ligase going to recognize it? No, ligase isn't going to recognize it. I can't do that, can I? Yes? 
+
+STUDENT: Don't some viruses use RNA? 
+
+PROFESSOR: Some viruses use RNA for their genomes, like HIV uses RNA for their genomes. What's the HIV life cycle involve? What happens to the RNA of the HIV genome? 
+
+STUDENT: They use reverse transcriptase. 
+
+PROFESSOR: They use an enzyme called reverse transcriptase, which turns RNA back into DNA, makes double-stranded DNA, which gets inserted into the genome. So suppose we wanted to clone RNA. We couldn't really clone it as RNA, but what could we do? 
+
+Reverse transcribe it back into DNA. Ah, insidious, very clever. We're going to use reverse transcriptase and all these RNA molecules can now be turned into double-stranded DNA molecules that are called complementary DNA. Complementary DNA, or just plain amongst friends, cDNA. So we can turn this into cDNA. 
+
+By the way, reverse transcriptase, it needed some kind of a primer to work from, how do we get a primer? Ah, another trick. Do you remember something about messenger RNAs in eukaryotic cells? What do they have at the end of them? Poly(A). Huh. 
+
+All of these messenger RNAs have poly(A) tails. Any idea what we might use as a primer? T, T T, T, T, coming back. Very good. So we can actually start the reverse transcription process with T, T, T, T, T, coming back. 
+
+All these little tricks we learned about how life works, all turn out to be tools for the engineer. So we take RNA, which has poly(A) tails, we use T, T, T, T, T as a primer. Reverse transcriptase copies back, then we copy back this way, we get double-stranded. And then we clone this into our vectors. 
+
+And now we have cDNA instead of genomic DNA. We can have genomic DNA or cDNA. Why might I want to have cDNA instead of genomic DNA? What's significantly different about cDNA versus genomic DNA? Yes? 
+
+STUDENT: It doesn't have any introns. 
+
+PROFESSOR: Introns. The introns are gone. That's kind of convenient. I get rid of all the introns. Because remember, there can be really big introns in the gene. And that might be very inconvenient to have all these big pieces of genomic DNA. And how maybe the gene is so big, remember that muscular dystrophy gene was 2 million bases long in its whole length. 
+
+But its cDNA, its transcript, is eventually spliced down to 16,000 bases. That's much more compact. So making cDNA gets rid of the introns, that's kind of fun. Tricks and tricks and tricks of the trade. Those are the things we know. 
+
+We have tricks to be able to make sure that we can put almost anything in there. Don't worry about all the details, but they're kind of cool. We have different cloning vectors. We have different sources of DNA, genomic DNA, cDNA. Whatever you want, there's an app for that. 
+
+We just talked about the different kind of cloning vectors that you can use. Test your knowledge with these questions. 

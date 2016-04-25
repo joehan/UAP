@@ -1,0 +1,51 @@
+PROFESSOR: Welcome back. Today we're going to continue the theme of rational medicine. Last time, we talked about heart disease, and how the understanding of familial hypercholesterolemia led to the development of drugs to lower cholesterol and seriously reduce the risks of heart attack in people with high cholesterol. 
+
+Today, we're going to touch on an even more complicated subject, cancer. I can promise you in advance, we are not going to cover all of cancer. Cancer is amazingly complicated, and we still don't know everything about cancer. So what I'm going to try to do is the slightly insane task of giving you a sketch of how we think about cancer, and tell you about one aspect of it. And I'm going to leave out many details and simplify some things, but I think by the time we're done, you'll get a sense for how our understanding of cancer has increased tremendously and how people are using that to develop drugs. So let's dive in. 
+
+Section one, cancer. You've all heard of cancer, but let me, anyway, tell you a bit about it. So cancer results when cells grow and divide without end. That's not a good thing. Cells are supposed to grow to a certain extent and stop growing or, in a limited way, produce descendant cells. But when cells continue to divide and divide and divide, that's a very bad thing. 
+
+Now, if cells keep dividing, we call it a neoplasma or it's neoplastic tissue, which is cells continuing to divide. If they stay localized in a particular area, the resulting tumor that is formed, this neoplasm, a tumor of cells that are growing and growing, the resulting tumor is benign if they stay in place. So if you've got a bunch of cells dividing and dividing and dividing, but they stay confined in one area and don't grow too much, you'll have a benign growth here. And sometimes, if it's in really the wrong place, that can be bad. But that's not the really serious thing. 
+
+The problem is when these tumors become a malignant growth. So malignance is when these begin to invade the surrounding tissue. So they begin to come out and then invade the surrounding tissue, and that's really bad. And then, even worse, metastasis happens when cells go off into the blood vessels or into the lymphatic system and get distributed around the body, and they land in different places and then divide and divide and give rise to a new tumor. And there might be many tumors distributed around the body, there, when metastasis happens, and we have the distribution of these cells and they start secondary tumors. 
+
+Now, around the world the most common kinds of cancers, the most common cancers around the world are, lung cancers and stomach cancers. Although, in the United States, stomach is not one of the most common cancers, but lung certainly is. Breast cancers, colon cancers, uterine cancers, and they vary by geography. Different countries, for example, have different rates, partly already telling you that environmental exposures play some important role. 
+
+In the United States, we see about 1.2 million new cases per year of which half of these people will go on to die from their cancer. Actually, all are going to die, but half of them are going to die from their cancer. And this accounts for, we all die, but half are dying of their cancer, and this accounts for about a quarter of deaths in the United States. This is a serious big deal. 
+
+Now, when cancers begin to grow, it's a single cell. And a single cell, there-- so, I mean, first off, usually, cancers derive from a single cell. That's the first thing to be said is cancers usually-- and many things I'll say tonight are usually-- usually derive from a single cell that goes bad. And it divides and divides and divides and divides and divides, and it's lost its control of its growth. 
+
+But you won't know it, because when there's two cells there or 100 cells there, it's way too tiny for you to know. You only can see a cancer in an X-ray when it's about 10 to the 8th cells. So only when you get to about 10 to the 8th cells is it detectable by radiography, for example. By imaging. When It gets to 10 to the 9th cells, you can actually feel it. It's what they say, palpable. So this is on the order of maybe one centimeter or so in diameter. 
+
+By the time you've got 10 to the 12th cells, the patient is usually dead. So you have all these logs of growth that are essentially invisible, and then these logs of growth can become fatal at that point. By the way, this indicates why it would be really good if you could detect cancers at 10 to the 4th cells and 10 to the 6th cells. And people are working on ways that they might be able to do that. 
+
+Now, these cancer, when I say they derive from a single cell, I also want to say that they arise because of mutations in the genome of a single cell. So the cancers usually arise from mutations in the genome. When you think about it, in your body from the time that you were a fertilized egg to now, you've had a total of about, well, during your lifetime, about 10 to the 16th cell divisions, give or take. 
+
+That's what you've got is in your life, there's probably 10 to the 16th cell divisions, and the chance of a mutation arising in any particular gene per cell division is about 10 to the minus 6th is the chance of a mutation in a given gene. That varies between genes and all that, but that's a good guess. 
+
+So if you had 10 to the 16th divisions and 1 in 10 to the 6th chance of mutation in a given gene per division, every gene has had mutations in it. Every gene has had mutations in it, despite the impressive fidelity of DNA replication that we talked about earlier in the course, that only one error per 10 to the 9th bases. A gene is 10 to the 3rd bases long. So that's about 1 in 10 to the 6th, and you've got 10 to the 16th divisions. That's a lot. 
+
+Now, these mutations, most of them are happening during development. Some of them could happen before birth. You could have inherited some critical mutations as well. But the mutations can happen by chance, or you can accelerate your rate of mutations. 
+
+So one way that you could accelerate-- so mutations could occur by chance, or by mutagens. Mutagens are different kinds of insults that can increase the frequency of DNA errors. A fantastic way to increase your rate of mutations and thereby increase your risk of cancer is tobacco smoke. 
+
+So smoking is an excellent way to get cancer. So is, for example, sitting in the sunlight without adequate protection against ultraviolet rays. That's a great way to increase your mutation rate and get cancer. Charred beef is a good way to do it too. Chemicals found in charred beef can do that. And there are a variety of other ways that if you want to increase your risk of cancer, you can do it by increasing your mutation rate. 
+
+Now, the point is one mutation is not enough. Clearly, one mutation is not enough from this arithmetic because if that was the case that a single mutation could give arise to cancer, you'd be having cancers all over your body. 
+
+In fact, it takes multiple mutations. Multiple mutations are needed, and we know that from many different angles. But one way is if you look at the age curve for cancer, and you look at the incidence of cancer as a function of the age of a person, it goes up like that. 
+
+Now, if you think about it, if it was single events, it would be kind of a steady rate. But it takes two shots. Well, the curve goes up steeper. And if it's three shots, you got x to the 3rd and x to the 4th, and the shape of that curve, in principle, tells you how many rate limiting steps have to be overcome, give or take. It's a very approximate kind of thing. 
+
+But the fact that the thing goes up steeply tells you that there are multiple hits that are needed. You also know that multiple hits are needed because for some cancers, like cancers of the colon, you can actually see pre-cancerous tissues. You can see polyps that then develop further and further. And so, in some cases, we can see the early stages. 
+
+All right. So and as I say, some people inherit some of these mutations that are necessary. Some are inherited. For example, there is a certain type of cancer that affects the eye, retinoblastoma. And an inherited mutation plays a role in that. There are some people who inherit mutations in two genes that predispose to breast cancer. So BRCA1 and BRCA2 that we'll talk about next time. 
+
+So you know that the people who get these mutations, they get their cancers earlier and appear to need fewer hits. So again, it's consistent with a picture of multiple hits eventually contributing to the point where the cell becomes cancerous. What do you do about cancer? 
+
+Well, it's a rapidly dividing set of cells. The traditional treatment for cancer was poisons, cellular poisons, that would kill rapidly dividing cells. The problem with poisons that kill rapidly dividing cells is they kill slowly dividing cells too. They're just a little less well. 
+
+And so the traditional treatments, called chemotherapy, worked on a knife edge. They would poison and kill rapidly dividing cells a little more than they would kill normal cells, and particularly, would cause very serious side effects and continuum. Chemotherapy is used widely, and it causes very serious side effects. 
+
+People's hair falls out often from chemotherapy, because they're rapidly dividing cells here in the hair follicles. And they're getting killed by the chemotherapy. And if you use too much chemotherapy or someone is too weak, they can die from the treatment. It would be very nice to have treatments that were better targeted, that were actually targeted against specific mechanisms as opposed to generalized poisons. 
+
+OK, before you go on, stop a moment and answer this question about cancer. 

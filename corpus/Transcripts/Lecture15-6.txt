@@ -1,0 +1,37 @@
+STUDENT: How do we stop ourselves from methylating the virus' DNA? 
+
+PROFESSOR: All right, time out. That was a really good question. I was not expecting anybody to ask that question. But the student just asked, what would happen if the virus happened to get methylated by the methylase before the restriction enzyme could cut it. Well, it turns out, there's a really interesting answer. 
+
+I wasn't planning to get into it, but we're going to have a little bit of a shaggy dog story here about what would happen, because it turns out it was pretty important in the history of molecular biology. So let's go hear that shaggy dog story. 
+
+Oh my goodness. OK. So, how do we stop ourselves from methylating the virus' DNA when it comes in instead of cutting it? Any takers? [INAUDIBLE]. Yeah, tell us what you're going to do. 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: An amount of enzyme. It turns out that there's more restriction enzyme and a lot less methylase. And the odds are that the restriction enzyme gets there first. What would happen if the methylase gets there first? It would be methylated. And therefore it would be-- 
+
+STUDENT: It would be fine. 
+
+PROFESSOR: It would be protected, and all the virus, then, would be able to be replicated in that cell, and it would be methylated. And what happens when it would break out of the cell and go infect other cells? 
+
+STUDENT: [INTERPOSING VOICES] 
+
+PROFESSOR: So now, you could, under this wacky scenario if the virus occasionally got methylated, get a virus that could no longer be cut. But what if that virus then went to another cell that didn't have the methylase? It wouldn't get methylated. And then if it went to another cell, what would happen? It would again be vulnerable and would get cut. 
+
+You'd have this weird property of viruses picking up an ability. Very rarely, they'd pick up this ability not to be cut, and they would propagate that as long as they were in cells that had the methylase. But whenever they went to a cell that didn't have the methylase, they would lose that property. Wouldn't this be weird if you didn't know about restriction and methylation? 
+
+It would be a really weird thing. This virus usually got killed, but occasionally, a virus would survive, and when it survived, it became immune as long as you kept growing them on these cells. But if it went to another cell, it would lose the immunity. This, by the way, was how an MIT professor, Salvador Lauria, found the phenomenon that eventually became restriction enzymes. 
+
+It was precisely that. It was this weirdness which people couldn't explain for a long time. That weirdness was what eventually was explained by restriction enzymes. It actually came in the reverse order. You just figured out how this could happen and how weird it would be. The weirdness was found first, and the restriction enzymes were found later. Yes? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Into another cell that doesn't have the methylase. If you grow on cells that don't have the methylase, it'll lose that protection. And then if you go back to cells that do have-- So imagine you have two strains of bacteria. One strain of bacteria had the methylase, and then once the virus gets its methyl groups, it can keep growing. 
+
+But if it ever grows on another strain of bacteria that doesn't have the methylase, it loses the methyl groups. It won't be replicated with methyl groups, and it'll lose that ability. It's a really weird-- if that made your head hurt, forget it. Just ignore it. But it's a really cool phenomenon, and Salvador Lauria discovered this. Yes? 
+
+STUDENT: This weird property, how does it physically mainifest itself [INAUDIBLE] strain of viruses? 
+
+PROFESSOR: Yeah. It becomes a resistant strain of virus, but it's not genetically resistant because it's not actually its DNA sequence. It's the methylation of the DNA sequence. We actually have a name for it. Because that methyl group sits on top of the DNA, it's not part of the sequence, it's said to be epigenetic-- on top of the genetics. 
+
+It's epigenetically resistant, and it's a weird property, because it can lose that property without changing its sequence. Now, I actually wasn't planning to talk about this at all, but you raised a great question, and a great question deserves a great story, and there is a great story behind it. 

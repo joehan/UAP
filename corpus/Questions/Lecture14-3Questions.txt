@@ -1,0 +1,356 @@
+Who: Binds to the operator if there's glucose?	2.566532128490085
+What 're using an activator with cyclic AMP?	2.545247185747457
+What does STUDENT: bind to if there's glucose?	2.470184874589184
+What has a cyclic AMP binding site?	2.4475744315392522
+What's where the repressor is going to bind?	2.4056724442866564
+What is there are a few details that's pretty much what happens?	2.3553256904860036
+What could have used an activator with glucose?	2.322188140544953
+What's not such a happy site for binding RNA polymerase?	2.3115194202311757
+What did Cyclic amp?	2.2486347402210716
+What knew the answer was repressors?	2.2384302978800634
+What encodes the lac repressor?	2.2323216243615116
+What binds cyclic AMP?	2.2315911296116067
+What could be elsewhere on the chromosome?	2.2150948610004515
+What made the repressor by the way?	2.208759124034405
+What did who make the repressor by?	2.1867545716588372
+What could different gene? be elsewhere on?	2.1796077479532068
+Who bind better if there's glucose?	2.178444323552904
+Who is another protein that sat down over here and helped stabilize?	2.17721334016732
+What does so another thing in theory turn out tries everything?	2.1375685626050482
+What does so another thing in theory turn out life tries?	2.1348017647783286
+What AMP binding site?	2.1301176167746667
+What did people know was repressors?	2.038703837450396
+What turns out life tries everything?	2.0243314219090203
+What does PROFESSOR: bind to?	2.015884754147617
+What's how life works?	2.0134608239927814
+Who does polymerase turn out it's?	2.0007899421013406
+What are as to whether people would rather sense the presence of something or the absence of something?	1.9990853743146009
+If there was another promoter, what does it then become?	1.9903964989484584
+What does another molecule have?	1.9742386135194
+What is cyclic AMP?	1.9542965735270392
+What discovered the lac repressor?	1.9138591070321076
+What is now a glucose repressor?	1.9135599812587327
+What does glucose come off in?	1.9093633924065534
+What do so now notice people could run?	1.843073598911333
+What do people grab onto?	1.8356155094403075
+What here alternatively could be an activator?	1.8328574450520718
+Then if glucose is low, what does it turn out is high?	1.8255053869978615
+What does PROFESSOR's?	1.7828670890509875
+What would be a great idea?	1.7661396417587052
+What's Cyclic?	1.7248062645355111
+What could have used the glucose repressor?	1.7178439467267956
+Who's the opposite?	1.7162196140087174
+What would be to have an activator?	1.711628208042794
+What's a promoter?	1.708530032193301
+What do people 've done?	1.6912715800635765
+What does polymerase's not?	1.6853555530546889
+Then if glucose is low, what does it turn out?	1.6759101803010583
+What likes to promote?	1.6639806722432893
+What is the molecule?	1.6557880630895072
+What do lac, then come?	1.6232351278984471
+Who does polymerase's?	1.6187190586476778
+What want to be able to respond quickly?	1.5524351891103223
+What does glucose's using?	1.5352538778058091
+Who 're using an activator with cyclic AMP?	1.5221835694681136
+What is there are a few details I leave out here?	1.5209427580422359
+What's not a very good promoter?	1.5086037240169485
+What likes to sit down here?	1.500186487207082
+Does STUDENT: bind to the operator if there's glucose?	1.4874154673717839
+Do people 're using an activator with cyclic AMP?	1.4729810111417168
+Does another molecule have a cyclic AMP binding site?	1.4611562827766051
+What does so another thing in theory turn out?	1.4442650428926398
+Do PROFESSOR: Another allosteric site that makes the repressor bind better if there's glucose?	1.3977175230705434
+What comes off in the absence of glucose?	1.3959711313115721
+What's going to be?	1.3909945862577133
+Could different gene? be elsewhere on the chromosome?	1.3830796312146165
+Who 'll call this one the lactose related operator for your model?	1.3336503401975088
+Did Cyclic amp binding site?	1.3268334273667226
+What turns out it's a crummy promoter?	1.3237606301237537
+What's what?	1.3236813401965104
+If this is a signal of low glucose, what should make the activator sit down or not?	1.3159965703160226
+What starts transcribing?	1.3091086026741672
+Does the next gene over encode the lac repressor?	1.3069345904360778
+If there was another promoter, does it then become an activator protein?	1.3050406275158992
+Who could have used an activator with glucose?	1.2937203233397665
+Did who make the repressor by the way?	1.2829250843056736
+Could people have used an activator with glucose?	1.2688104487256164
+Does glucose come off in the absence of glucose?	1.2654620587459209
+What come OFF?	1.2499885420896353
+Would so another thing in theory be to have an activator?	1.2011900951920569
+What does it turn out there are probably good reasons makes these choices?	1.1907149634458145
+Who does polymerase's not?	1.1855713455349424
+Does polymerase turn out it's a crummy promoter?	1.1820064861163346
+Does polymerase's not such a happy site for binding RNA polymerase?	1.181232298323676
+Who 'ves done it with another repressor?	1.1786575026524542
+If glucose is around, who wants it to bind to the activator?	1.177994038944414
+What does it turn out there are probably good reasons the cell makes?	1.1666719144169475
+What did people know?	1.161673683494836
+Is repression and activation of genes in response to different kinds of signals there are a few details that's pretty much what happens?	1.155754817748074
+Does so another thing in theory turn out life tries everything?	1.152142314327008
+What does it turn out there are probably the cell makes these choices?	1.1427087267450404
+If the glucose is absent does it come off?	1.1404760445986923
+What starts off?	1.1293156508008309
+What 'll we call this one the lactose related operator for?	1.1272594104538811
+What grab onto those discoveries?	1.1231453933856077
+What turns out there are probably good reasons the cell makes these choices?	1.1226035067201017
+Who should know when glucose is low?	1.122191415806855
+What did who make by the way?	1.1209635526761499
+What's interesting?	1.1123991541419198
+Did people know the answer was repressors?	1.1025047799023073
+If the glucose is present, does it bind?	1.0951851443970475
+Who told you that polymerase likes to sit down there?	1.0948688436132166
+Who 'mes going to make your life easier?	1.0914917547506309
+What did they know was repressors?	1.0849851092345464
+What is we do not want beta gal if there's glucose?	1.0750491913601343
+What is the promoter?	1.0675157582465666
+What does it turn out tries everything?	1.067299092010936
+What do you 've done with another repressor?	1.0666653184353057
+What are as to whether we would rather sense the presence of something or the absence of something?	1.0663437571170649
+What does it turn out life tries?	1.0609832435348006
+Who is our problem do not want beta gal if there's glucose?	1.0588807279402666
+Who knew the answer was repressors?	1.0496770483802522
+Could the solution here alternatively be an activator?	1.0474765254605916
+What could it be elsewhere on?	1.040090093767632
+Is the promoter another protein that sat down over here and helped stabilize?	1.035120764954442
+Is a second statement's solution now a glucose repressor?	1.0313875154309926
+What do so now notice?	1.0272399157062069
+What does the next gene over encode?	1.0237572150499519
+Is the molecule cyclic AMP?	1.0184283933679614
+Did people discover the lac repressor?	1.0117265391494663
+Who 're overloading this poor repressor here?	1.0079033905713235
+If glucose is around, what do you want to bind to the activator?	0.9997176609250229
+Who: Binds to this operator?	0.9926839586062097
+Who did I tell that polymerase likes to sit down there?	0.9890114934694341
+What does it turn out's a crummy promoter?	0.9816183039123498
+If glucose is around, who wants it to come off?	0.9810990883970085
+If there was another promoter, what then becomes an activator protein?	0.9787333114221626
+What do people 're using?	0.9780925091875783
+What does polymerase turn out's a crummy promoter?	0.9763551296494619
+Does rNA polymerase like to promote?	0.9738976510368376
+What did people know the answer was?	0.9658396049891376
+Who grab onto those discoveries?	0.9444049098821199
+Does rNA polymerase like to sit down here?	0.9315204590144155
+What's not?	0.9276211326501573
+Then if glucose is low, does it turn out another molecule is high?	0.9234809877225301
+What does this protein bind?	0.9190196529979855
+If glucose is present who go?	0.9155766666269298
+Are the choices as to whether people would rather sense the presence of something or the absence of something?	0.9056735293322058
+What do so now notice we could run?	0.9042995281477251
+Who had your lac statement?	0.8980596465584081
+What does it have?	0.8955793332862707
+What do they grab onto?	0.8920583509432005
+What does it come off in?	0.891839036756054
+Who do what do want its properties to be?	0.8881739306549592
+Does PROFESSOR's the opposite?	0.880255810528904
+What now notice we could run this logic?	0.8761973428354151
+Do people want to be able to respond quickly?	0.8641266462002539
+What do so now notice could run this logic?	0.8590786323042332
+If the glucose is absent what comes off?	0.857360261679216
+What do I 'm going to make easier?	0.8476463710256281
+If glucose is not around does it sit down?	0.8347989221348873
+Who do so now notice could run this logic?	0.8306733724865807
+What do you want its properties to be?	0.8240269647760592
+If glucose is around, what do you want to come off?	0.820128498368244
+Could people have used the glucose repressor?	0.8191166356702189
+Who 'ves written a second statement?	0.8183332196397455
+Who do not have too much going on at the same time?	0.8164588620076398
+What now notice people could run this logic?	0.8149714135990223
+What do what do you want to be?	0.8065139482648724
+What does it turn out that's not?	0.805374612425517
+If the glucose is present, what binds?	0.8011776207126666
+Who have a system like this?	0.794320123006131
+What is our problem we do not want if there's glucose?	0.7920404037360309
+Then if glucose is low, what turns out another molecule is high?	0.7883122733899335
+Who do you 're?	0.7836267227930978
+What 've done that?	0.7783728628713122
+Does polymerase's a promoter?	0.7768407101897343
+What is a second statement's solution now?	0.7766458190876879
+What do we not have too much going on at?	0.7714620510375445
+Does glucose's using a trick?	0.7632070909481621
+Will people really not let go of them?	0.751670742420603
+Who 'res going to have some repressor?	0.7504061902730816
+What turns out that's not the solution?	0.7429065302721103
+What said IF lac, then come OFF, and here you have IF glucose, then go ON?	0.7322589215661313
+Also do activators work?	0.7262644822513076
+What turns out it does not do it that way?	0.7245378265523978
+Who 'res engineers?	0.7222764030338467
+Who has my repressive operator site?	0.719226337607946
+What's using a trick?	0.715629315224086
+What do you 've written?	0.7113294206050962
+Who 've done it?	0.7078776915598155
+What does it's just down?	0.7010960800472095
+Who does it turn out it's?	0.6902620717997072
+Do lac, then come OFF?	0.6893677613135472
+Who could have used the glucose repressor?	0.6879658871331829
+What could the solution here alternatively be?	0.6870244404973325
+What did people discover?	0.6809327355134995
+Does what's going to be?	0.6753229391154163
+Does polymerase's not a very good promoter?	0.6568671801757797
+What does that turn out does not do it that way?	0.6445062446395604
+Who did your lac statement say IF lac, then come OFF, and here have IF glucose, then go ON?	0.6345872345063555
+What does it's not?	0.627318916003077
+What's a good model?	0.622388173773806
+What does it turn out there are probably good reasons?	0.6190267589651288
+Who expected exactly your model?	0.6182012631312197
+What's just down the road?	0.6163642194788861
+What do you know?	0.6160968220217624
+Does what start transcribing?	0.610947566046816
+What does it help to sit down there?	0.6010035592038421
+If you 're not going to repress, what could you do?	0.6004065354543273
+Who have our operator?	0.5965820252372012
+What helps RNA polymerase to sit down there?	0.5948061214244384
+What expected exactly your model?	0.5903607152672212
+What would for other systems?	0.5890806801363
+Who should know that trick?	0.5758882504600118
+What would that be?	0.5728116809449237
+If glucose is not around what sits down?	0.5655302240098377
+Who 'ves got to decide?	0.5614749312559786
+Who have our promoter?	0.5612854744899598
+Who does it's?	0.5529224963857848
+Who has my promoter?	0.5480648113563176
+What do we have?	0.5443925427446754
+What does it's at?	0.5415547449355722
+What it would for?	0.5413977302959205
+What's at all engineering?	0.5351945419259032
+Does that's where the repressor is going to bind?	0.5274979448409982
+Who have our genes?	0.5260881896520149
+What could people have used?	0.520693381366742
+Who want to be able to respond quickly?	0.5197170350271112
+What do we 've done?	0.5175938229060673
+Do we 're using an activator with cyclic AMP?	0.5159713040928113
+Who does that's?	0.5152405389246886
+What did you have?	0.5117552382804147
+What was all going to be repressors?	0.5093715963482961
+What does it's using?	0.49638256014081406
+What's all engineering?	0.4938664690385677
+What does that's?	0.4854079565253342
+Does what start off?	0.467113204548147
+What does it's?	0.4664093207264648
+Does it have a cyclic AMP binding site?	0.45507742728882317
+What's the opposite?	0.4500525947648206
+Is repression and activation of genes in response to different kinds of signals there are a few details I leave out here?	0.4493686174454603
+If this is a signal of low glucose, should binding cyclic AMP make the activator sit down or not?	0.44525114834652024
+Does different gene?'s not?	0.4357963230632098
+'ll my repressor also be capable of obscuring that promoter?	0.43338962747439247
+What does it turn out does not do it that way?	0.4207036907662882
+Who loves it?	0.40426760475186896
+Who could make it a better promoter if there was another protein nearby that also helped bind the RNA polymerase and made it an attractive site to sit down that has stabilized the RNA polymerase there?	0.4041024895917007
+Who knows what?	0.3890568998134607
+Who do we have?	0.3687634716008905
+Who do I have?	0.3660808082024736
+What do I love?	0.3617421387400761
+Should you know when glucose is low?	0.33619107829209893
+Could we have used an activator with glucose?	0.33404106187773186
+What's it?	0.31935961152183
+What do I have?	0.30646483568728566
+If this is a signal of low glucose, what should binding cyclic AMP make sit down or not?	0.2746078044785505
+Does it come off in the absence of glucose?	0.27352429510321175
+What really will not let go of them?	0.26139216007987653
+Do we 're overloading this poor repressor here?	0.26093762748836236
+Does this protein bind cyclic AMP?	0.2568498973441704
+Could it be elsewhere on the chromosome?	0.25286121218018476
+'ll we call this one the lactose related operator for your model?	0.24842168208803228
+Does it turn out there are probably good reasons the cell makes these choices?	0.2173233582133598
+What work, also?	0.21389291070123084
+Who 'ves got?	0.20991167238678643
+What does it turn out?	0.20139464881899527
+What did they know?	0.1993617502424594
+Does it's not such a happy site for binding RNA polymerase?	0.19093461896356878
+Do they grab onto those discoveries?	0.15208857855184243
+Did they know the answer was repressors?	0.1514714282603724
+What did they expect?	0.15084231771144352
+What 'll also be capable of obscuring that promoter?	0.13660205886886478
+If glucose is present do we go?	0.1325320142955757
+If glucose is around, do you want it to bind to the activator?	0.1307580690908443
+Does PROFESSOR: bind to this operator?	0.1303836632556461
+Does it turn out life tries everything?	0.12989275842931525
+Who does it's not?	0.12753470848333115
+What could happen?	0.11548795758179087
+What would be perfectly fine?	0.1120238407668841
+Do people grab onto those discoveries?	0.0940283880671533
+Does that's how life works?	0.0911982417529047
+Who really will not let go of them?	0.08559054566717261
+What did I tell you?	0.07936837473063552
+Who knows?	0.05773280001408443
+Does it turn out that's not the solution?	0.02061647394987176
+What does polymerase turn out?	0.01964484424695212
+What did they know the answer was?	0.014806253347202869
+Do we not have too much going on at the same time?	0.013129178784527351
+Do you 're going to have some repressor?	0.012149442696580692
+What do we 're using?	0.004566807855757471
+Do you 're engineers?	-0.010632404346871072
+Who will they really not let go of?	-0.01734254698382509
+Is your solution now a glucose repressor?	-0.02342677411868066
+Should you know that trick?	-0.023865853141675553
+Do you 've done it with another repressor?	-0.024382957610308287
+What happens?	-0.025332617181527795
+Are the choices as to whether we would rather sense the presence of something or the absence of something?	-0.027042792786680314
+Do so now notice we could run this logic?	-0.030226872648720704
+What will they really not let go of?	-0.04307872004553026
+Do you 've written a second statement?	-0.05360949600419951
+Do I 'm going to make your life easier?	-0.06549794919677754
+Do we want to be able to respond quickly?	-0.0832775548784499
+Who will people really not let go of?	-0.08396500065912105
+What does not actually happen?	-0.09048399584181899
+Do so now notice people could run this logic?	-0.09210663739902003
+Do you 've got to decide?	-0.10005634730840973
+What will people really not let go of?	-0.10970117372082622
+Does it turn out it's a crummy promoter?	-0.112896106657155
+Does it's just down the road?	-0.11399454360105676
+Could we have used the glucose repressor?	-0.11596946008058451
+What do we 're overloading here?	-0.11946765134505699
+Does it's a good model?	-0.12483589181547239
+Do people 've done that?	-0.1360995089722008
+If glucose is around, what do you want it to bind to?	-0.14034536925696073
+Would that be a great idea?	-0.14057993096886312
+What is our problem?	-0.15701974478339265
+Does it help RNA polymerase to sit down there?	-0.15712891308429633
+Do we have a system like this?	-0.1614617573207675
+Does that's Cyclic?	-0.16391907412248452
+Does it turn out it does not do it that way?	-0.1707327797367948
+Is our problem we do not want beta gal if there's glucose?	-0.1727859554742457
+Did I tell you that polymerase likes to sit down there?	-0.17296938584596866
+It would for other systems?	-0.1732311773374402
+Does it's at all engineering?	-0.19973297778208998
+Did you have your lac statement?	-0.2340928023541211
+If you 're not going to repress, could what else you do?	-0.23593820425379364
+If glucose is around, do you want it to come off?	-0.23664674146285725
+Do you know what?	-0.24603527825678118
+What do you 've done it with?	-0.24700473739477458
+Does it's all engineering?	-0.2505669000888149
+Does that turn out it does not do it that way?	-0.2532609500724361
+Was it all going to be repressors?	-0.25665652995415944
+Does it's using a trick?	-0.2604305692824811
+Does it's a promoter?	-0.28103902030522043
+Do what do you want its properties to be?	-0.28593403584724286
+Does it's the opposite?	-0.2870997874799639
+Do you 've got?	-0.2997430333418736
+Did your lac statement say IF lac, then come OFF, and here you have IF glucose, then go ON?	-0.3041440049444748
+What is your solution now?	-0.3147687523336402
+Does it start transcribing?	-0.3191141213015143
+What do you 're going to have?	-0.3555130086999625
+Does it's not a very good promoter?	-0.35923581640013835
+Would it be perfectly fine?	-0.39681562324271824
+Does that's it?	-0.3986652895050302
+Could it happen?	-0.3995062000066112
+Do I have my repressive operator site?	-0.4099056287808902
+What could we have used?	-0.4153428410928184
+Does that's interesting?	-0.41747793512568254
+Do we 've done it?	-0.42684094048039967
+Did they expect exactly your model?	-0.44720058681155406
+Does it start off?	-0.4629484828001833
+Does that's what?	-0.4761349452403614
+Will they really not let go of them?	-0.481872570940479
+Do we have our operator?	-0.5235167763548234
+Do we have our promoter?	-0.5533438932249433
+Does it happen?	-0.5555123616299125
+Do you know?	-0.5599904787327352
+Do I have my promoter?	-0.5616181693031286
+Could I make it a better promoter if there was another protein nearby that also helped bind the RNA polymerase and made it an attractive site to sit down that has stabilized the RNA polymerase there?	-0.5640979779855679
+Do we have our genes?	-0.5810197292680002
+Do I love it?	-0.5884820936913493
+What did your lac statement say?	-0.5946521830286489
+What does that turn out?	-0.6048296719833224
+Does it not actually happen?	-0.6108654041662402
+Does it's not?	-0.6355075822407044
+What did your lac statement say IF lac, then come OFF, and here you have?	-1.5317793363529448

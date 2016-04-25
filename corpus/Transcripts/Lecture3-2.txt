@@ -1,0 +1,47 @@
+PROFESSOR: Welcome back. You're still here. That's good, everybody is still here. And what I want to do today is pick up on our themes from biochemistry. We last time, you will recall, looked at our code of arms. 
+
+Biological function, two ways of understanding it-- biochemistry, genetics. Proteins are what I said are the molecules of major interest in biochemistry. Because proteins are amazingly diverse. Now lipids, they're good, carbohydrates are OK, but proteins have stunning, stunning diversity. And when we talked about Buchner and the discovery of enzymes, these amazing things that could carry out chemical transformations, what was really going on was proteins. So that's what we're planning to do today is understand the structure of proteins. 
+
+So what have we understood so far? Well, we've understood atoms-- well, barely. We've given brief cursory mention to the existence of atoms. You'll have to take a chemistry course to really understand atoms. We've mentioned molecules, we've mentioned bonds, and we've done some just enough to have a handle on the different kinds of bonds that get made that help us understand biological molecules. 
+
+And we've done injustice to all of the wonderful things that bonds really do in all of the details. But you know enough with covalent bonds, with hydrogen bonds, with ionic bonds, with van der Waals interactions, and with this thing that isn't the bond. It's hydrophobic forces, it's entropy-- folding something in to avoid breaking up other good bonds. So we've done that. 
+
+We then looked at examples. We looked at the examples of lipids and showed how a molecule that was amphipathic had a partly hydrophobic tail-- that was part hydrophobic, had a very hydrophobic tail and a very hydrophilic head-- would spontaneously organize into a shape like a lipid bilayer that could wrap a cell, and you didn't need any magic to make the membrane of a cell. You could simply invoke the laws here of chemistry and make a membrane. 
+
+So we did lipids. We talked about ATP, a high energy molecule that has three very negatively-charged groups right next to each other. And we anticipated, and we're going to see in the class, that that is a great source of energy. When you need to get energy for reaction, you're going to break those bonds and use it. 
+
+And then, we talked about sugars and carbohydrates. Sugars are important because, of course, that is what Buchner's yeast-- carbohydrates-- was digesting. It was digesting sugars to make alcohol and carbon dioxide. 
+
+Well, it turns out the digestion of sugars is not a trivial matter at all. Sugars are the fundamental energy source for most cells. And we're going to look a lot more deeply into understanding how sugars are digested. In fact, lecture number five is going to be all about the digestion of sugars. 
+
+But to get to any of that, we have to go to one of the most interesting molecule types-- proteins. And that's the subject of today's lecture. So proteins-- and particularly today, protein structure-- all right, so that's where we were. 
+
+Section one-- proteins, primary structure. Proteins have four levels of structure. They have primary structure, secondary structure, tertiary structure, quaternary structure as you might imagine if you have four levels. And we're going to start with the primary structure of proteins. It's actually ridiculously simple, the primary structure of proteins. 
+
+You need to know what the building block is, and then you need to know how the building blocks are joined together. And then, you can join together as many building blocks as you want to. The building block is called an amino acid. 
+
+And amino acids have a very simple structure. In the middle is a carbon, and it's like the big dog carbon here. It's called the alpha carbon. We write C alpha to indicate how important that carbon is there. 
+
+And it has four bonds it's going to make. One of those bonds is always just plain hydrogen. One of those bonds is an amino group. One of these bonds here-- a carboxyl group. And one of these bonds here connects to something else. And I'm writing an R there. R means something else. 
+
+That something else is referred to as the side chain of the amino acid here. So we have a side chain, and I'm not going to say what the side chains are yet. We're going to come to them in just a moment. So we've got four bonds. It's always an amino, always a carboxyl, always a hydrogen, and some side chain-- incredibly simple. 
+
+Now, we're going to stick two of these guys together. So we're going to stick them together. I'm going to make another amino acid here, another alpha carbon, and another side chain. And maybe, since that was the side chain of the first amino acid, I'll label it, side chain number one, and I'll label this guy, side chain number two. That's it. 
+
+Now, we are going to pull off the standard reaction, which basically makes everything in this course go, which is dehydration synthesis. We're going to take two monomers, and we're going to connect these two monomers by eliminating a water here. 
+
+So the reaction kicks out this water. This OH and this H comes off as a water. And we get a bond here. And that bond is called the peptide bond. So let's take a look at it here. We have a peptide bond C alpha, C alpha, over here. And we've got another OH there that could be used to go on and on and on. 
+
+So here is our first amino acid here. Here's the second amino acid here. And we could keep going-- another C alpha here, and onward. So this peptide bond is a very special bond. It's what's joining together the monomers. 
+
+And that peptide bond-- single bonds can rotate freely, double bonds cannot rotate freely. Although I call this a single bond, it has the chemists say partial double bond character. That means, it really doesn't rotate very freely. 
+
+And we can think about this thing here as kind of a plane, a planar bond there. It can rotate here, it can rotate here, and we've got our side chains coming off, and they can rotate. Here's side chain number two, here's side chain number three, and again. 
+
+So we have these peptide bonds, these planar bonds, and we have these side chains coming off. And you've got three angles to play with. You can turn this guy, you can turn that guy, you can turn that guy. That's it, that's all there is to a protein. 
+
+Any questions about protein structure, the basic aspects of protein structure? When I talk about the primary structure of a protein, I just mean amino acid, amino acid, amino acid, amino acid, amino acid, amino acid, and the identities of which ones they are. So it's ridiculously simple-- sounds boring. 
+
+Turns out it's not so boring. Turns out that these side chains can differ spectacularly. And when they differ spectacularly, they can make that chain fold up in all different sorts of ways. But to understand that, we have to go look at some of those amino acids. 
+
+Let's make sure you've understood what you've just heard. Try answering these questions. 

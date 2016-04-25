@@ -1,0 +1,117 @@
+ERIC S. LANDER: We talked about how to find your gene in the library. You made a library of DNA fragments from different sources-- maybe it was yeast, maybe it was human, and you had to find your gene. So maybe the gene was the gene for ARG1 that encoded a gene needed to be able to grow without supplemental arginine. Maybe the gene was a gene for beta globin. 
+
+We talked about cloning the first one by complementation. We talked about cloning the second one by protein expression. All right, so whatever it is, you now have your clone. You've got the bacterial cell or the yeast cell that carries the plasmid that does what you want. 
+
+How are you going to characterize it? How are you going to study it? That's the subject for today. 
+
+So today's subject, Recombinant DNA 3: Sequencing Your Gene-- or more broadly, characterizing your gene. So we have our library on a Petri plate. Here's our Petri plate. We have different colonies, each of which is carrying a distinct plasmid with a distinct insert. There we go, that guy here. 
+
+There's a whole bunch of cells. I'm going to draw one of those cells. Maybe it's a bacterial cell, so I'll put a little flagellum on it. It's got a plasmid with a little piece of our source DNA here. As well as, by the way, the whole genome of the bacteria which is much bigger than our plasmid, but I'm just drawing it like that. 
+
+We want to characterize that little insert piece of DNA. That's our problem for today. Tell me how big it is. Tell me what its DNA sequence is. That's our job. OK. Let's go to it. 
+
+So I've got my bacterial cell. Here's my bacterium. It's got its little flagellum here to tell you that's a bacterium. It's got our plasmid in it. It has our little piece of source DNA. And then it's got the whole bacterial genome, which in E. coli is 4 million bases long by the way. Remember 4 million bases of genome of the E. coli. 
+
+But I'm not interested in that. I just want my little plasmid. In fact, I just want to study the insert of that little plasmid. How am I going to do that? 
+
+I need to purify my plasmid away from the whole rest of the bacterial genome. Then I need to study the properties of that plasmid. How am I going to purify my plasmid away from the whole genome? I thought the whole point of cloning was that all pieces of DNA look the same. And how were we going to separate any one gene from any other gene? 
+
+And we had this really clever trick of cloning, but now I'm stuck with my piece of DNA in a circle with E. coli. How do I separate that piece of DNA and get away from all the rest of the E. coli DNA? Turns out there's a simple trick. 
+
+This piece of DNA in a little circle is very different than the whole chromosome. The chromosome is this big, long chromosome, and when I just purify total DNA from E. coli, that chromosome gets broken up into little pieces. Little circles have different biochemical properties than linear pieces. And it turns out there are simple, easy, biochemical purifications that will get me circular DNA like that, compared to this chromosomal stuff. 
+
+Turns out, piece of cake. By putting it in these little circles, those were easy to purify. I won't go into the details. But it turns out, no trouble at all. 
+
+So there is such a thing called a plasmid prep. And a plasmid prep-- I just bring up this issue, we do have to still purify that away. A plasmid prep is a bit of biochemistry that really does end up in a test tube with the plasmid DNA over there on the bottom of the test tube, details omitted. 
+
+Now I have pure plasmid DNA. Whew, that was easy. It actually is pretty easy. You could do zillions of preps. It's not a big deal. 
+
+Now, I want to characterize that. I'm going to-- I've already given you a hint, gel electrophoresis. I'm going to take this DNA-- I'm blowing it up again so you can see its vector. You've gotten used to my drawing a vector like this with insert DNA. 
+
+And actually, I got that vector in the catalog. I know this vector is 4,000 bases long. So I've got that, but I want to see how big my insert is. 
+
+How do I measure the size of DNA? I could try looking at it, but that turns out to be really hard because DNA is very little. There are other tricks for measuring the size of DNA. 
+
+Well, if I clone this thing with EcoR1, the first thing I can do is take my restriction enzyme, EcoR1, and cut it open again. So that's good enough. In my test tube, I add the restriction enzyme. Now I have separated out the vector, which I know to be about 4,000 bases long because that's what it said in the catalog, and my insert which I don't know, and I need to measure their size. 
+
+Turns out there's a simple way to measure size and it is to use Jello, effectively. It is to use agar, or agarose. There is a slab of agarose. That is a slab, a three-dimensional thin slab of agarose, the stuff you make Jello from. It's a polymer that forms this complex network of interlocking-- 
+
+We'll look up close at agar. There are all of these fibers and things that are forming a mesh work. There's kind of a complex mesh work. If I had a little hole here-- let's make a little hole at the top of my agar-- and I were to put some DNA in here, and I were to turn on an electric field, is DNA charged? What charge does DNA have? 
+
+STUDENT: Negative. 
+
+ERIC S. LANDER: Negative charge. So which pole would I like to have over here? 
+
+STUDENT: Positive. 
+
+ERIC S. LANDER: Positive charge. So I put my positive charge over here. And a negative charge over here. Then what'll happen to the DNA? 
+
+STUDENT: It'll go down. 
+
+ERIC S. LANDER: It will begin to migrate down. And it turns out that the DNA has to wiggle in between all these little strands of agarose. And it turns out that smaller pieces of DNA move faster than bigger pieces of DNA, and that's the trick. Just that easy-- cheap agarose. 
+
+If I add my DNA, what I'm going to see is that after a couple of minutes, or maybe 15 minutes or whatever, I'm going to actually have two separate, what I'll call bands, of DNA. What will they be corresponding to? I'll see two bands. Two-- it's not single fragments. Yes? 
+
+STUDENT: So why does it correspond to 4,000 [INAUDIBLE]? 
+
+ERIC S. LANDER: So this is the vector, and this is my insert. In this case, is the insert bigger or smaller than the vector? 
+
+STUDENT: Smaller. 
+
+ERIC S. LANDER: Smaller because it's moving faster. How do I know how big it is? 
+
+STUDENT: You want 4,000 and you have a distance. 
+
+ERIC S. LANDER: Well, I got 4,000. 
+
+STUDENT: Compared to something known? 
+
+ERIC S. LANDER: Compared to something known. What known would I use? 
+
+STUDENT: Put the vector in without the insert? 
+
+ERIC S. LANDER: Well, I could put the vector in without the insert, and I would see-- so you want me to make another lane here. So make another lane here, and I could add something to it. We'd just have the vector alone, but that wouldn't tell me about how big this is. Yes? 
+
+STUDENT: A mixture of known lengths? 
+
+ERIC S. LANDER: How about a mixture of known lengths? Suppose I were to go and get a mixture of known lengths, so like that. We call this is a molecular weight ladder-- just a mixture of known lengths. 
+
+I happen to know that that one is about 4,100, and that one is about 3,900, and golly, the 4,000 is right in there. And by the way, this one here is about 2,000, and that's about the same place as my insert. My insert's 2,000 bases long. It's a ruler. It's just a ruler. Now, where am I going to get all these fragments of known lengths to use as a molecular weight ladder? 
+
+STUDENT: Catalog? 
+
+ERIC S. LANDER: It's in the catalog, right. So I just get it from the catalog and I run a molecular weight ladder. And there you go, that's it. Any questions about gel electrophoresis? It's a cool way of doing things. 
+
+Just for fun, I brought one with me. Here's a gel. There is no DNA here. There are no complicated things. There's nothing dangerous-- it's water. That's why I'm bringing it into the classroom. I would normally put on gloves, but this is water. This is blue colored water. 
+
+We take a pipette, we have a little tube here. This is a little pipette, and this is my pipettor. We open this up, we put on my glasses because we do want to get this right, and we'll see what happens. 
+
+Go in here, very slowly take out blue stuff. This would be DNA if we were in the lab, but it's not DNA. And I would be wearing goggles and I would be wearing gloves, but we're just demonstrating. 
+
+And we'll turn this guy around. And you probably can't see a thing, but you'll humor me anyway that there are a whole lot of wells here. People in the first row will be able to see there are a bunch of wells there. 
+
+And we're going to be able to go into well number nine and put some DNA there. Think I got it in well number 10, actually. And there's no DNA, of course, it's blue dye. 
+
+And we also had previously put some here in number four, and that was it. And then what we would do is we'd put on the lid. And when the lid goes on here, we would attach the power supply. Did I get it right? Yep, I got the red on the red and the black on the black, that's always good. 
+
+And we attach the power supply. We turn this on. We wait a little while. 
+
+The blue dye will migrate down, which will tell us how far it's gone. And, of course, that doesn't let us see the DNA that's there. But we follow that blue dye, and we stop it at a certain point and our DNA has migrated. We then have to see our DNA. How do we visualize the DNA in the gel? DNA-- 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: [INAUDIBLE]? 
+
+ERIC S. LANDER: Well, it turns out that there are dyes that will stick to DNA. If you add a dye that sticks to DNA and use the ultraviolet light, you can see the DNA. So let's actually look at some pictures, I think, here. 
+
+Here we've got somebody in proper circumstances wearing gloves, by the way, not like what I was doing here. Loading the gel with dye, loading, turning on the power. And you can see there are actually two dyes that were used here, a blue and a yellow, and you can see it beginning to migrate there. And here, with a fluorescent dye, one can have a picture here and see-- what's this? 
+
+STUDENT: Molecular weight ladder. 
+
+ERIC S. LANDER: Molecular weight ladder. Here are various pieces of DNA. You can measure their sizes very easily. That's it. All right? 
+
+Nothing mysterious at all. Very simple technology. Very cheap. 
+
+Before going on, test your understanding about gel electrophoresis by answering this question. 

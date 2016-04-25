@@ -1,0 +1,272 @@
+What does things like provides nutrients for cells?	2.462153385296063
+When was the cool CRSPR tools only published?	2.329327848744109
+What's your assignment is to devise therapies for heart disease?	2.310957827468211
+What gets the oxygen-rich blood from the lungs?	2.294163437580564
+What is underscored by the fact that if it stops working, bad things happen?	2.241668084042931
+What is oxygen-rich blood coming from the lungs?	2.1921241012521615
+What occurs if one or more vessels here gets blocked?	2.1722897331363433
+What provides oxygen to cells?	2.1629147348015367
+What can begin to occlude the vessel?	2.112800040494678
+What does Blood importantly supply?	2.0925229515815107
+What was only published a few months?	2.0887487683269015
+What does blood get the oxygen-rich blood from?	2.0855994094862376
+What begin to die pretty quickly without oxygen?	2.0210583917641425
+What can gunk begin to stiffen?	2.0092551266521412
+What amongstes other things?	1.9815128988097273
+What does Blood go to?	1.97455625592217
+What does blood provide oxygen to?	1.966762959856671
+What gets deprived of oxygen?	1.9575873473002539
+What here have some proteins, some lipids, and cholesterol?	1.9411064689552793
+What does blood provide to cells?	1.93781981295171
+What's a serious problem?	1.9089557784617401
+What pumps away waste products?	1.8817746296679996
+What does blood get from the lungs?	1.8815432305564035
+What does one or more vessels here go up to?	1.8346736716509955
+What is what gets pumped around?	1.8345963625956598
+What goes to the body?	1.8313108374302358
+What does the blood going around amongstes?	1.7925166401737
+What is talk about rational medicine?	1.7903739835729053
+What does blood's pretty useful to have a heart pumping around?	1.7858805544124128
+What does the brain get deprived of?	1.7778528848564794
+What is through DNA?	1.7672118786467723
+What goes to the brain?	1.75309213875761
+What happens increasingly with age?	1.7273045218118412
+When were some?	1.7031635943124237
+What's the important bit?	1.6995435027226184
+What does blood go to?	1.681161682753699
+What's basically the circulatory system?	1.669518047638514
+What importantly comes back?	1.6636951373410058
+What's a stroke?	1.6595957010292555
+What do blood pumps away waste?	1.6516763345837917
+What does the blood going around do?	1.6428710029498481
+What is gene and protein through?	1.6423652341308375
+What's a brain?	1.6278120777364449
+What your heart pumps?	1.6063650396615958
+What's the problem?	1.6044721456521456
+Who is what I love about introductory biology?	1.5839851879520501
+Is oxygen-rich blood coming from the lungs what gets pumped around?	1.5369635349256345
+What's what chunks of this gunk 're going to talk about some today?	1.533627677389314
+What blood pumps?	1.519967174366323
+What is not a happy vessel here?	1.5079819883707466
+What pumps hormones and other signalling molecules around your body?	1.5049434553591912
+What were years?	1.5037737561963151
+Who know how to do purification of proteins given a particular biological assay?	1.4920219581097687
+What's what we 're going to talk about some today?	1.464224483742807
+What can begin to stiffen the walls of that vessel?	1.4576387441892318
+What importantly supplies the muscles of the heart itself?	1.4360302459538121
+Was the cool CRSPR tools only published a few months?	1.4015041907666372
+What do we know goes to RNA goes to protein?	1.3822849627346403
+Does the blood going around do things like provides nutrients for cells?	1.3805734369795695
+What does Blood importantly supply the muscles of?	1.376272609525952
+Does Stroke occur if one or more vessels here gets blocked?	1.3668859151060433
+Who talked about how to knock out genes in a mouse?	1.3665699051003792
+Who 'mes assuming you kind of are familiar with that?	1.3319779360746518
+What are it pumps around whole cells?	1.3048674402045597
+What can gunk begin to stiffen the walls of?	1.2749173295715877
+If chunks of this gunk go into a vessel of smaller diameter who can occlude, they can block that vessel?	1.2735220180111284
+What is a major vessel in the body?	1.262224106707662
+Is the major vessel a major vessel in the body?	1.2572354859752055
+Who know the connection between gene and protein goes to RNA goes to protein?	1.256386599924955
+If chunks of this gunk go into a vessel of smaller diameter what can occlude, they can block that vessel?	1.2445967714888164
+What are the oxygen carriers there-- and white blood cells of your immune system?	1.2369534894478558
+What do we know the connection between gene and protein goes to RNA goes to?	1.2310810153099756
+What do we know the connection between gene and protein goes to goes to protein?	1.2262524894306712
+Who 'll give you the very brief summary of physiology?	1.222196508893612
+What's pretty easy?	1.2167951023396704
+When did we talk about cool tools that have just come along in the past couple of years?	1.2130314709613912
+What is what I want to do talk about?	1.1981522888963134
+Does Blood importantly come back?	1.1963486486016195
+What are the oxygen carriers there-- and white blood cells of those's immune system?	1.1843660432933993
+Can gunk begin to occlude the vessel?	1.1786999157502547
+Who 're sort of done with the triangle?	1.1784399416988074
+What's pretty useful to have a heart pumping your blood around?	1.1747881947078125
+If they go into a vessel of smaller diameter who can occlude, they can block that vessel?	1.1733089397394214
+Is the important bit underscored by the fact that if it stops working, bad things happen?	1.1705617999368436
+What occurs?	1.168636287698392
+Who is Ago can learn and understand things that did not even exist the last time we taught introductory biology at MIT?	1.1622366356002702
+Who 'ves all learned by now that cholesterol is evil?	1.1551198346237195
+Who could make some DNA sequences that would probably encode it and use them as probes in the library?	1.1532658148244814
+What's kind of cool that you can be right up at that cutting edge?	1.1516246960698697
+If they go into a vessel of smaller diameter what can occlude, they can block that vessel?	1.1456045208930101
+Does the blood going around amongstes other things?	1.1435659439077464
+Does blood get the oxygen-rich blood from the lungs?	1.141522571877677
+What do we 're sort of done with?	1.124195476888394
+What does it get the oxygen-rich blood from?	1.1086336649081252
+Who talked about all these cool tools for interfering with genes at the level of DNA and RNA?	1.08808007751444
+Does Blood go to the body?	1.043710380935282
+What did we talk about for interfering with genes at the level of DNA and RNA?	1.0405351465148782
+If chunks of this break off and are carried down who can occlude, they can block that vessel?	1.033952790139617
+Does blood provide oxygen to cells?	1.0277884661436811
+Who is you guys can learn and understand things that did not even exist the last time we taught introductory biology at MIT?	1.0272749334510887
+Does the brain get deprived of oxygen?	1.0268742656751706
+Does blood's pretty useful to have a heart pumping your blood around?	1.0211672538205399
+If chunks of this break off and are carried down what can occlude, they can block that vessel?	1.0058007344787083
+What does that's is to devise therapies for heart disease?	0.994466406008016
+Who 'ves reduced it to its iconic form?	0.9911687586666755
+What does that's about?	0.9840335725764413
+What can gunk begin to occlude?	0.981790999853825
+What does it provide oxygen to?	0.9770172070061072
+Who talked about cool tools that have just come along in the past couple of years in the past year or so?	0.9709841815995683
+What do we know to?	0.9686822263116863
+What does it provide to cells?	0.9480740601011461
+What is what I want to do?	0.942560860624506
+What was the critical thing that we could not do until the last lecture go back from a gene to a function by knocking out that gene?	0.9336727823981972
+What does it's kind of that you can be right up at that cutting edge?	0.9244626079601319
+If we knew the protein because we purified it biochemically, who would be able to use it an antibody against it?	0.9170471507270093
+What can it begin to stiffen?	0.9117674467135131
+What do those brain cells begin to die pretty quickly without?	0.9094869725090646
+Does one or more vessels here go up to the brain?	0.9064319346671947
+What does it get from the lungs?	0.898986232359094
+Who would be very disturbed to know that your own coronary vessels-- you will find in students of your age?	0.8936938660428224
+What do these atherosclerotic plaques here have?	0.890663664896272
+How many vessels here goes up to the brain?	0.8858647529428878
+Does blood go to the brain?	0.8847314425214132
+What is the important bit underscored by?	0.8694886378195961
+If we look at one of those vessels what--'s the vessel?	0.8619149236872046
+Do Heart attack?	0.8448296929906169
+What 'll represent our heart?	0.842011000013124
+Is gene and protein through DNA?	0.8397361097506013
+What is the major vessel?	0.8279805206263346
+What does it's pretty useful to have a heart pumping around?	0.8193861162768623
+Who 'ves left out a few details?	0.798820953685873
+Who can get strokes?	0.7962129663025033
+What do we read out?	0.79332745099324
+What did we talk about in the past year or so?	0.7908201571538849
+Who will find accumulations of atherosclerotic plaque already?	0.7894946986430007
+Who can get heart attacks?	0.7892452636951941
+What is Ago?	0.7882418167905437
+Who 'd like you?	0.7810035213817319
+If that look at one of those vessels what--'s the vessel?	0.7800579622483519
+Who read out the protein?	0.7782693817611297
+What do I 've reduced to its iconic form?	0.7652130109108004
+Who 'll put a heart?	0.7282137165631797
+Do blood pumps away waste products?	0.7168195517003826
+What can you get?	0.7065915521166153
+Does a stroke occur?	0.6983071571540995
+What do you 've all learned by now?	0.6973317387675666
+What do I 've left out?	0.6964598249075995
+Were years some?	0.6870125983645736
+Who have not actually covered much physiology in the course right now?	0.6805263045058128
+Who 'll draw some heart here?	0.6706276291144657
+Who 'd I like?	0.6698918569930001
+What have we not actually covered much physiology in right now?	0.6632907840491347
+What do it pumps away waste?	0.6624014329768855
+Who completed our triangle?	0.6586150308876229
+If we can determine its amino acid sequence who could kind of figure out what its DNA sequence must be?	0.6484451494889765
+Does that's what chunks of this gunk 're going to talk about some today?	0.6360135738078281
+Who have our triangle?	0.6104947567643155
+Is Ago what I love about introductory biology?	0.5922028392949299
+What does that's?	0.5763860514120607
+What does that happen increasingly with?	0.5713092639180661
+Who made it fully operational?	0.5615496531609392
+What goes up to the brain?	0.5566409083940269
+What do I 've reduced it to?	0.551748440536149
+Does that's what we 're going to talk about some today?	0.544302370122697
+What will you find accumulations of already?	0.5301188072932039
+If we can determine its amino acid sequence what could we kind of figure out?	0.5232495595365783
+Who all has a heart?	0.5211735220281883
+Do we know the connection between gene and protein goes to RNA goes to protein?	0.5034632163251063
+What it pumps?	0.4871524229452968
+Does that's your assignment is to devise therapies for heart disease?	0.471220446850932
+Do we know how to do purification of proteins given a particular biological assay?	0.4692612629318087
+What do we know?	0.464602881759864
+Does Blood importantly supply the muscles of the heart itself?	0.45883001934416656
+What does that's basically?	0.4386482453220304
+Who 'll put it right here?	0.4296999167986446
+What can we do too?	0.4106717163724425
+What did we make fully operational?	0.4081471286278464
+What is Ago about?	0.4029425243569851
+Did we talk about how to knock out genes in a mouse?	0.40270289894538047
+Who hopes you will be surprised at how all these tools you 've learned about come together and make it possible to think about some really important and really complex problems?	0.3859478711720161
+Who can do that too?	0.3836148940148656
+What pumps blood?	0.3606363457941437
+What does that's for?	0.36063288177710406
+What was the critical thing that we could not do until the last lecture that we did go back from to a function by knocking out that gene?	0.36024788378438966
+What was the critical thing that we could not do until the last lecture that we did go back from a gene to by knocking out that gene?	0.3555231247009363
+What did we complete?	0.3532839035164441
+Do we 're sort of done with the triangle?	0.3388100140439172
+Do you 've all learned by now that cholesterol is evil?	0.33878995510194576
+Did we talk about all these cool tools for interfering with genes at the level of DNA and RNA?	0.3356816760589796
+Can gunk begin to stiffen the walls of that vessel?	0.3337357469877831
+Will you find accumulations of atherosclerotic plaque already?	0.31611687167862623
+What do we have?	0.31285025771551633
+What does it's?	0.30942932338398044
+What attack?	0.30315730782761285
+Can it begin to stiffen the walls of that vessel?	0.29633969043609865
+Who do I hope will be surprised at how all these tools you 've learned about come together and make it possible to think about some really important and really complex problems?	0.27333612127608653
+What 'll we put right here?	0.26288480674582293
+What can it begin to stiffen the walls of?	0.22700523892718794
+If they go into a vessel of smaller diameter can they occlude, they can block that vessel?	0.22630483688267766
+What will you find already?	0.22011273773754914
+Is what I want to do talk about rational medicine?	0.21976186055390334
+Does it's kind of cool that you can be right up at that cutting edge?	0.2070464639203058
+Are it pumps around whole cells the oxygen carriers there-- and white blood cells of those's immune system?	0.20451499069011625
+Is Ago you guys can learn and understand things that did not even exist the last time we taught introductory biology at MIT?	0.20246643060754366
+If we look at one of those vessels does-- here's the vessel?	0.18932426598857877
+Who knows?	0.18777396138890023
+Does it get the oxygen-rich blood from the lungs?	0.16902983019492268
+Could we make some DNA sequences that would probably encode it and use them as probes in the library?	0.16128620531026394
+Would you be very disturbed to know that your own coronary vessels-- you will find in students of your age?	0.15552504704452152
+Do these atherosclerotic plaques here have some proteins, some lipids, and cholesterol?	0.14889722137029526
+Do those brain cells begin to die pretty quickly without oxygen?	0.12789663324760703
+If that look at one of those vessels does-- here's the vessel?	0.108406816353952
+Are it pumps around whole cells the oxygen carriers there-- and white blood cells of your immune system?	0.10251895341103712
+Can it begin to occlude the vessel?	0.10186873135088836
+If chunks of this break off and are carried down can they occlude, they can block that vessel?	0.06090979647011885
+Do I 've left out a few details?	0.054203460271749826
+Does it provide oxygen to cells?	0.03804271329311737
+If chunks of this gunk go into a vessel of smaller diameter can they occlude, they can block that vessel?	0.019298532052100636
+Do I 'm assuming you kind of are familiar with that?	0.01858841274508949
+Who now need to do?	0.018170128480943237
+Did we talk about cool tools that have just come along in the past couple of years in the past year or so?	-0.005802349515120708
+Can you get strokes?	-0.011163046196121629
+Do I 've reduced it to its iconic form?	-0.017670475263715568
+Can you get heart attacks?	-0.019950442491732945
+Do we read out the protein?	-0.029908608164886274
+Does it's a serious problem?	-0.046263373564060295
+Who goes on?	-0.049913052811378256
+If we knew the protein because we purified it biochemically, would we be able to use it an antibody against it?	-0.07235744657465304
+'ll I put a heart?	-0.08754959701903076
+'ll we give you the very brief summary of physiology?	-0.08950807700834806
+If we look at one of those vessels what does-- here's?	-0.08952053701619134
+'ll that represent our heart?	-0.09017378456078173
+Who can go back and forth here?	-0.10460642524971209
+Does that's a serious problem?	-0.11300175552225777
+What is complete?	-0.11391169548445224
+What can it begin to occlude?	-0.1156966800848025
+Have we not actually covered much physiology in the course right now?	-0.12550908250272697
+If we can determine its amino acid sequence could we kind of figure out what its DNA sequence must be?	-0.1304955776012915
+'ll we draw some heart here?	-0.1392017020845504
+What was go back from a gene to a function by knocking out that gene?	-0.15728760671146313
+What could we make?	-0.1614317127791297
+If that look at one of those vessels what does-- here's?	-0.17137749845504358
+Does that happen increasingly with age?	-0.1934091367889037
+Does that's the important bit?	-0.2190528106824543
+Does it's pretty useful to have a heart pumping your blood around?	-0.2430458997434577
+Does that's basically the circulatory system?	-0.25765412439718216
+Does that's a stroke?	-0.26013163738887757
+Do it pumps away waste products?	-0.2724553499065234
+What 'll I put?	-0.2778373911527581
+Do you all have a heart?	-0.2817140844971673
+Does that's a brain?	-0.28677706138711856
+Does that's the problem?	-0.30591023408468687
+'d I like you?	-0.32234112437008977
+What 'll we draw here?	-0.3624951301541057
+Is this not a happy vessel here?	-0.41094246010697133
+Can we do that too?	-0.4156014771418073
+Do you know?	-0.4299493173579194
+Do you go on?	-0.46957936935344335
+Did we complete our triangle?	-0.48105942279729685
+What do you all have?	-0.4949351818415726
+Does that's pretty easy?	-0.5029485441577959
+What 'll that represent?	-0.50471993853318
+Do we have our triangle?	-0.5122761227112775
+Did we make it fully operational?	-0.5323293892601062
+What do I hope about?	-0.5419258825021911
+Do we now need to do?	-0.5716655553498367
+Do I hope you will be surprised at how all these tools you 've learned about come together and make it possible to think about some really important and really complex problems?	-0.6140810840466266
+Was the critical thing that we could not do until the last lecture that we did go back from a gene to a function by knocking out that gene?	-0.6531368210309958
+Is it complete?	-0.6764515837193708
+'ll we put it right here?	-0.6802951814367484
+Can we go back and forth here?	-0.6881556622162823
+What is this not here?	-0.7090244481465606

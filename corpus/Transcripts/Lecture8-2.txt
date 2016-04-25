@@ -1,0 +1,81 @@
+PROFESSOR: All right, so welcome back. We have talked about genetics. We've talked about Mendel and the discovery of discrete particles of inheritance and the laws of inheritance. We talked about Morgan and the fly lab at Columbia University in the early part of the 20th century, really that very first decade when people began to realize that these laws of inheritance were general and could be used to trace the inheritance of genes in crosses or fruit flies and could even be used to map genes on chromosomes relative to each other. 
+
+Now that's pretty remarkable for this first decade of the 20th century. But today we're going to talk about what else went on then and has gone on over the course of the next century, which is not just an interest in pea plants and not just an interest in fruit flies, but an interest in human beings. And so today's lecture, which is close to my heart because it's stuff I work on, lecture number eight, will be our first lecture on human genetics. We're going to do the basics of it today, and later in the course we're going to come back and do more about human genetics. 
+
+So we have our obligatory coat of arms that I must put up. Here is our coat of arms, genetics, studying the gene, biochemistry, purifying from the cell proteins. Both of these as ways to study function and, by the way, the twain have not met yet. Biochemistry and genetics have still had nothing to say to each other in this course. 
+
+There's no way to relate genes and protein. You of course know that that's going to happen. There will be a way to relate genes and proteins, don't worry. But so far no connection at all. 
+
+So folks got really excited at the beginning of the 20th century when they saw these laws of inheritance. My goodness, there's a book from 1911 that's also incredibly excited. I'll read you a bit more from this later, but just this preface is breathless in 1911 about the great advances in our knowledge of heredity, revolutionizing the methods of agriculture. And it's clear that this was going to have an impact on humans, and everybody's going around trying to look at human traits, human pedigrees, and interpret them in light of this Mendelian understanding. 
+
+So people, needless to say, knew full well that things ran in families. For example, over here you have the famous, the very famous, the Hapsburg lip. This jaw that protrudes, and this was in the Hapsburg monarchy, and people knew this transmitted in families. And now in light of Mendel, and the revival of Mendel in the beginning of the 20th century-- the rediscovery of Mendel-- they could say that transmits. 
+
+Check out this picture here. That's seven foot, seven inches. What you can see is this is a pretty striking phenotype here, right? This huge phenotype of seven foot seven people. Normal size people, they look like dwarfs here, but this is normal people. This is what seven foot seven looks like. This was what average looked like in this French family here. Pretty stunning, for example. 
+
+Hemophilia, the transmission of hemophilia famously in the royal bloodlines in Europe. Queen Victoria here, being a carrier transmitting to Leopold, who's affected. And transmitting down here, and the transmission of hemophilia in this pedigree. People were really excited about all these kinds of things. There were other traits that were not hard to miss and notice that they transmitted in families. 
+
+Who can figure out what's unusual here? What is it? Polydactyly, which means what? Many digits. You see we've got a pretty wonderful X-ray. Looks pretty good, except it goes one, two, three, four, five, six. There's an extra finger there in this polydactyly. And you can see that that transmits in families here pretty beautifully. 
+
+So all of these sorts of traits got people extremely excited about Mendel and human biology. And they were just as excited as they could be, it wasn't just fruit flies. So let's talk for a moment. We'll leave polydactyly up here, and let's start section one. And ask when you look at pedigrees-- not fruit flies in a vial, but when you look at pedigrees-- what do you look for to tell whether a trait has a particular type of inheritance? 
+
+Dominant inheritance, recessive inheritance, X-linked inheritance, let's see if we can look at some of these pedigrees and enumerate some of these rules. So section one, let's take a look at sex-linked inheritance. And by sex-linked we really mean X-linked due to mutations on the X chromosome. And to be specific, we really mean that these phenotypes are recessive phenotypes in that, if you have a normal copy-- we'll call it a wild type copy, but for human beings you often don't say wild type, you just call it normal-- and you have a mutant copy, the heterozygote would have a normal phenotype. 
+
+So it's a recessive trait, but what's unusual about males is males only have one X chromosome. And they have this crummy little Y chromosome that doesn't accomplish much other than it actually does make them male. And because it doesn't have the matching genes for a lot of these things, males only have one copy. And if they carry a mutant allele, they will show the phenotype. 
+
+So let's take a look, part A, at a pedigree. I'm just going to draw a very simple pedigree here, and see if we can enumerate the sorts of features that we would see. Let's say for this trait dad is affected and mom is unaffected. Oh already, males are squares, females are circles, lines connecting them are marriages. OK, then let's say that they have a daughter and they have a son. Do we expect either of them to be affected? 
+
+Well, will the son be affected? Where does the son get his X chromosome? His mom. He won't be affected. So this is perfectly expected, totally normal. So she marries a nice guy, he marries a nice girl. And let's say this union is extremely productive and they have, for the purposes of our genetic analysis, let's let them have eight children. 
+
+OK, this didn't used to be such an unusual number. It's a rather large family today. And here's what might be. Usually when we draw pedigrees, the order is actually the order of birth. I've sort of made it a little convenient here by putting all the boys together. 
+
+And let's say over here, there's some children here as well. Maybe they're only going to have four children. This is a typical X-linked pedigree. Let's think about its features. Let's say this could be red-green color blindness. That's an X-linked trait. It could also be that hemophilia that we saw segregating in the lineage of Queen Victoria. 
+
+So colorblind is-- actually red-green color blindness is pretty common in the population. Does anybody have a guess what the frequency of red-green color blindness is? It's actually about 8% percent of individuals are red-green colorblind. But it turns out, the vast majority of those individuals are male. The vast majority are male, and why is that? Because if you're a male, you only have one X chromosome, and if you inherit the mutant allele then you're colorblind. If you're a female, how do you become colorblind? You have to inherit two, exactly. 
+
+So we have some examples here. Let's even just write down some simple rules. One rule we've just said, it predominantly affects males. OK, and we understood why, that a female-- males-- let's actually write out the genotypes here. This is going to be a mutation over the Y chromosome, and we'll call this plus over plus. The nomenclature I'm using is I'm following the sex chromosomes. This mutant means there's a mutation on the X chromosome, I've just indicated that. Y means there's a Y chromosome there, plus over plus. And we'll trace down here. 
+
+This individual, what's her genotype? Mutant over plus, because she had to have gotten this mutant allele from dad, because that's the only choice dad had to offer and she had to get two X chromosomes. What's the genotype of this individual? Plus over Y-- how do we know it's plus? Because he's not colorblind. He's not colorblind, very good. So if he was mutant over Y he would be colorblind, but he's not colorblind. 
+
+So we know that. And then we're going to get some mutant over y, plus over Y, mutant over Y, plus over Y. What about these girls here? We don't know. Some will be mutant over plus, some will be plus over plus. 
+
+What about this branch of the family here? What's the son got? Plus over Y, we said already, because he had to get the plus from his mom. Because that's where a boy gets his X chromosome. He has to get his Y chromosome from his dad. And this wife here is probably plus over plus, although could be mutant over plus, but probably plus over plus. On average that's the more likely one, we're not certain. In which case, you're not going to see any color blindness in that branch of the family. 
+
+So OK, what does that tell us? Does an affected male ever transmit to his sons? No, this affected male can't transmit to his sons. That's a nice rule. Affected males don't transmit to their sons, good. 
+
+What else have we got? There's something I hate, which is people say, the trait skips a generation. Geneticists hate when people go around saying it skips a generation, because that's usually just sloppy thinking for what's going on. But in this case, you can actually see that an affected male here won't transmit it to his daughter, but that can reappear in the next generation. It does appear to skip a generation, but I hate that rule because people think somehow that the genes play hopscotch between generations. 
+
+That's not what we really mean, but it can actually go away and reappear there in that way. What happens to a carrier female? What can you tell me about carrier females? How many of their kids will be colorblind? It depends on gender. What proportion of their sons will be affected? Half, right. Carrier female has half of her sons affected, great. 
+
+And what about an affected female? What if we had an affected female? What would that turn out to be? We have an affected female, colorblind female, what fraction of her sons would be affected? 100%, why? Because if she's affected, she's homozygous. She's got to be mutant over mutant, and so she has 100% of sons affected. 
+
+Let's do one more thing here, something different than Morgan would do. Morgan making crosses or Mendel making crosses would look at very large numbers within their cross. But we're interested in populations, so let's also talk about population genetics. And by population genetics here, I'm going to mean just the very simple things. There are a lot of complicated things you can mean about population genetics. What I mean is the frequency of the phenotype and the frequency of the mutant allele. 
+
+Let's see if we can relate those two to each other. So what can we learn about the frequency of the phenotype and the frequency of the mutant allele? I told you that the phenotype is present in 8% of the population. Actually it's 8% of males. Based on the fact that the phenotype is present in 8% of males, what do you think the frequency of mutant alleles on a random chromosome are? What's the frequency, what's the chance that a randomly chosen X chromosome from the human population is carrying a mutation in this color blindness gene? How much? 
+
+STUDENT: 8% 
+
+PROFESSOR: Why 8%? 
+
+STUDENT: Because every male has a [INAUDIBLE] 
+
+PROFESSOR: Every male gets a random X chromosome on average, right? You're just getting to draw out of the deck. You reach in and there's an-- now of course, in your particular family you got the X chromosome, one out of the two of your mom. But if we're looking across the whole human population, then those chromosomes are dealt out kind of randomly on average. And if there's an 8% chance of color blindness, that's telling us the frequency of the allele in the population is 8%. 
+
+The allele frequency. 8% of X chromosomes carry a mutant allele, and that explains why 8% of males have the phenotype. Yes? 
+
+STUDENT: [INAUDIBLE]? 
+
+PROFESSOR: What about the mutant alleles in carrier females? What about them? Well, if I tell you that 8% of males are color blind, every male carries one X chromosome, and that's a random draw of the X chromosomes in the population. So that's enough for me to tell that 8% of X chromosomes carry color blindness, because they're just the sampling of Xs. But what fraction-- let's follow your question-- what fraction of females are carriers? 
+
+What's your chance of being a carrier? How many X chromosomes you got? You've got two X chromosomes. What's the chance it's on the X chromosome that you got from your mom? 50%. 
+
+What's the chance it was on the X chromosome you got from your dad, assuming I and you don't know whether your dad was colorblind? And I don't want you to tell me because you're going to be a random person in the population. So on average for you, who's now become our random person in the population, your mom had an 8% chance, your dad had an 8% chance, so what's the chance you've got it? 
+
+STUDENT: [INAUDIBLE] 
+
+PROFESSOR: I think it's 8% plus 8%. And then if you're doing your bookkeeping carefully, there's a double counting. It's the chance you would have gotten both. But let's say, for simple purposes, it's double the chance. We could do a little correction for the fact that you could get two of them and be homozygous, but basically it's double the chance. 
+
+So 16% of females are walking around as carriers, most of them are unknowing that they are carriers. 8% of males are colorblind, and that's because that's the frequency. So notice we're making inferences about frequencies in the general population. Mendel, Morgan, they didn't think about populations. 
+
+We're making frequencies guesses about populations because we're going to be making genetic counseling recommendations to families. We're going to say-- genetic counseling analyses to families. Because we're going to be saying, what's the chance that a new child might be born with this disease? 
+
+You need to know what the chance is that different mutations are carried on different chromosomes. So human geneticists begin to care about allele frequencies. Before you go on to the next section, test your understanding by answering this question about sex-linked inheritance. 

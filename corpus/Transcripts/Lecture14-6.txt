@@ -1,0 +1,183 @@
+ERIC S. LANDER: What can go wrong with beta globin, according to Murphy's law? 
+
+STUDENT: Everything. 
+
+ERIC S. LANDER: Everything that can go wrong does go wrong. Let's see what goes wrong. Number one-- single nucleotides might get changed. Let's take a look at one. Give me the codon that encodes Glu there, glutamic acid. Let's just look at that guy there-- six. That's GAG. 
+
+GAG encodes a glutamic acid. I don't know-- maybe it changes to a GAA. Somehow in copying the DNA, a mistake is made. And a G becomes an A. Happens at some rate. Why not? What would that do? 
+
+Nothing. GAA-- oh, we still got glutamic acid. Let's call that a silent substitution. Silent substitutions happen, but they're silent because they don't change the amino acid. Doing pretty well-- how about if the GAG mutates instead to a GAT? Then our glutamic acid becomes what? 
+
+GAT-- read as a U on the RNA table-- becomes aspartic acid. Anybody remember the properties of glutamic acid and aspartic acid? 
+
+STUDENT: They're both negatively charged. 
+
+ERIC S. LANDER: They're both negatively charged. They're both negatively charged. And maybe not much happens if I do that. I don't happen to know, but I bet not much happens there. And so we'll this-- it's not silent. It changes the amino acid. 
+
+It's a missense change. It's missense, meaning it changes amino acid. But it's what you might call a conservative missense change. A missense conservative substitution because it conserves the biochemical properties of the amino acid. If I change leucine to isoleucine probably not such a big deal. 
+
+Sometimes it matters, but very often, changing a negative to a negative, a positive to a positive, a phobic to a phobic, not a big deal. Let's try another one. How about if we change our GAG-- let's see, we were mutating that last position here. How about if we mutate the middle position, and we get a GTG? 
+
+Our glutamic acid becomes valine. Does anybody remember the properties of valine? Let's see. Glutamic acid becomes valine. What are these guys? 
+
+Hydrophobic. So we took a negatively charged, and now it's hydrophobic. Could that make a difference? Big deal-- could be. Doesn't have to be, but it could be. This is a missense non-conservative substitution. It doesn't conserve the properties of that amino acid at all. 
+
+And as it happens, this single change is incredibly important. This one change-- I do know what it does. Alpha globin, beta globin in my tetramer. It turns out that this guy is right over here. This negative charge, that Glu negative, Glu negative is right over there. 
+
+It turns out that right over here, on the other side, is a hydrophobic pocket, a little hydrophobic patch sitting on the outside of alpha. Why does that matter? That matters because when I change that Glu, that negative Glu into instead, a hydrophobic valine-- now I have my valine here-- it turns out that the shape of this thing perfectly matches up to a patch on alpha. 
+
+And they bind each other by hydrophobic forces. By some unlucky coincidence, they match up. Now, of course, what does that do? I got this little hydrophobic patch here now on my mutant beta. And what happens? 
+
+It binds another tetramer of hemoglobin. And so one tetramer of hemoglobin binds up to the next tetramer, which binds up to the next tetramer, which binds up to another tetramer, And what do I get? I get long rods of hemoglobin crystallizing in one dimension. 
+
+STUDENT: That sounds painful. 
+
+ERIC S. LANDER: Painful, why? 
+
+STUDENT: It's get squashed. 
+
+ERIC S. LANDER: What do you think's going to happen if I have these long hemoglobins? What does a red blood cell look like? Red blood cells are this elegant structure like that. That's a red blood cell. And hemoglobin is floating around in here, not binding to itself. 
+
+But now what happens is, when they start forming long chains, it stretches out these cells in the shape of a sickle. And we call this-- 
+
+STUDENT: Sickle cell. 
+
+ERIC S. LANDER: Sickle cell anemia. Sickle cell anemia is one of those Murphy's law things, where the single amino acid change creates a matching hydrophobic to match hydrophobic pocket and you get this long thing. That's what sickle cell anemia is-- pretty amazing. Individuals who are homozygous for this mutation have these crises where their cells sickle. 
+
+And why do you think it matters that the cells sickle? 
+
+STUDENT: It changes their shape. 
+
+ERIC S. LANDER: It changes their shape. And that particularly matters when it tries to get through capillaries. Trying to get a red blood cell that's now this long needly shape through capillaries causes them to clog up in all sorts of ways. And it's really bad. You can have serious anemic crises with sickle cell anemia. 
+
+Now, heterozygotes, it turns out, don't have this problem. Why not? 
+
+STUDENT: It's recessive. 
+
+ERIC S. LANDER: But why is it recessive? Yes, so we're saying sickle cell disease is a recessive phenotype. That's good. Tell me, at the molecular level, why is it a recessive phenotype. 
+
+STUDENT: Not all of them are changed. 
+
+ERIC S. LANDER: Not all of them are changed. So suppose a couple of these guys hook together like this. 
+
+STUDENT: The others will break. 
+
+ERIC S. LANDER: The other was break up the chain. The others will break up the chain, because some of these guys here, you'll have this hydrophobic pocket binding this hydrophobic valine here. But this one is not a mutant beta. So some of these are mutant betas, and some of these are non-mutant betas. So as a chain starts to grow every time it has a non-mutant beta attached to it, it stops. 
+
+So that's not such a serious problem. That's why it's recessive. So we ask, why is that a recessive trait? This is why, at the molecular level, it's a recessive trait. Because in fact, having some good ones is enough. This happens to be present though. The allele that has this change is present at enormously high frequencies in Africa. 
+
+Does anyone know why they're present at such enormously high frequencies in Africa? 
+
+STUDENT: Malaria. 
+
+ERIC S. LANDER: Malaria. It turns out that, while being a homozygote is bad for you, being a heterozygote-- 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Well, that's not bad. It's pretty good, because it makes you somewhat resistant to malaria, particularly dying of severe forms of malaria. It doesn't actually, as I understand it, prevent you from getting malaria. But it actually greatly decreases the risk of death from malaria. And you can see that the distribution of the allele in Africa matches the distribution of malaria. 
+
+And people have even done experiments now, and they finally have begun to understand this. How does it confer resistance to malaria? The short answer is, we really don't still fully know. It's pretty complicated. 
+
+There's a recent experiment in mice that suggests some interesting ideas on it. There's a lot of theories. But it's still kind of poorly understood. So that's pretty cool. Let's take another one. 
+
+Let's change another amino acid here. Let's change-- how about if we had-- a little further on the eighth amino acid, I didn't write it, is AAG, lysine. And suppose we change that to TAG. Let's go back to our codon table and see what that'll get us. What will TAG get us? UAG -- stop. 
+
+This is at the eighth amino acid. And we get a stop. So what kind of protein will we produce then? 
+
+STUDENT: Short one. 
+
+ERIC S. LANDER: A very short one. It's going to be eight amino acids long. We call this a nonsense mutation. Molecular biologists call stop nonsense mutations. Yes? 
+
+STUDENT: The mutation that [INAUDIBLE] sickle cell amenia recessive. Why wouldn't we call that dominant when it penetrates? 
+
+ERIC S. LANDER: Wait a second. We don't call mutations dominant or recessive. We call phenotypes dominant and recessive. Good. This is why, in fact, because which phenotype are we talking about? 
+
+STUDENT: We're talking about phenotype then. 
+
+ERIC S. LANDER: The sickle cell disease? 
+
+STUDENT: Yeah. 
+
+ERIC S. LANDER: Sickle cell disease we would call recessive, because you really don't see sickle cell disease unless you're a homozygote. Now, you might say not everybody shows severe sickle cell disease, even though they're homozygous. And then you might say it's recessive with incomplete penetrance. And it is true that some people who are homozygotes for sickle cell, for the sickle cell alleles, show very mild sickle cell anemia, or almost none. 
+
+And before we're done with this lecture, we're going to know why. We'll mention it. So don't let me leave without giving you an answer to that question. So now if we put a stop in here, very bad for the protein. Suppose somebody was homozygous for the stop. 
+
+How much beta globin would they make? 
+
+STUDENT: Zero. 
+
+ERIC S. LANDER: Zero. You think that's good for you? Very bad for you. But there's a name for that disease. 
+
+STUDENT: People can live with that? 
+
+ERIC S. LANDER: Well, people die within two years, and they need transfusions. They need transfusions. Babies need transfusions if they have this. But it is in fact, remarkably common to see mutations that destroy this protein, because it turns out that heterozygotes for these sorts of mutations that completely destroy the protein also seem to confer a resistance to malaria. And you see a lot of them around the Mediterranean basin. 
+
+All around the Mediterranean there are carriers for mutations that destroy beta globin, because there appears to be an even less well understood resistance to malaria caused by heterozygosity for a loss of function. But the homozygote is in very bad shape, because the homozygote makes no protein there and needs transfusions. 
+
+The disease, by the way, is called beta thalassemia. Emia means in the blood. Thala means the sea. It was actually recognized as a blood disease affecting people who lived around the Mediterranean long before there was genetics, and was called thalassemia, sea blood, because it was so common around the sea, again having to do with malaria. 
+
+So beta thalassemia has been studied a great deal. Sorry, question? 
+
+STUDENT: How did they know it was with the blood? 
+
+ERIC S. LANDER: Well, they could tell that there was a problem with the blood there. Well, for example, you wouldn't have hemoglobin. So that you could tell. So now those are some of that things that can go wrong. Let's look at what else can go wrong. We'll rip through some other ones quickly. 
+
+Suppose we have a sequence here-- I don't know-- CTG that was our position three. And our position four we had ACT. And then we have CCT. What would happen if one of these nucleotides was not changed but utterly deleted? 
+
+STUDENT: Frameshift. 
+
+ERIC S. LANDER: Frameshift. Now it's going to get read like this-- CTC. Let's see, CTG happens to be the next one that comes in. And what are my amino acids here? They're all wrong. This is a leucine, a threonine, and a proline. But instead, I think I end up with leucine, leucine, leucine. 
+
+And then it keeps going past there. It's just a mess. The whole thing is an utter mess, and we call that a frameshift. What else can go wrong? Well, let's just rip through some of them. 
+
+Here's my gene. It has a promoter. What happens if there's a mutation that destroys the promoter? Don't make it a transcript. So I can lose my promoter. 
+
+Let's see what else I got here. My gene has exons and introns. It turns out that splicing depends on the sequences just past and just before the exons. It turns out you must have a GT here. And it turns out you must have an AG here for the splicing machinery to recognize that an intron is supposed to be spliced out. 
+
+There are what are called splice signals in the DNA that occur in the intron. And if these splice signals, these splice sites, were to be mutated, what happens? The RNA won't be recognized and spliced. So I can have mutations in the splicing machine. Oh, boy. 
+
+What else could go wrong? Well, I said that there is a polyadenylation site along here. And it turns out there's a polyadenylation site right near the end of the gene here. And it goes AATAAA is my poly(A) site. That's where the cell knows to cut. At that AATAAA it cuts. 
+
+What if there are mutations that destroy the polyadenylation site? Wouldn't get cut, wouldn't get polyadenylated properly, and it would get degraded, because the poly(A) tail protects that message. That's bad. What else could go wrong? Everything could go wrong. 
+
+Remember I told you that there were these jumping genes called transposons that were like little viruses in your own DNA? Well, here's your gene. Here is those exons. What do you think would happen if a transposon hopped into the middle of your gene? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Well, it would screw it up totally. It's just the whole chunk of DNA smack in the middle of the exon that's not supposed to be there. So a transposon-- do you think that's possible? Can a transposon hop into the beta globin gene, by chance? Murphy's law. Sorry? 
+
+STUDENT: It's kind of small, though. 
+
+ERIC S. LANDER: Transposons? 
+
+STUDENT: No, the gene, compared to the other gene. 
+
+ERIC S. LANDER: So the chance that it hops in might be small. So maybe it's unlikely that it would ever happen. But it turns out that because thalassemia gets picked up pretty easily, people have studied the beta globin gene a lot, and they've studied patients with thalassemia. And they've seen everything in Murphy's law. And they've even seen people, who neither parent had it, but the kid, by chance, the transposon hopped into the gene and destroyed it. 
+
+So that happens. So a big transposon lands in the middle and adds a couple hundred bases or a couple thousand extra bases of DNA. So you can have transposons hopping in. How about a deletion of the entire gene? 
+
+The DNA copying machinery somehow screws up or some break occurs in the chromosome, some rays hit the chromosome, break it open, and it gets chewed back. That happens too, just wholesale deletion of the entire gene. Murphy's law is Murphy's law. Everything that can go wrong goes wrong. 
+
+This is what you encounter in a genetics clinic-- everything. Then there's one other. And I'll end the section of Murphy's law with one last one. Then we'll turn to the very last subject about beta globin, which is a very curious case. Here's my gene. 
+
+It's got its three exons. Put the exons there. It's got its promoter over here. Everything I've told you about is sitting here, and none of it is touched. That's beta globin. 
+
+But because thalassemia patients have been studied at great length, people found a deletion that takes out a whole lot of DNA far away from the beta globin gene, takes out a chunk of DNA about 100,000 bases away. This is a very strange case. 
+
+I'll call this strange. 100,000 bases away a big deletion occurred. And it knocks out the beta globin gene. But it didn't touch the promoter. And it didn't touch the exons, and it didn't touch the introns, and it didn't touch the polyadenylation sites. And what can you learn about that? 
+
+There's something else controlling beta globin that lives 100,000 bases away, by virtue of the mutant, that is the human who has this problem. This thing took a very long time to figure out what it was. But it turns out there's a genetic regulatory element that lives 100,000 bases away, over here. And it's called a locus control region. 
+
+And it turns out that when beta globin is activated, the simple story of RNA polymerase sitting down at its promoter isn't so simple. It gets help from other things. And it turns out, as best we can tell, the chromosome kind of folds up. The promoter is over here. 
+
+The gene is transcribed here. But this locus control region is over here. And they're brought into some proximity. And it somehow helps activate it. 
+
+It's a pretty weird genome you have, because regulatory elements are not just like I showed you in E. coli, sitting smack over the promoter, or just tickling the RNA polymerase and stabilizing it. They can sit hundreds of bases, thousands of bases, 10s of thousands of bases, and sometimes 100,000 bases away. Question? 
+
+STUDENT: So beta globin is a particularly weak link in our genes, or are a lot of our genes like this? 
+
+ERIC S. LANDER: Oh no. Beta globin, thank goodness, is a relatively simple gene. It gets worse. It gets much harder. Maybe sometime later in the course I'll show you genes that have complex regulation. This is a gene that has relatively simple regulation. 
+
+Now, we've got Murphy's laws. Everybody got Murphy's law under control? Anything you've learned can be a site of mutation, and in fact, even things you haven't learned, like the locus control region can be sites of mutation. That's how we learn about new things is, geneticists learn about things by mutants. That's how we learned about the locus control region. 
+
+Before you go on, take a moment and test yourself with this question about mutations in beta globin. 

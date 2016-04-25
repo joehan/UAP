@@ -1,0 +1,41 @@
+ERIC S. LANDER: What this enzyme is going to do, it does not change the final or the beginning energy states. They stay exactly the same. So it does not change the energetic favorability. 
+
+But what it does do is it does change. Instead of that, when the enzyme is present, it's that. It becomes much less energetically unfavorable. The energetics, it becomes a much happier state. How can it be that that unhappy cis-enediol is able to make this chemical transition, and it's not so unlikely anymore? 
+
+We don't have to go through this big, energetic barrier because, in fact, we're making it more favorable. What it's doing is it's lowering the activation barrier. It does change the activation barrier. It makes that reaction go forward. It catalyzes that reaction by lowering the activation barrier. How can it do that? Yes? 
+
+STUDENT: Changing the steps? 
+
+ERIC S. LANDER: Well, actually it's going to go through the same chemical steps. But-- 
+
+STUDENT: --changing the shape? 
+
+ERIC S. LANDER: Well, what it can do is it can gently cradle that molecule, and by making bonds to it-- I mean, this is very nurturing kind of picture here's of an enzyme, right-- it's going to make bonds to it. And you're going to get favorable bonds. And that's alone enough to lower the activation energy, by stabilizing that unstable state, by nuzzling up against it. 
+
+In fact, if that enzyme-- that enzyme is a protein, so let's give it some structure. I'm not going to fuss much about the structure right now-- but maybe it's going to have a little pocket in here. And what that pocket will do is match, best of all, not G3P and not DHAP, but cis-enediol. 
+
+If it is most favorable to that transition state in the way it binds the transition state, it stabilizes the transition state, and makes it less difficult to be cis-enediol. So that's what goes on. Enzymes stabilize that transition state. They stabilize the transition state. 
+
+Not only that, I told you that if you made it into the transition state, you had another problem. What fate might befall our poor cis-enediol in the transition state? 
+
+STUDENT: Phosphate-- 
+
+STUDENT: The phosphate-- 
+
+ERIC S. LANDER: --phosphate comes off. So maybe this enzyme might try to prevent that side reaction, too. Stabilize the transition state. That's job number one for our nice enzyme here, triose phosphate isomerase, or just TIM. So TIM is cradling this to stabilize the transition state. 
+
+And TIM is going to prevent the side reaction of losing that phosphate. Tough job. But it does it very well. When TIM does its job, because the activation energy is no longer so big but is so big, this reaction proceeds much faster. It could happen on its own. But it's so unlikely, I told you. 
+
+When TIM lowers that activation barrier, do you know how much faster it goes? It goes, it speeds up, it speeds the reaction by a factor of 10 to the 10th fold. 10 to the 10th, do you have a good sense of what 10 to the 10th is? 10 to the 10th is the difference between one second and three centuries. I'll be there in a second, or I'll be there in three centuries-- 
+
+[LAUGHTER] 
+
+ERIC S. LANDER: --is 10 to the 10th. 
+
+That's a very impressive speedup in a reaction, isn't it? It accomplishes this by making it much less unlikely that it gets up there and goes down. It gets there about 10 to the 10th-fold faster every single time. 
+
+In fact, this is such an amazing enzyme that the rate-limiting step-- what prevents triose phosphate isomerase from working any faster-- is not triose phosphate isomerase itself. It Is the rate at which molecules diffuse to it. 
+
+It is limited by diffusion. It's a diffusion-limited enzyme. In fact, as soon as a molecule manages to diffuse to it, poof, it's done. It's what's called kinetically perfect as an enzyme. There'd be no point in evolution trying to improve this enzyme, because it can't go any faster, because it can't get stuff any faster by diffusion. It is a perfect enzyme. TIM is perfect. 
+
+A couple of minutes ago, I told you that triose phosphate isomerase is a perfect enzyme. Write down in your own words what you think it means when I say, perfect enzyme. 

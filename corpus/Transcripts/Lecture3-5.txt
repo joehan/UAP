@@ -1,0 +1,117 @@
+ERIC S. LANDER: It turns out that beyond this secondary structure-- so by secondary structure, we mean this local feature. The local features of, is there a little bit of local alpha helix? Is there a local beta sheet? 
+
+There is also, the next level up, tertiary structure. And that refers to the whole thing. So that could be a protein that's got some alpha helix here, loops, more alpha helix there, loop, alpha helix here. Oh, maybe we'll have some beta sheets there. That Is my rendering of tertiary structure. 
+
+It's the overall three dimensional structure of the protein. So when we speak of primary structure, we're talking about just the amino acids in order. We don't really care what shape they take up in space. When we talk about secondary structure, we're talking about the local structure that they have in just little localities, little regions of the protein. 
+
+When we talk about the overall tertiary structure, we talk about all of the shape. And then it turns out there is quaternary structure, the fourth level up-- quaternary structure. And what quaternary structure refers to if we have already described the entire shape of that whole protein, then the quaternary structure is actually the structure when multiple proteins come together. And they bond to each other, for example by, what might bond together two proteins? 
+
+STUDENT: Hydrogen bonds? 
+
+ERIC S. LANDER: Hydrogen bonds. They might make hydrogen bonds. Maybe they have a nice surface that makes hydrogen bonds to each other. So we could have for quaternary structure could be-- we'll make a, that's number one. We could have another protein over here. 
+
+And that's protein number two. And that's a quartenary structure, because it has the two proteins that are bonded to each other. In addition to hydrogen bonds, what other cool bond might you want to make? 
+
+STUDENT: Covalent? 
+
+ERIC S. LANDER: How are you going to make a covalent bond between them? 
+
+STUDENT: With your cysteines? 
+
+ERIC S. LANDER: My cysteines. If I have two cysteines on the two different proteins, are they allowed to make a covalent disulfide bond? 
+
+STUDENT: Yes, sir. 
+
+ERIC S. LANDER: Yes they are, if you'd like them to. So sometimes that can happen. So you could even get a covalent bond there. That's true. 
+
+Anyway, here we have our proteins. Here we have our quaternary structure. The protein folding problem is merely, tell me how every protein is going to fold based on its sequence-- an incredibly hard problem. A problem that you will solve as part of your homework, in fact. 
+
+We'll come to that in a bit, maybe not fully solved but partly solved as part of your homework. Let's take a look at some proteins. Now, I love my diagrams here. But they don't do full justice to proteins. 
+
+So let's take a look at some proteins here. Hemoglobin-- that is hemoglobin. What does hemoglobin do? 
+
+STUDENT: Binds oxygen. 
+
+ERIC S. LANDER: Binds oxygen, carries it around the blood. Why does it bind oxygen to carry it around the blood? It gets oxygen to your body, right? Where does it pick up the oxygen? 
+
+STUDENT: In lungs. 
+
+ERIC S. LANDER: In lungs. Where does it deliver it? Every place else that needs it that isn't the lungs. Where does the hemoglobin reside? 
+
+STUDENT: Red blood cells. 
+
+ERIC S. LANDER: In your red blood cells. So your red blood cells are actually bags of almost nothing but hemoglobin, this hemoglobin protein. And it's a protein. And in that protein, there's a group called the heme group. And the heme group binds an oxygen. 
+
+Now, hemoglobin in your blood is not just one protein. It's actually four proteins. Hemoglobin has a quaternary structure. Hemoglobin is two proteins that are the same here that are called hemoglobin alpha and two proteins called hemoglobin beta. 
+
+I wish I could not confuse you by writing alpha and beta, because it doesn't mean alpha helix and beta sheet. I was just telling you about the alpha helix and beta sheet. Now I'm telling you alpha and beta are also used to refer to the two proteins in hemoglobin. I apologize. 
+
+But it's the way it is. So it has got four proteins, two identical alphas, two identical betas. Let's go check it out over here and see what we can see. So we've got our hemoglobin. And I don't know if you can see here, but we'll spin it around. 
+
+It may not be the best colors, but you can see greens, yellows here. Here's two here. We've got the beta part, the beta globins here. And let's spin it around. There we go. 
+
+The two alpha's here-- alpha globin, beta globin. And their surfaces match very nicely, so they stick together to make this quaternary structure. Now, we can look at proteins in this space filling representation where every atom is filled in. 
+
+We can also look at them with an internal view, where I'm not going to space fill at all. I'm just showing the bonds here. I'm not showing this space filling representation of that electron shell. I'm just showing the bonds. But I have shown those heme groups there. 
+
+The heme groups are the groups that will bind the oxygen. And there are four of them here. And this is when it's not binding oxygen. Now, let's bind oxygen. 
+
+The heme group is now binding oxygen. Let's take away the oxygen. Add the oxygen. Take away the oxygen. Add the oxygen. 
+
+What do you see happening to the protein? 
+
+STUDENT: Changes shape. 
+
+ERIC S. LANDER: Changes shape. Protein changes shape when it binds the oxygen. Proteins change shape in response to things, and they need to change shape in response to things. In fact, what happens is, the shape change when you bind the first oxygen makes it more likely to be able to bind the second oxygen, and the third oxygen, and the fourth oxygen. It's called a cooperative interaction, where when you hit a certain concentration instead of randomly relying on binding one and then kind of binding them. The first makes it more likely to do the second and the third and the fourth. 
+
+So you hit a point, and puff, you combined all four oxygens. It's a way to have a sharp on switch. The flexibility of this protein creates a kind of on switch of, you reach a certain concentration, oxygens are in. When the oxygen concentration falls below that, the oxygens come off. Why would that be a good idea? 
+
+I've got to pick up oxygen in the lungs. So at a certain concentration, I want to fully load my hemoglobin. And then I want to release that oxygen when I want to go, puff, get rid of that oxygen when I'm in a low oxygen environment. And the protein shape change helps that happen. 
+
+Proteins are extraordinarily clever beasts. That's one example. Here's another example here of a protein. Tell me what you're seeing here? Do you see a lot of alpha helices? 
+
+No. In fact, actually let me go back for a second. I'm sorry. Back to hemoglobin for a second. I didn't show you the ribbon diagram for hemoglobin. There we go. 
+
+Let's look at our ribbon diagram for hemoglobin. It's another way to show hemoglobin here. Here's hemoglobin in a ribbon diagram. Notice lots and lots of alpha helices everywhere. This is a very alpha helical protein. 
+
+And those alpha helices really dominate, plus some loops. But now I'm going to show you another protein, and I want you to compare it to this protein here. Do you see a lot of those alpha helices? What are you seeing instead? 
+
+STUDENT: Beta sheets 
+
+ERIC S. LANDER: Beta sheets-- this protein is predominantly beta sheets. Let's turn it on its side and take a look at this protein. I'm just going to grab it here. Whoa. Is that guy not cool? 
+
+STUDENT: Chinese finger trap. 
+
+ERIC S. LANDER: The Chinese finger trap, yes. That's right. It was already invented by this protein here. If you have a very little finger, you could stick it in there. But check that out. What do you think this beta thing is called? What does it look like? 
+
+STUDENT: Chinese finger trap. 
+
+ERIC S. LANDER: It looks like a Chinese finger trap to you. It's kind of like a barrel, right? And this is called the beta barrel. This is a beta barrel, and you can really see the beautiful beta helical structure here. Wow, I love that guy. Teeny little bit of alpha helix, but very little alpha helix. 
+
+This is mostly beta sheet. So we can see how these rules begin to work things out. Now, I'm going to show you one more protein here. Proteins can do all sorts of amazing tasks. And so I've shown you hemoglobin. I haven't told you what this guy does, but in our next lecture, we're going to talk about with this guy does, this beautiful beta barrel. 
+
+But proteins combined all sorts of things. And I want to show you this. Is this not cool? Now, I have to admit that in real life, proteins are not colored tutti fruity like this. It's too bad, but they don't have spray paint at the molecular level there. 
+
+But it's really nice. Now, we haven't yet come to this molecule in gray going down the middle, but there's no doubt you know that this is a DNA double helix. And we're going to talk about DNA double helices in the course. What is this single alpha helical protein doing? This is one alpha helical protein. And what has it done? 
+
+STUDENT: It's wrapped around. 
+
+ERIC S. LANDER: It's wrapped itself around the DNA. It has just the right shape to sit itself into the groove of the DNA and wrap itself around. This happens to be an unbelievably cool protein, which has just become known to biologists in the past several years. It's an incredibly newly discovered protein. 
+
+It wraps itself around the DNA. And every one of these colored bits is essentially identical. It's an identical repeating unit around, and around, and around, and around except for one little difference. Two amino acids can differ in each of those subunits. 
+
+We've got one subunit, another, another, another, another. They're all identical except for two amino acids. And those two amino acids point into the DNA. And they recognize which base of the DNA it is. 
+
+We're going to come and talk about this more at the end of the course, but I couldn't help showing you this protein right now. This protein can recognize a particular DNA sequence by having a structure that loves to wrap around DNA and then a tiny bit of specificity determined by the amino acids that are able to read the DNA sequence. If you don't know DNA structure yet, don't worry about it. 
+
+We're going to come to it in the course. But this is one of the coolest proteins. And it turns out that you can make these proteins now to whatever DNA sequence you want. You give me a DNA sequence and somebody can now make a protein. Now admittedly, it takes a while, takes up to 48 hours now. 
+
+But within 48 hours, we can give you a protein that binds any DNA you want, which is a revolution that's happened just in the past couple years. These are called Tal proteins, T-A-L. And we'll talk more about it. 
+
+So anyway, I've shown you a few examples. What have we done today? We've got the basic primary structure of proteins, amino acid, amino acid, amino acid, amino acid-- sounds  kind of boring. But those amino acids, those 20 amino acids, are all totally different sorts of things. They have very different properties. 
+
+And by putting together the sequences, you can get proteins that prefer to wrap themselves up and out the helices, make themselves into beta sheets, have loops, have all sorts of bonds, bond together between two different proteins, and take up remarkable forms being able to bind heme groups that carry around oxygen, make these beautiful beta barrels that we'll talk about in the next lecture, and even wind themselves up around DNA and recognize the sequence of DNA. So proteins are the most amazing bit of biochemistry. 
+
+And understanding the basics of proteins, well, it tells you an awful lot. So in the next lecture, we're going to talk more about the amazing machines that are proteins. But let's take a break here. 
+
+All right, let's be sure that you really understand protein structure. We've got two questions for you this time. 

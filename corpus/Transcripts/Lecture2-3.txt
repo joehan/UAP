@@ -1,0 +1,53 @@
+PROFESSOR: Section three. Let's start with covalent bonds. As you know, we have our atoms. They have a little nucleus here. They have a shell with some electrons, some more electrons. This guy here is a carbon. We have, say, a hydrogen. 
+
+And I'm not going to go into the details of chemistry, but some of-- and if you don't know, you'll learn elsewhere-- that atoms can share pairs of electrons. This guy would like to have eight electrons in its outer shell here, but it's only got four. And so carbons are up for sharing four other electrons to make four electron pairs shared. 
+
+We can represent that by carbon has four electrons on offer. Hydrogen has one electron on offer. And therefore, four hydrogens can get together with this carbon and share that pair electrons, truly share that pair of electrons, share that pair of electrons, share that pair of electrons. And we'll write that off now like that. 
+
+This is covalent bonds. They are shared electron pairs. Shared pairs of electrons. And they are strong. 
+
+How strong are these covalent bonds? Well, there are three kinds of covalent bonds. There's a covalent bond that involves sharing a single pair of electrons. And very sensibly, those are called single bonds. There are double bonds. There are triple bonds. Two pairs getting shared. Three pairs getting shared. 
+
+We talk about how strong the bond is by how much energy it takes to break the bond. We measure it, the energy, often in a unit of kilocalories per mole. That's just a unit of energy over a count of atoms. Kilocalories per mole, a certain amount of energy per a certain number of atoms. 
+
+And most of you probably know what a kilocalories is and what a mole is. But if you don't, it doesn't matter. It's a unit of energy over a count of atoms. So in fact, to break a single bond requires 80 kilocalories, kcals, per mole. 
+
+Now, how do you relate that to anything? I've told you don't worry about the units right now. I'm not going to ask you to convert kilocalories into something else. We've got to compare it to something, which might compare it to is thermal energy, the random fluctuations at room temperature. 
+
+The random fluctuations at room temperature for a molecule have an energy, random fluctuations, thermal fluctuations. Random thermal fluctuations at room temperature are on the order of 0.6 kilocalories per mole. 
+
+So do you think with a 0.6 vibration of thermal energy here, some covalent bond that requires 80 to break it is going to come apart? No way. Now, sometimes 0.6, sometimes 1.2, 1.8. Maybe you'll get a 4 or a 5 occasionally. You ain't going to get an 80. You're not to get enough energy. Covalent bonds are extremely stable, usually, unless something is attacking them and breaking them. 
+
+So that's the first thing to know. Second thing that I want to know about chemistry is a very limited list of things I want to know about chemistry. But I want you to know for our six favorite atoms, how many bonds they can engage in. 
+
+So I've already told you that for two of our atoms the maximum number of bonds, hydrogen, one, carbon, four. Let me tell you about the others. Nitrogen, usually three, but you can actually get four. Phosphorus, five. Sulfur, six. That's it. You should know that. I'm not going to ask you to memorize a lot, but you should know those things. 
+
+Sorry? 
+
+STUDENT: No oxygen? 
+
+PROFESSOR: Oh, what did I do? Oxygen. How about oxygen? What can we have from oxygen? Two. Thank you. I left out oxygen. Sorry. Good point. It's good you're getting your money's worth in the course there. I promised six atoms. You're getting six atoms. Very good. 
+
+Now, I talk about sharing, sharing electrons. You may have noticed the human phenomenon that when you share with somebody else the sharing is not always equal. We talk sharing, but some people are better sharers than others. It turns out that is also true at the atomic level. Some nuclei of some atoms pull harder, tug harder on the electrons in that outer shell. 
+
+So if I have two atoms that are sharing these electrons here in the outer shell, it may be that this one has more positive charge, more protons in its nucleus. It'll depend a little bit on the protons and also the distance. So how many protons there are there and the distance away it is will determine how greedy that is for electronics, how tightly it pulls them, how tightly it holds them. 
+
+And if it's stronger, the electrons will spend more time over here than over there. So certain bonds, the electrons are not equally distributed. They're probabilistically moving around, but not necessarily equally shared. 
+
+If I give you a bond of carbon and carbon, will the two carbons be sharing the electrons equally? Of course they will, because they're the identical atom. They don't have different properties. They're the same property. So the electron cloud will be distributed equally across the two. 
+
+But it turns out, in terms of general greediness-- Greediness is referred to at the atomic level as electronegativity. That's the technical term for greediness, electronegativity, at least when applied to atoms, how tightly they pull electrons. Oxygen, nitrogen, much greedier than carbon and hydrogen. Those are the ones we're going to really care about here. 
+
+And so if I give you a bond here that involves, say, O H, this guy is much greedier. The oxygen is much greedier than the hydrogen, and marginally more negative charge. I'm writing a little delta. Little delta means a little quantity. And I'm putting a negative. And I'm putting up a little delta here with a positive. 
+
+The negative is a little more over toward the oxygen. The positive, a little more-- Since the electrons are over there more, there's more positive charge there, more negative charge there. It's a little magnet. It's a little bar magnet there, that little bond there. 
+
+Similarly, nitrogen greedy compared to hydrogen. Minus. We refer to these bonds up here, which have no polarity-- they're not a magnet. They have no polarity-- we're going to refer to those as, very sensibly, you'll like the terminology, non-polar, because they have no polarity. These guys that have a polarity will be called polar bonds. That makes perfect sense. Polar bonds, non-polar bonds. 
+
+All right. That's pretty much it for atomic chemistry. Now, hang onto those principles. Covalent bonds. They're really strong. They don't break at random. We have unequal sharing. Some bonds are polar; some bonds are not. 
+
+All right. Now let's go on and ask what are the consequences of all this, this business of unequal sharing? It turns out that these covalent bonds are the backbones of molecules. Big molecules are collections of atoms held together by covalent bonds. Water, H2O, covalent bond from the oxygens to the two hydrogens. A big molecule of protein, lots of atoms with covalent bonds. And we're going to get into their structures. 
+
+But it turns out that understanding biological properties requires understanding things beyond these covalent bonds that draw the atoms as you normally would draw them. It actually involves understanding non-covalent bonds and other funny forces. So let's try to cover the non-covalent bonds that are important to understanding biology. 
+
+Do you feel like an expert on bonds yet? To test your understanding we've got a question for you about polar covalent bonds. 

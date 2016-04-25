@@ -1,0 +1,45 @@
+PROFESSOR: Mendel's first law was about how these particles were segregating randomly, distributing randomly to the next generations. And he studied these seven traits. But Mendel did a second thing. 
+
+Mendel looked at multiple traits simultaneously, multiple traits at the same time. That is Mendel's second law. So what Mendel does is Mendel takes some peas that are round and green. 
+
+He's established that round is a dominant phenotype. Green is a dominant phenotype. And he crosses them to some peas that are wrinkled and yellow. Mendel actually, by the way, if you read the paper, was crossing all these things with all these things. And look at all those zillions of different combinations you can get. 
+
+With seven traits, you can get 2 to the 7th different combinations. And Mendel got them all. He just was having a field day making peas in the garden there of all sorts. 
+
+So anyway, he took his round greens. What should we call a genotype here for round and green? Well, big A and B stop working so well as terms, because we'd like them to relate to the traits. So let's make up a new name for alleles. 
+
+For round, how about R. For green, how about G. So geneticists keep adapting their nomenclature, as we will. Big R, big R. And what's the genotype here? Big G, big G. 
+
+So with respect to the thing that controls shape, big R, big R-- color, big G, big G. This guy, little r, little r, little g, little g. Little g, little g would mean yellow. Little r, little r means wrinkled. 
+
+So this was our F0 generation. In the F1 generation, what do we see? Phenotypically what do we see? What's the phenotype of the F1 generation? Round and green, because both of those were dominant traits. 
+
+But what's the genotype of the F1 generation? Big R, little r, big G, little g. All right. 
+
+Now to make our life easy, let's have Mendel cross this plant back to this wrinkled yellow parent-- little r, little r, little g, little g. And let's look at the possibilities here in the next generation. 
+
+What you get in that next generation, let's see. What allele can we get from this parent? Only little rs and little gs. That's all that's on offer, little rs and little gs. So we know that that's all there is from that parent. But what could this one contribute? 
+
+It could contribute a big R and a big G, big R and a little g, little r and a big G. Those are the four possibilities. And what will that produce? That'll produce round green. It will produce round yellow. It will produce wrinkled green, and wrinkled yellow. 
+
+So Mendel's idea was that for any one trait there, the genotype that have these two alleles it was a random draw which one was going-- you just distributed randomly one of them to the next generation. But now when he looks at two simultaneously, he can ask what's the ratio of these guys. Were they correlated with each other or independent of each other? 
+
+It could be that the rs and the gs are somehow correlated. Or it could be that they're independent of each other. If they are independent of each other, what will the ratio be? a 1/4, a 1/4, a 1/4, and a 1/4-- or 1 to 1 to 1 to 1. 
+
+That's what he saw. He saw independent assortment. This is Mendel's law of independent assortment, his second law. 
+
+Not only do these traits randomly pick one of their two alleles here, these genes pick one of their two alleles, but the choices are totally uncorrelated. They're separate. They're totally independent of each other. And you get a 1 to 1 to 1 to 1 ratio. Any questions about that? 
+
+All right. So that's what he saw, 1 to 1 to 1 to 1. And he didn't just do this for round and wrinkled and green, yellow. He did this for lots and lots and lots and lots of combinations. And he saw that this law held up for every single pair of traits he tried it on. 
+
+It's a great paper. You have to read the great paper. Publishes it in 1865. It's so cool. It went around the world. And you know what people's reaction to it was? 
+
+Turned out not to make a really big impact because it was so interesting but so abstract. If you read it, Mendel's got 2 to the n and 3 to the n and 4 to the n running around in his paper. It's a real mathematical paper. And it makes your head hurt a little bit if you're not really into this sort of thing. 
+
+And so in fact, Mendel's paper even made it to Charles Darwin. Charles Darwin, who would desperately want to know the basis of heredity and speculated wildly about it because it was crucial to the theory of evolution, Charles Darwin had Mendel's paper in his library and never read it. 
+
+And we know he never read it because in those days, the way they'd print it, the pages would get printed and folded over. And you'd have to slit the edges. And the edges were never slit. He never read it. 
+
+I'm not sure he would have understood it, or whatever. But he never read it. But he did have it. Anyway, I digress. 
+
+Before you go on to the next segment, take a moment and explain in your own words what Mendel's second law of inheritance really means. 

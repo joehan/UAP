@@ -1,0 +1,227 @@
+ERIC LANDER: You have all these chromosomes, some one chromosome, two chromosome, three chromosome, four chromosome, five chromosome, six, et cetera, et cetera, et cetera, et cetera. We've got a gene over here for Huntington's disease. We don't know it, but I'm telling you it's over there. 
+
+We need markers. David Botstein thought of a way to get markers. Instead of really gorgeous markers, like cinnabar eyes, and curly wings, and things like that, he said, let's use boring markers, the most boring marker you can imagine. He said, the DNA sequence of the human is 3 billion letters. But we're not all identical. There are tiny spelling differences between people. 
+
+In fact, maybe over here at that spot, many people have an A on that chromosome, meaning an AT base pair. I'm just writing the A. But this is a DNA double helix. I'll just write the A. 
+
+But some people might have a C there. That is a CG base pair. That's called a polymorphism, a variation. 
+
+So maybe right over here at this position in the human genome, there's a polymorphism, meaning a genetic difference. Is that a genetic marker? Could I trace that in a cross? Yeah, it's just a lot more boring than cinnabar eyes, and maybe a lot harder because I'm going to have to read its DNA sequence. But it's a genetic marker. 
+
+Is it a recessive trait, a dominant trait, or a co-dominant trait? Co-dominant, because if somebody's a heterozygote, I could see that on one chromosome, they might have the A. On the other chromosome, they might have the C. 
+
+Or maybe they have the C on both the chromosome they got from mom and the chromosome they got from dad. Or maybe they got the A. So I can see both homozygotes differently, and I can see the heterozygote. So it's a co-dominate trait. 
+
+I could trace that in a family. Let's do it. So suppose we have a family here. Let's take our Huntington's disease family again right over there. 
+
+Here's our Huntington's disease family. Let's see how many kids we've got. We've got a son, and a daughter, and a son, and a daughter, and a son, and a daughter, and a son, and the effecteds are this one, and this one, and this one, and this one, 
+
+All right, so dad is affected. We know that dad is HD over plus. He's got an HD allele and a wild type allele. Mom who is unaffected is plus over plus. 
+
+At this position in the genome, on chromosome number one, nowhere near the Huntington's disease gene, maybe dad got from his dad a C on one chromosome and he got an A from his mom. 
+
+So dad might be a CA heterozygote at this particular locus, far away in the genome. Mom at this particular locus far away in the genome, might be AA homozygote. Now when I look at the cross here, which kids got the Huntington's disease allele from dad. These ones, the ones who were affected. 
+
+So all of those are HD. And what did they get from mom? Plus, HD plus, HD plus, HD plus, and what did they get from mom at the second locus far away in the genome? 
+
+A, because that's all mom had on offer. And what did they get from dad? Well, they go Huntington's, but what did they get over here? 
+
+STUDENT: Either C or A. 
+
+ERIC LANDER: Either C or A, it's unlinked. It's on a different chromosome. So some of them might have gotten a C. 
+
+Some of them might have gotten an A. Some of them might have gotten a C. Some of them might have gotten an A. There's no linkage. 
+
+We just did a test of a combination there. There's no linkage there. They're unlinked. 
+
+Their combination frequency here is 50%. What if we tried a marker over here? What it show any linkage? How about one over here? How about one over here? 
+
+Maybe, if it's close enough it might. So maybe if we tried a genetic marker right over here, oh I don't maybe the two alternatives at that position of the genome could be a T or maybe a G are the two possibilities. Then if we did that-- I'm going to now erase that-- and we'll say dad got a T from his dad from whom he got Huntington's and a G on the other chromosome. 
+
+Mom, let's say, is a GG. So now all these kids who got Huntington's will have gotten the T from dad, if that genetic locus is very close to this genetic locus. That it? 
+
+It was nothing more than we did with the fruit flies. It's exactly the same as the fruit flies, but more boring. OK, because we're using simply spelling differences in the DNA. 
+
+Now you haven't asked me how I'm going to find these spelling differences. How am I going to [INAUDIBLE] these spelling differences. And you're right not to ask me. Yes? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Well, the right answer for the moment is don't worry about it. Let's think conceptually. Do they exist? I'm going to tell you they do. But in point of fact, in the human genome, you, every 1,000 bases or so in your genome, your heterozygous at some position. 
+
+So it turns out the chromosome you got from mom and the chromosome you got from your dad differ by about one base in a thousand. It's actually about one in 1,300, if we were precise. But we'll go call it one in 1,000 for round numbers. 
+
+That means that out of a genome of 3 billion bases, you have 3 million sites of heterozygosity. Now we have to find them, and we have to assay them. But if we could conceptually, you owe a lot of genetic markers where you're ready heterozygous. 
+
+So what does that do? Number one, that solves our problem of markers. Number two, it solves our problem of not having to set up crosses. 
+
+Because you are already marked. Your genome's already marked with 3 million heterozygous sites that I can use to trace inheritance. Pretty clever if you've come marked already. 
+
+All right, so you will have to ask about the details of how that happens. But that was David Botstein really good idea. OK? How did people actually detect these polymorphisms? 
+
+Since you ask, how did people find polymorphisms? In the beginning, they didn't have a lot of polymorphisms, but they did kind of indirectly know there must be a lot of them. So I'm going to just tell you very briefly what they did. And you will probably forget it, because what they did originally was incredibly painful. 
+
+What they did, oh goodness, was sometimes by chance, a polymorphism might occur and disrupt the site for a restriction enzyme. Remember Echo R1 had the site GAATTC. Well, if a polymorphism changed one of those letters, Echo R1 wouldn't cut anymore. 
+
+And so if this was an Echo R1 site, and that's an Echo R1 site, and that's an Echo R1 site, but somebody had a polymorphism there, they wouldn't cut. And they would just have one big fragment. But somebody who had the Echo R1 would have two little fragments. 
+
+And using a really painful technique where they would take the total human genome, cut it with Echo R1, run it on a gel, blot it onto a piece of paper, and make a radioactive probe for just one spot in the genome, you could visualize the restriction fragments for just one spot in the genome. You make a radioactive probe from this region, wash it over the piece of paper, and you would have one band. And you would have two bands. 
+
+And we could see that polymorphism. And that would take a week's work to see that. But we could do it. You'd put on the x-ray film. It was horrible. 
+
+It got a little better later-- later meaning for five years later-- when it turns out there was some regions of the genome that had some funny repeats in them, like CACACACACACACA. And it turns out that DNA polymerase slips when it replicates those sequences. And so you might have 10 copies, and you might have 12 copies. And you might have 15 copies. 
+
+And if I have PCR primers, I could PCR you, and you, and you, and run them on a gel and see that there was a slightly different length. And I actually used to do a lot of this in the lab of PCRing these little segments that had expanding or contracting repeats. I'm telling you this mostly because I'm just sharing my pain. 
+
+You wouldn't do this anymore. But this is what one did in the ancient days. And this is what people did in the 1980s when they were trying to find genes. 
+
+So just put this in a box and say, very painful work to find polymorphism, very painful work to then go test polymorphisms. But this idea was applied by someone here in Boston, someone who works at the Mass General. And I'm going to put his name down too, because it was pretty cool. A guy called Jim Gusella, still at the Mass General, got the idea from David Botstein and said, I'm going to do Huntington's disease. And he got big families with Huntington's disease, working with someone else who was very wonderful, called Nancy Wexler. 
+
+They got these big families. And they did this horrible thing with restriction enzymes. And if you did any sensible calculation, how many different genetic markers would he have to go through before he would possibly get to one that was nearby Huntington's disease? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Hundreds and hundreds, he couldn't start at the beginning, because nobody knew where anything was in the human genome. There was no map of the human genome. All he could do was reach in randomly into library, pull out a random piece of DNA where he didn't know where it was even, and test it to see if it had a polymorphism. And if it had a polymorphism, test it to see if it showed linkage the Huntington's disease. 
+
+Then if that didn't work, throw it out and do another one, and another one. And he was pulling the slot machine, just randomly pulling out pieces of DNA and looking for genetic variation. Yes? 
+
+STUDENT: How did he know that he wasn't testing the same piece? 
+
+ERIC LANDER: Well, because there's so many pieces in the genome. The chance that you would encounter the same piece is pretty low. There are a lot of pieces. He just made a library. Libraries have a lot of fragments. 
+
+He just tested them one at a time. And as any sensible calculation would say, you'd have to go through about 600 polymorphisms before he got to any reasonable chance of finding Huntington's disease. He found linkage on number 12. 
+
+As it happens, the 12th marker he tried, number 12, showed linkage Huntington's disease. And he was darn lucky. 
+
+And he wrote it up in 1984. I remember the paper. I remember when the paper came out. It was in 1984. Marker number 12 did it in 1984. 
+
+Then all he had was a genetic marker. So let's just take a look-see here. So all he had was a genetic marker somewhere on the chromosome near Huntington's disease gene. And maybe he was so lucky to have another one on the other side. 
+
+So the Huntington's disease gene is here, HD. And Jim Gusella was lucky enough to have a genetic marker here, C, maybe genetic marker over here, G in some people, and maybe A in other people, and C in some people, maybe T in other people. And maybe he was lucky enough, we'll say, that there was only 1% genetic recombination. 
+
+99% of the time they were transmitted without a across over. He was 1% recombination away. He's so close. 
+
+But in the human genome, 1% genetic recombination corresponds to 1 million bases of DNA. There's only a recombination on average every 100 million basis. So 1% is about 1 million bases. 
+
+So Gusella had a marker 1 million bases away from the gene, and similarly with cystic fibrosis. A few years later, 1985, I remember the day David Botstein took me into his office and he closed the door, and he said, they've got a marker linked to cystic fibrosis. 
+
+Cystic fibrosis is on chromosome seven. It was the first time we knew it was on chromosome seven. There was a marker. He was actually 15% recombination away, meaning 15 million bases. Now a few months later, they got one 1% recombination away. 
+
+But a million bases-- in those days, people worked with pieces of DNA in their library of 10,000 bases or maybe 20,000 or 40,000 bases. The thought of how you'd get a million bases away. Actually, how are you going to do that? Help me out here. 
+
+I've got this chromosome. I've got the gene I want to get to. Let's switch it to cystic fibrosis, just for fun. I've got a genetic markers, and it's 1% away. And I'm going to blow this up so that you know that it's 1 million bases. 
+
+And I actually have this piece of DNA. I pulled it out of the library. It recognized the DNA spelling difference. The DNA spelling difference showed coinheritance with cystic fibrosis. But I don't have any of the intermediate pieces of DNA, including the cystic fibrosis gene itself. 
+
+All I have is a piece of DNA who's polymorphism shows coinheritance. How am I going to get the other pieces of DNA? Sorry? 
+
+STUDENT: More testing. 
+
+ERIC LANDER: Well, I mean, randomly pulling the slot machine? No, most of the time I pull the slot machine and I test the random marker, it's going to be elsewhere in the genome. I have to start doing something in the directed fashion. On the same chromosome? 
+
+Yeah, it's true. People actually did have some tricks for getting markers on the same chromosome. But they couldn't get them within a particular place in the chromosome. 
+
+There were some tricks for isolating individual chromosomes and making libraries just from a chromosome, good idea. But still they're scattered all over the chromosome. How do I get closer and closer in some successive way to my gene? 
+
+Another painful technique-- next painful technique, if this is called genetic mapping, which is what it's called, genetic mapping in humans, this next is called physical mapping. I'll write it over here, physical mapping. 
+
+You had to get the intermediate pieces of DNA. Well, this is a piece of DNA. I'm just going to describe to you the unbelievably painful work people did. What they did was they said, somewhere in my library, somewhere in the zillions of colonies sitting on my petri plate, is a clone that has a piece of DNA that overlaps it. 
+
+If those two clones overlap, they have some of the same sequence. Well, if I take the first clone and I make it a radioactive probe, if I read you actively label it, and I wash it over my library, it will stick to any other sequence that overlaps it. And by where the radioactivity is, I can find an overlapping clone. 
+
+That's about two weeks work. And it gets you there. Oh by the way, it also gets you there, because you don't know which direction it's going. 
+
+Now what do you do? You do it again. You take that and you say, that's a piece of DNA. Somewhere in the library, there will be an overlapping piece of DNA. Make that a radioactive clone, a radioactive piece of DNA. Wash it over it, and it will stick to by Crick Watson base pairing. 
+
+It's a great trick. It's called hybridization. The two strands of DNA hybridized to each other. You use this as a probe. 
+
+You wash it over your library. And somebody lights up. That is, radioactivity signal sticks there. 
+
+And then what do you do? You do it again. And you do it again. And you do it again. And you do it again, and again, and again, and again, and again. Oh by the way, you're going this way too. How do I know which way I'm going? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: I don't have anything known. 
+
+STUDENT: [INAUDIBLE] until you get to the marker. 
+
+ERIC LANDER: I keep on going until I find the genetic marker that choose greater recombination. So I start walking in both directions and eventually I find the genetic polymorphism that has a crossover. And it's an extra crossover. And I say, OK, that was the wrong direction. 
+
+And then how do I know I'm getting closer? I have fewer crossovers. So I'm constantly monitoring my genetic recombination a la Sturtevant. 
+
+And I'm also doing it from a genetic marker on the other side, walking in, and walking in, and walking in, and walking in. And this is the transcontinental railroad. And you drive the golden spike in the middle. 
+
+Right, and you're done. And you've built the transcontinental railroad, connecting the two markers on either side of cystic fibrosis. Now you know that cystic fibrosis is in there. You've got it. This is called chromosomal walking. 
+
+This is so tedious. I call it chromosomal schlepping. You're just schlepping along the chromosome there. It took forever. 
+
+But you get there eventually. And you close up. Now how do you actually find the cystic fibrosis gene in all this stuff? How do you find the gene? 
+
+Well, even that within there, what you can do is look for more of these genetic spelling differences. And any time you see a genetic recombination crossover, you can rule out that side. And a cross over here, you can rule out that side. 
+
+Maybe there's another crossover there. Eventually you get the region that shows no crossovers in the families you've looked. And in all the family you've looked at, you never see a crossover. That whole region then show 0% recombination for cystic fibrosis. 
+
+But not all of that is cystic fibrosis, even at 0%. You just haven't found your recombination yet. You ended up doing a lot of sequencing. 
+
+You sequence the region. You look at the sequence. You compare it to other sequences. You look for differences between cystic fibrosis patients and patients-- people without cystic fibrosis. 
+
+And eventually, you find a gene that shows a consistent set of mutations in patients versus controls. For cystic fibrosis, this was unbelievably painful. So the concept is straightforward. 
+
+We have our family. This now I'm going back to a dominant trait in this picture. Dad here is a heterozygote. I'm back to my Huntington's, for example. 
+
+And it's transmitted. And here there was no crossover in this region here. Over here, oh look at that, no crossover here. No crossover here, but here there's a crossover. 
+
+But the person is still affected. What does that tell us? It's on this side. 
+
+Here, there was a crossover here. And the person's not affected. What does that tell us? It's above this point and below that point. That's it. That's genetic mapping. It's just what was done in fruit flies. 
+
+And you begin to narrow in just like Oh, by the way, I just have to say this, because everybody gets confused. This person is affected. They carry four different spelling differences, TACG. 
+
+In this family, the people who carry TACG are carrying the Huntington's allele. But if a random person walked in off the street and they were carrying TACG, do you think they have Huntington's? 
+
+STUDENT: If it's in the same spot. 
+
+ERIC LANDER: Ah, those genetic markers are nearby Huntington's, but not that nearby. They might be half a million bases away. That's close enough that within a family, they'll be coinherited. But across a whole population, recombinations will have happened. 
+
+These markers, I just have to say because everybody gets confused about it, these spelling differences are just nearby spelling differences. They're not in the gene. They don't cause it. 
+
+These things here that are flanking the gene, the particular family shows this particular set of spellings. But a different family with Huntington's disease might have a different set of spellings. You're tracing within families, not across populations. 
+
+Those are not the causes of Huntington's. Any question about that? Good, because that's an important thing. 
+
+These are just markers, and they're markers for each family. They'll be a little different depending on what you happen to have on the chromosome that was brought in. So now for cystic fibrosis, walking, walking, walking, walking, walking, walking, walking, that is I just summarized four years. OK, that's four years. 
+
+But then, they sequenced it. They got the gene. And that's the gene. 
+
+And you can't read that. And you shouldn't. But if you look closely, those three letters, CTT, if you look it up on your genetic code chart, that's phenylalanine at position 508 of this protein. That's missing in most patients with cystic fibrosis. That's the cause of cystic fibrosis. 
+
+CTT missing, deletion of 508th codon in coding phenylalanine. So like, what does this gene do? We didn't know what the protein was. We didn't know what the function was. 
+
+So what they did was they took the DNA sequence of the gene, translated into a protein sequence, tossed it into the computer, and compared it to the protein sequences of lots of other genes. And they all encode transporters that sit in the surface of the cell and transport things back and forth. 
+
+Congratulations, you've probably just found the transporter. And that's probably the cause of cystic fibrosis. You got the protein. You got the function by essentially what we would today call, but they did not call in 1989, a Google search. 
+
+They didn't call it a Google search, because there wasn't a Google. But it was an early Google search against all the sequences that were available. And that Google search hit a lot of things that encoded proteins that sat in membranes and transported things. And you immediately got a hypothesis on a silver platters by a Google search of [INAUDIBLE] proteins. 
+
+Then you could test the hypothesis and the darn thing does actually encode a transport that's involved in transport of ions. It actually regulates the conductants of ions across the membrane, pretty cool. 
+
+A couple of them had their structures known. So you could take a known structure for some of those conductants regulators and drape the sequence of your gene, your new gene, over some of the old structures and say, it probably even works like this. And it turns out that that three bases that are missing, that the amino acid that's missing, happens to reside in an ATP binding domain. 
+
+And so, anyway, it's all really cool. So great reward, tremendous work, five years of work, tens of millions of dollars, about 100 people working on this, you get one gene out. It's pretty cool. You now, could for example, do PCR diagnostics and find out who's carriers, if we're looking for that three base pairs deletion. 
+
+You find out the function. But there's got be a better way to do this. Huntington's disease, by the way, Huntington's disease, Jim Gusella was so lucky. 
+
+He got his probe for his genetic marker on number 12, pulling the slot machine. It turns out he then had to pay back the goddess of luck. It took 10 years to actually get the gene out after having had linkage. 
+
+There had to be a better way. This was the purpose of the Human Genome Project. The reason there was a Human Genome Project was to make that easy. Question? 
+
+STUDENT: How did they know which section were introns? 
+
+ERIC LANDER: How did they know which sections were introns? Oh my goodness. So the truth is, I've actually made it easier than it sounds, even though it was not meant to sound easy. 
+
+If you want to know the real truth, when you had the region of DNA, you then had to find cDNAs that corresponded to that region. So you would take genomic DNA across the region, make that a radioactive probe, wash it over a library of cDNAs, and collect cDNAs from the region. 
+
+You then sequenced the cDNAs, line them up against the genomic DNAs, figure out what the introns and exons were. It was horrible. It was really horrible. 
+
+You could see why we're all very motivated to do a Human Genome Project. Because I cloned a few genes this way. And you don't want to clone too many genes that way. 
+
+To make sure you really understand genetic mapping in humans, try answering this question about human DNA polymorphisms. 

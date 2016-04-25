@@ -1,0 +1,43 @@
+PROFESSOR: So, what's our problem? Our problem is we don't want beta gal if there's glucose. We have a system like this. We have our promoter. We have our operator. That's where the repressor is going to bind. We have our genes. Let's see. What are we going to do? By the way, who made the repressor? Different gene. There's a gene for the lac repressor. Good. Just checking. 
+
+Somewhere else, as it happens, it's just down the road. The next gene over encodes the lac repressor. But it could be elsewhere on the chromosome, too. But it's not. OK. So there's a gene for that. Now, tell me, how are we going to make this only work if there's not glucose? Proposal? 
+
+STUDENT: A different allosteric site that would bind better if there's glucose? 
+
+PROFESSOR: Another allosteric site that makes the repressor bind better if there's glucose. That's interesting. What do you think? Maybe we're overloading this poor repressor here. Why don't you just give me a repressor that binds glucose? 
+
+How about that? Let's make life simple. Rather than another site on the same one, how about a repressor that bind-- OK, so let's just take your own repressor. What would you like? Give me your repressor, and what do you want its properties to be? 
+
+STUDENT: Binds to the operator if there's glucose? 
+
+PROFESSOR: Binds to this operator. You know what? I'm going to make your life easier. Have another operator site. OK? Just so we don't have too much going on at the same time. For your model, we'll call this one the lactose related operator. Why don't you just splurge and give yourself a glucose operator? And now what would you like to do? 
+
+You're going to have some repressor. Beautiful. Here's my repressor, that'll also be capable of obscuring that promoter. And what do you want its properties to be? 
+
+STUDENT: It'll still bind to the operator if it is also bound to glucose? 
+
+PROFESSOR: Oh, oh. It's the opposite. If glucose is present, here we go. Here's some glucose. If the glucose is present, it binds. But if the glucose is absent, it comes off. Brilliant. I love it. OK. So in the absence of glucose, it comes off. No glucose. So now look what you've accomplished. 
+
+You've written a second statement. You had your lac statement, which said IF lac, then come OFF, and here you have IF glucose, then go ON. And you've done it with another repressor. So what you've got, your solution, brilliant, is now a glucose repressor. I love it. Indeed, after people discovered the lac repressor, they knew the answer was repressors. It was all going to be repressors. 
+
+And so they expected exactly your model. Turns out that's not what happens. But it's a good model, and it could happen. But it turns out that's not the solution. So, oh well. It doesn't actually happen. But there's no reason it couldn't. And for other systems, it would. If you're not going to repress, what else could you do? Stimulate. Activate. So another thing in theory would be to have an activator. 
+
+In fact, there were, like, bitter arguments in the field after the lac repressor was found that said, no, it's all repression, and the people who favored that there also might be activators got pooh-poohed, but in point of fact, it turns out there were activators, also. You know, people love discoveries, and then they grab onto those discoveries, and they really won't let go of them. So it turns out life tries everything, and activators work, also. 
+
+So there's another solution. The solution here alternatively could be an activator. Now, how's my activator going to work? Let's go back here. I have my promoter. I have my repressive operator site. Z, Y, A. And how do I activate transcription? Here's the trick. I told you that polymerase likes to sit down there. RNA polymerase likes to sit down here and promote. Transcribe. 
+
+Because it's a promoter. It turns out it's a crummy promoter. It's not a very good promoter. It's not such a happy site for binding RNA polymerase. So I could make it a better promoter if there was another protein nearby that also helped bind the RNA polymerase and made it an attractive site to sit down that has stabilized the RNA polymerase there. 
+
+If there was another promoter, another protein that sat down over here and helped stabilize, it then becomes an activator protein, because it helps RNA polymerase to sit down there. And so now there's an activator. Now, when do you want that activator to sit down? When there's not glucose. So what would you like? If glucose is around, you want it to bind to the activator and come off. 
+
+And if glucose is not around, it sits down. And that would be a great idea. But it turns out it doesn't do it that way. It turns out instead of using glucose, it uses another molecule, because it turns out, and this is just how the logic works, if glucose is low, remember, glucose involves making ATP, which gets broken down into ADP and AMP. Then if glucose is low, it turns out another molecule, cyclic AMP is high. 
+
+So it's using a trick. No reason you should know that trick, but when glucose is low, the cell senses that by certain products of the breakdown of ATP being high. And actually, this protein binds cyclic AMP. Now, which way do we want it to go? If this is a signal of low glucose, binding cyclic AMP should make the activator sit down or not? Sit down. So it has a cyclic AMP binding site. Cyclic AMP binding site. 
+
+Sits down, and now makes it work. And that's it. So now notice, we had a whole lot of ways we could run this logic. There wasn't like a unique solution to this. We could have used the glucose repressor. It would be perfectly fine. We could have used an activator with glucose. We're using an activator with cyclic AMP. 
+
+It turns out there are probably good reasons the cell makes these choices, as to whether we would rather sense the presence of something or the absence of something. How quickly it can sense something. Remember, it's at all engineering. You're engineers. It's all engineering. We want to be able to respond quickly. So you've got to decide, do I want to respond to absences or presences? What do I want to respond to? 
+
+What's going to be-- and there's a lot of design principles we haven't gotten into, but let's just take a look at what we did. We have just written the statement, IF lactose, that means my repressor is not bound, because it's got lactose attached to it, then I'm not blocking the operator site, AND not glucose, meaning there's a lot of cyclic AMP, then I stabilize my RNA polymerase. It starts off and it starts transcribing. 
+
+That's it. We've done it. Pretty much, that's how life works. There are a few details I leave out here, but that's pretty much what happens, is repression and activation of genes in response to different kinds of signals. OK, now try this question about how glucose regulates the beta gal gene. 

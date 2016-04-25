@@ -1,0 +1,35 @@
+MICHELLE: Hi everyone. It's Michelle here. And today, we're going to continue our discussion of chromosome segregation and meiosis. Today, we're going to introduce the very important concept of linkage. Let's get started. 
+
+Here we see a familiar diagram that we used in a previous video. It says a nucleus of a diploid cell where 2n equals 4. For this example, we're going to consider genes D and E. As in the previous example, the red chromosomes were inherited from mom. And the blue chromosomes were inherited from dad. 
+
+And the genotype of this individual is big D little d, big E little e. This heterozygous had a mom who's genotype was big D, big D, little e, little e. And a dad whose genotype was little d, little d, big E, big E. Like so. 
+
+So now, I'd like you to assume that the D and E low side are both on the large chromosome. In fact, they're on the same arm of the chromosome. Let's say they're on this arm of the large chromosome. 
+
+OK, so with paper and pencil with your computer, recreate this figure for yourself. And label the chromosomes with all of the D and E alleles. Pause the video. And then we'll come back and do it together. 
+
+OK, great. Let's see how you did. So, let's imagine that the D locus is here. You received a big D from mom, and a little e from mom, like so. And the same side for this chromosome. It's the D allele and the E allele that you got from dad, like so. 
+
+Great. So, now we've placed the D alleles and E alleles on the chromosomes. I'd like you take a minute and trace these alleles through meiosis. What's the genotype of the gametes that you get? See you in a minute. 
+
+OK, great. So, remember that the first stage of meiosis is replication. And now I'm going to place the alleles on the homologous chromosomes. And the sister chromatids are the same. So the D and E alleles would look like this. Great. 
+
+So, now we're ready to progress into metaphase one. Here we go. I'm just going to place the alleles. Remember that I'm actually labeling both sister chromatids. Just for simplicity, I'm only writing one letter. 
+
+There are two different chromosomes. And we learned in the previous segment that they can align in one of two ways. So, another possibility is that the chromosomes can align like this. Great. So, now I'm going to put the alleles here. 
+
+And what I'd like you to notice is that, even though there's a different alignment of the two different chromosomes, nothing changes about the D and E alleles that are on the same chromosome. OK, so now I'm going to go through meiosis. 
+
+First, the meiosis on the left side. That's shown here. OK. So in meiosis one, homologous chromosomes split. So the products of meiosis one are going to look like this. And then, in meiosis two, sisters split. And I'm showing that here. 
+
+So, the products from meiosis, if chromosomes line up this way, are two gametes of genotype big D little e. And two gametes of genotype little d big E. So, what about the meiosis for the alignment on the right? Let's take a look. 
+
+Again, homologous chromosomes segregate in meiosis one, shown here. And sisters split in meiosis two. So what are the genotypes of our gametes for chromosomes in this alignment? 
+
+Look at this. It's also big D little e. And little d big E. So, when we're thinking about what gametes a heterozygote could produce if we were just doing a dihybrid cross, we would predict that you can get these four possible gametes. 
+
+But now, let's add another layer. Remember that mom's genotype-- and I'll put that in red-- was this. And dad's genotype in blue was this. So the gametes that mom could produce were only big D, little e. And the gametes that dad could produce were only little d, big E. 
+
+And what do you notice about the gametes that you didn't produce? You produced big D, little e half time. And little d, big E half the time. So the gametes you produced for these genes on the same chromosome are in the same configuration as the two possibilities from your parent. And so, that's indicated here in those two combinations. 
+
+Great work everyone. So in this segment, we discovered why genes that are on the same chromosome do not behave the way Mendel predicted. In our final segment, we'll talk about one last important concept, recombination. See you then. 

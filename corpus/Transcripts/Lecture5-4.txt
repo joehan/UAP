@@ -1,0 +1,97 @@
+ERIC S. LANDER: It all works beautifully. You're getting sugar, you're producing ATP. 
+
+What if you don't need so much ATP? What if you don't have so much sugar? Should we just have this pathway be running that way all the time or would you like it to be, if you're getting fancy, have dials on it, to be a little adjustable? 
+
+STUDENT: Something tells me that. 
+
+ERIC S. LANDER: Something tells you we're going to want some dials on that. So let's take a look at how we can regulate this nice pathway. 
+
+A goes to B goes to C and maybe C could get used to make D, E, F, or maybe it could get used to make G, H, I. We're not going to fuss over any molecular structures here. 
+
+Suppose we have too much F. The cell says, I've got too much F. I'm trying to balance things out. I've got too much F. Maybe F is ATP, maybe F is something else-- I've got too much of it-- yet this pathway's just churning out more of it. 
+
+That's not good-- it's a waste. I don't want that much more F. What do you want to do? 
+
+STUDENT: Turn it down. 
+
+ERIC S. LANDER: I'd like to turn down the dial. What dial would I like to turn down? How about this one? 
+
+If I turn down the dial here, I won't make so much F. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: I'll make a lot of E, though. That's not so good. No. I could turn down this, but then I'll make a lot of D. Maybe what I should do is turned down this one. So you would like to have some way to have excess F and turn down the dial there. 
+
+By the way, what's the dial that we're talking about? What is that arrow? That arrow refers to--? 
+
+STUDENT: Rate. 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: Rate. 
+
+ERIC S. LANDER: The rate. And what controls that rate? 
+
+STUDENT: Enzymes? 
+
+ERIC S. LANDER: Enzymes are good at controlling rates. We can really slow things down if we could just persuade that enzyme to please stop working or work a little less well. 
+
+So imagine if we had this enzyme. Here's our enzyme, and it's got a site here for C, and C, it's going to convert it into D. I'd like to have that enzyme please slow down if there's too much F. How's it going to know there's too much F and what would it do in response to it? 
+
+STUDENT: Would F block the active site? 
+
+ERIC S. LANDER: F might block the active site. That's a possibility. But probably F is a different shaped molecule. It doesn't fit in that active site so well. Yeah? 
+
+STUDENT: Have a site for F that causes it to change shape so [INAUDIBLE] fit in. 
+
+ERIC S. LANDER: So maybe there's some F binding place on the molecule. And when it binds F, it shifts its shape. Can proteins shift their shapes? 
+
+STUDENT: Yes. 
+
+ERIC S. LANDER: We saw proteins do a lot of shape shifting. So maybe there's an F site, and it changes its shape into another shape. 
+
+The word for "other" in Greek is "allo." The word for "shape," three dimensional shape, is "stereo." This is called allosteric regulation. Other shape-- it just means other shape regulation. 
+
+So F binds to that protein. And we were wondering, actually, weren't we, about this big protein with all these amino acids and all these things and what'd you need all that for? Well, some of that might be there because F can bind to it and then transmit the binding of F into its shape shifting and affect the active site. That's a pretty good trick. 
+
+Suppose I have too much I. 
+
+STUDENT: Same thing. 
+
+ERIC S. LANDER: Same deal. I go back there. 
+
+Suppose I have too much F and I. Where would I like to slow this thing down? Too much F and too much I. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: I might want to slow it down over here. So maybe that enzyme-- who knows?-- could have binding sites for F and I, a possibility. 
+
+Now suppose it's not that I have too much product at the end of the reaction, but I have too much reactant at the beginning of the reaction. I've got too much glucose and I haven't made enough ATP. It's building up-- I've got a lot of A. I want to get this reaction to go faster. I can't change the delta Gs, but I want this reaction to go faster. How am I going to get it to go faster? 
+
+STUDENT: [INAUDIBLE] so you get to slow it down? 
+
+ERIC S. LANDER: Well, these were things I slowed it down that way. But suppose I want to goose up. Yep? 
+
+STUDENT: [INAUDIBLE] make that more favorable to it? 
+
+ERIC S. LANDER: Ah, why can't I run allosteric regulation in the activation direction also? Maybe when As bind to a downstream enzyme, it activates the enzyme and makes it better. So I can run that both ways. 
+
+STUDENT: Is that what you said happened in the hemoglobin, sort of? 
+
+ERIC S. LANDER: Well, in the hemoglobin, that's a little bit like it. It's not quite the same thing, but when one oxygen bound in hemoglobin, it made it more favorable for another one for the-- so in fact, hemoglobin changed its shape to make more binding possible. Hemoglobin is not an enzyme, but it's exactly the same principle. It's allosterically changing to improve binding, and what you're saying is we could allosterically change to improve our enzyme speed as well. 
+
+So we can have either-- we could call the first thing we talked about feedback inhibition, or we could have feedforward activation. And that happens-- it happens all over the place. 
+
+Probably when this reaction first evolved in evolution there, long, long time ago, it didn't have all those nice tweaks. But over time, as organisms competed with each other, those who evolved cute tricks like being able to do feedback inhibition or feedforward activation outcompeted their friends and all of these cool little tricks were layered on top and on top and on top. 
+
+So we actually see this happening in glycolosis. Glucose to glucose-6-phosphate. First step, glucose to glucose-6-phosphate. That's an expensive step, isn't it? I'm spending an ATP. 
+
+Well, suppose I have a lot of glucose-6-phosphate around. Would I want to do that? It turns out glucose-6-phosphate itself can inhibit the enzyme that makes glucose-6-phosphate. Pretty cool. That enzyme's called hexokinase, because kinase means puts a phosphate group on. And so the product actually inhibits the enzyme and says, if I've got too much product, please don't bother making any more. 
+
+Now there are some other things here. Some of these other things here can be inhibited by too much ATP. Don't got enough ATP? I can inhibit them, because there's an ATP binding site. 
+
+If I've got too little ATP, then there's too much ADP, or actually, often the molecule that has just one phosphate, adenosine monophosphate, and those guys can come back and they can activate. And in fact, this is an incredibly important and an expensive pathway. I'm spending ATPs and it's highly regulated along the way. So that's what happens there. 
+
+There's actually a lot of a lot of fancy tricks that I won't get into, and not all the regulation for most pathways is even fully understood because they're still probably lots of aspects we don't fully know. 
+
+All right. Take a moment and test yourself with a pretty hard question about the regulation of pathways. 

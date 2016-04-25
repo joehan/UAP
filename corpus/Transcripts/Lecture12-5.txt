@@ -1,0 +1,79 @@
+ERIC S. LANDER: Whose genetic code is that? Yours? 
+
+STUDENT: Homo sapiens. 
+
+ERIC S. LANDER: Homo sapiens? 
+
+STUDENT: Yes. 
+
+ERIC S. LANDER: But what about mouse? Same genetic code? You think so? 
+
+How about dogs, fish? How about sea urchins, fungi, all eukaryotes? What about prokaryotes, bacteria? 
+
+Basically, this code is universal to all of life. 64 possible codons and virtually universal across all living organisms. Now, Francis Crick actually said in 1973, I wonder why there aren't occasional little changes in the genetic code? And four years later, people found occasional little changes in the genetic code. Francis was like that. 
+
+But the little changes are tiny. It turns out you have little-- we talked about ATP-producing organelles, mitochondria. And they actually have a genome that are separate from your nuclear genome, from your chromosomes. And it turns out they were little prokaryotes that long ago fused with you. Your own mitochondria have a slightly different genetic code than you do, one codon different. 
+
+There are some other tiny differences. But for the most part, I'm going to say the genetic code is universal, by which I mean it's almost universal. In fact, everything I will tell you in biology that is true, is almost always true, because there are always exceptions. But it's tiny exceptions. 
+
+The genetic code universal, what does that mean? What inference can you draw from the fact that essentially the exact same genetic code is used by every organism on this planet? Yes? 
+
+STUDENT: It's one of the first things that evolved. 
+
+ERIC S. LANDER: It's one of the first things that evolved. Every organism has a common ancestor because we all share the same genetic code. It's hard to imagine how if life evolved 20 independent times on this planet, they all ended up with exactly the same genetic code. Now don't get me wrong, there are some reasons to think the genetic code isn't totally random. But there's about 10 to the 84th possible genetic codes you could have. And the fact that we all use the same one makes it very unlikely that they evolved separately. 
+
+This is basically a statement about the single origin of life. Does that mean life only evolved once on this planet? 
+
+STUDENT: No. 
+
+ERIC S. LANDER: No. Why not? 
+
+STUDENT: Another genetic code could have evolved and then died out. 
+
+ERIC S. LANDER: Another genetic code could have evolved and died out. There could have been several starts to life on this planet, but they left no descendants. All descendants today come from a common genetic code that evolved a long time ago. That is pretty cool that you can learn that from just seeing that exactly one genetic code was used. 
+
+So that's the first point that I want to make, is the universality of the genetic code. Quote "universality," meaning almost completely identical, slight differences of the genetic code implies a single common ancestor, one of the first things that evolved. 
+
+Now, let me bend your mind one step further. Evolution-- how exactly does this craziness of DNA goes to RNA, goes to protein evolve? Who comes first, the chicken or the egg, that is the DNA, the RNA, or the protein? It's great. I mean that is a cool system. DNA goes to RNA, goes to protein. 
+
+If the DNA is sitting there and it evolves first, how is it going to make any proteins? If the proteins are there first, well who is making them? Who's encoding them? How does anything evolve here? One of these things has to precede the others. 
+
+Any takers? DNA? No. Because the problem is you need enzymes. You need to do catalysis. You've got to actually catalyze reactions. 
+
+Proteins? No. You've got to store information. Proteins don't store information. 
+
+Any takers for the ancestral molecule of life? Our best guess is RNA, that originally there was an RNA world. That RNA world could store information because it was a polynucleotide. 
+
+But to be a plausible world, what else would it have to do? We're dealing with DNA initially, but what does it-- 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Well, it's got to catalyze things. Its information storage is clear. We can store information in RNA. We have to catalyze reactions. RNA has to be able to function as an enzyme. But I told you that enzymes were proteins. 
+
+Are proteins the only thing that are allowed to be enzymes? It turns out that RNAs are allowed to be enzymes too. They're actually crummy enzymes. Well, not actually that crummy. But they're not as good as proteins for many, many purposes. 
+
+But you can actually make RNAs catalyze chemical reactions. So RNA has the two things you need, information storage and the ability to do catalysis and is a plausible candidate. 
+
+Now, what would be one of the most ancient things that might do catalysis? The ribosome. What did I say the ribosome was made of? Proteins and RNAs. There are long RNA molecules, and they're called ribosomal RNAs. 
+
+When people worked out how the ribosome works, and it catalyzes the peptide bond to make proteins, they now know which part of the ribosome actually catalyzes the reaction. Take a guess. It's not the proteins. 
+
+The catalysis is carried out by RNA in the ribosome. And that is an ancient echo almost surely of how this thing got started, when the RNA could act both as the information carrier and as the catalyst. And then it works out, and somehow-- details I'll skip over because I have no clue-- you get DNA, you get the proteins. But RNA plays that central function. 
+
+And the fact that RNA is carrying messages, RNA is the transfer agent, RNA is the catalyst for joining together these amino acids is an ancient, ancient echo of how all this got started. And the universality of the code is an ancient echo of how all life on this planet gets started. 
+
+So there are amazing things that you can find out from what actually goes. So as a last bit, I'm going to leave you with a video of translation. Let's just close with a video of translation, created not that long after the discovery of the genetic code, in 1971 by folks at Stanford University. And let's go out with this video of translation. 
+
+[VIDEO PLAYBACK] 
+
+-And we have an amino acid there. 
+
+-This is obviously a version of the devil walking. 
+
+-I think the big puffs are ATP being hydrolyzed. 
+
+[END VIDEO PLAYBACK] 
+
+ERIC S. LANDER: All right, that is transcription and translation-- until next time. 
+
+OK, before you move on to the next lecture, we've got one more question for you. Test yourself with this one. 

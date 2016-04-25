@@ -1,0 +1,29 @@
+ERIC S. LANDER: RAS is kind of cool. Here's RAS. It binds GDP-- guanosine diphosphate. RAS can bind GDP. And also, RAS can bind GTP-- guanosine triphosphate. It can bind GDP sometimes and GTP sometimes. 
+
+Now, RAS can go from this state, binding GDP to binding GTP by kicking off the GDP and picking up a GTP. And RAS can go to this state. How is it going to go to the state from binding a GTP to binding a GDP? 
+
+STUDENT: Dropping a phosphate. 
+
+ERIC S. LANDER: It's going to hydrolyze the phosphate. It's going to have an enzymatic action here. It's going to enzymatically hydrolyze off one of those phosphates, because this is a triphosphate. This is a diphosphate. And its RAS's own enzyme activity that will cause it to hydrolyze the GTP to a GDP. 
+
+When RAS is bound to GDP, it is inactive, not signaling anything. When it's bound to GTP, it's active. I actually drew it with this extra little effector loop, meaning it's somehow has changed its shape and now is able to interact in certain ways through an effector loop there. So it's pretty simple. 
+
+Now, how active RAS is or isn't depends on how much of the time it's in the GDP state, the inactive state, and what fraction of the time it's in the active state. If I can get it to be more in the active state and more fraction time now-- 80% of the time in the active state versus 10% of the time in the active state-- I kind of have a control dial for sending this signal. So how do I do that? 
+
+Well, I do that by having some other proteins that promote this. I have some proteins that come along and promote the exchange of these guanine nucleotides. And they're called guanine nucleotide exchange factors, because they exchange the guanine nucleotides pretty good, or just amongst friends, GEFs. 
+
+So some GEFs will come along, and they will help promote turning RAS into its active state. Some other things will come along and promote the GTPase activity. Proteins that promote this activity are called GTPase activating proteins, or GAPS. 
+
+So depending on the balance of GEFs and GAPs, you can have RAS be more active, less active. It's a control dial. Up there in this picture, Sos is a GEF. What does that mean? If Sos is a GEF, what does it do? 
+
+Turns it on and makes it more active. So now we've got our signal going through. I gotta say-- cancer is filled with these horrible acronyms-- eGFR dimerizes, binds Grb2, which binds Sos, which then activates RAS because it's a GEF. The horrible thing is that sentence now make sense to you. But this is why cancer doesn't make a lot of sense to people, because we have all these acronyms. 
+
+And it's even worse if you actually know what these words come from. Sos, by the way, means son of sevenless. It was first found by virtue of a mutation in a gene in the fruit fly that caused the seventh of eight cells-- the fly eye has eight cells that make a thing called an ommatidium, which is how it sees. It's got a whole lot of ommatidia. 
+
+One of those cells, the seventh cell, is missing in certain cases. Something related to that protein-- the mutation that cause that to be missing, the mutation was called sevenless, because it didn't have the seventh cell in the bit of the fly eye. And something related to it was called son of sevenless. 
+
+And that turned out to be related to this cancer protein. So it turns out that that's named for some fruit fly mutation, which is important to know, because it tells you the lot of what we've learned about cancer has come from studying fruit flies and yeast and other organisms and putting together clues across that. Every one of these funny little acronyms I tell you about has some shaggy dog story to it. 
+
+I've only told you one of the shaggy dog stories. But they're shaggy dog stories that have to do with viruses and flies and yeasts and things like that. You are now entitled to forget what Sos stands for and just know that it's a protein, but there are cool stories under how each of these were described. And then they get these really weird names. 
+
+So anyway, I digressed too long on that. But Sos is a GEF which activates RAS. Now before you go on, stop for a second and answer this question about how the RAS protein works. 

@@ -1,0 +1,141 @@
+ERIC S. LANDER: Beadle and Tatum went on a mutant hunt. That's what we call it. Geneticists dress up in their safari gear, and they go off, deep into the jungle, to come back with mutants. It is called a mutant hunt. And it's really one of the most fun things that you can do in genetics. You laugh. It is. It is one of the coolest things. 
+
+There are great mutant hunts. Most people come back alive from their mutant hunts and things like that. But, you know, there's always dangers entailed. 
+
+So how are we going to find yeast that are unable to carry out some aspects of biochemistry? Please design my mutant hunt for me. Yes? 
+
+STUDENT: You have to group them in an environment where they were deprived of something. Maybe, that would change the way they use other substances? 
+
+ERIC S. LANDER: True. How would I know? I want to find a mutant that can't do something. 
+
+STUDENT: You grow a lot of them under certain conditions? 
+
+ERIC S. LANDER: Grow a lot of them under certain conditions. 
+
+STUDENT: You want to kill all of them that can't create. 
+
+ERIC S. LANDER: Kill all the ones that can create? 
+
+STUDENT: Can't. 
+
+ERIC S. LANDER: Can't create. 
+
+STUDENT: Oh, wait, oh. 
+
+ERIC S. LANDER: Oh, you see. That's the problem. No, good. OK, now we're getting into it. Who do we want to find? We want to find the defective yeast. So you're going to kill all the ones that are defective, and you want to do it the other way. So how? OK, but this is good. We're thinking it through. Yes? 
+
+STUDENT: Could you, like, tag one of the molecules that the nondefective yeast would use to make an active molecule? 
+
+ERIC S. LANDER: Yeah. 
+
+STUDENT: And find the ones that have the tag, and look, and, you know, if they can produce it fine, and then the ones that don't have a tag-- 
+
+ERIC S. LANDER: So I've got to biochemically tag the molecule, have it get taken up by the yeast, and somehow label that yeast. But this is going to get complicated. I got to do some fancy chemistry. I'm interested. I'm just a geneticist. Yes? 
+
+STUDENT: Given that they can thrive off minimal media, could you provide them minimal media with one select rich media? And if they feed off the rich media, then that works. If they don't, and they're are only using the minimal media, then they have something wrong in their processor? 
+
+ERIC S. LANDER: Aah, that's interesting. So you want to start with a bunch of yeast, and plate them out under permissive conditions. What would be the most permissive conditions you could imagine, the easiest, the cushiest conditions that a yeast could have? 
+
+STUDENT: Rich media. 
+
+
+
+ERIC S. LANDER: Rich media. So let's start out by taking our yeast. Maybe we're going to mutagenize these yeast. We're going to treat them with a mutagen. Or, maybe, we're just going to not bother. In fact, Beadle and Tatum initially did mutagenize their yeast. 
+
+But, you know, you could also do it by just taking yeast-- some of them will be naturally mutants-- and plate it out on rich medium. Now, many of these guys-- and they'll grow up and make colonies-- many of these guys are perfectly normal, wild-type yeast. But some of these guys, you're telling me, are now defective. They're unable to produce something they need. But why can they grow? 
+
+STUDENT: They have rich media. 
+
+
+
+ERIC S. LANDER: Because it's rich medium. How do we find out who's defective? 
+
+STUDENT: Do it on there? 
+
+STUDENT: Stop using a rich medium? 
+
+ERIC S. LANDER: Well, it's on this plate. It's in the agar in the plate. How do I stop that? So what do you want to do? 
+
+STUDENT: I guess I'll starve them? 
+
+ERIC S. LANDER: Well, just technically, what am I going to do? 
+
+STUDENT: Remove just one element from the rich medium in the next generation. 
+
+ERIC S. LANDER: Well, why don't we go to town, and just remove them all? 
+
+[LAUGHTER] 
+
+ERIC S. LANDER: How about just put them on a plate with minimal medium? Now, how do I get each of these colonies onto a plate with minimal medium? What kind of technology? 
+
+Turns out, there's an advanced technology. I mean, you can use, actually, revision containing robots and things like that. But, actually, the original technology was the toothpick. 
+
+So you would sterilize a bunch of toothpicks in an autoclave. You would reach in and take one end of the toothpick, leaving the other end sterile. And you would toothpick some of that, and put it over there. We'll toothpick some of that, and put it over there. 
+
+And we'll toothpick that, and put it over there. And we'll toothpick that, and put it over there. And toothpick that, and put it over here. 
+
+And this one will grow up nicely. And that'll grow up nicely. And that'll grow up nicely. And that'll grow up nicely. 
+
+But this guy doesn't grow. Why doesn't it grow? It's a mutant. It's unable to grow on minimal medium. It's lost something. So it turned out to be dead easy. All we had to do to find something was just test a bunch of yeast. 
+
+When Beadle and Tatum did this, they had no idea how frequently they would find it. And they tested and tested and tested. And on number 299, they found one that was unable to grow in minimal medium. That wasn't so bad. It's just toothpicks, right? By number 299, they got one who didn't grow, and they were really excited, because they didn't know if they might have to tens of thousands and all that. Then they got another one and another one. They were finding them at a pretty good clip. 
+
+What's wrong with this guy? How do we tell what he needs? Yes? 
+
+STUDENT: Well, that's the issue. We can't tell which missing part is the right one, because he didn't move them systematically. 
+
+ERIC S. LANDER: So what are you going to do now? 
+
+STUDENT: Go back to rich medium, and remove just one at a time. 
+
+ERIC S. LANDER: Well, or how about go to minimal medium, and add one at a time? 
+
+STUDENT: Oh, yeah, sure. 
+
+ERIC S. LANDER: And I now have this guy here, who was on the rich medium, but he couldn't grow on minimal. So let's just take that guy now, and plate him out on a plate, that contains, you know, phenylalanine? Does he grow? Yeah, he grows. Tyrosine? Does he grow? Yeah, he grows. Leucine? Does he grow? Yeah, he grows. Arginine? Does he grow? No. Can't grow him without arginine. 
+
+Sorry, you can grow with it. What am I saying? Whew! I just did it backwards. Let's take that from the top. 
+
+So we take a guy who can grow on rich medium but cannot grow on minimal medium. We add back phenylalanine and say, does that rescue him? No. Can't grow with phenylalanine. 
+
+We add back tyrosine. Can he grow? No, tyrosine won't rescue him. Leucine won't rescue him, but arginine rescues him. Add back arginine. That yeast can grow. That was the defect-- inability to make its own arginine. 
+
+And if you go through a whole bunch of different amino acids and other things, actually, the first one that Beadle and Tatum found needed vitamin B6. That was the 299th guy. It turned out vitamin B6 was what was needed. 
+
+But they went through. And you can find them, that are rescued by phenylalanine, rescued by tyrosine, rescued by arginine, rescued by-- and you can make a big mutant collection of all sorts of mutants who can't grow without arginine, all sorts of mutants who can't grow without tyrosine. And that big mutant collection, just by transferring it and figuring it out, is an amazing biochemical resource. 
+
+We call guys who can grow on minimal medium prototrophs-- can grow on minimal medium-- proto-, meaning basic. Prototrophs can grow just fine on minimal medium, but some guys need help. 
+
+Yeast strains that need some help-- the word for help is auxo-, auxiliary, things like that, auxotrophs. Auxotrophs need help. They require a supplement. 
+
+So what can we call this mutant? This is an auxotroph. It's an auxotroph for arginine. It's an arginine auxotroph. That's what that is. We've just found us an arginine auxotroph, because arginine is what rescues that. 
+
+That was exciting. I mean, I'm not joking. I mean, to actually go through and collect mutant after mutant after mutant that can't do this bit of biochemistry, that bit of biochemistry, that bit of biochemistry, and be able to get dozens and dozens of guys who fail in all sorts of different processes, is exciting. 
+
+Now, we had to actually go through and test one at a time, at the time, at a time, each of these guys, by transferring here to minimal media. But that's because, just as you said, our problem here is we were looking for a defect, for an inability to do something. 
+
+If you're looking for an inability to do something, you're doing what geneticists call a genetic screen. We have to test each one, one at a time. Test each colony one at a time if we want to look for a loss of an ability. 
+
+Suppose we wanted, though, to look for a yeast that had gained an ability, a yeast that could now grow when normal yeast couldn't grow. Maybe, we'd have an antibiotic that kills yeast. And I could try to find yeast that can grow in the presence of that antibiotic, that antifungal drug. How would I do that? 
+
+STUDENT: Put it in the medium? 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: Put it into the media? 
+
+ERIC S. LANDER: Just put it in the medium. That, actually, turns out to be piece of cake, right? Really dead easy. If I want to find something that has gained an ability-- like, for example, is drug-resistant-- geneticists love this kind of thing. 
+
+We take a plate. In the agar, we'll put the drug. We'll plate the yeast-- di, di, di, di, di, di, di, di, di, di, di, di, di, di, di, di -- and how do we find the mutant? 
+
+STUDENT: It's the only one that survives. 
+
+
+
+ERIC S. LANDER: It's the only one that grows. There we go, mutant, mutant. Geneticists love it when you can arrange what we call a genetic selection. Why do geneticists prefer genetic selections to genetic screens? 
+
+STUDENT: Higher earnings. 
+
+ERIC S. LANDER: Because we geneticists are lazy. It's much easier to let the organism do the work, right? OK. So that's a mutant hunt. 
+
+All right, before we go on, test yourself on this question about going on a mutant hunt. 

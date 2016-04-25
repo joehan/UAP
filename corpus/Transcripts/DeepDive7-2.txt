@@ -1,0 +1,13 @@
+Hi. It's Samin again. So how did you do? Let's discuss how to arrive at the answers. In the first example, we have PDGFR, which is a growth factor receptor. That means when the growth factor binds to it, it promotes cell division. Therefore, this protein will be classified as a proto-oncogene. 
+
+Now let's look at the alleles. The first one is wild type, and the second one has a mutation that truncates the resulting protein. Remember that this is not a gain- of- function mutation, and we still have the other copy of the gene. Therefore, the cell will divide appropriately in the presence of the ligand. 
+
+In the second example, we have APC, which halts the cell cycle. Therefore, it's a tumor suppressor gene. The first allele has a mutation in the promoter, preventing its transcription. And we will not have any protein expression. The second allele results in a non-functional truncated protein. Therefore, the cell has lost both copies of APC, and it will become transformed. 
+
+In the third example, we have p16, which inhibits the cell cycle. And therefore, it is going to be classified as a tumor suppressor gene. The first allele is wild type and functioning normally. But the second one has a 10 base pair deletion causing a frame shift early in the sequence. And therefore, resulting in a non-functional protein. 
+
+However, since you still have a functioning copy, the phenotype of the cell would be normal. In the fourth example, we have RAS, which you already have learned is a proto-oncogene, because it promotes cell division. Allele one has a big deletion, and therefore won't make any functional protein. However, allele two has a mutation that causes RAS to be always GTP bound, and hence, in the active state, as it cannot get rid of GTP. 
+
+Therefore, this is a gain-of- function mutation, and will continuously stimulate the cell to divide. In the fifth example, we are looking at EGF receptor, a protein that when bound to its ligand, promotes cell division. Therefore, a proto-oncogene. The first copy of the gene is wild type, but the second copy codes for a receptor that can dimerize without the growth factor, and will therefore inappropriately simulate the cells to divide. 
+
+This will lead to uncontrolled cell division, and therefore, a transformed phenotype. I hope you enjoyed this exercise, and now have a better understanding of how cancer cells originate. 

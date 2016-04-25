@@ -1,0 +1,51 @@
+PROFESSOR: All right, welcome back, welcome back everybody. We're going to do now a little bit of a close up look at some proteins. In fact, I'm going to ask you to design some proteins for  us today. So we've talked last time about basic protein structure. 
+
+Today, in this lecture, we're going to talk about one of the most important types of proteins-- enzymes, going back to Buchner and his enzymes in yeast that could do fermentation, and also other amazing machines. So just to always remind ourselves with our coat of arms, we're looking at function. We're doing biochemistry. We're looking to proteins. We will soon enough turn to the complementary view of genetics and genes, but, for now, we're really trying to study proteins. 
+
+So, section one, let's make a protein that does something. I want to give you an assignment. You're a bacteria. You have an inner membrane-- oh, you're really getting into it. I like that. She's going-- it's good. It's   good. You've got it-- this method acting for prokaryotes. That's very good. 
+
+So I've got an E. coli here, let's say. And it turns out E. coli has an inner membrane and also an outer membrane. And I'm looking at this outer membrane of E. coli. I'd like you to create here a protein that will let in molecules. I'd like to let molecules into the space between the outer membrane and the inner membrane. 
+
+And here's my specifications. I'd like it to let in molecules. I don't want them to be too big-- you know, maybe, 600 molecular weight, not too big. 600 molecular weight is like the size of ATP, which we drew before in the last lecture. But, thank you, I don't want very charged molecules like ATP to get in. I would prefer to have this not have positively charged molecules get in, not have negatively charged molecules in. Just sort of polar molecules get in. No hydrophobics, please. 
+
+So I'd like to build a fairly general, nonspecific pore in the outer membrane that's going to allow into the cell, into that space between the two membranes, polar molecules of a certain size, no positive charge, no negative charge, and not these hydrophobics. That's your assignment. 
+
+Now, you do not have the benefit of three billion years of evolution to do this because we have a limited time in this class. And so you know evolution took longer to do this than that. But I want you to kind of spec out. If you were going to build a protein that was going to sit it in this membrane and let things in, what might you do? Thoughts? Ideas? 
+
+STUDENT: A beta barrel? 
+
+PROFESSOR: OK, you want to get a beta barrel. So let me zoom in to this outer membrane. Here's my outer membrane here. You'd like maybe some kind of a beta barrel, OK, like that. Why is my beta barrel going to agree to sit in that membrane? Well, I mean tell me about it. We studied phospholipid membranes? We did. And what do we know about the structure of a membrane? 
+
+STUDENT: Hydrophyllic on the outside, hydrophobic on the inside? 
+
+PROFESSOR: Exactly, good job. So we've got the hydrophilic outside, but on the inside, remember, we had that hydrophobic stuff. If that protein, if that barrel that you would like it, was going to sit in a membrane and be in contact with the surrounding hydrophobic space, what amino acids would you like around its outside? 
+
+STUDENT: Nonpolar ones? 
+
+PROFESSOR: Nonpolar ones, because if I put charged amino acids there, that's bad news. If I put polar ones, that's bad news. So you would like hydrophobic amino acids there. You'd like these nonpolar amino acids, hydrophobic amino acids. So the first thing is, you'd like to order up a beta barrel, and you'd like to order up hydrophobic amino acids. 
+
+All right, now you want a hole in the middle? OK. One hole in the middle. How big? How big do you want the hole? Not too big, and not too small. About the size that might let through something up to about 600 molecular weight. I don't know how big that is. But you experiment a little bit, and you'll figure it out, especially if you have three billion years to work that out. 
+
+All right, I didn't want to let any charged molecules in. How could I keep very positively charged molecules out? 
+
+STUDENT: Positively specifically? 
+
+PROFESSOR: Let's say positive, for the sake of argument. 
+
+STUDENT: Then you could  make it positively charged. 
+
+PROFESSOR: I could make the channel have a lot of positive charges, and it could repel away the positives. And if I want to keep the negatives out, I could also have a bunch of negatives and repel them out. And if I have a bunch of positive charges and a bunch of negative charges in that channel, what's going to happen to hydrophobic molecules? Are they going to be happy going through? No. They're not going to be happy going through. 
+
+So what you like is a hole down the middle. And inside you'd like some charged residues. Charged, I refer to side chains now as residues. They're charged amino acid side chains, but I'm going to start using the word residues often. So I have charged amino acids down the middle. 
+
+All right. You've ordered up a channel, a pore through the outer membrane. You would like an outer membrane protein of that specification. And, as It turns out, bacteria have multiple of them. There's like A, and B, and C, and D, and F. And the protein that you've just ordered up is called OMPF. Bacterial geneticists make up short little names for all sorts of things. 
+
+Let's take a look at what you just ordered up. It's in fact, the guy we saw in the last lecture. That is OMPF. We'll turn it on its side, and you see that beautiful beta barrel structure spinning around. We've got a beta barrel. 
+
+Now, in order to see these hydrophobics you've asked for, let's go to a space-filling diagram. And let's color the amino acids that are hydrophobic. OK, so turn this guy over for a second. Put him back here. And I'm going to go to a space-filling view. Look at this. Let's spin it around. 
+
+You see the hole down the middle? Not too big, not too small. And look at that. What do you think blue is here? Those are the hydrophobics. So Pull it around this way. And you can see where the membrane goes. Here's the membrane. It's presenting all its hydrophobic amino acids around the outside. So it's not presenting any of these polar things that would be disrupting the hydrophobic space. And notice that over here, where you're not in the membrane space, you have many fewer hydrophobics. 
+
+All right, so we've got that. Now what else do you want? You've got the hydrophobics on the outside. You want some charges down the middle of the channel. Let's take a look at that. And we're going to color, now, by charge. And let's go look down the middle of the gullet of this thing. And oh my goodness, look at that. Peering down the middle of this, there are lots of charges there-- particularly a lot of positive charges there down the middle of this channel here. It's going to make it very hard for positive molecules to get in. They're going to be repelled direction. There's actually enough negative charges as well there. 
+
+So you did it. You designed the protein. Admittedly, you didn't give all the details, you sort of gave a very executive view of the design process of the protein, where you would you kind of like to order that up, and then you ask the engineering department to work out the details there. But you basically designed the protein. All right. So that's a pore, and you can understand its properties. 

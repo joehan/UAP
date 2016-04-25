@@ -1,0 +1,49 @@
+Who's going to purify green fluorescent protein and also an enzyme called beta-galactosidase?	2.347320124691601
+Who is going to go to the lab?	2.2922550520159457
+What is about amazing proteins?	1.855163067824766
+What called ``Foldit,'' where you yourself can fold proteins and we have a game for you?	1.801799704878421
+What x. Looking forward to it?	1.7617298701993591
+Who is going to show you how to purify some proteins?	1.5665174056971187
+Who 're going to talk about one pathway called glycolysis that breaks down sugar?	1.5384946458036142
+What are particularly cool?	1.5151393085439087
+Who is going to show you how we really know about the structures of proteins through x-ray crystallography?	1.491642292233966
+What are those remarkable proteins that carry out chemical transformations in the cell?	1.4587843670875555
+Is Nathaniel going to go to the lab?	1.4231580162607536
+Who 're going to talk about enzymes in the second lecture?	1.390124443763769
+What lectures?	1.3628137489877263
+What do we 're going to talk about in the second lecture?	1.3541495025612367
+Does Nathaniel's going to purify green fluorescent protein and also an enzyme called beta-galactosidase?	1.3457181196132897
+Who 'll talk about the structures of proteins?	1.3420990219084175
+What do we 're going to talk about enzymes in?	1.3121789893909224
+Who 'll see all sorts of proteins?	1.2669227769938094
+Who 're going to talk about biochemical pathways?	1.228475438158493
+Who have electronic problems this week where you can actually see and spin around in zoom in on proteins to really understand their structure?	1.1591224848248198
+What do we 're going to talk about?	1.1050654770771007
+What 'll we talk about?	1.0788017599618316
+Do two of 7. 00 x. Looking forward to it?	1.049574448332688
+What 'll you see?	1.0037129858770335
+Is the first about amazing proteins?	0.9201508476531739
+What does Nathaniel's going to purify?	0.9082806585593541
+What lectures for you?	0.8837512202813012
+What do two of 7. 00 x. Looking forward to?	0.8394833785377931
+Who does three lecture for?	0.663095947922449
+What is the first about?	0.6099971245005571
+Does the lecture?	0.5730848593312365
+Is Nathaniel going to show you how to purify some proteins?	0.5155560219908035
+Do we 're going to talk about one pathway called glycolysis that breaks down sugar?	0.5097913435168331
+What are enzymes?	0.4307436973033112
+Do we have electronic problems this week where you can actually see and spin around in zoom in on proteins to really understand their structure?	0.41550627518993544
+Do we 're going to talk about enzymes in the second lecture?	0.41385693833902115
+Is Brian going to show you how we really know about the structures of proteins through x-ray crystallography?	0.41371522424934737
+Do we 're going to talk about biochemical pathways?	0.38452435590207434
+'ll we talk about the structures of proteins?	0.3759029372826834
+Did the web-based game call ``Foldit,'' where you yourself can fold proteins and we have a game for you?	0.3739043987434827
+Are enzymes those remarkable proteins that carry out chemical transformations in the cell?	0.34133358815943327
+'ll you see all sorts of proteins?	0.2888840442269296
+What 'll you see all sorts of?	0.21973963670869345
+Does he's going to purify green fluorescent protein and also an enzyme called beta-galactosidase?	0.21670883219107617
+What do we have?	0.11973841245706907
+Does three lecture for you?	-0.03907622311855041
+Are the problems this week particularly cool?	-0.20797122081899144
+What did the web-based game call and we have a game for you?	-0.21618815065390862
+What does he's going to purify?	-0.4074942961448409

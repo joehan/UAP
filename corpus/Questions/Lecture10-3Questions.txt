@@ -1,0 +1,212 @@
+How many possibilities for the base are t and C. Those?	2.525551779592429
+How many flavors are that all chemically different from each other?	2.4220184488270755
+What should a sugar have at every carbon?	2.2509904567496855
+What are that all chemically different from each other?	2.2430326981992286
+What Those are the four possibilities for the base?	2.2335316185609195
+What does Penta mean?	2.193368260320888
+What's just an absolutely boring chain of sugar phosphate?	2.175771113050493
+What involve carbon, nitrogen, oxygen, and hydrogen?	2.1077158807232474
+What are the four flavors that all chemically different from?	2.105727630387387
+What is a structure that goes sugar?	2.0837024408236036
+What's deoxy at the two prime position?	2.054332940155398
+How many purines are adenine and guanine?	2.011598819167252
+What's where the base goes?	2.0030927124430153
+What's there's building block for DNA?	1.998462523060036
+Who was the 2 prime position?	1.9649912652154506
+What's a pentose?	1.9648860216258621
+Who are called pyrimidines?	1.9641906755112106
+What does Ribose's?	1.9513553977120985
+What are t and C. Those?	1.9475110459016822
+Who is a triphosphate hanging off?	1.9445414406268524
+How many primes are getting used over here?	1.9004876332540594
+What bases only come in four flavors?	1.8884994390278076
+What is the 6-membered ring and the 5-membered ring?	1.8788335497804671
+What is 2 prime deoxyribose?	1.8306631650344927
+What's got no oxygen there?	1.8286468185182818
+What has a 6-membered ring?	1.8007967491104333
+Who means five?	1.7971286442657513
+What is a sugar?	1.783450942348627
+What's a five-carbon sugar?	1.7321466553417033
+What does the base only come in?	1.703209983984085
+What was deoxy?	1.6942792020685045
+What is a 6?	1.6727986055717547
+What is a 5?	1.6609387113510223
+What can be put?	1.6593706939685795
+What's the first part?	1.647909574793902
+Who is triphosphate?	1.6041922890930658
+What's there's building block?	1.5822632723037187
+What is the sugar?	1.5803615733096459
+What's a backbone?	1.576541383380131
+What is sugar?	1.5249182844472806
+Who 'mes going to give you an easy way to understand how DNA should be thought of?	1.5163828181463828
+Who here are thymine and cytosine?	1.4325487625246909
+What is the backbone?	1.4311562279005758
+Who are purines?	1.4180601874183456
+What are adenine and guanine?	1.4071462982935683
+Who 're going to connect from this 5 prime to this 3 prime?	1.4061032231074027
+What 're not that all interesting?	1.3884265586077649
+What should have a hydroxyl at every carbon?	1.3707862489438654
+Can one of four choices of bases be put?	1.3426260784376671
+Who well polymerize them by a dehydration synthesis?	1.3317756742454159
+Should a sugar have a hydroxyl at every carbon?	1.3283071661738113
+What is prime?	1.3137835455963285
+Are t and C. Those the four possibilities for the base?	1.3092738004354065
+What's there?	1.3040472050511758
+Does the base hang off the 1 prime carbon?	1.2776281286164104
+What primes?	1.2761072796685806
+What do we 're going to connect from prime to this 3 prime?	1.2746168790813588
+Does Penta mean five?	1.2685100305509565
+Who label our carbons in these sugars over here?	1.2645367655996402
+What should a sugar have a hydroxyl at?	1.2439273912096551
+Who 're going to think about it in three basic components?	1.2395265137859295
+What's it?	1.238006524937368
+Who do we 're using a lot of here?	1.2206578579456253
+What do we 're going to connect from this 5?	1.2092405457345738
+Who 're using a lot of these guys here?	1.1929904723020517
+Who does want you to know the carbons in ribose here?	1.1762370148558414
+What is connected to 5 that's the connection that's made is this 3 prime?	1.1749210858972297
+What are getting used over here?	1.1613266950248413
+Who do well we polymerize by a dehydration synthesis?	1.1566995525372206
+Are the four flavors that all chemically different from each other?	1.1486865650583375
+Is the backbone a structure that goes sugar?	1.1468444280436656
+Does Ribose's a pentose?	1.1392980651861095
+What do well we polymerize by a dehydration synthesis?	1.131261779120749
+What hangs off the 1 prime carbon?	1.1015865574344619
+Is Ribose a sugar?	1.0878274137095696
+Where does it's deoxy?	1.0825391211735509
+If I have another phosphate who can attach?	1.0798211528980932
+What do we 're going to think about in three basic components?	1.0611198778949666
+Does the base only come in four flavors?	1.058716579594138
+Was deoxy the 2 prime position?	1.0568782566583805
+Is the 6-membered ring and the 5-membered ring a 6?	1.0477315230878301
+Who do I want to know the carbons in ribose here?	1.047122178496903
+Is the 6-membered ring and the 5-membered ring a 5?	1.0423406620784061
+What is the base hanging off the 1 prime?	1.0172640125490946
+Is triphosphate a triphosphate hanging off?	1.0135146492231342
+What base here?	1.0118733692326387
+Where does this one's deoxy?	1.0095325883619242
+Who have our base hanging off the 1 prime?	0.9934391522738306
+What is prime connected to that's the connection that's made is this 3 prime?	0.9881404325029066
+Is the sugar 2 prime deoxyribose?	0.9682353698182631
+What does it's just an absolutely boring chain of?	0.9674795676693202
+What's our building block for DNA?	0.9545390037881532
+What does the base hang off?	0.949300401505025
+Is the sugar the base hanging off the 1 prime?	0.9382393035249088
+What does not?	0.9293317071003293
+What do we 're going to get to know?	0.9209045123277968
+What's ribose?	0.9191921040982964
+What does one of them have?	0.9056615636215464
+Who wants you to see triphosphate triphosphate on the sugar with our base hanging off here?	0.902370069209872
+What does that's just an absolutely boring chain of?	0.8925445070106854
+What do I want you to see triphosphate on the sugar with our base hanging off here?	0.8841203186092634
+What do we 're going to think about it in?	0.8713472312928592
+Who does not want you memorize lots and lots and lots of chemical structures?	0.8588012052442753
+Who have a sugar and a 1 prime carbon?	0.8418451835587488
+Is phosphate phosphate?	0.8368509934553885
+What is Ribose?	0.8296826162151765
+What do well we polymerize them by?	0.8250412053452456
+What do we 're using here?	0.8231692020225254
+Is sugar phosphate?	0.8120995313018979
+Is phosphate sugar?	0.8120995313018979
+Who do I want to see triphosphate triphosphate on the sugar with our base hanging off here?	0.783698621539348
+What does it's deoxy at?	0.7791604425235636
+Who have a sugar?	0.755463605603937
+Who do I not want memorize lots and lots and lots of chemical structures?	0.7514069388027416
+Do chemical structures 're not that all interesting?	0.7486603682193649
+What do I 'm going to give you an easy way to understand?	0.7176836034020375
+What does this one's deoxy at?	0.7133769272736552
+Does five's a five-carbon sugar?	0.7092299089011338
+Are the two purines adenine and guanine?	0.7062195770773005
+What are these guys called?	0.6959292972529143
+What's our building block?	0.6903074416994497
+What's our sugar?	0.6693710563214443
+What is phosphate?	0.6567636657524822
+Who have a base?	0.6381028630392005
+What is this 5 prime?	0.6147997044800906
+What does it's got there?	0.5968326280097829
+Who can have phosphates coming down here?	0.5786223084898248
+Does here's ribose?	0.569928392636238
+What does this one's got there?	0.5431721087540076
+Do another base here?	0.5297685214167147
+What does it's?	0.5216076528970681
+Are 1 primes getting used over here?	0.5176156394740361
+What can I have coming down here?	0.5058417070399628
+What do I not want you memorize?	0.4719340649094197
+Who have our five carbons here?	0.46709743596991826
+How many primes, 2 primes, 3 primes, 4 primes, and 5 primes do we 're going to get to know?	0.42447749898880005
+Who can keep going?	0.4148011744987794
+Does 5 prime?	0.4043925525640817
+Do we 're going to connect from this 5 prime to this 3 prime?	0.37702548754246434
+Is prime connected to 5 that's the connection that's made is this 3 prime?	0.3701266603078661
+What is this one?	0.3491316935662403
+What does five's?	0.34710256554242935
+Who 're pretty boring?	0.3134292827111238
+What does it's just?	0.2962759129974648
+What 're pretty boring?	0.28735205630159544
+Do these structures involve carbon, nitrogen, oxygen, and hydrogen?	0.23214670644278268
+What does that's just?	0.2153652054361903
+Who 're pretty important?	0.2078840296304345
+Do we 're using a lot of these guys here?	0.20478346260262414
+Does one of them have a 6-membered ring?	0.19914722542104446
+What is it?	0.19293197650777838
+Who 're not that all interesting?	0.18856307219524893
+Do I 'm going to give you an easy way to understand how DNA should be thought of?	0.186739980321601
+What 're pretty important?	0.18180680322090614
+What does that's?	0.16125718898461705
+Does that's where the base goes?	0.09173442991757774
+Who 're going to get to know these 1 primes, 2 primes, 3 primes, 4 primes, and 5 primes?	0.09130517661488669
+Does it's deoxy at the two prime position?	0.08914155601594231
+Does it's just an absolutely boring chain of sugar phosphate?	0.07653073248267184
+Do well we polymerize them by a dehydration synthesis?	0.05038433008588461
+Do we have a sugar and a 1 prime carbon?	0.02669180853718167
+Does this one's deoxy at the two prime position?	0.022407018378237886
+Who 're going to call that the 1 prime carbon, the 2 prime carbon, the 3 prime carbon, the 4 prime carbon, and up here, the 5 prime carbon?	0.0149131108476237
+Does that's our building block for DNA?	0.0029844113176840104
+Does that's just an absolutely boring chain of sugar phosphate?	0.0021932365143007004
+Who write?	-0.005283009006568085
+Are these guys called pyrimidines?	-0.01626897479828382
+Do we 're going to think about it in three basic components?	-0.035752781691663404
+Do we have a sugar?	-0.051018528429291665
+Do we label our carbons in these sugars over here?	-0.057195986919557074
+What do these structures involve?	-0.05963188283902432
+Does that's there's building block for DNA?	-0.06557845961784148
+Do I want you to see triphosphate triphosphate on the sugar with our base hanging off here?	-0.07261736874953817
+Does this one's got no oxygen there?	-0.08296632984856034
+Who has?	-0.10437691381324876
+Does it's got no oxygen there?	-0.13664865314672814
+Does it's a pentose?	-0.13680915590413667
+Do I want you to know the carbons in ribose here?	-0.14809564434549105
+Is it 2 prime deoxyribose?	-0.15856733063760942
+Do we have a base?	-0.16346677950384092
+Are these guys purines?	-0.1645995249112122
+Can I keep going?	-0.17842845732539647
+If I have another phosphate can I attach?	-0.1877621393789819
+Does it's a five-carbon sugar?	-0.20507482184477022
+Can I have phosphates coming down here?	-0.23321981469139996
+Is prime this 5 prime?	-0.23390392715344843
+Does that's our building block?	-0.23431559556427972
+Is this one 2 prime deoxyribose?	-0.24863903005710797
+Does that's our sugar?	-0.257726519491122
+Does that's the first part?	-0.26169544147731516
+Do we have our base hanging off the 1 prime?	-0.2820204689423125
+What do we have?	-0.2822674563107568
+Do they 're pretty boring?	-0.30716488287601984
+Does that's there's building block?	-0.33162938193110936
+Does that's a backbone?	-0.3473471725432413
+Are these guys here thymine and cytosine?	-0.3528041687337984
+What do I want you to know here?	-0.35575244769907455
+What do I want you to see triphosphate triphosphate on?	-0.37418035938943817
+Do they 're not that all interesting?	-0.39497869860321244
+Do they 're pretty important?	-0.40713815692437816
+Does that's there?	-0.4200361462394855
+Do I not want you memorize lots and lots and lots of chemical structures?	-0.44878318885273294
+Does that's it?	-0.48001837608949205
+What do we label?	-0.5138228704888566
+Do we 're going to get to know these 1 primes, 2 primes, 3 primes, 4 primes, and 5 primes?	-0.5455658159965917
+Does this one do not?	-0.5658570157869536
+Do we write?	-0.6183813276402006
+How many our carbons do we have here?	-0.6297106175124303
+Do we have our five carbons here?	-0.6627216417173816
+Do I have?	-0.6687415968379342
+What do we have here?	-0.8615623060495166
+Do we 're going to call that the 1 prime carbon, the 2 prime carbon, the 3 prime carbon, the 4 prime carbon, and up here, the 5 prime carbon?	-0.9346180542321756

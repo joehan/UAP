@@ -1,0 +1,289 @@
+PROFESSOR: With the ability to have essentially absolute truth from well-practiced DNA fingerprinting and DNA identity, you can go back and look at every person who was convicted and then later found to be innocent, and then ask, what went wrong? How was this person convicted? Because in a lab we would call this a false positive. In life, of course, it's a great injustice to a person. But from a scientific point of view, it's a false positive, and we can ask why. 
+
+So the reasons for false positives. Well, eyewitness testimony. Many of these cases had eye witnesses who were sure this was the person. We're learning a lot about the fact that eyewitness testimony isn't always reliable. And that's really important to know. 
+
+Shoe marks. In one of these cases where somebody was later exonerated, there were marks from the shoe and somebody said, oh yeah, that's got to be his shoe because it matches that shoe. Well, you might want to have a database of shoes. You might want to run some tests on how often can people really tell whether that's the shoe. 
+
+But there are a lot of people who go around doing impression analysis and say, I'm an expert on impressions. That footprint there sure looks like it comes from that shoe, but no real statistical basis for saying that. 
+
+Bite marks, very popular. Somebody gets bit and somebody looks at the bite pattern on somebody's neck or arm or something like that and looks at the dentition of the suspect and say, oh, yeah that's a match. There's not a lot of solid science behind these bite marks. 
+
+Hair analysis. You look under the microscope and you say this hair matches that hair. Well, how many hairs have you looked at? Have you ever done blind controls like we would do in a laboratory? Actually the FBI recently did that. And they found that the false positive rate was about 15%. Rather high. 
+
+Confession. It turns out that some of these people who were found to be absolutely innocent confessed to the crime. That's a little troubling. But people under situations will confess to crimes they didn't do sometimes. 
+
+Why? Interrogation should probably be videotaped. And increasingly states are requiring interrogations to be videotaped. Sometimes it's said, oh this guy knew things about the crime that how could he know? Only the guilty person would know. 
+
+It turns out sometimes the interrogators let information slip, by accident, and sometimes deliberately. And so this whole notion that we have to ramp up the standards of all these things. 
+
+And then there's this other technology called fingerprints. And you know that fingerprints are absolutely, completely unique, right? You've all heard that. There's actually no evidence to support that. 
+
+And that's not even the worst of it. What about a partial fingerprint? Is that good enough for a match? 
+
+So one of the things that emerged when DNA fingerprinting got really good was the recognition that there had never been similar studies done for actual fingerprints. Now don't get me wrong. Fingerprints are quite useful. They're quite good. But there are mistakes made with fingerprints and nobody actually has exact data on how many ridges you need and how much of a fingerprint you need to be able to do this. 
+
+So in 2009 the National Academy of Sciences issued a report saying that, in fact, all of these technologies have concerns. Not that they shouldn't be used. But many of them lack the scientific basis for really being able to draw as strict conclusions as people have been drawing. And then we need to ramp up the science under it. 
+
+Now I was actually delighted that about a month ago the federal government announced that the Department of Justice and the National Institutes of Standards and Technology would be starting a collaboration to set up groups who would help us steer standards in these areas. Anyway, it's not to say that these aren't powerful things. They are powerful things. But it is to say, and I'll say it quite explicitly, that they are misused routinely. We do not have good standards for these things. 
+
+And the point about being a scientist is we are like real pains in the neck about this stuff. We actually insists on controls. We insist on databases. We insist that if you make a statement that something is a match you have something to support that with. And I think it's been a great interaction between DNA and the law. 
+
+At the beginning the DNA was really crummy. But with enough scientists getting involved it got really good. Then it was so good it could teach us that other things were really crummy. And it got better. 
+
+And at the beginning, I've got to say, law enforcement was initially worried that this was just going to let a lot of guilty people off. But, in fact, they came around to realize that, in fact, what it was doing it was telling them when they were convicting innocent people. And that they cared about that because it meant that the guilty people weren't being brought in. 
+
+And so it's turned out this hasn't been a defense or prosecution issue. It's been an issue of both the defense and the prosecution want the truth. And I've got to say, I admire greatly the folks at the Department of Justice because they want the right answer. If they've got the wrong person on trial they want to know they have the wrong person on trial. And that's a really good thing. 
+
+So there's a lot of work going on to improve this. So that's kind of a description of law and science coming together in some interesting way. That's the first story I wanted to tell you. But I want to ask you a question. 
+
+DNA fingerprinting is pretty good. Should we have a national database of everybody's DNA pattern to be used for forensic purposes? 
+
+Suppose there's a rape and you get a semen sample. It'd be pretty easy to tell whose it was if we had a national database. Suppose there was other physical evidence left at a crime. Should we have a national DNA database? Yeah? 
+
+STUDENT: What else can be done with our DNA? 
+
+PROFESSOR: Well, let's say it can be misused for all sorts of medical purposes. But we can intrude on your privacy and find out if you have some high-risk gene allele for colon cancer or something. But let's suppose we put those protections in place. Let's even give you that somehow the protections will be in place. Yeah? 
+
+STUDENT: Are you assuming that there's no corruption in the law where people won't access the database? 
+
+PROFESSOR: I didn't assume anything. I'm just-- 
+
+STUDENT: It falls under that previous question, though. Because we're saying that the checks are in place from a medical standpoint. Are checks in place from a legal standpoint? 
+
+PROFESSOR: Yeah. That's an interesting question. OK, yes? 
+
+STUDENT: Who's to say that people like hackers won't hack the database and have access to all our information that was initially intended for good purposes that can be used in any number of malicious ways? 
+
+PROFESSOR: I see, so even though it was well-intentioned and even though people aren't going to deliberately use it, there are hackers or maybe there is corruption. Yes? 
+
+STUDENT: Well, what can someone else do with your DNA? 
+
+STUDENT: Yeah, that's what my question is. 
+
+PROFESSOR: What can somebody else do with your DNA? 
+
+STUDENT: Frame you for murder. 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Frame you for murder. 
+
+PROFESSOR: Well, how would they frame you for murder? They have to get your DNA and plant it there. Yes? 
+
+STUDENT: On the other hand, would it not act as a deterrent for those who might be considering a crime to recognize that they would be instantaneously identified. 
+
+PROFESSOR: If they left a DNA sample. So maybe it's a deterrent. So that's an empirical question as to whether people who commit violent crimes are thinking about molecular biology at the time. No, no it's an interesting question. Because maybe it becomes known. 
+
+STUDENT: If it's well advertised. 
+
+PROFESSOR: Yeah. If it's well advertised. 
+
+STUDENT: You do the crime you do the time. 
+
+PROFESSOR: Yeah that's possible. Yes? 
+
+STUDENT: Even if it were only used for the purpose you're saying-- 
+
+PROFESSOR: Yup. 
+
+STUDENT: --and it worked perfectly and there was no corruption or problems, it still would be against the Fifth Amendment, the right to self-penalize, right? 
+
+PROFESSOR: Self-incrimination. 
+
+STUDENT: Self-incrimination. Also, you have a reasonable right to privacy. I assume my DNA is relatively private. 
+
+[LAUGHTER] 
+
+PROFESSOR: Yup. 
+
+STUDENT: Relatively private thing. I think that it's illegal on those grounds. 
+
+PROFESSOR: Unconstitutional, you think. 
+
+STUDENT: Yes. 
+
+PROFESSOR: Oh, OK. 
+
+STUDENT: What happens when some study that's not really well supported comes out saying that if you have this gene, you're more likely to be a murderer. And then you start institutionalizing people-- 
+
+[GASP] 
+
+PROFESSOR: So do you think there are going to be people going around with sketchy DNA genetic associations? 
+
+STUDENT: I heard if you eat ice, you're more likely to be schizophrenic. 
+
+PROFESSOR: Ooh! So maybe in some extreme situation we start using it to profile and say, who's more likely. And we begin to use sketchy medical correlations. Oh, that's interesting. 
+
+OK, let me to change the hypothetical for moment then. How about a DNA database just of people who have been convicted of crime? Keep that available. 
+
+STUDENT: Don't they already have fingerprint databases like that? 
+
+PROFESSOR: They do have fingerprints, but why not also DNA fingerprints? If you've been convicted of a crime. Yes? 
+
+STUDENT: Would this be of just that specific sequence, or of their whole genome? 
+
+PROFESSOR: Oh let's give it the whole genome. But if you want just part of if sure, part of it. You can make it up for me. Should we have DNA databases either a part or whole of the genome of people who have committed crimes and been convicted? 
+
+STUDENT: I don't think the whole genome is a good idea because that might contain some more private medical issues. 
+
+PROFESSOR: OK so maybe just-- but you don't mind if it's some of the genome, just not stuff that's medical. 
+
+STUDENT: I think sometimes it could be OK. 
+
+PROFESSOR: Could be OK. Yes? 
+
+STUDENT: Is there no way to determine if there's a section of the genome that doesn't necessarily give a lot of information, medical wise or something like that. But that could still identify people to a reasonable-- 
+
+PROFESSOR: So a section of the genome that really has no medical importance. 
+
+STUDENT: Because you talked about the genomic deserts. 
+
+PROFESSOR: Yeah. What if it turns out that they have medical importance later? Like we didn't know. But it turns out, in this course we've learned that there are things we're still learning. Yes? 
+
+STUDENT: If we deem that you are entitled to some privacy of your DNA and someone is convicted of a crime they're put in prison, well sometimes. But their privilege of freedom is revoked. So I don't think there's anything wrong with saying that your privacy to your DNA. 
+
+PROFESSOR: Because you've been convicted of crime at that point. You do forfeit certain rights. For example, some states you forfeit right to vote and other things. Yes? 
+
+STUDENT: What if they've been convicted of them crime, and they've been falsely convicted, and their DNA is like in this database. But, as we know, stuff that goes on the internet, it's there forever. 
+
+PROFESSOR: Oh, OK. 
+
+STUDENT: There's a blurry line. 
+
+PROFESSOR: Blurry line. OK, yes? 
+
+STUDENT: Something that might also be considered is only making a DNA fingerprint database for those who commit crimes with high rates of recidivism. For instance, the United States maintains a sex offender database because sex crimes, historically speaking, have high rates of recidivism. 
+
+PROFESSOR: Uh-huh. 
+
+STUDENT: Other crimes, less so. I've heard this as an explanation as to why we don't have a federal murderer database. 
+
+PROFESSOR: OK, so it's a database only for certain crimes or maybe certain regions of the genome. Yes? 
+
+STUDENT: You could just store something analogous to a hash function of their genome so that no information that could actually be used for medical purposes is maintained. 
+
+PROFESSOR: Ah. So we have a techno solution being proposed. Essentially some kind of a hash of the genome that will prevent the medical misuses. But I think we have civil liberties concerns here that the hash function doesn't quite solve. Yes? 
+
+STUDENT: Do you know what happens to DNA data that's taken from people that are on trial now? 
+
+PROFESSOR: Yep. 
+
+STUDENT: Do they save it? Or do they get rid of it? 
+
+PROFESSOR: The data? 
+
+STUDENT: Yeah. 
+
+PROFESSOR: Oh actually do we have a database of criminal DNA? We do. There is. The CODIS database has DNA patterns for people who have been convicted of crimes. What about people who have been arrested but not convicted? 
+
+STUDENT: Don't they take their fingerprints? 
+
+STUDENT: Definitely have fingerprints. 
+
+PROFESSOR: We have fingerprints from them. How about DNA fingerprints? That's a live topic of discussion right now. So I'm going to get a vote from the class, if I can. Yes please? 
+
+STUDENT: If you are in the database and they match your DNA to the database, is that matching with the existing database sufficient to prove you guilty of the crime? Or do they have to do another DNA test? 
+
+PROFESSOR: Well, you're going to insist on another DNA test. So you would have the right to say, no, no, test my DNA again carefully, and all that. They're using it as an investigative tool to figure out who might be the person who's responsible. 
+
+STUDENT: So you're protected from someone going in and saying, oh, this is actually your code by hacking and getting you falsely convicted because you'll get that retest. 
+
+PROFESSOR: You'll get a retest. What's your vote on everybody in the country being in the DNA database? How many people favor that? So that is every single person regardless of whether they committed a crime or not, we should have their DNA on file so we can solve certain crimes. Those in favor? Those opposed? 
+
+Interesting. So we have a disagreement on that. That's interesting. Hang on. Yes? 
+
+STUDENT: So just because you find DNA at a scene doesn't necessarily mean that that was then on the person or at the scene. 
+
+PROFESSOR: It doesn't mean you're guilty, necessarily. It means your DNA was there. So, for example, there are a lot of situations where that won't be enough to convict in any way. 
+
+So I just want to get back to my voting. So again, whole population. Those in favor? Those opposed? 
+
+Convicted criminals. Those in favor of a database? Those opposed? Very interesting. Arrestees but not yet convicted. Those in favor? Those opposed? That's very good. There's a division. I hope you guys are going to talk about this and argue about it. 
+
+And, by the way, if we just had criminals, but not other people, could we find a DNA pattern when we run the DNA pattern against the database. What if we were to find that the DNA from the crime matched one of the samples and on average one of the two alleles? A parent or sibling. Could we in theory actually even though we only have you there, be able to pick up your sibling? Yes? 
+
+STUDENT: Isn't that what law enforcement does sometimes? 
+
+PROFESSOR: Well, it was very interesting. Back in 1989 when we were writing this report about this we predicted that that might happen. And the first case where it happened was about 10 years later. And, yes, it does get done. 
+
+So when you're saying it's just criminals. Well, it's criminals and their first-degree relatives. Of course, if we have a whole genome sequence we'd also get second degree relatives and third degree relatives. All right, so it's pretty clear what the answer is here. And this will not-- 
+
+[LAUGHTER] 
+
+PROFESSOR: But look, this is the point. As scientists you have to take positions on this. Notice, in the end, it's going to be a social decision. But there's no way to have an informed social discussion without scientists getting involved. There's no way to get DNA fingerprinting right without scientists getting involved. There's no way to get the other technologies right without scientists getting involved and getting out of the lab sometimes and just throwing themselves into it. There's no way to settle these issues without informed people. 
+
+Because many of your questions are about what else could I do with it. And some of them are about civil liberties issues. And they all mix together. And I'm not attempting to get you to agree on any consensus because that's not the point. Yes? 
+
+STUDENT: What about people out of the country? 
+
+PROFESSOR: What do you want to do with people out of the country? 
+
+STUDENT: Criminals from out of the country. 
+
+PROFESSOR: That is if they commit a crime we wouldn't have them in the database? 
+
+STUDENT: Right. 
+
+PROFESSOR: Yeah, we wouldn't. That's true. So maybe everybody who comes into the United States should have to give a DNA sample. 
+
+[GROANS] 
+
+PROFESSOR: Think that's a good idea? Tourists, every tourist should give a DNA sample. Oh boy. That would make-- 
+
+STUDENT: Is this economically feasible? 
+
+PROFESSOR: Sure, it's economically feasible. Because you can get a reasonable good DNA pattern out of spit. 
+
+STUDENT: But they're charging $125 to genotype us for cancer donation. 
+
+PROFESSOR: Well, you know, it's getting cheaper and all that so-- again I wouldn't fuss. I wouldn't say there's-- erecting technological or cost barriers is only a very temporary measure, right? Yes? 
+
+STUDENT: As of today is it possible to frame someone knowing their DNA fingerprint? 
+
+PROFESSOR: Is it possible to frame someone knowing their DNA fingerprint? Well, if you could get blood from them or DNA from them and plant it somewhere, you could do it. It might be a little tricky to do that, but yeah. 
+
+STUDENT: Are there cases? 
+
+PROFESSOR: There's a good movie about it. There's a good movie about it. I don't know that there are any cases where that's ever been done. 
+
+STUDENT: Do you think it could happen if someone wanted to? 
+
+PROFESSOR: I do think it's possible that things like that could happen if one wanted to. And if you had a truly corrupt person who had evidence and could contaminate evidence, of course they could do that. Yes? 
+
+STUDENT: She mentioned the cancer databases for the bone marrow registry. Can law enforcement go through the registry? 
+
+PROFESSOR: Should law enforcement be able to review medical databases? 
+
+STUDENT: Wait, can they? Like right now. 
+
+PROFESSOR: Well, so let's say, can they right now? They cannot right now. Should they be able to? 
+
+Suppose we had a horrendous crime. Suppose we had a horrendous crime. Now the horrendous crime we had in Boston last week was not a crime where DNA was necessarily going to help. But suppose we had had some crime where DNA was going to help and it was truly heinous. And we said, MGH, the Mass General Hospital, and then the Brigham and Women's, we need to look at your medical records of all possible DNA patterns you've seen from anybody. Do you think there could be enough social pressure to put pressure on the hospitals to have to turn that over. Yes? 
+
+STUDENT: So the only thing I'm thinking about is if in the process-- like say that your victim or whatever is fighting back. And you get injured and you go to the hospital. And they have to do something in that case. Then that would be a source for finding-- 
+
+PROFESSOR: Yep. That could be. Yep? 
+
+STUDENT: Would there be a way to organize it so that the data was anonymous until a match was found? 
+
+PROFESSOR: In theory, you could make techno solutions for anything. 
+
+STUDENT: If everything's anonymous until the match is found, I don't even see any problem with it being used for medical research purposes because you're not associating the name. 
+
+PROFESSOR: Interesting. 
+
+STUDENT: You're just finding a match. 
+
+PROFESSOR: Interesting. Last comment, then we're going to move on to the next piece here. 
+
+STUDENT: What if you had the entire genome of a lot of people? And then you were able to match up to see which people were related to this murderer and or person. And so then you had like this entire family of people related and you did all the math and figured out who it was based on that? 
+
+PROFESSOR: Yeah. 
+
+STUDENT: So you could have volunteering? 
+
+PROFESSOR: OK so you now appreciate what the range of questions are. There are questions about genetic relatedness and how much we can learn about that, questions about medical use and non-medical use, and making predictions, and civil liberties, and how far we should go. And there you go. 
+
+There's a lot of such questions. And this is why we need an informed citizenry to be able to make sensible decisions about that. There is no right answer, and it's been a moving target. At the beginning, there was concern about databases of criminals. Then there were questions of arrestees, and who knows where it will go? 
+
+All right, we just had a discussion in class about this, but take a moment and stop and tell me what you think about whether DNA databases should be created for everyone in society. 

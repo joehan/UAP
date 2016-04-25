@@ -1,0 +1,651 @@
+Who would be substitutions that change like an isoleucine to a leucine?	2.8323560019989795
+Who well could go looking at where the highest end is?	2.778343572040511
+What would Next be substitutions that change like an isoleucine to?	2.708658803184466
+What would Next be substitutions that change like to a leucine?	2.69581458506132
+What might cause allosteric changes in proteins?	2.4147015907881304
+What had not been known until Transposons sequenced the genome?	2.388088426754141
+What were just salivating over being able to patent another 80,000 genes?	2.347080141451334
+What's stunning that there were 21,000 protein-coding genes?	2.3453478980969673
+What was the official number in the textbooks in fact?	2.3277658814638356
+What acts as a tether to hold together three proteins?	2.303160039639265
+What does most of the functional sequence in the human genome not encode?	2.302122062468729
+What was the official number in the textbooks 100,000 in?	2.29839295567719
+What corresponds with about 5 % or 6 % of the genome is conserved?	2.294445880618136
+What actually provides the template for the telomere sequence?	2.2879798338284503
+What may be a force for evolution?	2.282550096597069
+What used to know a few of them?	2.2722903110888963
+What was 100,000 in fact?	2.26677456108836
+What sit around about 200 genes that are involved in early embryonic development in fact?	2.2229982194262288
+What is the chance of being exactly identical across all the species on average lower than?	2.2141615142965847
+What does the rest of the genome have?	2.2091881022827287
+What's maybe a quarter of the bases?	2.172001121951232
+What did people know almost two dozen of?	2.16638131596325
+Where do Transposons 're?	2.1487016627476123
+What just sort of feel queasy about whether evolution could have done what evolution did?	2.0930417374634436
+What has a fat right tail?	2.07408369519319
+What does not encode a protein?	2.049113313951768
+What 're in very distinctive locations?	2.0082260025473757
+What may transposons be?	2.003724612181792
+What are the four species that are here?	1.9950372427575667
+What act as tethers?	1.9838837517199306
+What is how the various companies know it's about 21,000?	1.9830771207432798
+What do the various companies really know's about 21,000?	1.965552831161648
+What happens to be human?	1.9653802781029033
+What 'll zero be?	1.959411656226825
+What does the rest of the genome correspond with is conserved?	1.954932991276937
+What did not affect the amino acid?	1.9452693515387292
+What does the rest of the genome's here?	1.9323347839115999
+What becomes substrates for evolution?	1.922737315197424
+What were racing to sequence the human genome?	1.9146084570198778
+What will the less tolerated be changes from?	1.8812606447491116
+What are non-coding RNAs?	1.8810701284627045
+What will the less tolerated be from say?	1.8809237633105287
+What do people just sort of feel queasy about whether evolution could have done?	1.8798212599459414
+What would Next be substitutions like?	1.8785621647966002
+What are pretty dead?	1.8785590787390973
+What are a symmetric curve?	1.8774458510680931
+What does the chance of being exactly identical across all the species on average's maybe a quarter of?	1.8771852237814137
+Who will be changes from say?	1.872669416620789
+What's become clear that there are genes encoding RNAs that are never translated into a protein because in the last four years or so?	1.858373752501738
+What's about 5 % or 6 %?	1.8552543218106896
+What could you imagine writing without knowing where the proteins were, predict if something encoded a protein?	1.8511860626909078
+What is mouse, rat, and dog?	1.8471524335141374
+What did the protein-coding portion use to know?	1.8451789429369923
+What is a testable prediction?	1.8436100816069834
+What does Transposons's not going to do there?	1.83994442613304
+What's a symmetric curve?	1.8350137154781199
+What turns out people were underestimating how many there were?	1.8309224850478008
+What seems like a slow thing?	1.827338238465385
+What are bad news?	1.826850981645665
+What plays certain functions?	1.825254554487299
+Could well Transposons go looking at where the highest end is?	1.8173503404720788
+What does the chance of being exactly identical across all the species on average's?	1.8150014387042555
+Who's not going to do any good there?	1.8144232303791346
+What do other RNAs act as?	1.804906685853064
+What do the various companies know there's in there?	1.8011728714866548
+What is protein-coding sequence?	1.79880385006632
+What are the non-coding sequences?	1.7972153592345477
+Would Next be substitutions that change like an isoleucine to a leucine?	1.791022241925535
+What do Transposons 're in?	1.785047194703004
+What know there's stuff in there?	1.74808716403956
+What do not really change the amino acid that much?	1.7389612765698654
+What does rNA actually provide?	1.7211412411236389
+What is the enzyme?	1.717548949219315
+What does the rest of the genome's?	1.7159323269724573
+What's an underestimate?	1.7142184913110285
+What does evolution become substrates for?	1.6926064184693488
+What encode RNA?	1.6820973967298418
+What do the protein-coding portion encode?	1.6775799630113826
+Who 'll just degenerate?	1.6589545823094842
+What did people know?	1.607755633942019
+What do the most tolerated not really change that much?	1.576055645193377
+What are the transposons?	1.574943415765249
+Who could actually predict where the protein-coding sequences were by their evolutionary properties?	1.5689883094757602
+What sequences lying around?	1.5547674207997397
+What worked for the known genes?	1.5451836201562767
+What is most of them?	1.5447338469266028
+What 'll be some symmetric bell-shaped curve around this?	1.5444597825710118
+What did now have deletions of?	1.5389828611062584
+What does rNA act as?	1.5341185734561094
+What are transposons?	1.5340167874939588
+Who may earn their keep by occasionally stirring up evolution, occasionally moving around the evolutionary information?	1.5321694311404008
+What do a large portion of the most conserved things in the genome that do not encode protein sit around about 200 genes that are involved in early embryonic development in?	1.530370080921268
+What is telomerase?	1.5297983780611317
+What does a background distribution's?	1.525560741942185
+What know that from looking at this we can pick out the protein-coding by the distinctive pattern of mutations?	1.5076398486650948
+What's not all there is?	1.5042839103452024
+What did the genome tell?	1.4980489121180989
+If the various companies keep score if a sequence is utterly unimportant in the human genome what will now it have?	1.495768810130704
+What do the various companies know that from looking at this we can pick out the protein-coding by?	1.4859731852504172
+Who know that from looking at this we can pick out the protein-coding by the distinctive pattern of mutations?	1.4793761597967716
+Who will be silent substitutions?	1.4783603778603165
+Who 'll be some symmetric bell-shaped curve around it?	1.46513265036659
+What is the stuff, right over here?	1.4649796970681876
+Who might be OK?	1.458511631865405
+Who 'mes going to take back my nasty things about transposons?	1.454700169707594
+What did two sequences do?	1.4526854648063872
+What can select it?	1.4471301801468188
+Who did not know about all of these non-coding sequences that regulate genes?	1.445222934164641
+What is human?	1.4447910888371873
+What could you imagine writing a piece of that ran across the whole human genome lining up multiple species without knowing where the proteins were, predict if something encoded a protein?	1.4428103766809435
+What is 9?	1.4418576265025216
+What does very low mean?	1.4382228663297834
+What 'll be some symmetric bell-shaped curve around it?	1.4337654595936509
+What is 8?	1.433726996339274
+What is 7?	1.4324946719931575
+Who could imagine writing a piece of computer code that ran across the whole human genome lining up multiple species without knowing where the proteins were, predict if something encoded a protein?	1.4324460075042071
+What hang on to your seats?	1.430364725445937
+Will the less tolerated be changes from say?	1.4299480323554508
+What is 6?	1.4234531529220467
+What is no other genes?	1.4204189033846761
+What is 4?	1.4141539034848554
+What is 5?	1.4086282851461316
+What did not know about all of these non-coding sequences that regulate genes?	1.4027358232435696
+What is 3?	1.3999016894660745
+What is the most conserved non-coding things?	1.3950383909157913
+What did not test?	1.3926233564639545
+What is 2?	1.392187160721867
+What is more conservation than you would expect by chance?	1.3784982208393992
+Who could imagine making some conservation score of how much identity there is across all the species in a given window?	1.3605467121371482
+What does it mean goes into those early embryonic genes that lay down the pattern of the body?	1.3527294489624477
+What do not know them all yet?	1.3505890550434636
+Does the rest of the genome have a fat right tail?	1.3448283604452613
+What might have some rough variation around it just by chance?	1.3404656923975113
+May Transposons earn their keep by occasionally stirring up evolution, occasionally moving around the evolutionary information?	1.3262703381485115
+Who could line up the transposons-- which occur in the same places in mouse and human, rat and dog-- and count the changes?	1.3206307187208464
+Did the protein-coding portion use to know a few of them?	1.3205303829953792
+What substitutions?	1.3179601003139005
+Who call these long intergenic non-coding RNAs, or lincRNAs so non-coding RNAs?	1.3152572939077345
+Does most of the functional sequence in the human genome not encode a protein?	1.309665627497703
+What do the various companies know that from looking at this we can pick out by the distinctive pattern of mutations?	1.3095327523626303
+Who cool?	1.3070749108272002
+What did some of these sequences that evolution has bothered to conserve not know about?	1.298691052094627
+Was the official number in the textbooks 100,000 in fact?	1.296997602292941
+Who put a star at any position that's absolutely identical across all four species?	1.2929810463317568
+May transposons be a force for evolution?	1.292574769569565
+Are the non-coding sequences conservation of non-coding sequences?	1.2884404973692134
+What did now have?	1.2864970143093923
+What are no other protein-coding genes in there's neighborhood?	1.2848437993157042
+What is pretty dead?	1.283055543695392
+What is 1?	1.2821099296179
+If something did encode a protein who would notice that you did not see a lot of deletions that were not multiples of three?	1.2780510456665946
+What did I put at any position that's absolutely identical across all four species?	1.2737059518109164
+Does any kind of dead non-functional sequence lying around?	1.2735255755510164
+What are non-coding sequences?	1.2705001549077293
+What's an important regulator in early embryonic development?	1.2695646406957173
+What call these long intergenic non-coding RNAs, or lincRNAs so non-coding RNAs?	1.26877255538977
+Who can see how much of the genome is conserved?	1.265318765865172
+What do not find anymore?	1.2639249687458705
+What could I line up?	1.2626027013049694
+Who 'll notice green means completely conserved amino acids?	1.2593899516241875
+What is this an incredible research area right now because we did not know about these things?	1.2575751639236992
+What did I tell you at that the ribosome had an RNA in it?	1.2543898963887328
+Who told you at some point that the ribosome had an RNA in it?	1.2539498725890406
+What did two sequences find?	1.2496062373369836
+What had not been known until we sequenced the genome?	1.24574526456259
+What will the most tolerated be?	1.238717277815683
+What means something?	1.237933821545964
+What do we call these long intergenic non-coding RNAs, or lincRNAs so?	1.2367999474830342
+What is not protein-coding?	1.2292149314943515
+Who used to know a few of them?	1.2281955248061922
+Who could email it to other parts of the genome?	1.220491612359944
+What do some of these sequences that evolution has bothered to conserve call these long intergenic non-coding RNAs, or lincRNAs so?	1.2170493294140674
+Are the other genes no other protein-coding genes in there's neighborhood?	1.2169275068103773
+What turns out telomerase has an RNA in it?	1.2161008622818952
+What are conservation of non-coding sequences?	1.2104574045552305
+What do we know that from looking at this we can pick out the protein-coding by?	1.2095668698816135
+'ll Transposons just degenerate?	1.2051051321587494
+Were the various companies just salivating over being able to patent another 80,000 genes?	1.203616153747162
+Who did not know about all of these other kind of genes?	1.1996161896129922
+Is most of what evolution has bothered to conserve over 100 million years not protein-coding?	1.1979682347251175
+What is this an incredible research area right now because these did not know about these things?	1.195592625103627
+What are they clearly regulatory sequences sitting around there in?	1.1898915707091557
+Who are clearly regulatory sequences sitting around there in fact?	1.1651529114361403
+What knew almost two dozen of these?	1.1615911026218715
+Who were just salivating over being able to patent another 80,000 genes?	1.1609599898344043
+What do some of these sequences that evolution has bothered to conserve call so non-coding RNAs?	1.158976817393166
+What did not know about all of these other kind of genes?	1.1577272458896712
+Is only 1. 5 % of the human genome protein-coding?	1.156699753456663
+What is the fat right tail?	1.1562710351447096
+What are most of some of these sequences that evolution has bothered to conserve?	1.1528977135300353
+Who did I tell at some point that the ribosome had an RNA in it?	1.1527282117098152
+What do we know that from looking at this we can pick out by the distinctive pattern of mutations?	1.1517007030762043
+Who 're at least 7,000 RNA genes that do not go to proteins?	1.1509363571876992
+What may earn their keep by occasionally stirring up evolution, occasionally moving around the evolutionary information?	1.1449280169319862
+Does rNA act as a tether to hold together three proteins?	1.144557707765319
+Does rNA actually provide the template for the telomere sequence?	1.142889404798475
+What may Transposons earn keep by occasionally stirring up evolution, occasionally moving around the evolutionary information?	1.1422845557431436
+What are clearly regulatory sequences sitting around there in fact?	1.1377854708372
+What might some of them cause?	1.1332417684052603
+What 're there?	1.131147362395305
+Who did the protein-coding portion use to know a few of?	1.1260560177187577
+Who can actually write a piece of code that would analyze two sequences and say?	1.1243921191680109
+Do other RNAs act as tethers?	1.1233948610588405
+What means they 're incredibly complicated genes to regulate?	1.1210715035876988
+What 're at least 7,000 RNA genes that do not go to proteins?	1.1180577480252145
+What's enough to give me a signal?	1.1174619822670286
+What do people not know yet?	1.1157637211249276
+What are the ones that do not encode proteins?	1.1137099720221681
+Do Transposons 're in very distinctive locations?	1.1131265093844838
+What could the whole human genome lining up multiple species be?	1.1047460994408955
+Who 'ves lined up human, mouse dog?	1.1016266578155784
+What did the protein-coding portion use to know a few of?	1.0984710650816254
+What is OK?	1.0938242418570248
+Who did we use to know a few of?	1.091872404516494
+What can I actually write a piece of that would analyze two sequences and say?	1.0917318788737083
+What do I 'm going to take back my nasty things about?	1.0870211465651733
+Are non-coding sequences the ones that do not encode proteins?	1.084472310594443
+What is the truth right now because we did not know about these things?	1.0776599978348553
+What might some of these cause?	1.0677927925293802
+What did we use to know a few of?	1.0661018923792054
+What are the non-coding sequences conservation of?	1.0622279357079218
+What does it's maybe a quarter of?	1.0566779209380743
+Could the whole human genome lining up multiple species be regulatory sequences?	1.0558852471732734
+Will the most tolerated be silent substitutions?	1.0557202386197604
+What did I tell you at some point that the ribosome had?	1.0530987477160458
+What means a lot of regulation goes into those early embryonic genes that lay down the pattern of the body?	1.048350632451331
+Who does it mean 're incredibly complicated genes to regulate?	1.0445771198395932
+What are deletions that are not a multiple of three?	1.043222886810911
+How many sequences found a shockingly interesting thing?	1.042086099914454
+What could I email to other parts of the genome?	1.035377563319464
+What do the various companies really know?	1.0347280805353811
+Are transposons a symmetric curve?	1.0315687704122523
+What may they earn keep by occasionally stirring up evolution, occasionally moving around the evolutionary information?	1.029282068417289
+Were the various companies racing to sequence the human genome?	1.0282293156607345
+Who does the rest of the genome that's not those they transposons?	1.0182670895788792
+What does it mean 're incredibly complicated genes to regulate?	1.0169371610350866
+What is the truth right now because these did not know about these things?	1.0168338081258623
+Who 'mes just going to tell you the fact?	1.0151386844659176
+What is lower than that?	1.0117200394716668
+Who 'mes not going to tell you the details?	1.009658189368229
+Are the transposons pretty dead?	1.0072897809400598
+Do people just sort of feel queasy about whether evolution could have done what evolution did?	1.0029196146309158
+Does the rest of the genome correspond with about 5 % or 6 % of the genome is conserved?	0.9938572085865738
+What does almost two dozen of these turn out were underestimating how many there were?	0.9896067494618632
+What see that very often?	0.9893359275367763
+Who have some examples like telomerase?	0.968380683173353
+Does a background distribution's a symmetric curve?	0.9583937012565005
+Does the rest of the genome's about 5 % or 6 %?	0.9497354669160969
+Does Transposons's not going to do any good there?	0.9494523190799131
+Where does it's virtually by itself?	0.9494084184245168
+What might this have some rough variation around it just by?	0.9489681859606198
+What does it turn out has an RNA in it?	0.945987878319442
+Is human mouse, rat, and dog?	0.9444050460874547
+What turns out they were underestimating how many there were?	0.9443138926030683
+Does evolution become substrates for evolution?	0.9422051229825841
+What really know this's about 21,000?	0.9329885042478334
+What do we call so non-coding RNAs?	0.9290162588182536
+Who sees frame shifts and gaps?	0.9284755794905521
+What do the various companies really know this's?	0.9239039770203512
+What does it turn out telomerase has?	0.9184489809137673
+Did a shockingly interesting thing work for the known genes?	0.9130262393288793
+What's virtually in a desert by itself?	0.9129865792504281
+What do a large portion of the most conserved things in the genome that do not encode protein sit around in fact?	0.911232448152854
+Is telomerase the enzyme?	0.9070210890776691
+Does Silent substitutions?	0.9065269102151046
+Who wants it to regulate 10 genes coordinately?	0.9048320335361288
+Do the protein-coding portion encode RNA?	0.9008507492095568
+What do I 'm going to take back?	0.8986580532300652
+What does it turn out that when I do that, I see?	0.8975609638229252
+What's this fat tail here?	0.8974165327554333
+What do I 've lined up?	0.893258352963848
+What did these changes not affect?	0.8872521202928956
+What could you imagine making?	0.884869176448682
+Is the stuff, right over here the most conserved non-coding things?	0.8828105617144515
+What's statistically very significant to see that much conservation?	0.8817432697178631
+Who could look at the deletions?	0.8714459550875402
+When does it's become clear that there are genes encoding RNAs that are never translated into a protein?	0.861933773085646
+Who does it turn out were underestimating how many there were?	0.8606661125114898
+Who really know it's about 21,000?	0.8561021224850003
+Do the various companies know there's stuff in there?	0.8558296778849133
+What turns out that when I do that, I see this-- transposons?	0.8525999795716508
+Who can even put it on the exam if you want to?	0.851839206271046
+Might PROFESSOR: Three be OK?	0.84962143445016
+What are the other genes?	0.8364566035437262
+Where did I put a star?	0.8351292268410002
+What does this happen to be?	0.8337705959951642
+What could I look at?	0.8333396477409303
+What does it turn out were underestimating how many there were?	0.8322747206793293
+If I lined up a bunch of them, who can see how conserved they are?	0.8303633247724582
+What can it lands in a really good place, and evolution select?	0.8274910443672105
+What 'll they be?	0.8252725337883242
+What does almost two dozen of these turn out people were underestimating?	0.8248168645718867
+Is almost nothing else no other genes?	0.8241177146431238
+Does the chance of being exactly identical across all the species on average's maybe a quarter of the bases?	0.8233517843054918
+Did two sequences find a shockingly interesting thing?	0.8200408536045916
+What might it have just by chance?	0.8192776749688202
+What got down to about 21,000?	0.8176880769930506
+What will go up?	0.8142824116192995
+What can you even put it on if you want to?	0.8116599874101595
+What do we know there's in there?	0.801500104767326
+Do Pretty cool?	0.7974610808076192
+What does it's virtually in a desert by?	0.793603247495372
+Who 'll call that zero?	0.789864295288595
+What do we really know's about 21,000?	0.7882715488720982
+What did it get down to?	0.788113938349269
+Do the most tolerated not really change the amino acid that much?	0.7871250006916017
+What are most of them?	0.7868539308024016
+Who 'll tell you?	0.763986897952889
+Who could imagine creating a statistic?	0.7612313972955334
+Where do they 're?	0.7607170397982272
+Who could point you to the details?	0.756223392664698
+What might this have just by chance?	0.7550710399128773
+What do you see?	0.7503661855122967
+Can it lands in a really good place, and evolution select it?	0.7489230703729486
+What could you change?	0.7488007757829704
+Who are in your body, OK?	0.7465886194069433
+Who gets a background distribution?	0.7453355030945741
+What 'll I call that?	0.7445235988126337
+What could you imagine creating?	0.7428208651088726
+How many sequences went?	0.7402086237106258
+What's become clear that there's number is at least now 7,000 because in the last four years or so?	0.7375361430677543
+Is pretty dead most of them?	0.7336227061628808
+Who 're in very distinctive locations?	0.7327088660452961
+What could I email it to?	0.7317613978006605
+Who does that, what you 'll find is by chance?	0.7279205685417276
+Who 'mes just keeping score?	0.7276357049457403
+What did a shockingly interesting thing work for?	0.7273404109751069
+Who 'mes going to tell you one more fact just because it's too much fun not to tell you?	0.7234450691280441
+What are in your body, OK?	0.7227048217595311
+Who could change the one base?	0.7213326868715877
+What had deletions of size one, two, or three?	0.7212438892809854
+What does it actually provide?	0.719637226536324
+What does that's statistically very significant to see?	0.7172805542404408
+Who know there's stuff in there?	0.7158560018986793
+What might it have some rough variation around it just by?	0.714194937086694
+What do you want to regulate 10 genes coordinately?	0.711492706778543
+What is how we know it's about 21,000?	0.7065232139415056
+What do the various companies know at?	0.7056412868705677
+What do the various companies know?	0.6996635970410683
+What do we know at?	0.6974331235139986
+What did we use to know?	0.6896845688653399
+Do now hang on to your seats?	0.688137910124718
+Could well we go looking at where the highest end is?	0.6876908304329179
+What does it become substrates for?	0.6805371356143701
+What does it correspond with is conserved?	0.6736287720537706
+What do I get?	0.6712481248486999
+What do I see?	0.6707905735483526
+Who 'll I tell?	0.6701706993019247
+What does that seem like?	0.6664740954874291
+Does very low mean something?	0.6647838004060902
+What can you even put on the exam if you want to?	0.6645849140067934
+Who can keep score?	0.6635242715879699
+What did not know about these things?	0.6590342064831309
+What does it's virtually in by itself?	0.6542988628352662
+Is 3 9?	0.649326806631551
+What do they encode?	0.6440858575415691
+What did we not know about?	0.6434388445980062
+Is 3 8?	0.6411961764683032
+Is 3 7?	0.6399638521221871
+Who could I point to the details?	0.637471775289439
+Who found a shockingly interesting thing?	0.6325058254493767
+What are I could say, ?	0.6310560622663994
+Is 3 6?	0.6309223330510758
+Who are not in your textbooks?	0.623971544034186
+Who did not know about these things?	0.6227988132157016
+Is 3 4?	0.6216230836138852
+What could be regulatory sequences?	0.6211021234832796
+What can you keep?	0.6165272955833689
+Is 3 5?	0.6160974652751614
+What found a shockingly interesting thing?	0.6139211507082034
+What do I do?	0.6134169876521016
+What did it have deletions of?	0.6117625520322363
+Do the various companies not find anymore?	0.6102146614592809
+What do I 'm just keeping?	0.6077106628161104
+When does almost two dozen of these's become clear that there are genes encoding RNAs that are never translated into a protein?	0.6072046444424659
+Do a large portion of the most conserved things in the genome that do not encode protein sit around about 200 genes that are involved in early embryonic development in fact?	0.6054834486909122
+What are not in your textbooks?	0.6019125117423363
+Is 1 3?	0.6017118888858404
+What is almost nothing else?	0.5993095656063998
+What does that RNA play?	0.5958716172351997
+What will give me a background rate?	0.5945060289488986
+Is 1 2?	0.5939973601416328
+What do they not really change that much?	0.5815785487921326
+What did these not know about?	0.5788560132056397
+When does it's become clear that their number is at least now 7,000?	0.5783298880571117
+What are they in, OK?	0.5728637775384724
+Who is pretty dead most of?	0.5667786281572209
+How many species that are here are those?	0.5547903708550184
+What do we have?	0.5484389754938241
+What did I put a star at?	0.5470835212441998
+What did we do?	0.546811529250744
+Who do not really change the amino acid that much?	0.5457638848560269
+What is pretty dead most of?	0.5372725373531047
+What does it's not going to do there?	0.5366104568913483
+What's too much fun not to tell you?	0.5363615240493187
+What does it's here?	0.5346328009855439
+What does it act as?	0.5326145588687945
+If something did encode a protein what would you notice that you did not see?	0.5312687662245079
+What does it turn out they were underestimating?	0.5299057302043502
+What does it mean?	0.5298336592488506
+What's not going to do any good there?	0.5242956294980654
+What's that analysis that was published not so long ago that tells us there's about 21,000 protein coding genes?	0.5067105094389883
+If we keep score if a sequence is utterly unimportant in the human genome what now will have some average score?	0.5019546077383452
+Did two sequences go?	0.5015899688809828
+What does it mean into?	0.5015725587310227
+If I lined up a bunch of them, what can I see?	0.4995000174037605
+Could you imagine writing a piece of computer code that ran across the whole human genome lining up multiple species without knowing where the proteins were, predict if something encoded a protein?	0.4933329948632421
+Who do not know what they do?	0.4906952242433549
+Who encode RNA?	0.48381550335753065
+What can I see?	0.4835685582340532
+Who could say, are deletions that are multiples of three allowed, but not one more or two more than a multiple of three?	0.4827669903773988
+What do we really know it's?	0.4792707537645371
+Do people not know them all yet?	0.4736999945623035
+'ll zero be some symmetric bell-shaped curve around this?	0.4704292996810766
+What does that's?	0.4676173903461911
+Who does not like deletions?	0.45725103192534333
+Did we not know about all of these non-coding sequences that regulate genes?	0.4559699155571697
+If something did encode a protein what would you notice that you did not see a lot of?	0.4506792529499617
+Who did this analysis I 've just told you about?	0.4440173992413412
+Who do what do see?	0.4431472255789508
+What can we now see?	0.4410635949944486
+What could I point you to?	0.4360981534384001
+What do they 're in?	0.42798616607934115
+What are coding sequences like this?	0.42266179743444465
+If the various companies keep score if a sequence is utterly unimportant in the human genome will now it have some average score?	0.42043288068714224
+What are they not in?	0.4156845871808268
+What did we test?	0.4150277347252984
+Who tested it?	0.413469276484532
+Are they clearly regulatory sequences sitting around there in fact?	0.4123838211441506
+Who can now see that?	0.411967003533414
+Could you imagine making some conservation score of how much identity there is across all the species in a given window?	0.41169665728921956
+What do you not like?	0.4060431027026965
+What does it's become clear that their number is at least because in the last four years or so?	0.3910882662500663
+What does it's?	0.3864098242199969
+Who does that?	0.3760026100285263
+Might some of them cause allosteric changes in proteins?	0.3751166141295066
+What 'll just degenerate?	0.3748749434806977
+Is three OK?	0.37432127916244373
+Does it's an important regulator in early embryonic development?	0.3739783190787742
+What are no other protein-coding genes in its neighborhood?	0.3657953720381708
+If we keep score if a sequence is utterly unimportant in the human genome what will now it have?	0.36529939216205
+Who can write that down, OK?	0.3611230860554058
+What are these?	0.3601143305881256
+Is the truth this an incredible research area right now because we did not know about these things?	0.3558294392613841
+What did we find?	0.349807640832396
+What did it have?	0.3490779253591805
+How many genes that are involved in early embryonic development do a large portion of the most conserved things in the genome that do not encode protein sit around in fact?	0.34898855971018405
+Had this not been known until Transposons sequenced the genome?	0.3441390423136381
+Could I line up the transposons-- which occur in the same places in mouse and human, rat and dog-- and count the changes?	0.3425717861488997
+Do we call these long intergenic non-coding RNAs, or lincRNAs so non-coding RNAs?	0.3314408743123276
+Do the various companies know that from looking at this we can pick out the protein-coding by the distinctive pattern of mutations?	0.32945311558434476
+Could you actually predict where the protein-coding sequences were by their evolutionary properties?	0.3283012829710863
+Can I see how much of the genome is conserved?	0.3259815996726618
+What does it mean a lot of regulation goes into?	0.32049955944169595
+Who do not know them all yet?	0.3193789497958408
+If the various companies keep score if a sequence is utterly unimportant in the human genome what now will have some average score?	0.31453245068671287
+Is the fat right tail more conservation than you would expect by chance?	0.31141111763474827
+Might some of these cause allosteric changes in proteins?	0.3089730457037505
+Who did that?	0.2973063870695678
+Did I put a star at any position that's absolutely identical across all four species?	0.2969145933614201
+Is the truth this an incredible research area right now because these did not know about these things?	0.2935425980436599
+'ll you notice green means completely conserved amino acids?	0.2890145238112196
+How many protein-coding genes does it's stunning that there were?	0.2872302325185325
+Does it's become clear that there are genes encoding RNAs that are never translated into a protein because in the last four years or so?	0.28364488713185754
+Do some of these sequences that evolution has bothered to conserve call these long intergenic non-coding RNAs, or lincRNAs so non-coding RNAs?	0.2833868786222826
+Are the other genes no other protein-coding genes in its neighborhood?	0.28139190465516073
+What did I tell you at some point?	0.2805426592417588
+Did I tell you at some point that the ribosome had an RNA in it?	0.26543962318119885
+How many protein-coding genes does all this DNA's stunning that there were?	0.2611373004663906
+'ll they be some symmetric bell-shaped curve around it?	0.24670734325691468
+Does it's stunning that there were 21,000 protein-coding genes?	0.24516106614708288
+Do I 've lined up human, mouse dog?	0.24344257188328777
+Were they just salivating over being able to patent another 80,000 genes?	0.24239878100782652
+What can I actually write?	0.2374683341614514
+Who do not find anymore?	0.21960729252612277
+Did people know almost two dozen of these?	0.21589136350423432
+Do they 're at least 7,000 RNA genes that do not go to proteins?	0.21523327569433803
+Did we not know about all of these other kind of genes?	0.21246889352406262
+Is the chance of being exactly identical across all the species on average lower than that?	0.2119718221714222
+Does all this DNA's stunning that there were 21,000 protein-coding genes?	0.21050182506507076
+Are most of some of these sequences that evolution has bothered to conserve bad news?	0.2077278420723947
+Did these changes not affect the amino acid?	0.20084236108282028
+Had this not been known until we sequenced the genome?	0.19956658568328045
+What tested this?	0.19698183360485166
+Did some of these sequences that evolution has bothered to conserve not know about all of these other kind of genes?	0.18516831530890876
+Who wants to know?	0.18465706233408707
+Does it act as a tether to hold together three proteins?	0.1776878426593953
+Does it mean a lot of regulation goes into those early embryonic genes that lay down the pattern of the body?	0.1746375387085628
+What do we not know yet?	0.17386115946871672
+Does it actually provide the template for the telomere sequence?	0.17287098064878847
+Who 'll notice?	0.16671849817719453
+Do I 'm going to take back my nasty things about transposons?	0.16509248368841556
+May they earn their keep by occasionally stirring up evolution, occasionally moving around the evolutionary information?	0.14070384033595396
+Might this have some rough variation around it just by chance?	0.1364129285757536
+Does it correspond with about 5 % or 6 % of the genome is conserved?	0.1320538563590019
+What's three?	0.12792913184783017
+Do some of these sequences that evolution has bothered to conserve 're there?	0.12527155486654884
+What was really exciting?	0.11991078576294689
+If I lined up a bunch of them, can I see how conserved they are?	0.11701991253788702
+Does it's maybe a quarter of the bases?	0.11653026933249544
+Can I actually write a piece of code that would analyze two sequences and say?	0.11247367455002033
+Who 'll find?	0.10300725028209623
+Did some of these sequences that evolution has bothered to conserve not know about all of these non-coding sequences that regulate genes?	0.09942128022160768
+Who do not know?	0.09442272878735936
+Is this how the various companies know it's about 21,000?	0.07988581135329786
+Can you even put it on the exam if you want to?	0.07330485938597331
+Does this happen to be human?	0.07119903997585508
+Did it get down to about 21,000?	0.07081891129802198
+Do you see frame shifts and gaps?	0.06971423171821867
+What does it's stunning that there were?	0.06714949799697978
+Does the rest of the genome's this fat tail here?	0.06553547891479505
+Could I look at the deletions?	0.06225999902518842
+Does that's enough to give me a signal?	0.056768262761675015
+Do we know that from looking at this we can pick out the protein-coding by the distinctive pattern of mutations?	0.04655263072717286
+What does all this DNA's stunning that there were?	0.044768574297876285
+Who see that very often?	0.030782604756254495
+Does almost two dozen of these turn out people were underestimating how many there were?	0.024673205574402335
+What do we not know?	0.02263087439269884
+Who 're there?	0.01544773784524689
+Will that give me a background rate?	0.014802095418066763
+What are those?	0.0065016039948142534
+Do the various companies really know this's about 21,000?	0.006226073492184181
+Are coding sequences like this deletions that are not a multiple of three?	0.0019306812442994037
+If something did encode a protein would you notice that you did not see a lot of deletions that were not multiples of three?	0.0013551970230185617
+Who went?	-0.005774922174440977
+Do we have some examples like telomerase?	-0.010625973967162805
+Did we use to know a few of them?	-0.01294019181219963
+What went?	-0.014283474318641964
+Does it turn out telomerase has an RNA in it?	-0.01873891493260582
+'ll I call that zero?	-0.025899018293615628
+Does that's statistically very significant to see that much conservation?	-0.028855313706751318
+Who goes?	-0.03432922574293651
+Are those the four species that are here?	-0.03668712408531083
+Could you imagine creating a statistic?	-0.04445831599232153
+If something did encode a protein what would you notice?	-0.04577590778802909
+What does almost two dozen of these turn out?	-0.04747054180096821
+Are these non-coding RNAs?	-0.04818793632386886
+Does it turn out that when I do that, I see this-- transposons?	-0.06120726326150083
+Does it become substrates for evolution?	-0.06986415987239458
+Do they 're in very distinctive locations?	-0.07518030790461672
+Does it mean they 're incredibly complicated genes to regulate?	-0.07664325699516783
+Do I get a background distribution?	-0.07724594177071631
+Does that seem like a slow thing?	-0.08295377166998463
+Could you change the one base?	-0.08435702641626719
+Is this a testable prediction?	-0.08613435840477646
+Could I email it to other parts of the genome?	-0.08972382626794362
+Might it have some rough variation around it just by chance?	-0.0983603202981731
+Are most of them bad news?	-0.10181434042247428
+When does almost two dozen of these's become clear that there's number is at least now 7,000?	-0.11061175521823285
+Does that RNA play certain functions?	-0.11529928998203465
+If something did not encode a protein, what do now do you think it would care?	-0.11958914084327288
+Do they encode RNA?	-0.12075925527136944
+Can you keep score?	-0.1293427781857197
+Does it's this fat tail here?	-0.13014672641577385
+Could it be regulatory sequences?	-0.13122110893468264
+Did the genome tell us this?	-0.1328122518325201
+What does it mean they 're incredibly complicated to regulate?	-0.1329286069645892
+How many sequences did that?	-0.13531205451539496
+Do we know there's stuff in there?	-0.14116450191935725
+Did it work for the known genes?	-0.1449353077095732
+Is this protein-coding sequence?	-0.14494065957012836
+What's become clear that their number is at least now 7,000 because in the last four years or so?	-0.14508530050434387
+Did we not know about these things?	-0.15062486727779145
+What do we really know?	-0.15336450766520549
+Does it's about 5 % or 6 %?	-0.1600451375589298
+Do I 'm just keeping score?	-0.1629244561849985
+Does it's a symmetric curve?	-0.16524123668891955
+What is protein-coding?	-0.16570450249960345
+Did we find a shockingly interesting thing?	-0.1672964659117211
+'ll it just degenerate?	-0.16923511628317334
+What does almost two dozen of these's become clear that there's number is at least because in the last four years or so?	-0.18962140248843928
+Is this how we know it's about 21,000?	-0.19685262932524195
+Do they not really change the amino acid that much?	-0.2129811440105256
+Does it's not going to do any good there?	-0.21461003062103812
+Did these not know about these things?	-0.21560538029304532
+Does that's an underestimate?	-0.2175643578353792
+Does it turn out they were underestimating how many there were?	-0.22240883511386755
+Do I do that?	-0.2233961926360919
+How many RNA genes that do not go to proteins do they 're?	-0.23187872368464602
+If something did not encode a protein, what do you think it would care whether it had deletions of size one, two, or three?	-0.23194057828521064
+Does it mean something?	-0.23789518026047785
+Can you write that down, OK?	-0.23928621362898084
+What does it's become clear that there are because in the last four years or so?	-0.24659528390955732
+What are they clearly in fact?	-0.2483549692358864
+How many genes do you want it to regulate coordinately?	-0.2577066417077212
+Is most of that not protein-coding?	-0.2584326735400857
+What told us this?	-0.2585783240780133
+OK are they in your body?	-0.2663653105798678
+Does it's virtually in a desert by itself?	-0.27637807460478814
+Did we do that?	-0.2812187507165107
+Do what do I see?	-0.2812800749649875
+Do I 'm going to tell you one more fact just because it's too much fun not to tell you?	-0.2852919383750221
+Do I do the rest of the genome that's not those they transposons?	-0.2881115054076786
+Do I 'm just going to tell you the fact?	-0.2888625368761535
+Do I 'm not going to tell you the details?	-0.29339403049545254
+Do we really know it's about 21,000?	-0.30411408866264167
+What do we know?	-0.30659113704588503
+Do some of these sequences that evolution has bothered to conserve see that very often?	-0.31164042454564234
+Did now have deletions of size one, two, or three?	-0.315331426477659
+Do you not like deletions?	-0.33950744744737693
+What is this?	-0.3408390809123203
+'ll I tell you?	-0.3514229215269844
+What did it work for?	-0.36003585828926576
+Do we not find anymore?	-0.36502410925278994
+Did two sequences do that?	-0.36759249110561965
+Does that's not all there is?	-0.3702110071919058
+Do you want it to regulate 10 genes coordinately?	-0.3705004427903831
+Can we now see that?	-0.3789884104405463
+What do you want it to regulate coordinately?	-0.3964297986288645
+Do they 're there?	-0.4081198892252107
+Will that go up?	-0.4083489149318096
+Do you want to know?	-0.410541411261212
+Did not test this?	-0.41458510088216505
+Does it's three?	-0.4215063949693987
+Was it really exciting?	-0.4249782810807783
+Does it's that analysis that was published not so long ago that tells us there's about 21,000 protein coding genes?	-0.4292133045882176
+'ll you notice?	-0.42951399327382234
+Is from that we know that it's actually only about 1. 5 % percent of the genome protein-coding?	-0.4298707022580357
+What could it be?	-0.4435427882934948
+Are they not in your textbooks?	-0.44623947735230973
+Do we not know?	-0.45881368044115933
+What does it turn out?	-0.483360477298564
+Do you do that, what you 'll find is by chance?	-0.4994121339444533
+If something did not encode a protein, what do now do you think?	-0.5029606499399439
+Could I point you to the details?	-0.5103156336253891
+'ll you find?	-0.5135392428679788
+Did we test it?	-0.5264135973851887
+Are I could say, deletions that are multiples of three allowed, but not one more or two more than a multiple of three?	-0.5538194345534564
+Did we do this analysis I 've just told you about?	-0.5549350387859722
+Did we go?	-0.5798449755879476
+Do we see that very often?	-0.5851376601055931
+Do we not know what they do?	-0.5958437039288107
+Does it's too much fun not to tell you?	-0.6524954729434107
+Do you go?	-0.6652072556948567
+Does almost two dozen of these's become clear that there's number is at least now 7,000 because in the last four years or so?	-0.6702204521033868
+If we keep score if a sequence is utterly unimportant in the human genome will now it have some average score?	-0.6929083757001615
+What did that?	-0.7016187721216842
+What do they 're?	-0.70832167600832
+Do we not know them all yet?	-0.7671599783763252
+What does it's stunning?	-0.8044691293984263
+What does all this DNA's stunning?	-0.8272612168242268
+If something did not encode a protein, who do now do think it would care whether it had deletions of size one, two, or three?	-0.8305975543280835
+If something did not encode a protein, what do now do you think would care whether it had deletions of size one, two, or three?	-0.9153360385318385
+What does it's become clear because in the last four years or so?	-0.9678891693194847
+Did it have deletions of size one, two, or three?	-1.100684194190206
+Does it's become clear that their number is at least now 7,000 because in the last four years or so?	-1.114648857270602
+What do I do the rest of?	-1.1160330863508081
+Does almost two dozen of these's become clear that there are genes encoding RNAs that are never translated into a protein because in the last four years or so?	-1.39138725572015
+What does almost two dozen of these's become clear that there are because in the last four years or so?	-1.4692031811637563
+If something did not encode a protein, do now do you think it would care whether it had deletions of size one, two, or three?	-1.7187275588903816
+What does almost two dozen of these's become clear because in the last four years or so?	-2.0001449935610904

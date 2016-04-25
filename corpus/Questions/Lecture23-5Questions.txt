@@ -1,0 +1,377 @@
+What would be mutations in Ras that destroy the GTPase activity and leave it bound to GTP and active?	2.7995212918328543
+What produces a gene that gives rise to a protein that consists of a chunk of the BCR gene and a chunk of the ABL kinase?	2.735591262767638
+What hydrolyzes a GTP to a GDP?	2.721859366625241
+What is just one of the many signals that are coming out of Ras?	2.6947785952607317
+What could not turn GTP into GDP?	2.6889344035879645
+What are sites of Ras mutations?	2.6845087958287293
+What have activating mutations in the gene called BRaf?	2.6393654462169365
+What is extremely common to find mutations in many many cancers that affect Ras?	2.5538409244996716
+What is Ras in?	2.486514817083355
+What are loss of a GAP protein?	2.4861411447161212
+What creates signals by phosphorylating transcription factors?	2.4446467416165767
+What does the ABL kinase create by phosphorylating transcription factors?	2.4302197986444534
+What does the ABL kinase phosphorylates?	2.429171046028267
+What have 50 % of melanomas activating mutations in?	2.409944695356529
+What activates the ABL kinase?	2.3912018839231677
+What could an enzyme not turn GTP into?	2.3791133067066257
+What could an enzyme not turn into GDP?	2.3721302667554305
+What make 10 to 100 times more of the Her2 receptor so in breast cancer?	2.3462548444207507
+What does Phosphate group hydrolyze?	2.330346456455194
+What do a huge number of cancers have mutations at?	2.303134716865214
+What does the BCR gene cause to form tetramers?	2.2861428544163673
+If anything that causes nonbinding prevented the receptor from binding the growth factor, what happens?	2.282757707311486
+What destroyed Ras?	2.260141019485951
+What does the ABL kinase's kind of?	2.2584892844612323
+What are neurofibromatosis loss of?	2.2403446624157706
+What would not be a loss of function?	2.1977579606197204
+What could stay in the GTP-bound state because?	2.161985933814735
+What does the ABL kinase's phosphorylating?	2.1535900056264916
+What EGF receptor for example?	2.130538153338311
+What does the growth factor cause to dimerize?	2.1176716980454686
+Who is Raf?	2.1142940505918317
+What phosphorylates stuff?	2.104929261664964
+What's phosphorylating things?	2.1043464411767716
+What's kind of weird?	2.0981326828692737
+What are the 13th site?	2.09063675763959
+What causes no. to dimerize?	2.08656727126435
+Where could an enzyme stay because?	2.073476122908598
+What gives rise to a signal inappropriately?	2.0474091222395234
+What's not going to promote Ras?	2.035371565087683
+What does the BCR gene activate?	2.015780965821187
+What would not be able to get a growth signal?	2.011433191651473
+What binds the growth factor?	2.0044907629254314
+What are of skin cancers?	1.9715408354884592
+What does some growth factor stop paying to its neighbor?	1.9582140725653716
+What's sort of the opposite?	1.9478818383845817
+What did the egf for example?	1.94684232108266
+What did the egf receptor for?	1.9427036740488302
+What does the ABL kinase's?	1.9144595420718447
+What would always be on there?	1.9090074812447186
+Who needs to get phosphorylated to become active?	1.9022973780273453
+What are neurofibromatosis?	1.8915438703902152
+What carries out a reaction?	1.8778940403180049
+What do about 30 % of cases of breast cancer make so in breast cancer?	1.8643783706205994
+What can Ras not hydrolyze?	1.8585993884545617
+What does no. bind?	1.8462431534204131
+What does Phosphate group's?	1.8370314953525222
+What would bind the GTP?	1.8330896378314434
+What are melanomas of?	1.832238680160785
+Who does some growth factor stop paying attention to?	1.8300542621547757
+What Could PROFESSOR: not let?	1.8270326711279687
+What does the ABL kinase's not really in?	1.8082046775078846
+What can Yep not let?	1.8022839026875124
+What's making growth factors too?	1.8000748726248774
+What takes off the phosphate?	1.7957497986418802
+What's one idea?	1.7911029656213096
+What's an enzyme?	1.7790161906104265
+What has an active site?	1.772738276503944
+What goes running around?	1.7714923087546033
+What is the guy?	1.760778224061898
+Does Phosphate group hydrolyze a GTP to a GDP?	1.7591023657234688
+What could an enzyme stay in because?	1.7555303546412364
+What would an enzyme always be on?	1.7304780643417883
+What is a horrible thought?	1.7277922328593653
+What does Ras's own activity add?	1.7242652627711041
+Who cannot let go?	1.6775414577416694
+What would be mutations in Raf that cause it to be permanently active?	1.6455940692464281
+Are the 13th site sites of Ras mutations?	1.6382031712506548
+What would not let go?	1.6300092415807388
+Would another thing be mutations in Ras that destroy the GTPase activity and leave it bound to GTP and active?	1.612414783158393
+What would an enzyme bind?	1.6058550479933653
+Where does it turn out that, the 12th position is critical?	1.6053148506782473
+What's not really in the pathway?	1.5934154733898611
+Who have 50 % of melanomas activating in the gene called BRaf?	1.5929174144783413
+What does the translocation between these two chromosomes produce?	1.5712869027116394
+Have 50 % of melanomas activating mutations in the gene called BRaf?	1.5635538605400034
+Who might predict that mutations in the GAPs could do it?	1.5571829491675802
+What does an enzyme have?	1.556929282935787
+What's one way?	1.5560538973261366
+What might be insidious?	1.553371912979116
+What would not cause an active site?	1.5471640142218568
+What's running around?	1.5361984420371337
+Could an enzyme not turn GTP into GDP?	1.5327250325936732
+Does the ABL kinase phosphorylates stuff?	1.5151582687698002
+What does not matter?	1.4997999891365146
+Who thinks it's about 30 % of breast cancers have Her2 overexpression for example?	1.496846381728378
+Does the ABL kinase create signals by phosphorylating transcription factors?	1.4945785853851223
+Where do we have amino acid number 12?	1.4848663150671801
+Does the BCR gene activate the ABL kinase?	1.4772294309025185
+Who could have mutations that produce more growth factor mutations that cause the receptor to dimerize, mutations and Ras leaving the active state?	1.4767775463239756
+If it prevented the receptor from binding the growth factor, what happens?	1.4638619625887492
+What would an enzyme not let?	1.4595798120586287
+What did not bind?	1.4465067574640802
+What do you have an awful lot of?	1.4435203970588395
+Is an active site extremely common to find mutations in many many cancers that affect Ras?	1.4387440827324918
+What causes this fusion protein to form tetramers?	1.3823741981483884
+What might you predict that mutations in the GAPs could do?	1.3743240197927902
+What's regulated?	1.3714746398850055
+Does the ABL kinase go running around?	1.3698121754362491
+Did a destroy Ras?	1.3568004558284699
+Are neurofibromatosis loss of a GAP protein?	1.3488390586988195
+What's hard to say all these things?	1.331831015373118
+What are the 13th site sites of?	1.3276134759934695
+What's always active?	1.3272843603985234
+Who sees some in neurofibromatosis?	1.3228825710662426
+What does it turn out that in, the 12th position is critical?	1.3223942326835898
+What do I think's about 30 % of breast cancers have Her2 overexpression for example?	1.3168704099465618
+What goes?	1.3160967473684808
+What does here's?	1.2997238749432143
+What do let's do?	1.296962323038834
+What could it not turn GTP into?	1.2853268028359346
+What could it not turn into GDP?	1.2757224416380857
+Who sees some of these in breast cancers?	1.2738310467923286
+What does it create by phosphorylating transcription factors?	1.2719626040337992
+What turns out that in the active site, the 12th position is critical?	1.2659316411648556
+What's a strange one?	1.2610548706705267
+What does the BCR gene cause this fusion protein to form?	1.2560098320065447
+Does the ABL kinase's phosphorylating things?	1.2415401401658959
+Does the growth factor cause no. to dimerize?	1.2396168265108205
+What well turns out that some growth factors have the possibility that there are mutations right over here that cause them to dimerize all on their own?	1.2389373344879937
+What do you see some of in breast cancers?	1.2381247618370428
+What have mutations at that amino acid?	1.2341437255333907
+Does the ABL kinase's kind of weird?	1.2334538611550538
+What is an active site extremely common to find mutations in many many cancers that affect?	1.2242303044928904
+Who understands that, answer these questions about the kinds of mutations that can cause cancer?	1.2186239191855348
+Who have amino acid number 12 in the active site?	1.2185818543659033
+Who 'mes going to send you some growth factor?	1.2099880257364686
+What could go wrong?	1.2087430080818056
+What does all of these things give rise to inappropriately?	1.2040117516023776
+What could we have mutations that produce more growth factor mutations that cause the receptor to dimerize, mutations and Ras?	1.1955186672546438
+What do we have amino acid number 12 in?	1.183881512139771
+What do I think it's about 30 % of breast cancers have Her2 overexpression for?	1.1835364943738638
+What can happen?	1.1815201823139132
+What causes it to dimerize even though there is no normal signal for dimerization?	1.1796724506199312
+What do you see some of these in?	1.1765883845089173
+Could an enzyme stay in the GTP-bound state because?	1.1683378843862138
+If you just get too much receptor getting made what can start dimerizing?	1.1630568174562517
+What do I think it's have Her2 overexpression for example?	1.1608931067329689
+What do we have in the active site?	1.1545109235119106
+What is to have mutations that cause you to overproduce growth factors?	1.1543894403723165
+Does Ras's own activity add its phosphate group?	1.1463565658970452
+Is the guy Raf?	1.1386760109598928
+If anything that causes nonbinding prevented the receptor from binding the growth factor, does what happen?	1.1349913140980856
+What will not cause cancer?	1.13300250946968
+Are melanomas of skin cancers?	1.1298649707456367
+What do you see in breast cancers?	1.1247035154478553
+What starts this whole pathway going, sending its signal out?	1.1228260897458364
+Would the cell not be able to get a growth signal?	1.1180840218576447
+Might what kind of mutation be insidious?	1.1091424404855657
+Who 're translocated to make a funny fusion gene?	1.1063417698726314
+What do I think it's about 30 % of breast cancers have for example?	1.0990763359318465
+What would this not be a loss of?	1.087652643144812
+What causes it to dimerize?	1.078444885817512
+Where could it stay because?	1.076573931272884
+What do you have?	1.075819678786948
+What 're translocated to make a funny fusion gene?	1.0749745790996927
+Does the ABL kinase's running around?	1.0745559960008375
+What does it cause to dimerize even though there is no normal signal for dimerization?	1.064987591993055
+Does STUDENT not bind?	1.0577915585214468
+What stops paying attention to its neighbor?	1.0561611209767925
+Who 'll tell you one wild card?	1.0539399608193065
+Who gets to Raf?	1.047940647943702
+Does the ABL kinase go?	1.0467361636276924
+What does well LAUGHTER turn out?	1.0395047679683693
+If you just get too much receptor getting made what can the receptors start?	1.0353489075629776
+Does the GEFs not matter?	1.030368567391462
+Does no. bind the growth factor?	1.02977269440078
+Who has an awful lot of cells and an awful lot of time to have an awful lot of mutations?	1.0262457204848703
+Did the egf receptor for example?	1.022371916999817
+What do the opposite of what you said?	1.0130122571107765
+If there mutates-- for example does it not work anymore?	1.0111395137627532
+What does it hydrolyze?	1.0071068067001283
+Does some growth factor stop paying attention to its neighbor?	1.0027874821574017
+What do about 30 % of cases of breast cancer make 10 to 100 times more of so in breast cancer?	0.9997190759713874
+Did the GAP not bind?	0.989620118258437
+What does it start this whole pathway going, sending out?	0.9890495592293196
+Is Ras doing?	0.9841397181194138
+What did a destroy?	0.9740847349199353
+If it mutates-- for example what does not work anymore?	0.9589430088989157
+What do they 're translocated to make?	0.9583205560053683
+Can Ras not hydrolyze the GTP?	0.9505338240910239
+Does Phosphate group's an enzyme?	0.9433872251696478
+Who could not let go of your growth factor?	0.9354353705825216
+Would an enzyme always be on there?	0.9324562662852895
+What does its own local signal start activating?	0.9224490683251765
+What happens because you have an awful lot of cells and an awful lot of time to have an awful lot of mutations?	0.9143962371180936
+Could PROFESSOR: not let go?	0.9048364981742318
+If there mutates-- for example what does not work anymore?	0.9030076903134567
+What starts activating itself?	0.9008677788708617
+What do you see?	0.8961830549615062
+What adds its phosphate group?	0.8888838447144087
+Can Yep not let go?	0.8817405525905957
+Does the ABL kinase's not really in the pathway?	0.8780022269436891
+What does well LAUGHTER turn out that some growth factors have?	0.8719149132808488
+Who understands that, stop a moment?	0.8657539285353857
+What do about 30 % of cases of breast cancer make 10 to 100 times more of the Her2 receptor so in?	0.8643359968942238
+What so happens that there's sometimes a translocation between two chromosomes, chromosome 9 and chromosome 22?	0.8556561324755374
+If it gets stuck here because it cannot hydrolyze the GTP, who 're in big trouble?	0.8524156418609028
+Is Ras so important?	0.8521079220132084
+Would an enzyme bind the GTP?	0.8447703571088483
+What does it bind?	0.816788222579047
+Does an enzyme have an active site?	0.8118292651457122
+What does it's phosphorylating?	0.811569051867129
+What does that's sort of?	0.8106867419334387
+What cannot hydrolyze the GTP?	0.8078079408908303
+What is an active site extremely common to find mutations in many many cancers?	0.8022792527898284
+Who cannot destroy the Ras protein?	0.8020137850927154
+If it gets stuck here because it cannot hydrolyze the GTP, what do we 're in?	0.797325223331236
+What does it start going, sending its signal out?	0.7924845256766189
+What does it's kind of?	0.7822726314944255
+Who cannot cause it not to be an effector and all that?	0.7783379342332362
+What is this just one of?	0.7782407564496303
+Could what else go wrong?	0.7688622432568215
+Who: Could not let go?	0.7684735853090909
+What could it stay in because?	0.7582792336249828
+What does that enzyme carry out?	0.7560616369482531
+What can you not destroy?	0.7475538160411754
+Could we have mutations that produce more growth factor mutations that cause the receptor to dimerize, mutations and Ras leaving the active state?	0.736947202559187
+What would it always be on?	0.7348655636970634
+What's not going to promote it?	0.7343875969305098
+Who have these growth factors?	0.7298794275475722
+What would this not be?	0.7294654114242332
+Who 'ves got it?	0.7155239775566677
+Who does it stop paying attention to?	0.7111836102555467
+What do you get to?	0.7075593399189708
+Can other things happen?	0.7048752304545123
+Would an enzyme not hydrolyze it?	0.68379972784849
+What does that enzyme take off?	0.6788472034034898
+What does it stop paying to its neighbor?	0.6695145405331435
+Would an enzyme not let go?	0.6674833575323018
+What does this cell's making too?	0.6652335654784105
+What would not hydrolyze it?	0.6535797286359446
+What do we have?	0.643533243583932
+What is in this delicate balance of an inactive state to an active state?	0.6424316151528089
+Does well LAUGHTER turn out that some growth factors have the possibility that there are mutations right over here that cause them to dimerize all on their own?	0.6418193146948288
+Where does it turn out?	0.639234383934858
+What does it so happen that there's sometimes?	0.6088084710573773
+Who does not bind?	0.6073659816651296
+Is Ras in this delicate balance of an inactive state to an active state?	0.6057654921921203
+What could you not let go of?	0.6019426260646932
+What would it bind?	0.6009814578834269
+Is it extremely common to find mutations in many many cancers that affect Ras?	0.6009447656179758
+What can you not cause not to be an effector and all that?	0.5924936985406526
+Who has not even told you all the things?	0.5858783602873785
+What do I think it's for example?	0.5852501136762491
+What does that's not going to promote?	0.5728895031506525
+Does Lots of Ras's hard to say all these things?	0.5697898060595046
+Would this be mutations in Raf that cause it to be permanently active?	0.5502621772372533
+If it prevented the receptor from binding the growth factor, does what happen?	0.5497062584540942
+Does here's a strange one?	0.5385560341684399
+Who can you not cause it not to be?	0.5324158564770642
+What can it not hydrolyze?	0.5295615476865583
+What do we observe?	0.5284749695251083
+What does it have?	0.5237461909949126
+What would not cause it?	0.5203997783188674
+Who observe it?	0.5124831875617277
+Does a's always active?	0.5086874957775354
+What do I think for example?	0.5073267349980111
+Does it hydrolyze a GTP to a GDP?	0.49975145974502677
+What do you 've got?	0.48710622289712435
+What does it's?	0.47052493846755605
+What would that not cause?	0.46722863482046284
+Is this just one of the many signals that are coming out of Ras?	0.4642738635495176
+What would it not let?	0.46012648458608574
+What can it not let?	0.4600084247239069
+Could it not turn GTP into GDP?	0.44638800242545207
+What does that's?	0.44602909257993484
+Can different ones in different cancers, but all of these things happen?	0.4193092485056149
+Does it turn out that in the active site, the 12th position is critical?	0.41437016529857873
+Who says ``you,'' I mean a cell here-- a cell that made a lot of growth factor that came back and activated itself?	0.4104216937556051
+What cannot let go?	0.39835227549490226
+Who do a huge number of cancers have at that amino acid?	0.38597206326066935
+What is it extremely common to find mutations in many many cancers that affect?	0.3809834304293447
+What does it add?	0.35514908110636667
+What is doing?	0.34071448522843806
+Does it create signals by phosphorylating transcription factors?	0.34007656247908624
+What does it's not really in?	0.3360355452591841
+Who 'ves seen?	0.33516470390546305
+What does it turn out in?	0.33273512262734717
+Does the BCR gene cause this fusion protein to form tetramers?	0.3312525556215755
+What would it not hydrolyze?	0.33020325272109097
+Do a huge number of cancers have mutations at that amino acid?	0.32298745213645486
+What would an enzyme not hydrolyze?	0.3176598889372224
+Do they 're translocated to make a funny fusion gene?	0.3108647571691181
+Do you see some in neurofibromatosis?	0.30174489989282893
+If you just get too much receptor getting made can the receptors start dimerizing?	0.2774766595614513
+Does the growth factor cause it to dimerize?	0.25678999767141786
+Does all of these things give rise to a signal inappropriately?	0.25334275988614463
+Might you predict that mutations in the GAPs could do it?	0.25077016413903896
+What is so important?	0.24886142771246478
+Do we have amino acid number 12 in the active site?	0.24652137281308972
+What is that?	0.24406430646323085
+Do you understand that, answer these questions about the kinds of mutations that can cause cancer?	0.24318250989827606
+What is this?	0.23960351471795893
+Do you see some of these in breast cancers?	0.23950768299608383
+Does it cause it to dimerize even though there is no normal signal for dimerization?	0.23422632300276325
+Do I think it's about 30 % of breast cancers have Her2 overexpression for example?	0.20275841112457105
+Could it stay in the GTP-bound state because?	0.19336277651175182
+Do let's do the opposite of what you said?	0.18823922199498533
+Do you understand that, stop a moment?	0.16847359209870616
+Would this not be a loss of function?	0.15713441805044592
+Does it's hard to say all these things?	0.13623681640524943
+Does this guy need to get phosphorylated to become active?	0.12329356102175648
+Is one way to derail this pathway to have mutations that cause you to overproduce growth factors?	0.10903147608344321
+Does that's not going to promote Ras?	0.1030842705433237
+Do you get to Raf?	0.09219362003858267
+Do about 30 % of cases of breast cancer make 10 to 100 times more of the Her2 receptor so in breast cancer?	0.07994526070523289
+Do you have an awful lot of cells and an awful lot of time to have an awful lot of mutations?	0.065340365080095
+Does it's phosphorylating things?	0.03563428822340331
+Does it bind the growth factor?	0.02809468219279454
+Does this cell's making growth factors too?	0.01631830988304328
+Does its own local signal start activating itself?	0.012342545885789757
+Can you not destroy the Ras protein?	0.0010677412471591374
+What is it extremely common to find mutations in many many cancers?	-0.02538444016992636
+What will that not cause?	-0.02538754482489769
+Who can get?	-0.03408396663480617
+Does that enzyme carry out a reaction?	-0.03487354737317405
+Does that's not going to promote it?	-0.05685098905731523
+Would it always be on there?	-0.06330981586779383
+Does it start this whole pathway going, sending its signal out?	-0.06339939324795618
+Does it so happen that there's sometimes a translocation between two chromosomes, chromosome 9 and chromosome 22?	-0.07554415382362656
+Can every one of these things happen?	-0.0821536541816601
+Do we have these growth factors?	-0.08503041309322334
+Do I 'm going to send you some growth factor?	-0.09799576304787672
+Does it's kind of weird?	-0.09932411430324262
+Does that enzyme take off the phosphate?	-0.10532800926041763
+Does that's sort of the opposite?	-0.11463255721687826
+Does that's one idea?	-0.1293748967325219
+Would it bind the GTP?	-0.14163268268785023
+Who does that's not going to promote?	-0.14655092053537544
+If it gets stuck here because it cannot hydrolyze the GTP, do we 're in big trouble?	-0.1610848889948202
+Does that's regulated?	-0.16226298941872352
+Does the translocation between these two chromosomes produce a gene that gives rise to a protein that consists of a chunk of the BCR gene and a chunk of the ABL kinase?	-0.16487764632133683
+Could you not let go of your growth factor?	-0.16513762774576746
+Do you 've seen?	-0.18213516136502728
+Does it have an active site?	-0.18908281209941258
+'ll I tell you one wild card?	-0.2186787915123536
+Is that a horrible thought?	-0.2250037820373605
+Can it not hydrolyze the GTP?	-0.2303193291391481
+If it mutates-- for example does it not work anymore?	-0.233090934688164
+Who could we have leaving the active state?	-0.2502205523985215
+What does well it turn out?	-0.2513059005066739
+What does well it turn out that some growth factors have?	-0.251976198650122
+Does it's an enzyme?	-0.2603636732627992
+Does all the different ways that you can screw up the growth signaling happen because you have an awful lot of cells and an awful lot of time to have an awful lot of mutations?	-0.2765851922434377
+Does it stop paying attention to its neighbor?	-0.2837458917828328
+Does it's running around?	-0.2941722458316316
+Will that not cause cancer?	-0.2982621758073518
+Would it not let go?	-0.3303171470834212
+Can it not let go?	-0.3304352069456
+Does it's not really in the pathway?	-0.33271058086775795
+Does that's one way?	-0.35685067825624195
+Would that not cause an active site?	-0.364589904010892
+What might you predict?	-0.3657736919507226
+Would that not cause it?	-0.3973890743999047
+What does it so happen?	-0.4041643014917965
+Does it's always active?	-0.41776355411283195
+Do we observe it?	-0.42174926290631776
+Do you 've got it?	-0.46556344203993083
+Does it add its phosphate group?	-0.4686889391495974
+Does well it turn out that some growth factors have the possibility that there are mutations right over here that cause them to dimerize all on their own?	-0.48383162423306647
+Can you not cause it not to be an effector and all that?	-0.4862493851310401
+Does it go?	-0.5445484279480588
+Would it not hydrolyze it?	-0.6069124270645929
+Can you get?	-0.6265671106864277
+Who would this be?	-0.6343673994142394
+Have I not even told you all the things?	-0.6693951465723498
+Do I say ``you,'' I mean a cell here-- a cell that made a lot of growth factor that came back and activated itself?	-0.8598734260019472

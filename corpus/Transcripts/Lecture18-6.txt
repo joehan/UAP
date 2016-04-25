@@ -1,0 +1,31 @@
+ERIC LANDER: All right, number one, sequencing the second human genome. That which I described to you was the first human genome. To sequence a second human genome, you didn't have to do any of it, because what would happen is once you had one reference sequence from person number one, when I now have person number two, we'll have you be person number two here. I get DNA from you, and I'm just going to make a library and I'm going to sequence the first clone. 
+
+Where does it map in the genome? I don't have to do all this crazy stuff. I look up the sequence from that clone and I do a string search, and I say, oh, the first clone I sequenced from your genome? That matches right over here. Very good. Second clone from your genome, aha, that matches right over here. And I can just lay the new sequences on top of the old sequence. 
+
+The second genome is easy because I have a whole scaffold there. I have the whole reference, and so I can begin laying read upon read. Each of these as an individual sequencing group, and I just lay it on your genome. So to get genome number two, I just lay it against genome number one, and then I collapse it down, and I now have it. Piece of cake. Much easier. 
+
+How do I now find polymorphisms in you relative to sequence number one? Pretty easy. I sequence you, I got a clone, I look it up, and I say, oh, it maps right over here, but one letter is different. That's all I do. See, it turns out it matches, but you see, here was an A in person number one, and it's a G in you. We've just collected a polymorphism. 
+
+And that's how you collect polymorphisms today. You don't have to do any of this horrible stuff. You just collect polymorphisms. We now on the order of 20 million human polymorphisms because as we just sequence people, we map the reads and we look and look for differences. And you have to worry about quality and all that kind of stuff, but quality control gets done. So that's pretty good. 
+
+Second point. How do we test those polymorphisms in a disease family? I told you we had all these horrible methods with making things radioactive and looking for differences in restriction fragments, or PCR, and yes, a question? 
+
+STUDENT: Can you just compare [INAUDIBLE] that polymorphisms that occurred only in individuals with the disease or not? 
+
+ERIC LANDER: I could, but I might have to sequence their whole genome to do that. It turns out I want to do it without even having to sequence your genome, so I'll give you a really cute trick. Here's a cute trick. Imagine that I gave you a piece of glass, and on this piece of glass, I had two little zones, one zone and another zone. And in this zone, I put DNA pieces of, say, 25 bases long that corresponded to one particular spot in the genome, and in fact, the spelling that has the A. And right next to it, suppose I put a bunch of pieces, 25 bases long that corresponds to this sequence, and instead, it has the G. That's it. So I'm going to make a little square, and I'm going to put some DNA matching one spelling, and some DNA matching the other spelling with the one letter difference. 
+
+Now, I take your DNA, easy to get your DNA. I'll put some fluorescent label on your DNA, and I'm going to wash it over this glass slide. If you happen to have the G allele, your DNA will stick here because it'll hybridize pretty well, but if you don't have the G allele, having that G in the middle on a smallish piece of DNA will be enough to make it not stick so well. 
+
+If you have the A allele, your DNA will stick there. So if you're a heterozygote, we'll see fluorescence in both spots because your DNA will stick to both of those alternative spellings. But what if you're homozygous for G? I'll only see fluorescence in this spot. And if I'm homozygous for A, I'll only see fluorescence in that spot. 
+
+So I have to actually go to the trouble of making a glass slide that has a 25 base sequence with a polymorphic base right in the middle, but then if I do that, I wash your DNA over it, and I can see which spots you stick to. That sounds like a lot of work. But the cool thing is I could actually put more than two spots there. I could put four spots and do two at a time. I could do 10 spots and do five at a time, five different polymorphisms simultaneously. 
+
+And in fact, if I don't made those pieces of DNA not by spotting them there but by building them in situ, building them right on the glass slide, the way people make microprocessors by photolithography and they build layers on microprocessors, you can do that with chemistry. You can build DNA in situ, and I can build that 25-mer anyplace I want to on the glass slide using photolithography. So I can put more than 10, more than 100. Turns out I can put four million spots. 
+
+I brought one. Right in there, the little window, is more than enough real estate on this glass to be able to genotype two million polymorphisms simultaneously. That's what we do today. So if you wanted to map a genetic disease, you would get DNA from different people in the family. From each person in the family, you would label the DNA with your fluorescent label, and you'd squirt it into the hole in the back, swish it around, put it under a scanner. You could do hundreds of these in a day. 
+
+So if you already had all the people, you could map a genetic disease in a week. And because you had millions of markers, you could map it to pretty high precision. You would then look up on the sequence where the genetic markers are that show no recombination, and you would know what the genes likely were in the neighborhood. You'd then re-sequence those. 
+
+So with that, we've gone from unbelievably painful work to isolate genes to using something like one to two million genetic markers per genotyping chip. And doing this in lots of people, we, meaning the whole world, has been able to go from mapping cystic fibrosis and Huntington's disease to now mapping something like 3,500 million diseases. 
+
+So as you see, the Human Genome Project was cool, but what's happened in the past decade is even cooler. Answer this question about the improvements in human genetic mapping technology. 

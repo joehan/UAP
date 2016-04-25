@@ -1,0 +1,109 @@
+PROFESSOR: I said, all right. As the trial-- and actually, it wasn't even a trial yet. It was a pre-trial hearing, where the judge was going to determine whether the DNA evidence was admissible into court. So I said, OK. During the pre-trial hearing, no jury there. The judge is going to take testimony about whether the DNA evidence is any good. 
+
+You can send me the daily transcripts each day. And we'll talk about it. And see if the evidence appears to be any good. And I'll walk you through some of the stuff. I had no idea what I was getting involved in. 
+
+We began to listen to the witnesses for the testing lab come. Actually, the first witness was a friend of mine. It was a guy called Rich Roberts, who-- you will recall, RNAs are spliced? Rich shared the Nobel Prize for RNA splicing, together with Phil Sharp here at MIT. So, a smart guy. 
+
+At the time, he had not yet gotten his Nobel Prize. But it was pretty clear he was a smart guy. And Rich was the first witness. And he just testified as a matter of science in general, that DNA fingerprinting made a lot of sense. It was good in theory. But he hadn't looked at any of the evidence. So all right. 
+
+The testing lab then begins to testify. And it gets really bizarre. I'll show you what happens with standards and things. You have an incredibly powerful technology. We know DNA is so powerful. This was presented as evidence, that these two bands-- the watch and the deceased mother, W and M here-- matched. 
+
+You will notice, even though this is a rather crummy picture, that's really what it was. But it's not obvious that this isn't the band. And maybe that's a band, that's a band. Who knows what's going on here? How do you know? Now there's something here, and sort of something here, and something here. 
+
+What they declared was these are the real bands. And everything else you see here is contamination. And essentially, when you ask them, how do you know it's contamination? They said, because it doesn't match. Well, actually, there was a lot of that in the case. 
+
+Because basically, if you line them up and things matched, those were right. And the things that didn't match were wrong. So when they were pressed on this point-- which, I think you, after some careful consideration, think is laughable-- they said, well, but take a look. You see, at this particular locus, we've seen this thing a lot. And the patterns of intensities aren't right. 
+
+You see normally, they'd be going down uniformly in a certain way. And they're not going down in the right pattern of intensity. So we know those bands can't be correct. With respect, they were just making this up on the witness stand. Because, as it happened, we had colleagues here at MIT who use this exact probe on human DNA and had a whole lot of such X-ray films. And they showed no such pattern of intensities. 
+
+So I called one of my colleagues here and said, will you fly down to New York and bring a Southern blot from this particular locus. And he did. He brought a bunch of them. In fact, we even noticed that the scientific paper that the testing lab had cited had a Southern blot from this locus. And it didn't show the pattern that they were talking about. So it was complete-- I won't say. 
+
+There was another great example. I'll show it to you here. Here's the matching bands. Well, they're matching because clearly one lane ran a little faster than the other. That happens sometimes. It happens that if the salt concentrations aren't quite right, one lane would run faster than the other. And it's pretty clear-- they said-- that these are the same thing. 
+
+Now, they actually had a precise numerical standard in the lab manual. The precise numerical standard was, they knew what the standard deviation was of the measurement. And to declare a match, things had to be within three standard deviations. Well, these were actually about six standard deviations apart. 
+
+So it emerged, after a while, that they never actually calculated the number of standard deviations. They did it by eye. Oh well. It went on and on. The most fun was the following. 
+
+This was what happened when you took that same DNA Southern blot, here's the Southern blot-- and you probe it with a radioactive probe for the Y chromosome. Now, if you have a male, you will get a band right here for the Y chromosome. Acutally, I'm going to move that down. I think you're going to get the band about here for the Y chromosome. 
+
+They had the mother's DNA. And they had the watch DNA. And they had the fetus. When they probed for the Y chromosome, what do you think they saw in the mother's DNA? Nothing. In the daughter's DNA? Nothing. On the watch? Nothing. And they declared a match. 
+
+Because there was nothing in any of the lanes and that was matching. Now, I know you guys haven't done that much molecular biology. But what might you want to know that the experiment had actually worked? A control. A male control. 
+
+Where would you put your control? You'd put your control over here. And you'd want to see a band there. And they did have a lane labeled control. And it had nothing. So they were asked, you declared a match because you saw nothing in all three lanes. But there's nothing in the control. 
+
+And they said, oh. We use a cervical cancer cell line called HeLa cells. Some of you may have even seen the book on HeLa cells. And HeLa cells are from a woman, Henrietta Lacks. And most importantly for this purpose, she's a woman, and not a great choice for a control. So that was kind of weird. The lab director said they used female cells in the control lane. 
+
+So anyway, it turns out his technician, who actually did the experiment, took the witness stand two or three weeks later. And since there had been so much questioning going on, they hadn't talked about this. And the lawyers asked them, why did you use these female HeLa cells? And the technician said, HeLa cells? 
+
+We don't use HeLa cells. He said, I use DNA from my benchmate in the lab, a guy called Arthur Eisenberg. So now, it was a male control. But there was no band there. So a few weeks later, the laboratory director took the witness stand. And they said, you know, it turned out it wasn't HeLa cells at all. It was from Arthur Eisenberg. And why doesn't he have a band? 
+
+And the lab director said, oh. It turns out Arthur has a strange genetic condition where he's deleted for that portion of the Y chromosome. He's a mutant for that portion of the Y chromosome. 
+
+[LAUGHTER] 
+
+So then we got David Page, here at MIT, who studies the Y chromosome, to fly down and to testify that occasionally such deletions are known. But they are associated with medical conditions, including complete sterility and other things like that. At that point, the lab director wasn't so happy with his answer that it was Arthur Eisenberg, but he was a mutant. 
+
+And so he came back and testified some weeks later that it wasn't actually Arthur Eisenberg at all. They had indeed used DNA from somebody in the lab. But they weren't sure who. And so they got everybody in the lab. And they got DNA samples from everybody in the lab. And they did DNA fingerprinting to figure out who the control had been for DNA fingerprinting. 
+
+And it turned out to be a woman named Ellie Meade, who again, was a woman, and therefore not a very good male control. So by this point, you would imagine that one would have less than complete confidence in what was going on here. Basically, when there were patterns if there were things that matched, they were declared matches. 
+
+If there were things that didn't match, they were declared contamination. If there were things that were a little bit off, they were said to be well within our margin of error, although we didn't actually measure it. When they actually started calculating the statistics, what they needed to do was say, how shocking would it be to find the match? 
+
+Well, you would have to know how often. So what they did was, for example, they would say, how often do we see bands in this precise area? And they looked at hundreds and hundreds of people. And they knew how often they saw bands in this precise area. But what they did was they chopped this up into so many little slices. 
+
+And they counted how many bands were within each little slice. But when they matched up bands, they included wide ranges. So in fact, the probability of a band of being there might be 1%. But anything that was counting as matching might be 5 or 10 times bigger. And so it wasn't 1%. 
+
+So they did in fact report that the probability of a match at all these loci was 1 in 738-- million, billion, trillion-- 1 in 738 trillion. But it was by virtue of playing a little funny with the statistics. They figured out that the probability of each band was extremely low. But then the matching windows were very large. 
+
+And there were a few other things having to do with population genetics. Because they assumed that all of the genotypes and all of the loci were independent of each other, which is a reasonable assumption in a completely homogeneously mating population. But at that point, nobody had actually proven that any of that was true for the human population. 
+
+So multiplying all these numbers until you get some absurdly low number was a little strange. Anyway, that was the situation. I glossed over the fact, at some point, I got a little radicalized about this. I came down, and I gave of six days of testimony. My colleague, David Page, gave testimony. 
+
+We got the guy who made one of the probes to come. He was dropping in from Scotland, going to a meeting. We said, you got a couple hours? Want to come testify? So he testified. We found the person who had actually reviewed their population genetics paper. And she testified. Pretty much, it was really interesting. 
+
+So then as I'll tell you, the prosecutor-- this actually went on for 15 weeks, this pretrial hearing. It's rather long for a pretrial hearing. The prosecutor went to the Caribbean on vacation. And during that week, I ended up meeting Rich Roberts, the guy who would later win the Nobel Prize for splicing. And I saw Rich. And I said, Rich, did you ever look at the evidence? 
+
+And he said, no, I was talking about DNA in general. So we pulled out the data. And scientist to scientist, we sat down. We  looked at the data. And Rich agreed. It was terrible. He wouldn't even do it in his own lab, let alone convicting somebody of a crime. 
+
+And so Rich called up all the scientists who had testified for the prosecution. And I called all the scientists who had testified for the defense. And we got an office in Manhattan for a day. And we all met and went over the data. We hadn't mentioned this to the court or anything like that. We all just met and went over the data. 
+
+And at the end of the day, everybody agreed. The evidence was terrible. And we wrote up a joint statement saying this evidence was useless, and that the National Academy should set standards, and things like that. We went back to court and brought this for the judge, which I'm told is unusual. This isn't the way it's supposed to usually work. 
+
+And as it happened, the prosecutor came back from vacation and found that all of her witnesses had changed sides. But she kept going for another couple of weeks. Because that was her duty. Her job was-- she was very good. Her job was to do that. And then the whole thing rested. And the only people left standing on the other side was this testing lab, LIFECODES. 
+
+Anyway, long story short, the judge took a month to write an opinion. And his opinion said the DNA fingerprinting is, in principle, an extraordinarily powerful technology. And in practice, in this particular case, was practiced below the scientific standard that was necessary. 
+
+So it turned out a whole bunch of us just got involved in this thing. And it was not that there was anything wrong with DNA fingerprinting. It was that, in order to use a powerful scientific technology, you better use it right. Because you're going to make powerful statements. You're going to make statements-- one in a million, or one in a billion-- and you can't play fast and loose with it. 
+
+So anyway, long story short, this ended up going to-- the case went to trial, by the way. The janitor-- the DNA evidence was not used at the trial. But the janitor plead guilty. Because there was tons of other evidence saying that he was, in fact, guilty of the murder. 
+
+So I actually felt really good that this was only a pretrial hearing. It wasn't a question of getting him convicted or acquitted. It was a question of whether this piece of evidence was adequate for admission. Which it clearly wasn't, even though the guy was guilty. And he plead guilty. And that's great. 
+
+The National Academy set up a committee to review DNA fingerprinting standards. I actually ended up serving on that committee. The FBI supported the idea of there being a committee. Because at this point, the FBI, who were pretty sensible folks said, we'd rather have a good technology. And it led to better and better and better DNA fingerprinting technologies. 
+
+As I will also mention, the two lawyers in the case-- their names are Peter Neufeld and Barry Scheck who would convince me to do this-- went on from this to do several other things. One is, they went on to defend OJ Simpson, trying to argue that the DNA evidence was no good. But after a while, they began to realize, the DNA evidence was getting better and better. 
+
+And it could actually be used to go back and look at past cases and look for injustices. And they created something you might even have heard of, called the Innocence Project. So they created this project where they went back to people who claimed they were innocent, and where there was a plausible case that they might be innocent, and where there were materials. And you could actually go back and look. 
+
+And the Innocence Project has led to now the exoneration of more than 300 people, including 17 people on death row who were found to be absolutely innocent. Because, when you could use molecular biology to look at evidence that had not been analyzed by molecular biology, you could find this person didn't commit the rape, or this bloody shirt wasn't the bloody shirt-- wasn't the blood from the person you thought it was. 
+
+They're really stunning situations, I mean truly stunning situations. I'll tell you one of them. William Dillon, who received a life sentence for first degree murder of a guy who was found beaten in the woods. And I'll shorten many of the details here. But basically the victim was murdered. 
+
+This guy, William Dillon, was-- sorry. Someone picked up a hitchhiker wearing a yellow shirt, with some blood on the shirt, and dropped off the hitchhiker. The yellow shirt was later found. This guy, William Dillon, was picked up by the police. And for complicated reasons, they thought he might have done it. 
+
+And well, they did things like, they got a guy who had a dog. And the dog sniffed the shirt and sniffed the guy. And the dog said, that's the guy. 
+
+]LAUGHTER] 
+
+I'm serious. They also got the driver who had picked up the hitchhiker, who said, yeah, that's the guy. They got a former girlfriend of William Dillon who said that he had confessed to her. And while he was in jail, they got a jailhouse snitch, who was in the same cell who said, he told me in the cell he did it. 
+
+Well, you laugh. But he was sentenced to life in prison on all of this. Within a couple weeks, the girlfriend recanted her testimony. She backed off her testimony. And someone else, actually, who was in prison said he had committed the crimes. But that was too late. It wasn't admissible. And his lawyer wasn't that good, and all that. 
+
+Anyway, long story short-- some years later, actually, many years later, 2007, for a situation that occurred in 1981. So from 1981 when this crime happened to 2007-- in 2007, DNA testing was performed on the yellow shirt. And it was clearly not his. There was DNA from another person there. And it was not his. 
+
+And he was exonerated and let out. What's been striking about this, and what's so interesting about the power now of DNA fingerprinting, is because, although I told you a story of where DNA fingerprinting was just terrible, DNA fingerprinting has become pretty good. 
+
+In fact, now, people can practice it really well. Because standards were set. And what it's done is it has allowed us to know what all the other problems are in the criminal justice system. 
+
+Now before you go on, take a moment and describe what the Innocence Project is, and how what you've learned in this course helps you understand what they do. 

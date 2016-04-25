@@ -1,0 +1,207 @@
+ERIC S. LANDER: All right, you're all engineers. I need something that will come along to a particular DNA sequence and cut it at that DNA sequence. Pick some sequence of letters. I want you be able to cut the DNA there. 
+
+How would you go to the engineering department and design something to cut DNA at a particular location? Any takers? 
+
+STUDENT: Scissors? 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: Scissors? 
+
+ERIC S. LANDER: Scissors, very small scissors, right? Because the scissors have to break a sugar phosphate backbone. So they're going to be very little. Yes? 
+
+That would be nice. You need something that matches up with the bases-- and somehow, if you could get something that could recognize the bases-- what would be good at recognizing bases? 
+
+STUDENT: Like an enzyme or something. 
+
+ERIC S. LANDER: Maybe there's an enzyme. So what you should do is design an enzyme. You go off to the engineering department and say, design me an enzyme, please, that will cut at this particular sequence, hey. 
+
+And so that's what you do. And the engineering department would say, I have no idea how I would make an enzyme that recognizes this particular sequence in cuts there. 
+
+They would say, go ask an expert. So that's what you do. You go ask an expert. Who's the expert? 
+
+STUDENTS: You. 
+
+ERIC S. LANDER: I'm not the expert. The expert is bacteria. Bacteria have been at life for much longer than we have. 
+
+It turns out not just that they actually evolved earlier. But remember, the generation time of bacteria, 20 minutes, if we're talking about the E. coli bacteria. The generation time of most of you, 20, 25 years, something like that. They've had a lot more generations. 
+
+Anything you want to know, you sit at the feet of bacteria, and you ask. Now, bacteria don't actually have feet, but that's another question, OK? So you sit at the feet of bacteria, and you ask. 
+
+And it turns out that bacteria have exactly what you want. Bacteria have a protein that can recognize a specific sequence and cut at the specific sequence. Pretty cool. 
+
+The enzyme we're talking about is called a restriction enzyme. And we'll see why in a minute. If I had a sequence-- let's see, five prime A-G-C-T-A-G-A-A-T-T-C-T-T-A-C-C three prime. 
+
+Going back in the opposite direction, what are we going to have? We're going to have a G-G-T-A-A-G-A-A-T-T-C-T-A-G-C-T three prime. That will be the sequence. 
+
+It turns out that E. coli has an enzyme that will recognize this sequence, G-A-A-T-T-C. What is it on the other strand? G-A-A-T-T-C. That's kind of cool. It's a palindrome. 
+
+It's not exactly an accident that it's a palindrome, because the enzyme is a dimer and, therefore, it recognizes it in both directions. Anyway, it recognizes this palindromic sequence. Actually, it's a reverse palindrome. It's in opposite strands, it's a palindrome. This is the recognition sequence. 
+
+And what the enzyme will do is the enzyme will cut the sugar phosphate backbone here and, because it's symmetric, here. 
+
+And what you will get are two fragments of DNA, A-G-C-T-A-G, T-C-G-A-T-C-T-T-A-A, and A-A-T-T. You'll get two pieces, five prime, three prime. And you'll have a hydroxyl group here. You have the little phosphate group here, five prime. You have your phosphate group here and the hydroxyl there. That cuts it very nicely. This enzyme is in E. coli. 
+
+It was found in E. coli strain R. It was the first restriction enzyme found in E. coli strain R. And therefore, this very friendly enzyme that cuts and does this is called Eco-- E. coli-- R I. That's the name of this enzyme. E. coli is the bacteria strain R number I. 
+
+STUDENT: Why is it named that? 
+
+ERIC S. LANDER: The naming is pretty straightforward. We could make the naming more complicated, if you'd like. But the names actually make sense. What doesn't make sense is one E. coli has this enzyme. One hypothesis, E. coli evolved this enzyme over the course of 3 billion years so that when molecular biologists got to the point that they needed to be able to cut and paste DNA, it would be there. 
+
+STUDENT: I like that one. 
+
+ERIC S. LANDER: It's a nice hypothesis, but I don't think it's very convincing. 
+
+STUDENT: Why not? 
+
+ERIC S. LANDER: Horizontal transfer from what? Why? 
+
+STUDENT: Well, E. coli's got a-- equalized in a way to share energy, you know, to-- 
+
+ERIC S. LANDER: Yeah, but cutting up DNA. Why does E. coli have an enzyme that cuts DNA? What's the advantage? 
+
+STUDENT: Circular? 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: It has circular? 
+
+ERIC S. LANDER: It has circular DNA. 
+
+STUDENT: It wants to unwind, unfold it? 
+
+ERIC S. LANDER: Well, yeah, maybe it's good for the E. coli. It cuts open its DNA. If you ask me, having your DNA a in a big circle and then having an enzyme that goes cutting it up seems dangerous. Yes? 
+
+STUDENT: What if you have viruses or bad DNA that you want to take out-- 
+
+ERIC S. LANDER: --oh-- 
+
+STUDENT: --so they, what do you call it-- 
+
+ERIC S. LANDER: --oh. What if E. coli is worried about getting infected by a virus and this is actually a defense mechanism? What if it's kind of an immune system, so to speak? Pretty clever. Viruses have been attacking bacteria for a long time. Bacteria are no fools. They evolve ways to fight back. And a DNA cutting enzyme is an answer. 
+
+So why have restriction enzymes? It's a defense mechanism. It's a defense mechanism that what it does is it restricts the ability of-- restricts viruses from growing. That's where the name restriction enzyme comes from, is they restrict the ability of viruses to grow in that E. coli cell. 
+
+Because when the virus comes into that E. coli cell-- here we go. Here's our E. coli cell. This virus attaches itself to the surface here. It shoots in some viral DNA. And our enzyme comes along, our restriction enzyme, looks for this site, G-A-A-T-T-C. 
+
+How often should you find a G-A-A-T-T-C site? Let's see. What's the probability of a G? 
+
+STUDENTS: 1/4. 
+
+ERIC S. LANDER: One in four, if the bases were all equally likely. So a G is a one in four, times an A, times an A, times a T, times a T, times a C. It should be 4 times 4 times 4 times 4 times [MUMBLE]. It should be one in four to the sixth. Four to the sixth is about 4,000. We'd expect one every 4,000 bases. Most viruses will have such a site. Bingo. It cuts up that virus' DNA, and it's pretty smug about it. 
+
+Any problem with this idea? Yes? 
+
+STUDENT: What if they cut their own? 
+
+ERIC S. LANDER: Uh, oh. 
+
+STUDENT: [INAUDIBLE]? 
+
+ERIC S. LANDER: So E. coli-- wait, wait, wait, wait. So E. coli has a genome that's sort of more on the order of 4 million bases. 
+
+STUDENT: Just cut in a few pieces. 
+
+ERIC S. LANDER: And so if our enzyme comes along and cuts the E. coli DNA, it'll cut it at a 1,000 locations. Maybe E. coli evolves so it doesn't have any of those G-A-A-T-T-C sites by the ones that didn't have it. Doesn't sound so plausible. Any other suggestions? 
+
+STUDENT: They have another mechanism, and they don't cut their own DNA? 
+
+ERIC S. LANDER: Bingo. They have another mechanism, so they don't cut their own DNA. 
+
+STUDENT: Safety scissors. 
+
+ERIC S. LANDER: Safety scissors, no, it's not safety scissors. It turns out that when you have-- let's go take a look at this here-- when you have G-A-A-T-T-C when you have this site, what happens is there is a second enzyme that comes along. And the second enzyme-- this one was a restriction enzyme-- this second enzyme-- we'll put an enzyme here-- and we'll put our other restriction enzyme here-- this enzyme adds a methyl group. It sticks on an extra methyl group at that position. 
+
+What it does is right over here it'll add a methyl group. This enzyme, this green enzyme, is called a methylase. So there's a restriction enzyme here. And there's a methylase with a matching sequence. So E. coli first protects all of its own EcoRI sites-- we'll call this G-A-A-T-T-C, an EcoRI site. All of its own chromosomal EcoRI sites are protected by the methylase. 
+
+The enzyme, the restriction enzyme, won't cut, won't match, won't recognize, if there's that methyl group there. Pretty clever. Restriction, methylation pairs. And the critical thing is the bacteria has an enzyme. It cuts at the sequence. The bacteria has an enzyme that methylates at that sequence. It protects its own DNA by the methylation getting there. And when the virus comes in, the restriction enzyme just gets there first. That's it. Very simple. 
+
+By the way, when the bacteria replicates its DNA, and it makes a new strand of DNA, will there be methyl groups on both sides? There will only be methyl groups on one side. But it turns out that's enough. Methyl groups on one side are enough to protect and, therefore, it helps the chromosome. 
+
+As long as the chromosome was fully methylated, then when it starts replicating, it's now only half methylated on the old strand but not the new strand. That's enough protection. And the restriction enzyme won't cut. And the methylase has time to get there and tidy it up and put the other methyl group on. It's actually really clever. Bacteria are a lot smarter than we are. OK. 
+
+So, now, this is not the only restriction enzyme. It turns out there a lot of restriction enzymes. There are restriction enzymes, for example, of all varieties. EcoRI cuts at G-A-A-T-T-C. This guy here, BamHI cuts at G-G-A-T-C-C. 
+
+Different strain of bacteria makes a different enzyme, cuts in a different way. This guy here-- this is called BamHI. BglII is what we call this guy. BglII cuts at A-G-A-T-C-T. You know, BclI cuts at this sequence. 
+
+Well, look at that. TaaI, actually, instead of making a staggered cut like that makes a cut like that. Eco53kI cuts right down the middle with no staggered anything, just smack down the middle, et cetera, et cetera. 
+
+It's amazing. There are enzymes, bacteria have come up with all sorts of enzymes that cut at all sorts of sequences in their wars against viruses. Virtually everything that can be done gets done. 
+
+Bacteria come up with solutions of all sorts. There are staggered cuts this way with a five prime end overhanging, staggered cuts that way with a three prime end overhanging, cuts in the middle. There are sequences. Usually they're palindromes. They're not always palindromes. 
+
+Sometimes a couple of the bases in the middle don't matter. Sometimes they cut at four-base sequences. Sometimes it's six-base sequences. Some at eight-base sequences. There are some that cut at five-base sequences. They have had a long time to work this out. Yes? 
+
+Now, how do you get a restriction enzyme? Well, of course, it's biochemistry. You're going to take the E. coli strain that has this restriction enzyme. You're going to grow up a lot of that strain. You're going to add the cells to liquid. They'll grow and divide. You'll grind them up, and you'll purify this enzyme. 
+
+And you have an assay. It'll cut this sequence. So you hand it to DNA. You purify out proteins. You see which fraction is able to cut. And then, that's how people got EcoRI. And in old times, ancient days, with ancient scientists, in the 1980s, for example, wanted EcoRI, they would have to grow up a bunch E. coli and purify EcoRI. 
+
+And if they wanted BamHI, they'd gave to grow up the appropriate bacteria. And they would have to purify it. Nowadays, that doesn't have to happen. If you want EcoRI, where do you go? You go to the catalog. So there's a catalog. 
+
+And in the catalog, they have restriction enzymes, all sorts of restriction enzymes. Let's see what we got here. Oh, my. Let's see. Aah. EcoRI, right there, EcoRI. Let's see, what is it going for? You know, it's 10,000 units for $53. That's pretty good. We got Bams. 
+
+And we got-- oh, look at this-- I mean, there's just pages and pages and pages of restriction enzymes. And if you have a credit card, and you order before midnight tonight, you can get EcoRI or BamHI, or there's probably a discount on PstI, or whatever. And that's what molecular biologists do now is if they need a particular restriction enzyme, it's in the catalog. OK. 
+
+It's, of course, really online. You don't even need the catalog. You can just go online and order a restriction enzyme. 
+
+OK. Now, that was cut. What about paste? Yes, please? 
+
+STUDENT: Couldn't I collect species of bacteria of a different-- 
+
+ERIC S. LANDER: --no. Most species have one or maybe two. They don't have thousands. And they all just have different restriction enzymes. I mean, it's a garden of wonderful, different tools from the molecular biologist. And some companies, like New England Biolabs, go out and purify new strains and identify new restriction enzymes all the time. Yes? 
+
+STUDENT: Why do we use enzymes or use the catalog then? 
+
+ERIC S. LANDER: Well, what if I want to cut at this sequence, or that sequence, or this sequence? Depending on where I want to make a cut, I have a lot of choices. 
+
+STUDENT: Aah. 
+
+ERIC S. LANDER: Absolutely. But now, having cut DNA up, I want to paste DNA. So now I got to take pieces of DNA, and I want to paste them together. So remember, we had our-- I'm just going to simplify our sequence now, so it looked like this-- and we had a GAATTC. So that means on this strand, it'll be a TTAA. And we're going to have a five prime phosphate here. And we'll have our little hydroxyl there. 
+
+And we've got another piece of DNA that matches it, AATT. And it's got a little phosphate there and a little hydroxyl there. And it might be that these were matching pieces that came from here. But it could equally well be that this is a piece of E. coli DNA, and that's a piece of zebra DNA. Why not? 
+
+So we have to go to the catalog. We have to go to the engineering department and say, can you please make me an enzyme that can paste together DNA, that can catalyze the reaction of rejoining the sugar phosphate backbone. 
+
+What'll happen is if I add these pieces of E. coli DNA and zebra DNA, they'll hybridize to each other by Crick-Watson base pairing. They'll land on top of each other by Crick-Watson base pairing. But that's hydrogen bonding. 
+
+They aren't covalently bonded to each other yet. We need to come along, and we want to connect up covalent bonds along the sugar phosphate backbone. And we're going to want us an enzyme to do that. 
+
+So we go to the engineering department. We say, please make an enzyme that'll take these pieces of DNA. And the engineering department says, I don't know how to do that. And they say, go ask an expert. And who do we ask? 
+
+STUDENTS: Bacteria. 
+
+ERIC S. LANDER: Bacteria. Question? 
+
+STUDENT: Doesn't DNA ligase do this? 
+
+STUDENT: Yeah. 
+
+ERIC S. LANDER: Well, as it happens, we have heard about an enzyme that does this. And that enzyme is-- 
+
+STUDENT: --DNA ligase? 
+
+ERIC S. LANDER: DNA ligase. Why do we have DNA ligase? 
+
+STUDENT: Lagging strands. 
+
+ERIC S. LANDER: We got to rejoin these lagging strands of DNA during replication. Bingo. We actually have an enzyme. Very good. DNA ligase, which we encountered when we talked about DNA replication, now turns out not to be just an interesting fact about DNA replication. It turns out to be a tool for molecular biology. Because we can use DNA ligase ourselves. 
+
+And of course, how do you get DNA ligase? You grow up a lot of bacteria. You grind it up. And you purify DNA ligase. At least that's what the ancient scientists did in the 1980s. But today, where do you get DNA ligase? 
+
+STUDENTS: Catalog. 
+
+ERIC S. LANDER: It's in the catalog. So you get it out of the catalog. And you have DNA ligase. And you can ligate together anything with anything. Yes? 
+
+STUDENT: Are there no problems with, you know, joining zebra DNA and E. coli DNA? 
+
+ERIC S. LANDER: Are we talking about technical problems in joining zebra DNA and E. coli DNA, ethical problems in joining zebra DNA? Elaborate on what kind of problems we have here. As a matter of chemistry, of rejoining a sugar phosphate chain, it's not problematic at all. 
+
+But if you handed ligase from E. coli, it will join fragments from E. coli, it'll join fragments from zebras, it'll join fragments from giraffes to zebras. It's an enzyme. These are pieces of DNA. It doesn't care where the fragments came from. 
+
+STUDENT: But you don't end up with, like, a weird mutant of some kind? 
+
+ERIC S. LANDER: Well, I don't have anything. I don't have a mutant yet. I just have pieces of DNA in a test tube. Remember, when I take pieces of DNA, and I've cut them, and then I paste them back together in some order, they're just pieces of DNA in a test tube. They're not yet a mutant. A mutant is an organism. This is just a piece of recombinant DNA, recombinant DNA, because I've recombined it in some new fashion. 
+
+So this would be, when it's joined up, a piece of recombinant DNA. Now, you know, you can talk about what we might do with that piece of recombinant DNA, put it in an organism. But at the moment, it's just a DNA strand. And the truth is you can't tell the difference from any other kind of DNA strand unless you happen to know that this sequence was from the zebra and this sequence was from E. coli. 
+
+All right, stop for a second, and test your understanding about the cutting and pasting of DNA. 

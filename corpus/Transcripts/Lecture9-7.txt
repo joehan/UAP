@@ -1,0 +1,35 @@
+PROFESSOR: Section six. Characterizing your Mutant: Tests of Epistasis. 
+
+What is that? Well, let's begin to think about the biochemical pathway for synthesizing arginine to help us think about this kind of a test. We're going to produce arginine by some kind of a biochemical pathway, some precursor's substance. I'm not going to write its molecular structure because we don't know what it is in this case. So I'll just call it alpha. Some alpha is transformed into some beta, is transformed into some gamma, is transformed into arginine. Or maybe it's a much longer pathway, but I'll just pick alpha goes to beta goes to gamma goes to arginine. And the enzymes that catalyze these reactions could be A, and B, and C. OK? 
+
+One thing, if a biochemist thought he knew what that biochemical pathway was, he could begin to think, hmm, if I had a yeast that can't make its own arginine and it was due to a defect in that gene, how might I rescue it? If I gave it arginine, that would rescue it, but-- 
+
+STUDENT: Give it beta. 
+
+PROFESSOR: I could give it beta and it might rescue it. If I thought I knew what the pathway was-- alpha goes to beta goes to gamma goes to arginine-- maybe I could give it a supplementive beta, and it would rescue it. But what if the defect was in enzyme B? Would giving it beta work? But gamma would work? And what if it was in enzyme C? Alpha, beta, and gamma would not work. So I could, for example, imagine that I had mutations in Arg enzyme A, or Arg enzyme B, or Arg enzyme C, and I can test whether these can grow with giving them alpha, giving them beta, giving them gamma, or giving them arginine. If my mutation was in ArgA, would it grow if I gave it a lot of alpha? No. But would it grow if I gave it beta? Yeah, because I'm downstream of that defect. Would it grow with gamma? Would it grow with arginine? Bingo. 
+
+Suppose the mutation was in ArgB, that gene there. Would it grow if I gave it alpha? Beta? Gamma? Arginine? Suppose it was an ArgC, would it grow if I gave it alpha? No. No. No. Plus. If I knew my biochemical pathway, I can sort of-- and I don't know how I know it, but maybe I'm a smart biochemist or I had a guess. I can see if I can match up the genetics to it. Pretty cool. 
+
+Now, suppose I had-- and here I'm going to pick either haploids or homozygotes for my mutations here. I'm going to ensure that they're either haploid or homozygotes. What about double mutants? Suppose I had a double mutant, and it's homozygous, homozygous double mutant. And it was a ArgA, ArgB, double mutant. It lacks both of those enzymes. 
+
+Could it grow on given alpha? No. Could it grow given beta? No. Could it grow given gamma? Yes. Could it grow given arginine? 
+
+STUDENT: Yes. 
+
+PROFESSOR: What does it end up looking like? It actually just looks the same as ArgB, same pattern. 
+
+Suppose I made an ArgA, ArgC homozygous double mutant. It lacks both of those enzymes. Can it grow with alpha? Beta? Gamma? Arg? It looks the same as ArgC. The phenotype of this double mutant is the same as the phenotype of ArgC. The phenotype of ArgC stands upon the phenotype of ArgA. I don't want to use the word dominates it, because we use the word dominant for something else, of course. But it stands upon, it obscures the phenotype of a. It looks just like the phenotype of the later enzyme in the pathway. 
+
+What's the word for to stand upon? Epi means on top of. Stasis mean standing. These are tests of epistasis. When you combine them, does the phenotype of B stand upon A or A stand upon B? Does it look like a B, or does it look like an A? It looks like a B. It looks like the later step in the biochemical pathway. When you combine A and C, does it look like an A? Does it look like a C? It looks like the later step in the biochemical pathway. 
+
+I could actually tell by crossing together my mutants and making double mutants the order of the steps in the pathway. I could also take mutants that effect developmental processes, where I don't even know the biochemistry, and they have slightly different effects in that developmental process. And I combine them and I ask which is the later defect. And I can order things in a pathway based solely upon which phenotype is epistatic to-- which is the phenotype you see versus the other when you combine these two. 
+
+And so geneticists love this kind of stuff. They love to figure out how much you can learn just by looking at mutants. Mutants will tell you, is this recessive or dominant. It's telling you about the amount of the enzyme needed in the biochemistry. It'll tell you, are they in different genes just by crossing them together. It'll tell you about ordering steps and pathways, often. It's amazing what you can learn just by crossing together mutants. 
+
+Now, you're going to collect your 50 mutants, you're going to organize them to the 17 genes. You're now going to have 17 genes to study. You can think about them in terms of epistatic pathways. You can think about them as sort of biochemistry, what can rescue them. You begin to put these pieces together. This is the legacy of what Beadle and Tatum did when they went to the lab and they started just doing the mutant hunt. 
+
+For their troubles, Beadle and Tatum received the Nobel prize. It was pretty cool. When they go to Sweden, they give a Nobel address, and in the Nobel address-- I think it's fair to say when you win the Nobel prize you can kind of be very generous and magnanimous and all that-- they note in their Nobel address from which I will read from Tatum's-- from Beadle's Nobel address, "In this long, roundabout way, first in Drosophila, then in Neurospora, the fungus they used, "we had rediscovered what Garrod had seen so clearly so many years before. By now we knew of his work and were aware that we had added little if anything new in principle." But thank you for the Nobel prize anyway. 
+
+"We were working with a more favorable organism and were able to produce almost at will inborn errors of metabolism for any chemical reaction whose product you could supply through the medium. Thus, we were able to demonstrate what Garrod had shown for a few genes and a few chemical reactions in man was true for many genes and many reactions in Neurospora." 
+
+So what we've done so far is, we have now shown how genetics can begin to dissect biochemistry. What we have to do next time is show how biochemistry can begin to dissect genetics. That's what we'll do next time. All right, stop for just a moment, and try this question about a test of epistasis. 

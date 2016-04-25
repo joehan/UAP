@@ -1,0 +1,71 @@
+ERIC S. LANDER: And here I'm going to tell a story of Mike Brown and Joe Goldstein, two extraordinary scientists who actually won a Nobel Prize for the work I'll describe here. And they're really great guys. So Mike and Joe were in fact residents over at the Mass General Hospital just across the bridge. 
+
+And they met, and they played bridge together. They talked and they said, we really wanted to do something. They really wanted to do something really important. They went to do work at the NIH-- the National Institutes of Health. And one of them was actually working with Marshall Nirenberg on the genetic code, in fact, or on the aftermath of the genetic code. 
+
+But in fact, what they saw there was a patient with a very unusual disease that set their entire careers. And they work together even to this day. They set the path of their entire careers. This patient had familial hypercholesterolemia. 
+
+So let's just dissect-- we'll unpack the word. Familial hypercholesterolemia. So family-- transmits in a family-- high cholesterol in the blood. "Emia" is blood. Pretty easy name once you understand how the medical folk pack these words together. Familial hypercholesterolemia, or just FH. FH. 
+
+FH patients were remarkable in certain respects. So I'm just going to tell you, this trait-- it's a dominantly transmitted Mendelian trait-- a simple Mendelian dominant. And therefore we can speak about people who have the normal or wild type. With humans, we don't say the word "wild" type. We say that with flies. So plus over plus. 
+
+We have the heterozygotes, FH over plus. We have homozygotes, FH over FH. And say, LDL levels of a normal person in these studies here might be 100 milligrams per deciliter. And they might get heart attacks. Well, in fact, they will get heart attacks at the normal age. Because they're normal. We won't fuss over that. 
+
+But now the heterozygotes will typically have LDL levels closer to 250 milligrams per deciliter, or more, sometimes. Two or three times higher levels of LDL in their blood. And they will get heart attacks 10 to 20 years earlier. But that isn't what really caught the interest of Brown and Goldstein. What was striking to Brown and Goldstein is the homozygous phenotype. 
+
+Those patients have LDL levels often much greater than 600 milligrams per deciliter. Such high levels of cholesterol that they're actually visible deposits of cholesterol that they will have in their body. But that's the least of it. They will often get heart attacks before they are age 20. The youngest recorded heart attack that I'm aware of was 18 months of age heart attack. 
+
+And this is exceedingly rare, this condition. This condition is about one in a million is the frequency. So if that's the frequency, and you remember Mendelian genetics, and that's the homozygous state, what's the frequency of the FH allele in the population? 
+
+1 over 1,000, bingo. So the allele frequency-- because the frequency of the homozygote is the allele frequency squared-- so it's 1 over 1000, the allele frequency. Roughly, what's the heterozygous frequency? 
+
+STUDENT: 1 in 1,000? 
+
+ERIC S. LANDER: No, because I have two alleles. So I can get it on either of two alleles, so it's 1 in 500, exactly. So it's 2 in 1,000. It's 2pq-- whatever. So the heterozygous frequency is 1 over 500. Actually, that's interesting. If it's one in a million, this rare condition, it means one in 1,000 is the allele frequency. And since you have two alleles, there's a 2 in 1,000 or 1 in 500 chance. 
+
+1 in 500 is sufficiently frequent that in your class at MIT, there'll be several people-- two people, maybe three people-- who are heterozygotes for FH. Pretty interesting. There's a 20% chance that in this room, there's someone heterozygous for FH. Interesting. Even though the extreme condition is so rare. That's because we know our genetics. 
+
+Now what causes this thing? Now, Brown and Goldstein, they didn't discover this disease. But they saw a patient with it, and they were struck. And so what causes this? Well, somehow we know that there's mutation. Mutation affects a gene. The gene encodes a protein. We learned all that. What does that protein do? 
+
+Does the protein affect the synthesis of LDL? Does it affect the degradation? Why is the LDL so high? The degradation of LDL? Does it affect the removal from the bloodstream of LDL? 
+
+All these things are perfectly possible. They did a simple experiment. They wanted to see whether cells could bind LDL. How would you see if something binds LDL? 
+
+STUDENT: Antibodies. 
+
+ERIC S. LANDER: Well, antibodies to what? 
+
+STUDENT: To LDL? 
+
+ERIC S. LANDER: But LDL's this lipid. If I combined LDL with my antibody, maybe, if I could make an antibody against LDL, which is another question. But I want to see if the LDL binds to the cell. 
+
+Tag it. How am I going to tag it? 
+
+STUDENT: Fluorescence. 
+
+ERIC S. LANDER: Fluorescence, yeah, but this was ancient days. This was like in the early 1970s. Radioactive LDL works fine. So we'll do radioactive LDL. You could do fluorescence, but fine. 
+
+We'll take cells in a dish-- skin cells. We'll take some human skin cells growing in a dish. Human skin cells from patients. You can get a little biopsy of skin from a patient. It's not that terrible. There are much worse procedures. You can get a little biopsy. You can grow skin cells. You add radioactively labeled LDL. 
+
+And what they found was that in terms of LDL binding-- roughly speaking, just binding of my radioactive LDL-- what they found was that normal people bound the normal amount. Heterozygotes bound half. And homozygotes bound zero, approximately. There's always a little trace bindings in these experiments, things like that. 
+
+So what does that suggest to you? What's the problem? They can't take up the LDL. That somehow, there is on the surface of the cell receptor that's missing. The idea, and what they ended up proving, is that on cells there is an LDL receptor-- LDLR. And this LDL receptor takes that up and internalizes the LDL. And the problem with these heterozygotes and homozygotes-- the homozygotes totally lacked the LDL receptor. They don't take up the LDL out of the bloodstream. 
+
+And if you have this balance of LDLs being made and LDLs supposed to be taking up, and in fact it's taken up by the liver. The liver takes up LDL. The liver is producing bile acids from cholesterol, and so it has a large need for cholesterol. It is in charge of clearing extra LDL from the bloodstream and using that cholesterol. And in the case here of these homozygotes, they don't take up the LDL. And you get huge amounts of LDL in the bloodstream. 
+
+And the heterozygotes take it up half as efficiently. And it turns out that in terms of synthesis and withdrawal from the blood, that leads to a higher standing level of LDL. They found that this activity was present in cells. They didn't have the protein. So they then created a biochemical assay, where they could check for binding to certain protein fractions of LDL. And they were able to purify the protein using a biochemical assay. 
+
+They then, using a certain type of chemistry, worked out the sequence of amino acids of part of that protein. Given the sequence of amino acids, they looked at the genetic code table and they inferred what DNA sequences could've encoded that protein. They made oligonucleotides. They made DNA sequences containing the various different ways that you could have spelled that protein in the DNA code. Using them as a radioactive probe and washing them over a library of clones, they found the gene for the LDL receptor. 
+
+And that all makes sense to you. That's pretty remarkable. That actually is all stuff you've learned. 
+
+They were able to take the protein, go from the protein-- which they purified using biochemistry-- to getting at least part of the amino acid sequence, to figuring out possible DNA sequences it could have, to using that as a radioactive probe over a library and finding a clone that encoded the LDL receptor. They then sequenced the LDL receptor. They got out its DNA sequence. They then sequenced it again in patients. And they found mutations. 
+
+They used our triangle. Actually, it wasn't just our triangle. It's their triangle, too. But they used our triangle here. And they got the gene. And they found when they looked in patients and they sequenced it, there are mutations. Stop codons here or frame shifts there or other sorts of things. Lots of different mutations can screw up the LDL receptor gene. 
+
+They also found that this LDL receptor gene was regulated in interesting ways. In fact, in terms of gene regulation, they found-- just make a note here about regulation. We've talked about gene regulation. So we'll talk about the regulation of the LDL receptor gene. And also, actually, the gene that encodes HMGCoA reductase. 
+
+What do you think happens if a liver cell has very low cholesterol? What would it want to do? Produce more cholesterol. And so low cholesterol, just like we talked about gene regulation with beta gal, for example, earlier in the course. If we have a low cholesterol, what do you think happens to the LDL receptor? Up regulated or down regulated? It's going to take in cholesterol into the cell. 
+
+Up regulated. Right. And HMGCoA reductase? HMGCoA reductase helps make cholesterol. Up regulated as well. Good. HMGCoA reductase switch will go up as well. That's the logic. And that's true. And if you had too high cholesterol in the liver cell-- now we're talking about the liver cell, not the bloodstream. This is in a cell. We would see the reverse. We don't want to be taking up more. 
+
+To make sure you understand that material, take a moment and answer these questions about the genetics of cholesterol. 

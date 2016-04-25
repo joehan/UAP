@@ -1,0 +1,43 @@
+ERIC LANDER: So if our hope is to make targeted drugs that work against specific proteins, specific pathways, we actually have to understand the pathways. And the most important pathways to understand about cancer are the pathways of cell growth. So let's talk about the pathways of how cells normally grow. We've got to understand the normal process in order to understand what goes wrong with it. 
+
+So cells are in constant conversation with each other. Cells are sending signals to each other. The whole neighborhood in which a cell lives is sending signals saying, grow, or don't grow. And one way this happens is by actually putting out molecules called growth factors, often proteins that are growth factors. 
+
+Hang onto your seats, because I'm about to tell you a long and complicated pathway that starts with these growth factors and ends up with turning on the program of gene expression to make a cell grow. It's going to be complicated and will go over a couple of boards. It is this kind of a thing. I don't know how many of you know Rube Goldberg machines and Rube Goldberg cartoons. This is a classic example of a Rube Goldberg machine, and I just love these cartoons. 
+
+So I'm going to give you the Rube Goldberg machine for cellular growth. So let's take a cell. Here's a cell. And it has some growth factor receptors. These growth factor receptors-- this is a growth factor receptor-- is inactive right now. It's not sending any signals down into the nucleus of the cell-- nucleus of the cell there. 
+
+But when growth factor comes along-- and there are different kinds of growth factors. But when a growth factor-- the appropriate growth factor for this cell-- comes along, you won't be surprised to learn that the growth factor finds the growth factor receptor. And I'm going to draw my cell there, and here's its nucleus. 
+
+And when it does it, it causes the receptor-- at least I'm giving you the general picture-- to dimerize. The receptor dimerizes. There's a lot of growth factors. Examples of growth factor-- epidermal growth factor, platelet-derived growth factor, fibroblast growth factor, hepatocyte growth factor, nerve growth factor, et cetera, et cetera, et cetera, a lot of growth factors. And they bind to receptors-- the EGF receptor, and the PDGF receptor, and the FGF receptors. And often there are many of these things there. 
+
+When the growth factor binds and causes a growth factor receptor to dimerize, they're brought together. And this guy has an enzymatic activity. And the enzymatic activity is it's a kinase. It adds phosphates to things. Anything that adds phosphates is called a kinase. 
+
+So this is a kinase that adds phosphates-- so kinase, it adds phosphates, and we're going to hear a lot about kinases-- so this adds phosphates to certain amino acids at particular positions in certain proteins. In particular, these guys add a phosphate to a tyrosine residue. So these are tyrosine kinases. 
+
+So in this receptor is an enzymatic activity that's a tyrosine kinase. And it puts phosphates on certain tyrosines. Now, where are those tyrosines found that it's putting the phosphates on? On the receptor. In fact, they transphosphorylate each other. Each of the duo puts phosphates on tyrosines on the other guy. 
+
+So there are some specific tyrosines. This is why dimerization is so important. Tyrosine, remember, is a Y. So there are specific places-- and I'm just drawing some of them. Some have a lot of sites-- where there's a tyrosine in the sequence. And they transphosphorylate by putting phosphates. 
+
+Now, so what? So now you've got phosphates on the receptor, on the cytoplasmic side of the receptor. Why does that matter? Well, now let's zoom in. I'm now going to just look here. Here's my zoom in. 
+
+I've got my receptor binding its growth factor. We zoomed in, and there was its tyrosine kinase domain. And I'm just going to put one of them. Here was my tyrosine, and it had a phosphate on it, and that distinctly changes its shape. There's a little phosphate that's recognized there. 
+
+Well, what happens is some protein, some protein that is normally floating around in the cytoplasm now likes to bind to that spot. Let's draw a protein that binds to that spot. There are a bunch of these things. 
+
+I'm going to pick a particular protein that goes by the name Grb2. But it's an adaptor protein. And who cares whether it's called Grb2 or not. It's an adaptor protein, because Grb2 binds to this site-- Rube Goldberg machine-- and has on it some other things that will bind to something else. 
+
+Now, the way this works is, this particular part of the protein that binds the phosphotyrosine belongs to a special class of protein domains called SH2 domains. The goal is not to memorize these things. I'm just saying, there's a whole family of SH2 domains. Many proteins have SH2 domains that know how to bind a phosphotyrosine at a particular amino acid sequence. So there's a whole bunch of them, and they recognize different amino acid sequences plus a phosphotyrosine. 
+
+So we've got a whole bunch of adaptor proteins. The adaptor proteins then bind something else. There's a whole bunch of these proteins that can be bound. I'll pick one called Sos. 
+
+The way it binds it is it has some funny domains here, and these are called SH3 domains. And again, I don't care if you memorize what they are. What I care is to say, there's a whole bunch of SH3 domains, and they recognize a whole class of sequences, particularly proline-rich sequences. 
+
+So imagine that there's a whole set of mix and match combinations with SH2 domains and SH3 domains, and this recognizes this, and then this recognizes that. And there are many such things, but I'm just going to give you the general case here. So that's pretty good. Now what happens? 
+
+Now what happens is sitting over here in the membrane-- sorry, sitting here attached to the membrane by a lipid is another protein called RAS. This is one I do want you to remember, because RAS is a very big deal. 
+
+The whole point is these guys were around in the cytoplasm. RAS is attached here to the membrane. When this gets phosphorylated, this guy now is spending its time right near the membrane, and this guy is spending its time right near the membrane, and this guy tickles RAS. It interacts with RAS. 
+
+And the whole point of this, the whole way you get the signal of the growth factor on the outside to a signal on the inside is bring these guys together, put a phosphate, attract a cytoplasmic protein, it attracts a cytoplasmic protein, it does something to RAS. That's our general Rube Goldberg machine part one. 
+
+OK, stop a moment and answer this question about growth factors and growth factor receptors. 

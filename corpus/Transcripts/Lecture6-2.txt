@@ -1,0 +1,57 @@
+PROFESSOR: All right, welcome back for lecture six, genetics. Oh, the wave. Very good. I like it. Let's go back to our code of arms and see where we are. You remember the code of arms is biological function was studied in two different ways, one of which, biochemistry. Grind up things and purify individual components away from the cell based on some kind of an assay, some kind of a test to purify the components you want. 
+
+And the most interesting components turned out to be these amazingly diverse proteins that we've spent the beginning of the course studying. Now, the complementary way, complementary way to study biology is instead of looking at one component away from the rest of the organism, to look at the organism minus one component. And that's genetics. We look at mutants. We don't grind things up and try to purify things. 
+
+We look at mutant organisms that have one particular defect. And we try to understand how it is that an organism has this weird defect. And the answer is it's due to these things called genes. Of course, when people said that, they had no idea what a gene was. It was just a name for whatever it was that explained the properties of these mutant organisms. So we're going to turn today to the study of genetics. 
+
+And that'll be what we're going to do for the next several days. Of course, life had these two amazing properties. Life carried out these transformations, like fermentation. They could take fruit juice and turn it into alcohol and carbon dioxide. Chemical reactions that you couldn't do otherwise in the lab, certainly not like that. Life had these amazing transformations. But life had this other amazing property. It reproduced itself faithfully. 
+
+It could transmit information to the next generation, plant the carrot, get a carrot. Not a Brussels sprout, right? Bees give bees and birds give birds. And even more than that, not just the things giving the same species, but within a species you saw strong resemblances. Particular types of noses, for example. Particularly tall people. People who might be predisposed to a certain type of a cancer. 
+
+It would transmit in a family. So people knew somehow there was something very important about the information that was transmitted, and you couldn't help but notice familial resemblance. So for thousands of years, people wondered about familial resemblance. Folks being folks would make up explanations for it. The ancient Greeks were very big on philosophizing, not so much on doing experiments. 
+
+And so they had all sorts of philosophical explanations for this, that particles from all over the body would come together into the seminal fluid. Sort of some kind of pulling operation and collecting information from the body that would somehow go into the seminal fluid. Most of the Greek theories were relatively sexist because it was the male that was transmitting the information, and the female was permissive to all of that. 
+
+Indeed at some point, people could later, many hundreds of years later, looked at microscopes and even thought they could see little people in the head of the sperm, little homunculi. It's amazing what you can convince yourself you can see. Broadly speaking, since heredity didn't follow incredibly simple laws, the general view was somehow information was combined from both parents. 
+
+Eventually the female parent ends up getting involved in this too, even if not in the early Greek theories. Information was combined from both parents and blended in some way, and it was kind of mushy beyond that, exactly what that meant, by blending inheritance. So today, what we're going to do is talk about the origins of a real understanding of heredity. 
+
+But it's important to know that for 2,000 or more years, people were just completely confused about this thing. And to understand that, we need to know the origins of Mendel. Now, in biochemistry, we started by meeting Buchner. Buchner, I bet most of you have never heard of before. Amazing biochemist, you haven't heard of him before. So my job with Buchner was to teach you about him and what his problem was. 
+
+With Mendel I have exactly the opposite problem. You've all heard of Mendel. You learned about Mendel in high school, and probably kindergarten, and things like that with the peas and the big As and the little As. And everybody's been exposed to Mendel. And I have to unteach you about Mendel first. Mendel, I've got to say, I'm a geneticist. Mendel is one of my real heroes. Mendel is not who you think he is. 
+
+You think, it's always told that Mendel is this lone monk off in a monastery in Brno in what is today the present Czech Republic. And you're wondering, what is a monk doing performing scientific experiments in the city of Brno in the middle of the Habsburg Empire? And like, what's going on, cooking these peas for his fellow monks for long periods of time? You have to understand the origins of Mendel. 
+
+The origins of Mendel go back to the age of exploration. They go back to the 1500s, when Europe sends out ships across the world. And people come back with all sorts of strange new plants and animals. And people begin cultivating them, and breeding them, and people get very interested in breeding experiments, in part because of all these new varieties, new species that are coming in from the new world. 
+
+Then there's another incredibly powerful reason why people care about breeding at this time, and that is economics. Europe goes from being lots of isolated little villages, not really communicating much with each other, to building road networks. To building commerce across cities and villages, and countries. And it becomes more and more economically viable, economically rewarding to make a better apple. 
+
+If you made a better apple in your own little village, you might sell it to a few other people. But in fact, if you could make better plants and better animals, and you had an economic distribution system, you could get returns on investment for improving agriculture. So there was a powerful positive force of economics at work there as well. So people begin to start thinking about these things. 
+
+In England, there's a lot of work on breeding better and better fruit trees and better sheep. A guy called Blakewell produces the Dishley sheep, which produces great meat. And he becomes very famous for his sheep breeding skills. Now, on the continent of Europe, sheep were not about meat. That wasn't what you really wanted the sheep for. What the European continent wanted sheep for was wool. 
+
+Everybody knew that the Spanish had the best wool sheep. Spanish sheep produced the best wool. But of course people who are growing sheep for wool across Europe, they wanted Spanish sheep. And so they imported Spanish sheep, but the Spanish sheep didn't do so well in some of these other environments. 
+
+And so people began crossing the Spanish sheep with the local sheep to make sheep that still had good wool, but somehow survived better in the local environments. And there was breeding going on in France, and going on in Germany. But the place that perhaps cared most about wool, you might imagine, was the center of the textile industry, which was Moravia in the Habsburg Empire. 
+
+And the capital of Moravia then was Brno. They cared a lot about wool. And so people in this area, in the city of Brno, began to organize scientific societies and discussion groups to talk about, how could we make breeding better? More scientific? There was a guy called Andre, Carl Andre in 1806, organized the Moravian Society for the Improvement of Agriculture, Natural Science, and the Knowledge of the Country. 
+
+And he drew up a whole program of scientific development, emphasizing the importance of basic and applied research in the natural sciences. And in one of these kind of over the top civic booster kind of speeches, he writes in his program that the significance of this kind of work on better breeding may someday be as important as the work of Copernicus and Newton. 
+
+And that some day the world may be as grateful to some son of Brno as they are to Newton and to Copernicus. Pretty kind of florid, over the top kind of prose. But Andre lays out this whole program there, and he gets other people interested in it. And this guy, Hempel, five years later, begins writing about these things and making programs. 
+
+And he says, look, we've got to understand the laws of hybridization and how they really work. And we're going to have-- he says we're going to need really scientific people to do it. He says-- he even tries to characterize the kind of folk we're going to need. 
+
+He says, "we're going to need a researcher with a profound knowledge of botany and sharply defined powers of observation who might with untiring and stubborn patience grasp the subtleties of the experiments, take a firm command with them and provide a clear explanation," he writes in 1820. Well, around this time, Andre had organized a group called the Enological and Pomological Society. 
+
+The Enological and Pomological Society, right around this time there, very interested in plant breeding. It has its first president, who's the president of it for about the first seven years. When he dies, a new person takes over, CF Napp takes over the Enological and Pomological Society. Now, that's not a full time job, doing this. He has a full time job. His full time job is he's the abbot of the Augustinian Monastery in Brno. 
+
+And he begins to decide to have his monastery work on breeding. So he goes off looking for scientifically trained monks. Looking for months with backgrounds in math and physics. He's looking for MIT kind of monks. And so he's off looking for these people, and who does he find? 
+
+STUDENT: Mendel. 
+
+PROFESSOR: Mendel. Mendel is no accident. Mendel is the result of economic forces and scientific forces, and civic planning and an understanding of scientific research that culminates in this monk that you think is this isolated guy standing in his garden in the monastery. No. He's the product of a biotech incubator. 
+
+This was a biotech incubator going on in the middle of Moravia. That's Mendel. All right, so that's my Mendel. You've now got a handle on my Mendel. Let's talk about what he did. 
+
+Before we go on, we'd like you to take a moment and describe the economic forces that drove genetics. 

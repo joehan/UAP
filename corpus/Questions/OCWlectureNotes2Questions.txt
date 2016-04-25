@@ -1,0 +1,348 @@
+What DO NOT READILY OCCUR in reality?	2.8003545251829847
+When are pyruvates further broken down in mitochondria to generate more NADHs and FADH2s in aerobic conditions?	2.796883368523507
+Who are further broken down in mitochondria to generate more NADHs and FADH2s through the Krebs ' cycle in aerobic conditions?	2.7429371898148274
+What can be used by many endergonic reactions in a cell that require energy?	2.726012126872053
+What is worth the energy that can be stored in two molecules of ATP?	2.7221044115830098
+What are I. Reactions Chemical reactions governed by?	2.7140397753028678
+What the cell can couple with exergonic reactions in order to make endergonic reactions proceed?	2.707282001848772
+What can couple 2 with exergonic reactions in order to make endergonic reactions proceed?	2.698652688119599
+Who could some descendant of M acquire?	2.6984235964845595
+What can store the excess energy to fuel endergonic reactions whenever needed?	2.6957172416744
+Who are pyruvates further broken down in mitochondria to generate through the Krebs ' cycle in aerobic conditions?	2.6906140735987267
+Who does Thermodynamics allow to measure the change in free energy as a reaction proceeds?	2.6837588848153957
+What could some descendant of M become much better than?	2.681051791667612
+When do many key pathways trace their origin?	2.651915561620536
+What is ATP both a unit of energy currency in?	2.6421198333322997
+How many pyruvate molecules get converted to 2 lactate molecules or 2 ethanol molecules?	2.633955149237426
+What are then used to pump protons that can subsequently be used to drive ATP synthase in the inner mitochondrial membrane?	2.6297775451127614
+What may some of the reactant molecules posses just enough energy to reach the transition state to?	2.6055639377731894
+What does Thermodynamics allow additional mutations to measure as a reaction proceeds?	2.57835172035048
+What is ATP in a cell and a building block of RNA?	2.5774659190320888
+What dictates the relative concentrations of reactants and products?	2.5728223226728186
+What may some of the reactant molecules form the products to?	2.5710509635442986
+What may some of the reactant molecules posses just enough energy to reach due to random fluctuations in energy caused by molecular motion?	2.5632273974805866
+What allows additional mutations to measure the change in free energy as a reaction proceeds?	2.5626583347630807
+What is because the hydrolysis of ATP is itself an exergonic reaction?	2.5589734407550306
+Who could become much better than WT?	2.5536859411394195
+What may form the products due to random fluctuations in energy caused by molecular motion?	2.54408943286494
+What are pyruvates further broken down in to generate more NADHs and FADH2s through the Krebs ' cycle in aerobic conditions?	2.534402022171632
+What does Thermodynamics allow additional mutations to measure the change in free energy as?	2.5343834687553484
+What were only two molecules of ATP generated per?	2.531673521978403
+What is 34 ATPs + 2 ATPs = 36 ATPs?	2.5244812012539346
+How many molecules of ATP were generated per molecule of glucose?	2.520294868789622
+What's the appearance of oxygen that allowed for rapid evolution and diversity found on Earth?	2.5107668961636898
+What is both a unit of energy currency in a cell and a building block of RNA?	2.5081606578738613
+What does not change the energy levels of AB, C, A, and BC?	2.503840386482072
+What is a pathway that converts one molecule of glucose into two molecules of pyruvate with a net gain of two ATP molecules?	2.5014605055377364
+What need to go through a high energy ``transition state'' before forming the products for the reaction to occur?	2.496561579394814
+What are pyruvates further broken down in mitochondria to generate more NADHs and FADH2s through the Krebs ' cycle in?	2.496452004503384
+What did 7 Notice that in anaerobic conditions, the net energy gain is only 2 atp from glycolysis?	2.492596773932991
+What trace their origin to the early stages of evolution of life on Earth?	2.4862589575895084
+What serves as energy currency of a cell?	2.485738853091649
+What is also believed that earliest organisms also used RNA both to store genetic material and to catalyze reactions?	2.4812097141988483
+What did 7 Notice that in anaerobic conditions, the net energy gain is only 2 atp molecules from?	2.476933732339355
+What is greater than the energy difference between and the transition state?	2.470930103869993
+What is ATP both a unit of in a cell and a building block of RNA?	2.451019243078767
+What does the equilibrium dictate the relative concentrations of?	2.4109228947836434
+What do not change the thermodynamic properties of reactions?	2.3997266623331077
+What is the energy difference between and the transition state greater than?	2.39772821093736
+Who does notice that the enzyme lower by the same magnitude?	2.3974881420035428
+Who could acquire additional mutations?	2.3800643801848755
+What does a system that can be used to do work's the appearance of that allowed for rapid evolution and diversity found on Earth?	2.3623026230129605
+What allow the organism to take a sugar source?	2.362069281559401
+What does evolutionary pressure ensure significant conservation throughout?	2.3492664204734743
+What ensures significant conservation throughout evolution?	2.3312007785494107
+What became the major marcomolecule to store information?	2.3298881476331252
+What allow the organism to synthesize everything else needed?	2.3277367000460467
+What are exergonic reactions considered ``spontaneous'' in?	2.3228280778076686
+Who is likely to be less efficient at extracting ATP from glucose?	2.3160663794008833
+What is believed that early in evolution there were very few molecules around?	2.3095936923974376
+What make reactions more favorable by lowering the activation energy?	2.306801960398963
+What does ATP serve as?	2.30469380902741
+What are converted back to NAD?	2.2979134629551923
+Even if the Ea is considerably lowered by an enzyme, what is additional energy still required for to form products efficiently?	2.293392242527382
+What may posses just enough energy to reach the transition state due to random fluctuations in energy caused by molecular motion?	2.2862300660509414
+What does any mutant of the pathway that accidentally arises go back to?	2.270495963663383
+What get converted to 2 lactate molecules or 2 ethanol molecules?	2.2625866757261797
+What works against changes to key pathways?	2.2623676191150577
+What does notice that the enzyme lower Ea in both the forward and the reverse reactions by?	2.2570005391158015
+What do many key pathways trace to the early stages of evolution of life on Earth?	2.253239829610897
+What illustrated by the glycolysis example: 1?	2.24960971560538
+What can ATP be used by many endergonic reactions in?	2.2437870793663466
+What may some of the reactant molecules form due to random fluctuations in energy caused by molecular motion?	2.2380663512243366
+How many ATPs + 2 ATPs = 36 ATPs is the net ATP production?	2.2374556009707107
+What does a system that can be used to do work's?	2.218742089453615
+What is the reaction easier for to reach the transition state and form products?	2.2184136618067294
+What does the enzyme not change the energy levels of?	2.2171543457105063
+What is Glycolysis?	2.2057500497939517
+What were generated per molecule of glucose?	2.2024630587173792
+What (is favorable to not have highly negatively charged groups next to each other? )	2.2024588062260526
+What does evolutionary pressure ensure throughout evolution?	2.1891456733681367
+What were to design a glycolysis pathway from scratch now?	2.1775274792568293
+What is ATP believed that early in there were very few molecules around?	2.1707424134325795
+When does Kinetics control?	2.1484617130832224
+What is not likely to survive or generate enough progeny to allow M1 to ever appear?	2.137006712834702
+Who use the symbol G?	2.121736305417259
+What are the produced NADH molecules converted back to?	2.1185785477935686
+What do as 2 pyruvate molecules get converted to?	2.113138548697501
+What controls the rates of reactions?	2.106345187044258
+What would probably end up with something different, and likely more efficient than the actual pathway?	2.097219634406276
+What does the equilibrium dictate?	2.073945823257093
+What are ten enzymatically catalyzed steps used, two of them requiring an investment of an ATP molecule each in?	2.0584261943377773
+What use ATP to facilitate them?	2.051507511891638
+What did ideas illustrate by?	2.0371545892074843
+What lowers Ea in both the forward and the reverse reactions by the same magnitude?	2.0349222806172733
+May some of the reactant molecules posses just enough energy to reach the transition state due to random fluctuations in energy caused by molecular motion?	2.0321784351064145
+What the cell can couple 2 with exergonic reactions in?	2.017979404478419
+What are usually highly conserved in modern organisms?	2.0178662014972253
+What is itself an exergonic reaction?	2.010887299536436
+What became the major catalysts?	2.0052789809921787
+What does evolutionary pressure work against?	1.9888301914977145
+What is the activation energy?	1.9861663357783443
+What do not need additional energy to form the products?	1.9839707148081034
+What was used for every endergonic reaction?	1.9694626302651062
+Who does a thermodynamically favorable reaction fail to occur spontaneously due to?	1.9551133194294539
+What do catalysts not change?	1.953015403484277
+What is an endergonic reaction coupled to?	1.9480304840652554
+What is when kinetics plays its role?	1.9473297316792981
+What ATP molecules from glycolysis?	1.9379357598740492
+What did o2 appear in?	1.9278808109856078
+What are reactions usually a part of?	1.9276569131480243
+What do the reactants not need additional energy to form?	1.92439560610507
+Who is the activation energy?	1.9234880598957558
+What is ``Free energy''?	1.9205066568762152
+What appeared in the atmosphere?	1.9193912855198176
+What do most biological reactions not occur fast enough without?	1.8957249039560682
+What are such pathways usually highly conserved in?	1.8890626484731075
+What is ATP believed that early in evolution there were around?	1.8865535051066855
+What does the enzyme not change?	1.8579820405248286
+What is the original non-mutant organism?	1.853800116935787
+What can couple them with exergonic reactions in order to make endergonic reactions proceed?	1.8472976501687763
+What are reactions as?	1.834593179076438
+What do cells use to facilitate them?	1.8344619861607274
+Could some descendant of M become much better than WT?	1.8256325492365608
+What did proteins become?	1.8249903307454192
+Are I. Reactions Chemical reactions governed by thermodynamics and kinetics?	1.8184335179705515
+What is needed to push the reactants over the Ea hump for the reaction to proceed?	1.8080268208266421
+What do some of these reactions do NOT READILY OCCUR in?	1.8049207754824441
+Who goes back to the point made in the very first section above?	1.798806279967753
+What makes the reaction more likely?	1.7826558676460795
+What are reactions usually?	1.7516802620923808
+What do some reactions proceed in?	1.751164541322146
+What do additional mutations use?	1.7470152183916796
+What is the net ATP production?	1.7347675114864607
+Who is likely to be less efficient and therefore less fit than the wild type parent?	1.729299048304871
+Could some descendant of M acquire additional mutations?	1.7177089007129873
+What is energy needed to push the reactants over the Ea hump for?	1.7114309537569325
+If that tactic was used for every endergonic reaction, it would mean what would it also have to run an exergonic one?	1.7083121937862122
+Who did dNA become?	1.6997032989510965
+Do A and BC need to go through a high energy ``transition state'' before forming the products for the reaction to occur?	1.6908191573342637
+Is energy needed to push the reactants over the Ea hump for the reaction to proceed?	1.6845976908960618
+What would be inconvenient?	1.6741427656513312
+What the higher is?	1.6427012891628008
+What is M2?	1.6414433443977894
+What is M?	1.6335963667604423
+Can ATP be used by many endergonic reactions in a cell that require energy?	1.6173069658002786
+Can the cell store the excess energy to fuel endergonic reactions whenever needed?	1.6138991523599562
+Does Thermodynamics allow additional mutations to measure the change in free energy as a reaction proceeds?	1.6075557350851182
+What do A and BC need to go through before forming the products for the reaction to occur?	1.6001961949361179
+What would the steps of glycolysis probably end up with?	1.5977678451508694
+What does Thermodynamics allow us to measure as a reaction proceeds?	1.5892888026071263
+Who the cell can couple with exergonic reactions in order to make endergonic reactions proceed?	1.5801661916020002
+The cell can couple 2 with exergonic reactions in order to make endergonic reactions proceed?	1.5740949778551108
+What is the total amount of energy in a system that can be used to do work?	1.5716131546689596
+What allows us to measure the change in free energy as a reaction proceeds?	1.5622070957865897
+What do some of these reactions do in reality?	1.5548948260318598
+What does Thermodynamics allow us to measure the change in free energy as?	1.5459209918123276
+Are exergonic reactions considered ``spontaneous'' in the world of thermodynamics?	1.5401454530915863
+Did 7 Notice that in anaerobic conditions, the net energy gain is only 2 atp molecules from glycolysis?	1.5385582719507553
+Is the net ATP production 34 ATPs + 2 ATPs = 36 ATPs?	1.5379010589830786
+What is easier for reactant molecules to reach the transition state and form products?	1.5373132755947645
+Does ATP serve as energy currency of a cell?	1.5340557085809539
+What does it's the appearance of that allowed for rapid evolution and diversity found on Earth?	1.5261885724567468
+What can ATP be used by in a cell that require energy?	1.5250688119652747
+What are considered ``spontaneous'' in the world of thermodynamics?	1.5245203044843487
+Are pyruvates further broken down in mitochondria to generate more NADHs and FADH2s through the Krebs ' cycle in aerobic conditions?	1.524213616653538
+Is the reaction easier for reactant molecules to reach the transition state and form products?	1.5227064753110513
+Is any mutant of the pathway that accidentally arises likely to be less efficient at extracting ATP from glucose?	1.5202676146890859
+What can the cell store to fuel endergonic reactions whenever needed?	1.5188969593519972
+What do A and BC need to go through a high energy ``transition state'' before forming the products for?	1.516091268007632
+Does the equilibrium dictate the relative concentrations of reactants and products?	1.5096916473031512
+What are ancient?	1.5086917254475836
+Is ATP both a unit of energy currency in a cell and a building block of RNA?	1.4999892601553282
+What the cell can couple 2 with in order to make endergonic reactions proceed?	1.4979066898284779
+Do many key pathways trace their origin to the early stages of evolution of life on Earth?	1.4897399506056423
+Are exergonic reactions thermodynamically favorable because the reactants do not need additional energy to form the products?	1.4857307324470352
+What is the activation energy in this reverse reaction greater than?	1.4850071698832004
+What is the energy difference between the reactants and the transition state?	1.4846633214296499
+What can the cell store the excess energy to fuel whenever needed?	1.4834942549401702
+Is Glycolysis a pathway that converts one molecule of glucose into two molecules of pyruvate with a net gain of two ATP molecules?	1.4756535001730038
+Does the enzyme not change the energy levels of AB, C, A, and BC?	1.4531342580339697
+What here is 6?	1.4468355011611103
+If that tactic was used for every endergonic reaction, it would mean that every time a cell needs to run such a reaction what would it also have to run?	1.4406650769321974
+What is coupled to hydrolysis of ATP?	1.4282237564252194
+Is an endergonic reaction coupled to hydrolysis of ATP?	1.4275916350463866
+Are the produced NADH molecules converted back to NAD?	1.4246361533604786
+Does a system that can be used to do work's the appearance of oxygen that allowed for rapid evolution and diversity found on Earth?	1.423861656309783
+Does evolutionary pressure ensure significant conservation throughout evolution?	1.420339299246502
+Is the activation energy the energy difference between the reactants and the transition state?	1.4164899799753914
+Is ``Free energy'' the total amount of energy in a system that can be used to do work?	1.4032252355497383
+Even if the Ea is considerably lowered by an enzyme, what is still required for reactants to form products efficiently?	1.3902037638821763
+Does evolutionary pressure work against changes to key pathways?	1.3833298975317154
+Do catalysts not change the thermodynamic properties of reactions?	1.3816320026618394
+What is probably because once these pathways were developed, deviating from them through mutation was likely to be disadvantageous in the near term?	1.3741724967862359
+Did ideas illustrate by the glycolysis example: 1?	1.357562481992506
+What are thermodynamically favorable because the reactants do not need additional energy to form the products?	1.3536524319435759
+Does notice that the enzyme lower Ea in both the forward and the reverse reactions by the same magnitude?	1.3454756612266938
+What is raised?	1.3374822937811168
+Were only two molecules of ATP generated per molecule of glucose?	1.325281898349722
+Is the higher the Ea hump?	1.324695970110891
+What is the point here?	1.3245561075218835
+What is it also believed that earliest organisms also used both to store genetic material and to catalyze reactions?	1.3194425649507386
+What are governed by thermodynamics and kinetics?	1.3166433869040852
+Even if the Ea is considerably lowered by an enzyme, is additional energy still required for reactants to form products efficiently?	1.3130610272422527
+Who is lowered?	1.309909218921592
+What do catalysts not change the thermodynamic properties of?	1.3077255469549214
+What do these interacting pathways allow to take a sugar source?	1.2969923278974953
+Did dNA become the major marcomolecule to store information?	1.2928038224182212
+What do these interacting pathways allow the organism to take?	1.2884619523528702
+May some of the reactant molecules form the products due to random fluctuations in energy caused by molecular motion?	1.2828388377146531
+Is the overall energy level of the reactants raised?	1.2781177730356075
+What is it easier for to reach the transition state and form products?	1.2724386651973139
+What is ATP believed in?	1.2632232345492074
+Do catalysts make reactions more favorable by lowering the activation energy?	1.2625980185941708
+What are used, two of them requiring an investment of an ATP molecule each in order to extract that energy?	1.2556637418430854
+What do these interacting pathways allow to synthesize everything else needed?	1.245449822749947
+Is the energy difference between and the transition state greater than the energy difference between and the transition state?	1.2444521352631734
+What are usually a part of a pathway?	1.2325865993758982
+What is ``Free energy'' the total amount of?	1.2303473972762724
+Who does not need to memorize the steps of glycolysis?	1.230264205918632
+What do catalysts make more favorable by lowering the activation energy?	1.2042593888504145
+What does Kinetics control the rates of?	1.2037581058348445
+Is the hydrolysis of ATP itself an exergonic reaction?	1.2013531624400153
+Is ATP believed that early in evolution there were very few molecules around?	1.200911391016652
+Is the activation energy Ea?	1.199848834088061
+Does the overall energy level of the reactants make the reaction more likely?	1.1729905753662169
+Even if some descendant of M might end up being significantly better than the original non-mutant organism is itself not likely to survive or generate enough progeny to allow M2 to ever appear?	1.170802817190884
+What do you not need to memorize the steps of?	1.1682646610897214
+What could not be very fast, or big, or smart?	1.1640067928301683
+What the cell can couple them with exergonic reactions in?	1.1624975641806738
+What is the difference in energy states between one molecule of glucose and two molecules of pyruvate worth?	1.1612799609175708
+Does Kinetics control the rates of reactions?	1.1608200604075343
+Are such pathways usually highly conserved in modern organisms?	1.1423799833946298
+What is this point also believed that earliest organisms also used both to store genetic material and to catalyze reactions?	1.1385177791019916
+Is the original non-mutant organism M?	1.1367717337172802
+Do most biological reactions not occur fast enough without catalysts?	1.1365717095729302
+Did proteins become the major catalysts?	1.1327850026585002
+What does the overall energy level of the reactants make more likely?	1.129255469897838
+What were developed?	1.1250694527836698
+Did o2 appear in the atmosphere?	1.1216645202753144
+What can it be used by many endergonic reactions in?	1.1179825237093333
+What point?	1.1111122041107304
+Does a thermodynamically favorable reaction fail to occur spontaneously due to a high Ea?	1.108322529007486
+If you are thinking about catalysts, who is absolutely right?	1.1051642660293677
+Do additional mutations use the symbol G?	1.103134747520424
+Were the steps of glycolysis to design a glycolysis pathway from scratch now?	1.1015203807678873
+Are many key pathways ancient?	1.1013230062155976
+Who were to design a glycolysis pathway from scratch now?	1.0984944046542422
+Was tactic used for every endergonic reaction?	1.0936857519834526
+Are reactions usually a part of a pathway?	1.0717551315357867
+What would be better to do your UROP work at your convenience?	1.0648503826326987
+What do these interacting pathways allow the organism to synthesize?	1.0576150785592198
+What is Ea?	1.0552823395260154
+Are reactions such as the equilibrium?	1.053309275518385
+What is it believed that early in there were very few molecules around?	1.0531684789425908
+Even if some descendant of M might end up being significantly better than the original non-mutant organism what is not likely to survive or generate enough progeny to allow M2 to ever appear?	1.0527251295534903
+Who are usually a part of a pathway?	1.0339477551151486
+Is any mutant that accidentally arises likely to be less efficient and therefore less fit than the wild type parent?	1.022642925366911
+Who would probably end up with something different, and likely more efficient than the actual pathway?	1.0216853025873696
+Do cells use ATP to facilitate them?	0.9964531988826633
+Do some reactions proceed in such pairs?	0.9934873056439415
+What do not occur fast enough without catalysts?	0.9857261227219227
+Would the food be inconvenient?	0.9843079604318172
+Does any mutant of the pathway that accidentally arises go back to the point made in the very first section above?	0.9596060586793542
+Do the reactants not need additional energy to form the products?	0.9559941731086641
+What are they usually a part of?	0.9540590859116775
+What are such as the equilibrium?	0.9538103601441603
+Are some very important reactions endergonic?	0.9467782739751818
+What may some of the reactant molecules posses to reach the transition state due to random fluctuations in energy caused by molecular motion?	0.9170761121623623
+Do reactions in the cell not occur just by themselves?	0.9029171451089129
+Is Ea lowered?	0.8890657672225899
+Is the difference in energy states between one molecule of glucose and two molecules of pyruvate worth the energy that can be stored in two molecules of ATP?	0.8828367004457767
+What do proceed in such pairs?	0.882535283995572
+What would be better to get paid some money that you can then spend as needed?	0.8654035943283231
+What do the reactants not need to form the products?	0.8577625212195066
+What occur in the cytoplasm?	0.8572124236477121
+Is M M2?	0.8379180313314367
+Who needs to take away from the example?	0.831849504264832
+Do some of these reactions do NOT READILY OCCUR in reality?	0.8310116848275539
+Is the reaction kinetically trapped?	0.8273821657595262
+What do you not need to memorize?	0.8241456852415072
+What does it's?	0.8212317633115691
+What do you need to take away from?	0.8158848404203827
+Who do cells use ATP to facilitate?	0.8003864134179735
+Would the steps of glycolysis probably end up with something different, and likely more efficient than the actual pathway?	0.7903539578643148
+What does this bring us to the example of I with?	0.7831421828606306
+What do cells use ATP to facilitate?	0.7777534854314709
+What fails to occur spontaneously due to a high Ea?	0.7657890983403544
+What do these reactions occur in?	0.7631674643179172
+What is it believed that early in evolution there were around?	0.7618126870361075
+What are they usually?	0.7532651678889448
+What was tactic used for?	0.7515809645086826
+Are ten enzymatically catalyzed steps used, two of them requiring an investment of an ATP molecule each in order to extract that energy?	0.7443332654358272
+The cell can couple them with exergonic reactions in order to make endergonic reactions proceed?	0.7234492340576653
+Who do reactions in the cell not occur just by?	0.7004006061944319
+What do we use?	0.6832630206415891
+If that tactic was used for every endergonic reaction, it would mean that every time a cell needs to run such a reaction what would also have to run an exergonic one?	0.6815666875949029
+Who does this bring to the example of I The point of the lecture was to illustrate with an example of a real biochemical pathway the types of ``tricks'' a cell uses to make vital reactions happen efficiently?	0.677688019960754
+What do reactions in the cell not occur just by?	0.6739428889852437
+What do not occur just by themselves?	0.6682900164858203
+What are these molecules then used to pump?	0.6644566104054277
+What the cell can couple them with in order to make endergonic reactions proceed?	0.6465516518776546
+Does Thermodynamics allow us to measure the change in free energy as a reaction proceeds?	0.6054543783623272
+What does this bring us to The point of the lecture was to illustrate with an example of a real biochemical pathway the types of ``tricks'' a cell uses to make vital reactions happen efficiently?	0.6026479613738538
+Does it's the appearance of oxygen that allowed for rapid evolution and diversity found on Earth?	0.5849236792584387
+Is it easier for reactant molecules to reach the transition state and form products?	0.5834325279193906
+What brings us to the example of I The point of the lecture was to illustrate with an example of a real biochemical pathway the types of ``tricks'' a cell uses to make vital reactions happen efficiently?	0.5716773645350466
+What is kinetically trapped?	0.5711273988558541
+What is greater than that in the forward reaction?	0.5283275562804173
+Is the point here 6?	0.512228546502977
+Do final point?	0.5118025146591532
+Can it be used by many endergonic reactions in a cell that require energy?	0.5035294402616248
+Are these molecules then used to pump protons that can subsequently be used to drive ATP synthase in the inner mitochondrial membrane?	0.5029101642078282
+If that tactic was used for every endergonic reaction, it would mean that every time a cell needs to run such a reaction would it also have to run an exergonic one?	0.4906436128151508
+What does this bring us to the example of I was to illustrate with an example of a real biochemical pathway the types of ``tricks'' a cell uses to make vital reactions happen efficiently?	0.48871434319665497
+Is this because the hydrolysis of ATP is itself an exergonic reaction?	0.48767912575107664
+Do as 2 pyruvate molecules get converted to 2 lactate molecules or 2 ethanol molecules?	0.472776692760311
+What can it be used by in a cell that require energy?	0.40748905893739584
+What is it also believed?	0.37598208073154615
+Is the activation energy in this reverse reaction greater than that in the forward reaction?	0.374581573272736
+Do these interacting pathways allow the organism to take a sugar source?	0.3586725652622831
+What is this point also believed?	0.35226032647863414
+Is M itself not likely to survive or generate enough progeny to allow M1 to ever appear?	0.3167660208840952
+Is it believed that early in evolution there were very few molecules around?	0.31093921307633776
+Is it also believed that earliest organisms also used RNA both to store genetic material and to catalyze reactions?	0.30189560151140205
+Do these interacting pathways allow the organism to synthesize everything else needed?	0.3005108587169678
+Is this probably because once these pathways were developed, deviating from them through mutation was likely to be disadvantageous in the near term?	0.2824847521071212
+Do you not need to memorize the steps of glycolysis?	0.26990547330607706
+What would we probably end up with?	0.2685643407400269
+Are many of these reactions endergonic?	0.23958665517151845
+What are endergonic?	0.23517486954902034
+Is this point also believed that earliest organisms also used RNA both to store genetic material and to catalyze reactions?	0.12028535837608656
+Were we to design a glycolysis pathway from scratch now?	0.10632763590225602
+Are they usually a part of a pathway?	0.1027530944785302
+Do we use the symbol G?	0.07483894284575499
+Is (It favorable to not have highly negatively charged groups next to each other? )	0.07045300641163399
+Would we probably end up with something different, and likely more efficient than the actual pathway?	0.05940443630877423
+Do you need to take away from the example?	0.013720403581157115
+Is (this favorable to not have highly negatively charged groups next to each other? )	0.004059727155555581
+Do these reactions occur in the cytoplasm?	-0.008289833566701654
+Would it be better to do your UROP work at your convenience?	-0.022627283824678157
+Could organisms utilizing this system not be very fast, or big, or smart?	-0.034785974049822865
+What is it believed in?	-0.039556192574105475
+Would this be better to do your UROP work at your convenience?	-0.09436720271451282
+Is this when kinetics plays its role?	-0.14817964159272168
+If you are thinking about catalysts, are you absolutely right?	-0.15175497778120461
+Would it be better to get paid some money that you can then spend as needed?	-0.3159801494360335
+Were these pathways developed?	-0.32186447350212566
+Does this bring us to the example of I The point of the lecture was to illustrate with an example of a real biochemical pathway the types of ``tricks'' a cell uses to make vital reactions happen efficiently?	-0.4888488111550431

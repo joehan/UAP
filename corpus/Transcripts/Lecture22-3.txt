@@ -1,0 +1,53 @@
+PROFESSOR: Here's cholesterol. This molecule, cholesterol, structure. And it's very hydrophobic. It's a waxy substance. Apart from that little hydroxyl group I put there in the corner, this is a completely hydrophobic molecule. 
+
+Now, this cholesterol also has a transport form called cholesterol ester. And what that has is a fatty acid chain. Remember we learned about fatty acid chains? You're going to see all sorts of things coming back. And then this is the cholesterol over here. And that's even more hydrophobic. That's amazingly hydrophobic. 
+
+So that's cholesterol, cholesterol ester. This is a terrible molecule. You would like to have no cholesterol, right? No. In fact, actually, you couldn't live without cholesterol. Cholesterol is essential to the body. So having learned about cholesterol I'm sure in the popular media as this terrible thing, let's sing the praises of cholesterol for a moment. 
+
+Its functions-- first, it has a critical structural role in the cell membrane. This very hydrophobic cholesterol molecule is actually in the lipid bilayer. And in fact, it's about half of your lipid bilayer is actually cholesterol molecules. 
+
+We drew it with just these phospholipids there. But in fact, about half of your cell membrane actually is cholesterol molecules that are there. And they're important for stiffening your cell membrane. They're very important. And about half the total cholesterol in your body in the cell membranes. So you  need it. It's absolutely essential. 
+
+Moreover, cholesterol is a critical precursor. It's a precursor for the biochemical synthesis of steroid hormones. Estrogen, for example. Glucocorticoids, for example. Estrogen. We talked about estrogen before. We talked about the estrogen receptor. It's also a critical precursor for making vitamin D. And it's a critical precursor for something you may not be as familiar with, but bile acids. 
+
+Bile acids are produced in the liver. And they are then put out into your intestine-- into your digestive system to help emulsify fats. To help with the uptake of fats into the body. So that's an important point. I'll flag that in particular. This helps emulsify fats. 
+
+And in fact, your body is pretty good with this bile acid. It puts out the bile acid. It's used to emulsify fats. And it's taken back up. So it's recycled. We do recycling with these bile acids. 
+
+So cholesterol in your membranes. Cholesterol, precursor to steroid hormones. Vitamin D. Bile acids. Absolutely essential. It's a wonderful thing in moderation. 
+
+Now, where do you get cholesterol? What are the sources of cholesterol? 
+
+STUDENT: [INAUDIBLE] 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Animal products. 
+
+PROFESSOR: Animal products-- 
+
+STUDENT: Shrimp. 
+
+PROFESSOR: Milk, eggs, egg yolk-- all sorts of-- 
+
+STUDENT: Everything that tastes good. 
+
+PROFESSOR: Everything that tastes good. I don't know. We could think about that. 
+
+But many things. So one source is diet. There's dietary cholesterol. Dietary cholesterol-- eggs, et cetera, we'll write. Is that the only way you get cholesterol? Probably not. Why not? 
+
+STUDENT: We have [INAUDIBLE]. 
+
+PROFESSOR: Well, yeah. but you get it from your mom. So that's not much. But it's pretty darned important, right? So what's the other possibility? 
+
+STUDENT: We produce it ourselves. 
+
+PROFESSOR: You produce it yourselves. You actually synthesize cholesterol. So you have a biosynthetic pathway. Remember we've talked about biosynthetic pathways? Pretty much everything is going to come back up in this lecture. You do synthesis. You synthesize your own cholesterol as well as consume it. And it's a long and complicated biochemical pathway with many, many, many, many steps that I'm going to abbreviate to the following. 
+
+It starts out with acetic acid, a very simple molecule that becomes acetyl-CoA. Then it goes et cetera, et cetera, et cetera. You don't need to know it. Then it becomes HMGCoA. Then it becomes mevalonate. Then dot-dot-dot it becomes cholesterol. 
+
+So I'm leaving out a lot of the details for one reason. You'll remember that when we talked about biochemical pathways, we cared about regulated steps in those pathways. And the committed step, or if you take this step you're committed to going on and making cholesterol, is always an important step in a biochemical pathway. I've drawn for you here the committed step right over here. 
+
+And there is an enzyme that catalyzes this conversion. And then it goes down to cholesterol. Otherwise, this can go off and do other things. But if you do this, this is the committed step. And the enzyme that does this is called HMGCoA reductase. Not asking you to memorize lots of things, but it's important to know that there's a long biochemical pathway, starts with something simple-- acetic acid-- gets to HMGCoA reductase, then sends it down this path and commits to making cholesterol. 
+
+Stop a moment and answer this question about cholesterol. 

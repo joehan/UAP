@@ -1,0 +1,805 @@
+Who can be hundreds of amino acids long?	2.6521370465614904
+What's going to turn out asparagine had to settle for the N.?	2.505726976905102
+What does Asparagine's going to turn out had to settle for the N.?	2.4918316440494506
+What 've got an amino acid that's called asparagine?	2.4189660686794823
+What are isomers of each other?	2.3692925046927202
+What act as interesting constraints on proteins?	2.3689665352521025
+What can really write a computer program that just takes the sequence of an arbitrary protein?	2.3581814441967555
+What is a hydrophobic chain hanging off the alpha carbon?	2.3469531370174668
+What do all right test the sequence of an arbitrary protein with?	2.332566236058994
+What do some of the one-letter codes make?	2.3309787408040474
+Where are the structures that proteins take up right?	2.3264436829598063
+What do all right test with two questions about amino acids?	2.31936584875412
+What does everybody refer to as ``amino acids''?	2.315895605754865
+What's the amino group that's not supposed to be playing any role?	2.3147263076074855
+What does Asparagine's going to turn out asparagine had to settle for?	2.3106763267506745
+What is true that there is one OH bond there?	2.305620651269987
+What test the sequence of an arbitrary protein with two questions about amino acids?	2.292252011898629
+Where is the ``protein folding problem'' incredibly easy?	2.286802210018906
+What 're sitting right up here on the edge often easily perturbed in different ways?	2.265174275193202
+What let's see what an amino acid that's called asparagine got?	2.255893761328829
+What 've got three more to go in understanding amino acids?	2.2550662024197337
+What is in a protein of 100 amino acids?	2.253381667421383
+What's going to be really nailed together beautifully held by the laws of chemistry and physics?	2.2528163276423925
+What 're all different shapes and different sizes?	2.2413151491305254
+When do an amino acid that's called asparagine 've got?	2.208667285188861
+What did Alanine get?	2.207540766281903
+What is just some boring bit of hydrocarbon here and leucine and isoleucine?	2.198565606925123
+What do an amino acid that's called asparagine 've also got?	2.1761347947351
+What has a one-letter code?	2.1691116459719724
+What's because the structures that proteins take up are right on the edge of stability?	2.1654638140577873
+What 've got an extra C over here instead of just CH2OH?	2.1640241138080976
+What are polar, uncharged molecules?	2.149082072867561
+What charged positive, polar negative?	2.145884100305479
+What do all right test the sequence of with two questions about amino acids?	2.144867986668938
+What make enormous sense?	2.1373864916767515
+What does Asparagine have?	2.1299576851561226
+Who: Fold Sorry back on itself?	2.1298708010792122
+What do proteins 're not in some deep well that's hard to get out of for?	2.1133781848835893
+What is if actually there is life on the edge?	2.1107897008492293
+What do prolines act as?	2.106445847938854
+What's going to turn out another amino acid got the A already?	2.100849664646659
+What did Alanine let see what an amino acid that's called asparagine got?	2.1001367387304644
+What 're just going refer to all of them as ``amino acids''?	2.0942682506460284
+What do an amino acid that's called asparagine 've had here?	2.08496740439498
+What gets classified here primarily as a hydrophobic amino acid?	2.0847223698338198
+What might an amino acid that's called asparagine not be negatively charged at?	2.0812628030922284
+What 've got uncharged polar, negative polar, positive?	2.065382912649324
+What's chosen to use 20 amino acids?	2.0641097700823647
+What's called the ``protein folding problem?''	2.0586332248783963
+What are the structures that proteins take up right on?	2.046265637735297
+What has chosen to use 20 not any other number?	2.0388275053899765
+What is the carboxyl there that was there?	2.0382880051416885
+What do an amino acid that's called asparagine 've got?	2.031975067915493
+What does an amino acid that's called asparagine have?	2.0262245470696376
+What does Asparagine's going to turn out another amino acid got already?	2.015034523722883
+What 've got glutamine?	2.0138135974796363
+What got the A.?	2.0035397053337456
+What's a little bit polar?	2.0019754426289875
+What do proteins 're not in for people who think in terms of physics?	1.9949767970049777
+What is incredibly easy to state?	1.9893129879753204
+What is the ``protein folding problem'' incredibly easy to?	1.987524628346707
+What are doing better and better and better with protein folding?	1.9871665351643892
+Who here is one carbon longer?	1.9853816808650022
+What is just rearranged in different ways?	1.9779526440210644
+What is S?	1.9760549886744652
+What do an amino acid that's called asparagine 're going to get to here?	1.9748551586677114
+What might an amino acid that's called asparagine not be at pH 7 they 're negatively charged at?	1.9707911490988266
+What is technically not in an ``amino'' acid but an ``imino'' acid?	1.9688343138313196
+What has life chosen to use not any other number?	1.9666384996198134
+What is the same thing just rearranged in?	1.965770477731687
+What are positively charged at pH 7?	1.9592725745452182
+What 've got our polars?	1.9583780384205787
+What is just a measly hydrogen?	1.9564978586680983
+What 're not in some deep well that's hard to get out of for people who think in terms of physics?	1.94995373851724
+What is Serine?	1.9297875332292527
+What has hanging off it a chain-- CH2 CH2?	1.920801811119127
+What's basically the same thing?	1.9150562335895374
+What has life chosen to use 20 not?	1.904109820151491
+What might an amino acid that's called asparagine not be at they 're negatively charged at a different pH?	1.8975811590955076
+What is not an ``amino'' acid?	1.8945707942055898
+Who respond to their environments?	1.8933905263939674
+Who is just two amino acids stuck together?	1.8824591607803045
+What tend not to be so interesting to life?	1.8810412307644062
+What change in interesting ways?	1.880382897431551
+What differ by shape?	1.8796744318854064
+What is the backbone of the peptide here?	1.8772303462197233
+What can make polar bonds?	1.8741086751180103
+What did all right charge?	1.8693386206210882
+Who's got the hydroxyl group there?	1.8676176491583785
+What 've got our hydrophobics?	1.862116175178151
+What 've got a side chain here?	1.854115757501912
+What do the chemists distinguish between?	1.8490940713654533
+What are folks doing better and better and better with?	1.84827065120947
+What does Phenylalanine have here?	1.8329922599823396
+Who fold by themselves?	1.8259415494371787
+What has space bonded with?	1.8233925795043753
+What does every amino acid have?	1.8183388236716682
+What are right on the edge of stability?	1.8144489618950577
+What is here the backbone of here?	1.812804608734675
+What's an ``imino'' acid?	1.8066082751609605
+Whose side chain here?	1.7903400677700188
+What does Asparagine's going to turn out for?	1.7895498963814584
+What do an amino acid that's called asparagine have here?	1.7870874440063034
+What is the peptide in?	1.7790763119284323
+What is it then is not very flexible?	1.772038925918341
+What goes down here to the nitrogen?	1.767665895710064
+What differ dramatically between the classes?	1.756368485504693
+Where do proteins 're sitting right up here?	1.7549358426762514
+What is glycine just?	1.7529971550820398
+What gets classified as hydrophobic?	1.7459719824623052
+What 'll turn out to matter?	1.7206038931246967
+What do Proteins respond to?	1.7176417315954562
+What disulfide bond?	1.7147886436823123
+What 're worth getting to know?	1.7056073331772865
+What has our alpha carbon hanging off?	1.7005266643802732
+What does non-polar's got there?	1.6991806096596274
+What is supposed to be hanging off?	1.6945204662838338
+Who is just the opposite?	1.6918224499752685
+What has a ring structure here?	1.681382956797145
+What's the boring-- and the H over here?	1.6758949615575538
+What do a disulfide?	1.6645450674117601
+What's the R group?	1.664282687391188
+What's because of two things?	1.6606021085919196
+What is all there do we make here?	1.6576084979544417
+What is T?	1.6564069091259714
+What's just a teeny bit longer?	1.650647537674312
+What is a protein?	1.6385669559356757
+What is the short chain?	1.6356715060554385
+What's the boring part?	1.6329272242656705
+What is threonine?	1.632104121628403
+What can make hydrogen bonds?	1.629904477281902
+Can Proteins be hundreds of amino acids long?	1.6252228761201573
+What is the side chain here?	1.591720120495328
+What do proteins change in?	1.5872391422027028
+What 're all polar?	1.586690633882054
+What remains unsolved?	1.5782343319894923
+What goes to the alpha carbon off which is hanging that leucine?	1.571941788172782
+What 're metastable?	1.5558740935232984
+What is our alpha carbon here?	1.5463655974698598
+What is here here?	1.5307490765219083
+What is not hanging off?	1.5294753014744178
+What can a side chain here make?	1.526579053493941
+What sound pretty good?	1.5219721635658312
+What makes it sound really boring?	1.518000600184631
+What do I 'm going to get lots of?	1.5178841667220162
+What are incredibly important?	1.516931073672155
+What is Q. And the people who made up this code?	1.5136714684309567
+What can be pretty big?	1.5102541035946502
+Where do so I 'm asking to anticipate?	1.5071622085358416
+What will an amino acid that's called asparagine see in the next lecture?	1.506787132215793
+What actually is not an amino acid?	1.5032050850788075
+What does protein folding's because of?	1.5028924154990433
+What's a little bigger?	1.4933457028096897
+What does just a teeny bit's just?	1.4921121367466978
+Do prolines act as interesting constraints on proteins?	1.4869089288192106
+What is glutamine?	1.4808085549977927
+Who charged?	1.4764201724187809
+What test yourself with two questions about amino acids?	1.4593989220164376
+What do proteins 're sitting right up here on?	1.4592852370421459
+What is before going on?	1.4554528888206009
+Who 'mes going to get lots of positives pointing at lots of negatives?	1.4551912086163896
+Do some of the one-letter codes make enormous sense?	1.4530893399567293
+Who need to change?	1.452642943016023
+What is CH2OH?	1.4475528740707477
+What does Pretty trivial, right?'s longer?	1.4406983196954226
+Do an amino acid that's called asparagine 've got a bunch more amino acids?	1.433088379230099
+Does Asparagine's going to turn out asparagine had to settle for the N.?	1.4248193254164132
+Who 'ves got to look at a whole bunch of funny combinations?	1.4199352754574814
+What can no one really write?	1.4124872506705406
+What has come around?	1.4062855174908289
+Who 've got the side chain of leucine hanging off?	1.4027266810031325
+What's not perfect?	1.392461995558781
+What's just CH3?	1.3828341237609147
+What is just the opposite by contrast?	1.3807230475987087
+Who 've got an amino acid that's called asparagine?	1.3765502761054536
+What is in blue?	1.3736788166728757
+Who 'mes going to get a structure which there's no alternative to it?	1.3490175636184478
+Who should get to know these amino acids those are?	1.3415551871959255
+What's what I mean by the primary structure?	1.3395235077886412
+Did all right charge positive, polar negative?	1.338549944248149
+What do we 've got the side chain of hanging off?	1.3368311566426598
+What do we 've got uncharged?	1.3355377668655644
+Are aspartic acid and glutamic acid both negatively charged amino acids?	1.328310237059474
+Who are all visiting together?	1.324103886112574
+What let's see what we got?	1.322335911552845
+What should you get to know these amino acids are?	1.318048569195148
+So if somewhere there's a cysteine sticking out, who can get a disulfide bond?	1.3167953280065836
+Does Asparagine have a one-letter code?	1.3163589731740335
+What chains?	1.313295698490958
+What's supposed to?	1.3022584306006617
+What here is in purple?	1.2936280363127366
+What do I 'm going to get?	1.2926311106828758
+Who 'll we make a little convention of here?	1.2924158173865332
+Who 'll make a little convention of hydrophobics here?	1.2892601899161762
+Do an amino acid that's called asparagine 're going to get to our nonpolar molecules here?	1.2892511578144465
+Did Alanine let's see what an amino acid that's called asparagine got?	1.2854964760118048
+What is not very long?	1.2838443075691335
+So if somewhere else there's a cysteine sticking out, who can get a disulfide bond?	1.281078840934752
+What do this 've got uncharged?	1.278865419093738
+What's polar, nothing special?	1.2765736301743105
+Is PROFESSOR: Extra-- the carbon chain here one carbon longer?	1.2763382560049013
+Did Alanine get the A.?	1.2701845416063864
+Who 'mes going to give you a word of length 100 written in the language of amino acids?	1.2663238459885546
+So if they happen to come near each other, who can get a disulfide bond?	1.254479999488347
+Can no one really write a computer program that just takes the sequence of an arbitrary protein?	1.252213572316088
+Do all right test the sequence of an arbitrary protein with two questions about amino acids?	1.2469444233449338
+What is an R because it's ``AR-ginine,'' and things like that?	1.246064077646833
+What refers to all of them as ``amino acids''?	1.2428320634255745
+What matter?	1.2406505454568582
+Who do all right test with two questions about amino acids?	1.2392287299232119
+What does it's going to turn out had to settle for the N.?	1.2389892512376846
+Do an amino acid that's called asparagine 've got hydrophobic amino acids?	1.2385159552216631
+So if somewhere there's a cysteine sticking out, what can you get?	1.228187297810707
+Is Serine S?	1.2268333639927387
+What is funny?	1.2239108000138947
+Who 've got three more to go in understanding amino acids?	1.2235573448774013
+Do an amino acid that's called asparagine 've had polar bonds here?	1.222888188707039
+What are they isomers of?	1.217068316992969
+Who 're trying to get the positives not by the positives?	1.2145912534060526
+Is the same thing just rearranged in different ways?	1.2088982421735945
+Might an amino acid that's called asparagine not be negatively charged at a different pH?	1.2063286198184144
+What do so I 'm asking to anticipate in?	1.2029182065403208
+So if this side chain is here, what can make polar bonds very good?	1.2006838118230934
+So if somewhere else there's a cysteine sticking out, what can you get?	1.1973413814180502
+How many amino acids does life's chosen to use?	1.1960709674952876
+What did Alanine let see what we got?	1.1953383766802563
+Did PROFESSOR: fold Sorry back on itself?	1.195111117418059
+What do all right test yourself with?	1.1946409994554155
+What's mostly not?	1.1938047375463208
+What's very interesting?	1.1931626299065154
+What is the peptide backbone?	1.1894423975425046
+Did STUDENT: fold Sorry back on itself?	1.189282886435894
+Do positives by negatives sound pretty good?	1.188259216787067
+Who 've got a bunch more amino acids?	1.187407414878611
+Who are isomers of each other?	1.1862182571013475
+Who might have to write a really complicated computer program to fold up a protein to best satisfy all of these somewhat conflicting rules?	1.1816851723363757
+What refers to all of this as ``amino acids''?	1.1786992072752533
+Is the ``protein folding problem'' incredibly easy to state?	1.1754450397380634
+What is this hanging off the alpha carbon?	1.1739237016766526
+Is the peptide in a protein of 100 amino acids?	1.1738383824819847
+What is huge?	1.1687627896417647
+What does it's going to turn out asparagine had to settle for?	1.165675017309376
+Who might not be at pH 7 they 're negatively charged at a different pH?	1.1653394663653485
+Do an amino acid that's called asparagine 've got CH3s?	1.1642650552579181
+What do we 're trying to get the positives not by?	1.1614838262409806
+What do they 're not in some deep well that's hard to get out of for?	1.1600908330702038
+What do we 're trying to get not by the positives?	1.1583435115641323
+What's pretty small compared to these side chains?	1.1559872635810056
+What did PROFESSOR: fold back on itself?	1.15491074780443
+Who 'res going to tell me there's an OH here?	1.1529355355256752
+What did STUDENT: fold back on itself?	1.1490825168222645
+Do an amino acid that's called asparagine 've got some negatives?	1.1425993702010766
+What chain here?	1.1392259428193812
+What is actually very complicated?	1.1373928164047795
+Who 're going to put the hydrophilic bits?	1.1333799127927882
+What are this isomers of?	1.1332701024604015
+Is an amino acid that's called asparagine also polar?	1.1265811983680432
+What has no side chain to speak of at all?	1.1261046816591498
+Who 've got an extra C over here instead of just CH2OH?	1.1242551571941504
+Do proteins 're sitting right up here on the edge often easily perturbed in different ways?	1.122736260548463
+Do an amino acid that's called asparagine have our boring bit here?	1.1189396171483676
+Who 're going to make this beautiful lipid bilayer?	1.1152569754761057
+What is the oxygen?	1.1124396793427855
+Is the side chain supposed to be hanging off?	1.1110975751304406
+What is the thread that's holding this all together?	1.1079052590292626
+Do an amino acid that's called asparagine 've also got some positives-- lysine, arginine, and histidine?	1.1076758802797348
+Does the ``protein folding problem'' remain unsolved?	1.1076685447913217
+Does an amino acid that's called asparagine have a three letter code?	1.1070436987499623
+How many choices for the first one and 20 choices for the second one do well I 've got--?	1.0990668907460224
+Is glycine just a measly hydrogen?	1.09871379985662
+What do you 've got to look at?	1.0958219090228871
+Who 'mes going to get everything arranged perfectly?	1.0904474651150702
+What did PROFESSOR: fold Sorry back on?	1.0901395200020065
+If I toss it into the cytoplasm of the cell, what folds itself up?	1.0895539212766536
+Does an amino acid that's called asparagine's boring to write out threonine and glutamine all the time?	1.0878482593546455
+Are the structures that proteins take up right on the edge of stability?	1.0868652056171761
+Who 're sitting right up here on the edge often easily perturbed in different ways?	1.085533241166699
+Who told you the protein structure was incredibly straightforward?	1.0847017268254215
+What did STUDENT: fold Sorry back on?	1.0843112890198414
+What 're going to make this beautiful lipid bilayer?	1.083889784703167
+Who might they not be at pH 7 're negatively charged at a different pH?	1.0793803474696673
+What are both negatively charged amino acids?	1.077594934864309
+Who 're just going refer to all of them as ``amino acids''?	1.0750034811235758
+Are folks doing better and better and better with protein folding?	1.0701138903663532
+What is what we have here in proline just the opposite by?	1.0694510987137815
+What's good?	1.0687077305102828
+Does life's chosen to use 20 amino acids?	1.0685834773364191
+Does non-polar's got the hydroxyl group there?	1.0639764128512916
+What differ by size within their classes?	1.0602525169296708
+Who 're all different shapes and different sizes?	1.0574880539821003
+Is the only way that's possible if actually there is life on the edge?	1.0574093028116165
+'ll an amino acid that's called asparagine come back?	1.0557438705210473
+What has bonded with this nitrogen?	1.053483864447014
+What's happened?	1.049678018360098
+What might they not be at pH 7 're negatively charged at a different pH?	1.0490641063905835
+Does Asparagine's going to turn out another amino acid got the A already?	1.039101835416877
+Who 're going to get to our nonpolar molecules here?	1.0379230120895455
+What do they 're not in for people who think in terms of physics?	1.0374791179538216
+What are all of these?	1.0353343999976028
+What nail it as to exactly what structure it's going to form?	1.032740479773134
+Who do you 're going to tell there's an OH here?	1.0326263027425595
+Who 've got uncharged polar, negative polar, positive?	1.0324403522952803
+What do we 've got hanging off?	1.029967287669141
+Does every amino acid have a name?	1.0174047242028101
+Who does it seem to make your head hurt to think about how in the world you would ever fold a protein so?	1.010815874606131
+Do Proteins respond to their environments?	1.0071241622691995
+Who Leucine know?	1.0064299394549923
+What is what this have here in proline just the opposite by?	1.0053587696304778
+Did Positively charge?	1.0020856377135825
+Is the oxygen the carboxyl there that was there?	1.0010328763536407
+What 've got a bunch more amino acids?	1.0000921576553568
+Is the amino acid an amino acid?	0.9934043309794396
+What do we 're just going refer to as ``amino acids''?	0.9917386867278777
+Has life chosen to use 20 not any other number?	0.9914331959986293
+Who 've also got some positives-- lysine, arginine, and histidine?	0.9851441988564134
+If I toss it into the cytoplasm of the cell, what does it fold up?	0.9823598448612418
+Who distinguish between these things?	0.9788664045119242
+Who did I tell the protein structure was incredibly straightforward?	0.9689107422789145
+Is here the backbone of the peptide here?	0.9681798539736404
+What does Asparagine's going to turn out got the A already?	0.964603250534301
+What's easy to give you a protein that would not be hard to fold?	0.9550033297340403
+Who 've got glutamine?	0.9507524844169688
+What should you get to know these amino acids?	0.949691559733169
+Do Proteins fold by themselves?	0.9482642155700001
+If I give you an amino acid sequence, what folds itself up?	0.9474782307163314
+Who's wrapped around?	0.9469396269542476
+What do so I 'm asking to anticipate that something as trivial as one extra carbon in length here can have if in the right place?	0.9467866722416252
+Has our alpha carbon hanging off it a chain-- CH2 CH2?	0.9438250601117035
+What will we see in the next lecture that that one extra carbon can make?	0.9359112116450834
+Who gives you the amino acids?	0.9341267334636867
+What's how could you understand how it's going to resolve all those conflicts?	0.9334255242022491
+What will we see in that that one extra carbon can make a huge difference in something working?	0.9315597806386975
+What do this 're just going refer to as ``amino acids''?	0.9302879667169137
+Does Phenylalanine have a ring structure here?	0.9281928709030633
+Do Proteins need to change?	0.9278324358863432
+What might they not be at they 're negatively charged at a different pH?	0.9273583943238377
+What have this one weird guy-- cysteine?	0.9241763835837917
+What is arginine?	0.9239684659450758
+Who 've got hydrophobic amino acids?	0.9204378792800765
+Do a disulfide bond?	0.9193514011778148
+What might matter?	0.918704155013494
+What is this just some boring bit of?	0.9157102430750155
+Who 've got our polars?	0.9110984499494255
+Do proteins 're metastable?	0.9105339641659707
+What's hydrophobic?	0.9069266302648767
+Do Arginine's side chain here?	0.9061215936413218
+Can a side chain here make hydrogen bonds?	0.9049544070475526
+Who can make?	0.9009020903258187
+What is an amino acid?	0.9001511866881906
+Who 'll tell you which ones they are?	0.8991095682528287
+What does it's going to be really nailed together beautifully held by?	0.8989988260580983
+What is what we have here in proline by contrast?	0.8980465525669057
+Who have this one weird guy-- cysteine?	0.8957826381452865
+What might they not be at pH 7 they 're negatively charged at?	0.8933706279937048
+Does Pretty trivial, right?'s just a teeny bit longer?	0.8917736360168917
+Who are very different in their chemical properties?	0.891401617360297
+Who 've got CH3s?	0.889413481476808
+What do we 're going to put?	0.8888131773151544
+Do proteins change in interesting ways?	0.8877071003939565
+Who differ by size within their classes?	0.8851639367285342
+What do they 're?	0.884903444517873
+What do those 're?	0.8838853895507786
+What is we make these peptide bonds here?	0.8820416433676783
+Is the number of options huge?	0.8811266105991022
+Might an amino acid that's called asparagine not be at pH 7 they 're negatively charged at a different pH?	0.8785714527072974
+What might they not be negatively charged at?	0.8739973284615254
+Who gives me the structure?	0.8738376243024137
+What do well I 've got--?	0.873794971724446
+What's boring to write out threonine and glutamine all the time?	0.8712853315493687
+What does it's going to turn out another amino acid got already?	0.8700332142815848
+Is threonine T?	0.8700222724959303
+Who 've had polar bonds here?	0.8679967789818264
+Who 've got arginine?	0.8675204875462961
+What are very different in their chemical properties?	0.8660985577696696
+What 'll we make here?	0.8636928399490991
+Does protein folding's because of two things?	0.8582361578747715
+Who 're going to see how well this works here?	0.8579621386495764
+Is the side chain here CH2OH?	0.8551782661107805
+What do they 're going to make?	0.854542245136453
+Who so 'mes asking to anticipate that something as trivial as one extra carbon in length here can have a massive effect if in the right place?	0.8535416710806687
+Who just brought up a dipeptide?	0.8524412305487155
+Who have the amino acids here been provided to right here?	0.8515584574866193
+So if they happen to come near each other, what can you get?	0.8507887521958257
+What seems to make your head hurt to think about how in the world you would ever fold a protein so boy?	0.848545745517677
+Is Methionine funny?	0.8477180547851209
+Who might not be negatively charged at a different pH?	0.8476579883371307
+Who will see in the next lecture that that one extra carbon can make a huge difference in something working?	0.8474996723731483
+What is what this have here in proline by contrast?	0.8346218517185409
+What 're going to get to our nonpolar molecules here?	0.8343891721400545
+What did PROFESSOR: fold it back on?	0.8330929926749961
+What do we 've also got?	0.8329296215128874
+What has it bonded with?	0.8300049666287674
+What are aspartic acid and glutamic acid?	0.8279343180975545
+What's what I 've got?	0.8275748187138805
+What did STUDENT: fold it back on?	0.8272647616928306
+What has a name?	0.8268825426136528
+What does that's going to be really nailed together beautifully held by?	0.8256003603172855
+What do we 've got instead of just CH2OH?	0.8248388263916129
+What are these positively charged at?	0.8237165765652903
+Who 've got some negatives?	0.8207506677779235
+What have not written the C-alpha H, or N-H, we have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	0.8175843699473722
+If I give you an amino acid sequence, what does it fold up?	0.816644739491208
+What do you know?	0.8151448600750824
+Who 've got our hydrophobics?	0.8148365867069969
+Is the short chain a protein?	0.8145286883231679
+Who have simply an amino acid?	0.8125047409456703
+Who 've got a side chain here?	0.8052483022751837
+Does a side chain here's a little bigger?	0.804059778121964
+What might not be negatively charged at a different pH?	0.801276235728468
+Who 'll I tell which ones they are?	0.7943449087461012
+So if this side chain is here, what can this side chain make?	0.79152641187708
+What do you 're going to tell me there's here?	0.7910973076687591
+What 've also got some positives-- lysine, arginine, and histidine?	0.7903190697622917
+What do those 've got instead of just CH2OH?	0.789522320824559
+Who have not written the C-alpha H, or N-H, we have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	0.7892946173456348
+Do proteins 're not in some deep well that's hard to get out of for people who think in terms of physics?	0.7884529983979458
+Is the dipeptide just two amino acids stuck together?	0.7874677991396926
+Does a side chain here's polar, nothing special?	0.7818952538458221
+Where do they 're sitting right up here?	0.780596854674013
+What do those tend not to be so interesting to?	0.7741577477759178
+What will an amino acid that's called asparagine see in that that one extra carbon can make a huge difference in something working?	0.7720451893121087
+What did I tell you was incredibly straightforward?	0.7709513891988324
+What do we 've got an extra C over here instead of?	0.7638680895607859
+What did I just bring up?	0.7609592111294146
+What's an extraordinarily flexible amino acid?	0.7601561358148663
+What is the amino acid?	0.756578083266235
+Do Might matter?	0.7535212343100781
+Does just a teeny bit's just CH3?	0.74421002438669
+What does that's called?''	0.7411638864799293
+Who 're going to put them together?	0.7402219107014254
+What 've got hydrophobic amino acids?	0.7391305195535163
+Who might an amino acid that's called asparagine not be at pH 7 're negatively charged at a different pH?	0.7384887241089031
+What do no one nail as to exactly what structure it's going to form?	0.7360951497093111
+Who do we have?	0.7357665675852834
+Who 're not in some deep well that's hard to get out of for people who think in terms of physics?	0.7346617925756886
+What do we 're going to get to here?	0.7307462955015935
+What do we 've had here?	0.7248649787761121
+What do those 've got an extra C over here instead of?	0.7210636350379445
+What nail a really complicated computer program to fold up a protein to best satisfy all of these somewhat conflicting rules as to exactly what structure it's going to form?	0.7206237106694744
+Who have our boring bit here?	0.7205676123092308
+Who is all we do make these peptide bonds here?	0.7199734208042221
+Who have some different groups?	0.7189832904172466
+Is the right before going on?	0.7189436943113072
+What 've got CH3s?	0.718920337244296
+What does life's chosen to use?	0.7125001157608535
+What does it's basically?	0.7080335443580723
+What do those have not written the C-alpha H, or N-H, we have not written because that's the boring-- and the H over here-- because that's the boring part?	0.7080234384759141
+What might an amino acid that's called asparagine not be at pH 7 're negatively charged at a different pH?	0.7064431428323827
+Who do Proteins fold by?	0.7056977684553416
+What is the problem with that then is not very flexible?	0.7038587703436809
+What's bonded back to that amino group?	0.7022124459292409
+Is the side chain in blue?	0.7010946293614593
+Who differ by shape?	0.7006183784117122
+Who change in interesting ways?	0.6952314838598288
+Does protein folding's not perfect?	0.6912437464610559
+What do Proteins fold by?	0.6877395828521216
+What 've had polar bonds here?	0.6866894192552657
+Who do we have not written the C-alpha H, or N-H, have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	0.6862724557502791
+What do we have not written the C-alpha H, or N-H, -- because that's the boring part?	0.6850803538692543
+What does this guy here's bonded back to?	0.6808811983945062
+What do they differ by?	0.6804416028495932
+Who have some angles?	0.679580363918397
+Who: Fold it back on itself?	0.6763411747282033
+Who owes you 11?	0.6763083966852477
+What does it go to?	0.6720712941160196
+Who do we 're going to put together?	0.667224616940369
+What have some angles?	0.6657033226670361
+Who said that glycine here was incredibly flexible?	0.6648497891993317
+Who do this have?	0.6640465054277196
+Has space come around?	0.6618076510315054
+Who is all there do make these peptide bonds here?	0.660030012675038
+Is one extra carbon not very long?	0.6568477079062454
+What does this's basically?	0.6541699157068372
+What can it make?	0.6483077212936479
+Is glutamine also polar?	0.6479527860826451
+Who's bonded back to that amino group?	0.6450464260647806
+What 've got some negatives?	0.6439492311738833
+What do we 're going to put together?	0.6430334414927725
+What's the best you can?	0.6394506157221598
+What do those have not we have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	0.6383785210049262
+What do they have?	0.6342068803365211
+What do we 've got?	0.6295546374735332
+What do those have not written the C-alpha H, or N-H, -- because that's the boring part?	0.6281282286817946
+Might a little bigger matter?	0.6281066458255748
+What are they?	0.6264673548568889
+What do they differ dramatically between?	0.6260007144923729
+What's got the hydroxyl group there?	0.6253046352636655
+What did Alanine let's see?	0.6252356304783708
+Who do those have not written the C-alpha H, or N-H, have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	0.6244833119787112
+What do they change in?	0.6215682298596874
+How many amino acids stuck together is the dipeptide?	0.6201969822295301
+What do we have?	0.6193484727954484
+What does it's bonded back to?	0.6185379543791287
+What do those 've got?	0.6158699844454216
+What does that's?	0.6130723776500047
+What does this go to?	0.6110754767879496
+What will an amino acid that's called asparagine see in the next lecture that that one extra carbon can make?	0.6094869859831846
+What does it have?	0.6070705125510336
+Who 'ves also got tyrosine and tryptophan?	0.6065083911341096
+What has a three letter code?	0.6018709630673889
+What does it's got there?	0.59960208716676
+What's hanging off the alpha carbon?	0.5987673905786768
+Is the side chain here in purple?	0.5978661731328003
+What do this differ by?	0.5974404258232533
+Does just a teeny bit's hydrophobic?	0.5939151599680681
+What does it go down here to?	0.5872171167580948
+Will we see in the next lecture that that one extra carbon can make a huge difference in something working?	0.58439409846474
+What does it's hanging off?	0.5830742873280668
+What can that make?	0.5815822995837971
+Who differ dramatically between the classes?	0.5803352688100907
+Are all the hydrophobics all visiting together?	0.5769623151385923
+What are they very different in?	0.5730092341481456
+Does space's supposed to?	0.5592974222887563
+What do I have?	0.5481482314034332
+What do this differ dramatically between?	0.5451762364161579
+What do this 've got?	0.5446863999344027
+What are this?	0.5346521752457716
+So if somewhere there's a cysteine sticking out, can you get a disulfide bond?	0.5341582261869386
+What might an amino acid that's called asparagine not be at pH 7 at a different pH?	0.531879651016862
+What have our boring bit here?	0.5284962237653974
+What does this go down here to?	0.5245291826681755
+Who can see it?	0.5240770043774889
+Who 're worth getting to know?	0.5201008842626993
+Who has isoleucine?	0.5198883029028922
+Did Alanine let's see what we got?	0.49895254017585877
+So if somewhere else there's a cysteine sticking out, can you get a disulfide bond?	0.49813156387865654
+Does it go to the alpha carbon off which is hanging that leucine?	0.49533699194054215
+What do they 're sitting right up here on?	0.48915657627767817
+What does it's going to turn out for?	0.48538568016328765
+What do I 've also got?	0.48082332058104216
+Who has leucine?	0.47987988381817637
+What do we have not written the C-alpha H, or N-H, we have not written because that's the boring-- and the H over here-- because that's the boring part?	0.4693148629553323
+Do you 've got to look at a whole bunch of funny combinations?	0.4626225207302568
+Do I 'm going to get lots of positives pointing at lots of negatives?	0.45201544537137917
+Is glutamine Q. And the people who made up this code?	0.45046008513773117
+What might they not be at pH 7 at a different pH?	0.43490479725069475
+Does this go to the alpha carbon off which is hanging that leucine?	0.43047347915681655
+Do we 've got the side chain of leucine hanging off?	0.4227037017118169
+Do we 've got an amino acid that's called asparagine?	0.420889262060109
+What is all we do we make here?	0.41564816654807424
+What does it's because of?	0.40734152620935293
+What do we have not we have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	0.39865267244246194
+Should you get to know these amino acids those are?	0.3983852025003918
+Who 're all polar?	0.3981613481883748
+What do we have here?	0.3953979382853914
+Who well 'ves got 20 choices for the first one and 20 choices for the second one--?	0.39235319424478843
+What does it's just?	0.39203233250182157
+Who were able to say?	0.38889828003087956
+What will we see in the next lecture?	0.3864960700647473
+Who should know at least once?	0.38594115732973244
+Do those 've got an amino acid that's called asparagine?	0.38016479335831965
+Who 're metastable?	0.3663143763154002
+Are all of these polar, uncharged molecules?	0.3617132584307998
+Do we 've got a bunch more amino acids?	0.35680401102390036
+What can you see?	0.3549124233890999
+Who 'll come back?	0.35400416291531456
+Do all right test yourself with two questions about amino acids?	0.3530615817566387
+What is this guy?	0.33223776878402345
+Who 'mes not going to care?	0.3280656281724239
+'ll we make a little convention of hydrophobics here?	0.3221696968888961
+Do they 're going to make this beautiful lipid bilayer?	0.3163595884888193
+What does that's over here?	0.30488837923520595
+Does it's going to turn out asparagine had to settle for the N.?	0.3020766510320567
+What also is polar?	0.2997091083973673
+Do we 're going to put the hydrophilic bits?	0.2877332675914275
+Is what we have here in proline just the opposite by contrast?	0.28658101628644816
+What should you get to know those are?	0.2717836444972468
+Do they 're all different shapes and different sizes?	0.2605362083240528
+Does that's the amino group that's not supposed to be playing any role?	0.26040561342348356
+Is this a hydrophobic chain hanging off the alpha carbon?	0.2599871387400867
+Do we 've got three more to go in understanding amino acids?	0.2575781110992832
+Are they isomers of each other?	0.25076932969020804
+Does it have no side chain to speak of at all?	0.2483729789081104
+What is the dipeptide?	0.24011708696815615
+Do we 're trying to get the positives not by the positives?	0.23697737311492872
+How many amino acids does it's chosen to use?	0.2308079078102261
+What does that make sound really boring?	0.22627304153339534
+Do those 're all different shapes and different sizes?	0.2261450386527719
+What 'll I tell you?	0.22465241875504094
+Is what this have here in proline just the opposite by contrast?	0.22248868720314485
+Is it true that there is one OH bond there?	0.2210008621156363
+Does that's what I mean by the primary structure?	0.21884842550833428
+What is it true?	0.21194299702300823
+What might you have to write?	0.21150087023767217
+Do Leucine you know?	0.2056746182167135
+Who might think?	0.20495690215107287
+Does it's pretty small compared to these side chains?	0.20492120794961277
+Might you have to write a really complicated computer program to fold up a protein to best satisfy all of these somewhat conflicting rules?	0.2038932624921359
+Do we 've got uncharged polar, negative polar, positive?	0.20176709471183774
+Do this 've got three more to go in understanding amino acids?	0.19578640797193048
+So if this side chain is here, can this side chain make polar bonds very good?	0.19532250529007822
+If I toss it into the cytoplasm of the cell, does it fold itself up?	0.18206222950388895
+Does everybody refer to all of them as ``amino acids''?	0.1775914688028588
+Will an amino acid that's called asparagine see in the next lecture that that one extra carbon can make a huge difference in something working?	0.17633357188313603
+So if they happen to come near each other, can you get a disulfide bond?	0.17167713063232437
+What is this?	0.1706427872830194
+Are this isomers of each other?	0.16926167660865454
+Do they 're sitting right up here on the edge often easily perturbed in different ways?	0.1682105771945568
+Does it's going to be really nailed together beautifully held by the laws of chemistry and physics?	0.16548827682670764
+Do we 've also got some positives-- lysine, arginine, and histidine?	0.16204963415969065
+Who knows?	0.15802056836381317
+Who 've got here?	0.15640058010101265
+What 'll come back?	0.15624119318045282
+What does everybody refer to all of them as?	0.1558124494095554
+Does that's called the ``protein folding problem?''	0.15282169496063958
+What does it seem to make so boy?	0.15061820687529726
+Might they not be at pH 7 they 're negatively charged at a different pH?	0.1459920794377525
+Does this's pretty small compared to these side chains?	0.1447390994237261
+What does Asparagine's going to turn out?	0.14052403266524593
+Do this 've got uncharged polar, negative polar, positive?	0.14047310668849455
+Is that true that there is one OH bond there?	0.13915592804829036
+Does it get classified here primarily as a hydrophobic amino acid?	0.1390873394474874
+Does that's because the structures that proteins take up are right on the edge of stability?	0.13358419667265142
+Is arginine an R because it's ``AR-ginine,'' and things like that?	0.12789807848104173
+Who get joined together?	0.1247155317943045
+Does it's an extraordinarily flexible amino acid?	0.12310513133839729
+Who has phenylalanine here?	0.11607937672715996
+What might not be at pH 7 they 're negatively charged at a different pH?	0.11607548009429225
+What is that true?	0.11320128332540702
+Does everybody refer to all of this as ``amino acids''?	0.11317927201983391
+Is this just some boring bit of hydrocarbon here and leucine and isoleucine?	0.11211690007294628
+What does it's longer?	0.10944558943195704
+Might they not be negatively charged at a different pH?	0.10878792461293951
+Does it have a one-letter code?	0.10481299743922179
+Do we 've got an extra C over here instead of just CH2OH?	0.10431248783942149
+Is the peptide backbone the thread that's holding this all together?	0.1022241319025281
+Does it's chosen to use 20 amino acids?	0.10001768324530413
+Do I 'm going to get everything arranged perfectly?	0.09867853561486628
+What get joined together?	0.09863830538477658
+Do we 've got a side chain here?	0.09703746710099859
+What do we 're going to see?	0.096173072421053
+Do we 've got glutamine?	0.0943340179673986
+Does that's going to be really nailed together beautifully held by the laws of chemistry and physics?	0.09357249039256432
+What does everybody refer to all of this as?	0.092405878904263
+What is this here?	0.0843587290648169
+Has it bonded with this nitrogen?	0.08163498909156308
+Do those 've got glutamine?	0.08064936493928654
+Do we have this one weird guy-- cysteine?	0.07693939295921615
+Do we 've got hydrophobic amino acids?	0.07465850501574733
+Has space bonded with this nitrogen?	0.06628661664558955
+Do those 've got a side chain here?	0.0653262702904347
+Does that get classified here primarily as a hydrophobic amino acid?	0.06272412628438184
+Do those 've got an extra C over here instead of just CH2OH?	0.059725188327106604
+Do you 're going to tell me there's an OH here?	0.05767547825416264
+Do I 'm going to get a structure which there's no alternative to it?	0.05462028365401528
+Does it's a little bit polar?	0.04324121281534277
+Did I just bring up a dipeptide?	0.04298171755582869
+What does that's by?	0.04287554334692478
+Is this technically not in an ``amino'' acid but an ``imino'' acid?	0.033138240249661166
+Do we 've had polar bonds here?	0.03142073816340352
+Do we 've got CH3s?	0.029861669301439964
+Do the chemists distinguish between these things?	0.028967981709504986
+Have the amino acids here been provided to us right here?	0.02884246023328796
+Are these positively charged at pH 7?	0.026274463504639023
+Do we 're going to see how well this works here?	0.02344528865234663
+What do you 're going to tell me?	0.019634954594363707
+Do we 've got arginine?	0.011507937239640942
+What's wrapped around?	0.00813406164052033
+What did I tell you?	0.007818581546029435
+Do this have this one weird guy-- cysteine?	0.007197219692700596
+If I give you an amino acid sequence, does it fold itself up?	0.006506330784423753
+'ll that turn out to matter?	0.006087532150944153
+Do this 've got our polars?	0.005658124945544074
+Does it's got the hydroxyl group there?	0.0015851807736102508
+Do this differ by size within their classes?	-7.383001800109756E-4
+What do this 're just going refer to all of them as?	-0.002584546990403558
+Does it get classified as hydrophobic?	-0.003963586132386121
+Do we have simply an amino acid?	-0.005696043226792957
+Does it's boring to write out threonine and glutamine all the time?	-0.008893232917571714
+Do this 're just going refer to all of them as ``amino acids''?	-0.01012030170985212
+Do those tend not to be so interesting to life?	-0.014155115799884266
+Do I 'm going to give you a word of length 100 written in the language of amino acids?	-0.015775057684143112
+What can make?	-0.021925904988096656
+Does that's a little bit polar?	-0.023625406945013916
+Do we 've got some negatives?	-0.024471520777979316
+Does it's hanging off the alpha carbon?	-0.03140396189369632
+Who go?	-0.03223150393354146
+Who goes?	-0.03432922574293651
+Does it's bonded back to that amino group?	-0.035753059303189616
+Does it's an ``imino'' acid?	-0.03605155571823415
+Can it make hydrogen bonds?	-0.03706004175359778
+'ll I tell you which ones they are?	-0.03988353889818752
+Does it's basically the same thing?	-0.04162649025375664
+What does it's?	-0.04344140008382302
+Can that make polar bonds?	-0.0507941192129413
+Does it seem to make your head hurt to think about how in the world you would ever fold a protein so boy?	-0.0569639527714072
+Does it go down here to the nitrogen?	-0.06625195032336184
+Do they 're worth getting to know?	-0.0710336221063177
+Is it not an ``amino'' acid?	-0.07308563760332576
+Do they change in interesting ways?	-0.07318735527498998
+Do they differ by shape?	-0.07334000250992667
+Do no one nail it as to exactly what structure it's going to form?	-0.0734793672727474
+Is the problem with that it then is not very flexible?	-0.07380769162437328
+Does that get classified as hydrophobic?	-0.08646889128666091
+Do they have some angles?	-0.0870122583807642
+Do this 've got our hydrophobics?	-0.09060373829688428
+Does this's an ``imino'' acid?	-0.09454873627754701
+Do we have some different groups?	-0.09461027517896681
+Do those 're worth getting to know?	-0.09708151310155255
+Do they 're metastable?	-0.09748764173843161
+Does this's basically the same thing?	-0.09896528283605033
+Do we 're going to get to our nonpolar molecules here?	-0.1008862497784897
+Does it's going to turn out another amino acid got the A already?	-0.10328490373831745
+Did I say that glycine here was incredibly flexible?	-0.10495198541621953
+Who has?	-0.10562190098067059
+Can those side chains be pretty big?	-0.10689739941940979
+Does it have a three letter code?	-0.12115066603141011
+Do I have isoleucine?	-0.12403065171783512
+Does this go down here to the nitrogen?	-0.12950392333389749
+What is all we do?	-0.13678467475232592
+Is this not an ``amino'' acid?	-0.13841211430825262
+Is this side chain not hanging off?	-0.13918614147406938
+Do I 've also got tyrosine and tryptophan?	-0.14366419216274773
+Does that's what I 've got?	-0.15466303325947095
+Do this differ by shape?	-0.15634117953626658
+Do I have leucine?	-0.15665970569096688
+Do no one nail a really complicated computer program to fold up a protein to best satisfy all of these somewhat conflicting rules as to exactly what structure it's going to form?	-0.15923790685512662
+Do they 're not in some deep well that's hard to get out of for people who think in terms of physics?	-0.1595714443682268
+Did I tell you the protein structure was incredibly straightforward?	-0.15995917735997378
+What does it's going to turn out got the A already?	-0.18598713358958618
+Are they very different in their chemical properties?	-0.18692573829223225
+What is all there do?	-0.190210686009608
+Does it's polar, nothing special?	-0.19060659754143172
+Do they differ dramatically between the classes?	-0.1928865008363143
+What did I say?	-0.19403914611798267
+Does it's a little bigger?	-0.1973126186540024
+Are those incredibly important?	-0.19859930321916175
+Does it's easy to give you a protein that would not be hard to fold?	-0.2075373290861131
+Does it's how could you understand how it's going to resolve all those conflicts?	-0.2084346372598651
+Were we able to say?	-0.21096384257956524
+Should you know at least once?	-0.2147239095736968
+Do they 're all polar?	-0.21492661004785485
+Does that's the boring-- and the H over here?	-0.22216560375039696
+Do they differ by size within their classes?	-0.22298185440700635
+Do those 're all polar?	-0.22706903658301192
+Does this guy here's bonded back to that amino group?	-0.22878675834975604
+Did PROFESSOR: fold it back on itself?	-0.23200145851791953
+Did STUDENT: fold it back on itself?	-0.2378296895000851
+Do we 've got our polars?	-0.23783529431900696
+'ll we come back?	-0.23906202573262947
+What do we 're just going refer to all of them as?	-0.24178525281308594
+Do we 're just going refer to all of them as ``amino acids''?	-0.24804615318970158
+What do we have simply?	-0.2486051895796888
+Does that's the R group?	-0.2502334616540576
+Is it also polar?	-0.2557080779486345
+What does it get classified here primarily as?	-0.2629228844616329
+What does it's chosen to use?	-0.265148197946907
+Is all there do we make these peptide bonds here?	-0.2694483220921986
+Do this differ dramatically between the classes?	-0.2720784546999362
+Do those have not written the C-alpha H, or N-H, we have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	-0.27321676997890165
+Does the sequence of an arbitrary protein's how could you understand how it's going to resolve all those conflicts?	-0.2754106754768333
+Does it's just a teeny bit longer?	-0.27919521142874193
+Do we 're going to put them together?	-0.28286418848405104
+Does that's the boring part?	-0.28555508729650714
+What have been provided to us right here?	-0.28773706728530923
+Is this guy just the opposite?	-0.29461277795951113
+Does it's because of two things?	-0.3061180812295563
+Does it's just CH3?	-0.3116427101248844
+Do I 'm not going to care?	-0.32441111760067365
+Do we 've got our hydrophobics?	-0.3340971575614353
+Do I give you the amino acids?	-0.33550922620401424
+What does that get classified here primarily as?	-0.342152407220617
+Has it come around?	-0.3438103412943183
+What will see in the next lecture that that one extra carbon can make a huge difference in something working?	-0.3561628051994006
+What is this technically not in?	-0.3695002200729014
+Can this guy here make?	-0.3851974395614939
+Does it's hydrophobic?	-0.3853299301241433
+What is the problem with that?	-0.3888543660940096
+Do you give me the structure?	-0.3895240834932392
+Is this our alpha carbon here?	-0.3899318156958431
+Does it's not perfect?	-0.39272441000986014
+Might you think?	-0.3992278992913676
+Do we have our boring bit here?	-0.40119926273804696
+Does that make it sound really boring?	-0.4109140718523938
+Is this actually not an amino acid?	-0.43076890679880964
+What is it not?	-0.43916878797559633
+Do so I 'm asking to anticipate that something as trivial as one extra carbon in length here can have a massive effect if in the right place?	-0.44339709155357276
+Does it's supposed to?	-0.4462959000915281
+Do they get joined together?	-0.45203899738068665
+Does that's good?	-0.45269347518616243
+Do you know?	-0.45970271038300625
+Do we 've got here?	-0.4630574051112104
+Have I phenylalanine here?	-0.4657642130466402
+Does that's happened?	-0.4822065314169064
+What is this not?	-0.5025450185440914
+Is all we do we make these peptide bonds here?	-0.5096706809993918
+Do we have not written the C-alpha H, or N-H, we have not written this each time because that's the boring-- and the H over here-- because that's the boring part?	-0.5115933932437107
+Does that's very interesting?	-0.5226088576565979
+Does it's wrapped around?	-0.5234976528530648
+Does it's mostly not?	-0.53836417147479
+Can it make?	-0.5401082495564822
+Does it's the best you can?	-0.5430968210918721
+Does this guy here's wrapped around?	-0.5655361499749751
+What does this's?	-0.5750965757983513
+Is this actually very complicated?	-0.581736255381579
+Can you see it?	-0.5865289087213872
+Do I owe you 11?	-0.6075215586515665
+Does that's mostly not?	-0.619274879036064
+What does the sequence of an arbitrary protein's?	-0.6244675997565258
+Do we go?	-0.626079863162579
+Do well I 've got 20 choices for the first one and 20 choices for the second one--?	-0.6294856614951463
+Do you go?	-0.6652072556948567
+What is this actually not?	-0.6673982058804535
+Do I have?	-0.6699865840053558
+What does it's going to turn out?	-1.1749425345777165

@@ -1,0 +1,43 @@
+ERIC LANDER: Welcome back. Today we are going to take a look at function, gene, protein-- genetics, biochemistry, and molecular biology-- and ask how we make this operational. So let's take a look. What do I mean by make this operational? We have function, gene, protein-- genetics, biochemistry-- we've completely filled in molecular biology. We know DNA goes to RNA goes to protein. We understand-- we've talked about some sets of genes. 
+
+I've shown you sequences of genes. We've looked at what happens with mutations and frame shifts of the genetic code. But now we have to admit something. The genetic code was discovered with synthetic RNAs being fed to cell extracts. People had the genetic code table, but they couldn't read a single gene in the mid 1960s. 
+
+They got to the mid 1960s. They had this genetic code. And they said that's it. We know the secret of life. And the elders in the field said-- many of them-- OK. Secret of life, check. Let's go solve the brain. And I'm serious. This really was an idea that folks had, was, we're pretty smart. We just nailed the secret of life. Let's go on and do the secret of the brain. 
+
+But as happens, the young generation was dissatisfied with where things stood. It was not enough to know in principle that ATG encoded a methionine, et cetera. Folks actually wanted to read a real gene. They wanted to purify a real gene. How are you going to do that? How are you going to purify any gene away from any other gene? 
+
+Now think about what that problem is. We have a big human genome. Human genome. Human genome, 3 billion bases-- 3 times 10 to the ninth bases. In it are little genes. We talked last time about the gene that encodes beta globin-- the beta globin gene on chromosome number 11. It's a lot smaller than the whole genome. It sort of fits in about 1,000 bases or so. Other genes, a bit bigger. 
+
+Typical gene-- beta globin's kind of small, but a typical gene might be 10,000 bases long or 30,000 bases long. Some are actually much longer. One I showed you briefly was two million bases long. But, you know, a typical gene is a tiny fraction of the genome. Let's take 30,000-- 3 times 10 to the fourth, compared to 3 times 10 to the ninth-- it's one part in 10 to the fifth-- one, one hundred thousandth of the entire human genome. That's what that is. 
+
+So even for a gene like this, it is one, one hundred thousandth of the genome. How are you going to purify a gene? Let's take beta globin, because we talked so much about that last time. I can purify the human genome. I can take cells from your blood. We can crack open cells. We can do a biochemical purification that purifies DNA away from proteins and lipids and other things. 
+
+Now, what biochemical trick are you going to use to get the beta globin gene? The beta globin gene has As and Ts and Cs and Gs like everything else does. There is no biochemical difference. It's not different charge and different size and other properties. How are you going to fractionate the human DNA and purify beta globin? 
+
+This is why people had trouble. There was no trouble purifying different proteins from each other. Different proteins all have these weirdly different properties. But different stretches of nucleic acid, they have the same biochemical properties. Remember actually, that was why people thought DNA was so boring, because all these nucleotides had the same properties. 
+
+The really major revolution came with the ability to purify individual genes away from each other. But it came in a way that no purification had ever been done before. It came in the form of cloning. Now, what do I mean by that? The real trick of cloning was not to purify the things away from each other in any meaningful way. It was to take the DNA, in effect, and dilute it down-- little pieces of DNA diluted down to single molecules of DNA. 
+
+That's not hard to do. I take your DNA. I purify it, I somehow shred it up, and I add a lot of water. It now becomes very dilute. In any little teaspoon, there might be one molecule of DNA. Aha, I've purified it! 
+
+The problem is, I could do that with proteins. I could do that with anything, right? I could say that by pouring in a huge amount of water and dipping in my teaspoon, I've purified a single molecule of any given protein or any given piece of DNA, or lipid, or whatever. But the problem is, you say, that's useless, because it's a single molecule, that, you know, that you're kind of cheating. It's not much of a purification. 
+
+But if you could amplify that molecule up, cause that molecule to be replicated, to make many copies of itself, then suddenly I've accomplished purification. This can only be done-- this trick can only be done with a self-replicating molecule, or a molecule-- not self-replicating-- a molecule that can replicate, that you can replicate somehow. That was the trick. 
+
+Dilute it down to individual molecules. Replicate it back up. And poof, it's pure. That's it. That's the entire lecture today, except to fill in the details. So let's just look at the overview of how that is done, how this amazing idea of cloning, molecular cloning-- and of course, the word cloning is an overloaded term, because cloning sometimes refers to cloning the sheep Dolly or something like that. We don't mean that. Cloning refers here to the molecular cloning of DNA. So I'm going to use it recognizing that that word gets used for other things as well. 
+
+And the three steps-- take DNA from a source, maybe yourself. And cut the DNA, and paste the DNA. Cut and paste are the first two steps. So we need scissors to cut DNA. We need glue to paste DNA. We'll come to that. 
+
+The second step is what do we want to paste the DNA to? We're going to paste DNA to vectors. Vectors are molecules that have the ability to cause a cell to replicate them. So if I take pieces of DNA-- here is DNA-- and I can cut-- if I can take DNA, break it up into pieces-- these are pieces of DNA. 
+
+If I have a vector, a molecule that can somehow replicate-- and here's somehow the instructions to allow this piece of DNA to be copied if it gets into a host cell-- and if I could open up that molecule and with my glue, glue in a piece of the DNA I was interested in-- and there we go. It's pasted up-- I would now have a circle of DNA that would have a piece that you have stuck into it. And I could make many, many, many of these, each of which having a different piece of human DNA. 
+
+My next step is, I need to get these vectors carrying-- I'll make a squiggle here, human DNA-- into bacteria. Here's my bacteria. Actually what we'll do to keep them straight, I'm going to use another color so we can distinguish bacteria. What we need to do is take our vectors that carry some of our DNA, and put them into a bacterium. Scale is, of course, way off here. DNA is very little. Bacteria is very big. But this guy here is my bacteria. 
+
+Let's see. What did Griffiths-- when Griffiths was transferring properties from one Pneumococcus to another Pneumococcus, he called that stuff the transforming principle, because it could transform one Pneumococcus-- the rough could be transformed into smooth. The transfer of genetic information, from some DNA into a bacteria, is called transformation. That was the word we used with Griffiths. We still use that word. So we need to transform the DNA into bacteria. 
+
+Since this DNA contains the instructions to be replicated, the cell will start replicating this DNA. And as the cell grows and divides, you'll have many copies of that cell, each of which might have many copies of that vector with our sequence. And it turns out that when we do this transformation, we don't always manage to get DNA in every cell. So what we've got to do, is we have to select for the cells that acquire our DNA. So what we have to do is those bacteria that have acquired will be able to grow and divide, whereas those bacteria that didn't get that DNA, we kind of have to get rid of them somehow. 
+
+That's it. That's our recipe. Cut and paste into vectors. Transform into cells. Select the cells that receive the vectors. That's it. Let's now see how that's done. 
+
+All right. Test your understanding with this question about why it's harder to purify genes than it is to purify proteins. 

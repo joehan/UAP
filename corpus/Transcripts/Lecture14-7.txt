@@ -1,0 +1,131 @@
+PROFESSOR: I want to not just look at the beta-globin gene, but I want to look at the whole beta-globin region, the entire beta-globin region. 
+
+Now we're zooming out. Here's the beta-globin gene. OK? It encodes our little beta-globin. But now we're going to come out to much higher altitude. We're going to zoom out. 
+
+The next gene over, very curiously, is a gene that looks pretty much like beta-globin. It's called delta-globin. You can recognize it because it has a very similar sequence. Isn't that kind of weird, that beta-globin should be near another gene that has a very similar sequence? 
+
+In fact, it turns out that when I told you your hemoglobin is made up of alphas and betas-- alpha, alpha, beta, beta-- I slightly lied. It turns out that 98% of your hemoglobin is that. 2% of your hemoglobin is actually alpha, alpha, delta, delta, and I can't tell you why. I even emailed a couple of my friends who are experts on this, and nobody's really sure why you have this extra gene that produces about a crummy 2% as much, but you have another form of hemoglobin from a gene that's pretty similar. 
+
+Now, we go down a little further down the chromosome. It turns out there are two more genes that kind of resemble beta-globin pretty reasonably, and they're called gamma-globin. They're almost identical, but they differ a tiny bit. They get called gamma G and gamma A. These globins are also very similar. They also bind heme. They also bind oxygen. 
+
+But you're not expressing them right now, usually. Most of you are not expressing them. You express them as fetuses. These are genes turned on in fetal life. 
+
+Now why did you want these genes in fetal life? Why does a fetus-- sorry? 
+
+STUDENT: To use your mother's blood? 
+
+PROFESSOR: What do you mean, to use your mother's blood? 
+
+STUDENT: [INAUDIBLE] has to be something special [INAUDIBLE]. 
+
+PROFESSOR: OK, there's got to be something special. You've got it. Let's work it through. 
+
+When I'm breathing-- [TAKING BREATH] oxygen's coming into my lungs. Blood is going by my lungs. I'm taking in oxygen because I have a high oxygen concentration there. As the blood goes to my cells, the oxygen concentration is lower. The hemoglobin comes off. 
+
+But what about a pregnant woman? Her fetus has to be able to grab the oxygen not in the fetus's lungs, but has got to be able to grab it from the placenta. To grab it from the placenta, you don't have as high an oxygen concentration as in the lungs. So what would you design for a fetal globin gene? 
+
+STUDENT: Super hemoglobin? 
+
+PROFESSOR: Super hemoglobin, able to grab oxygen when your normal globin can't. In fact, when you think about it, you couldn't possibly be a mammal carrying a fetus without having solved that problem of how the fetus is going to get oxygen from the mom. That's what those are for. Pretty amazing. 
+
+STUDENT: [INAUDIBLE] Like if it's so good, why do we not use it all the time? 
+
+PROFESSOR: Why do we not use it all the time because it's so good? Well, because maybe it's binding oxygen so tightly that it's harder to get it off. But you know what? It turns out some of you actually keep some expression of fetal hemoglobin. Some of you are expressing fetal hemoglobin today. 
+
+You were asking a question before. What was it? 
+
+STUDENT: It was about-- 
+
+PROFESSOR: Sickle cell anemia, and why there was so much variation, and some people with homozygotes for sickle cell anemia might not have as severe a phenotype. Any hypotheses as to what might be helping some people? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: They might be expressing the fetal form. It turns out people who express the fetal form of hemoglobin are somewhat protected against sickle cell anemia. It's one of the protections there. By chance, by the variation in the expression of this fetal globin, it turns out that that actually, to some extent, ameliorates sickle cell. 
+
+And indeed, some of the strategies people have right now for thinking about treating sickle cell involve reactivating the fetal globins, these gamma-globins. If they could trick that, if they could understand the regulatory circuit that turns those things off, maybe it would turn them back on, and you get a way to treat sickle cell anemia. Because it's pretty clear that if you can get these things on during adult life, they will, in fact, reasonably well ameliorate, if you get enough of them. 
+
+Pretty cool. So it was a great question. That's why I wanted to wait to answer it. 
+
+By the the way, there's also a gene over here which is an epsilon-globin. 
+
+[LAUGHTER] 
+
+PROFESSOR: And that's involved in embryonic life, and we won't go there. How did these genes get there? Yes? 
+
+STUDENT: The expression of the fetal version of gamma-globin and stuff, is that completely random? 
+
+PROFESSOR: No, it's tightly controlled. Usually those get-- 
+
+STUDENT: After you grow up? 
+
+PROFESSOR: Oh, after you grow up, the gammas shut off, and the betas turn on. 
+
+STUDENT: Right. But some people continue to express them? 
+
+PROFESSOR: There's a little bit of variation, and it has to do with some degree of DNA variation, hereditary variation, between people. And in fact, there's somebody who even has genetically mapped the genes that control how well those genes are shut off. 
+
+In fact, that happens to be somebody who's a postdoc in my lab right now, and in his previous postdoc, he discovered by genetic mapping, using the techniques we've talked about, other genes that control that switch. And that's what's behind the ideas of how you might use that to treat-- so in fact, it's not entirely random. It's genetic variation in the population. And by mapping techniques, you can map it and find out where those genes are, and he mapped three major genes that do that. Yes? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Oh, my goodness. I won't get into the higher altitudes right now other than to say, what do you think about snow geese? 
+
+[LAUGHTER] 
+
+PROFESSOR: Like, they're flying way up there at low oxygen, right? If you looked at their globins, well, they might have their own variations, and it turns out they do. Snow geese have their own variation of these globins that allow them to grab oxygen at these heights by tweaking the amino acids in the right ways. 
+
+So you get the sense that this is actually much cooler than beta-globin, but let me ask you, beta-globin here is very similar to delta-globin. It's kind of doing the similar thing. Similar to these fetal globins, similar to this epsilon-globin. How did this all happen? How did all these globins end up right near each other? Is this random evolution of just like nucleotides changing and magically all turning out to be very similar? 
+
+[INTERPOSING VOICES] 
+
+PROFESSOR: Question? Idea? 
+
+STUDENT: The transposons went over and-- 
+
+PROFESSOR: Could be the transposons carry them, although actually, transposons often carry things to any old location at random. The fact that they're all right next to each other is a bit of a smoking gun. It's probably what happens is when crossing over occurs, what if crossing over isn't perfect? 
+
+We're supposed to have perfect exchange, but suppose I had my beta-globin gene here, and the beta-globin gene here, and somehow crossing over occurred in some screwy way. It gets it a little wrong. I could end up with one chromosome that had a duplicate copy of beta-globin. The alternative chromosome would have no copies of beta-globin. 
+
+So unequal crossing over, uneven exchanges, can cause duplications in a region. They don't happen that often, but sometimes you can end up with a duplication. What would happen if a duplication occurred, and I had two copies of a gene? 
+
+Do I need both copies to work perfectly? So one copy might begin to accumulate mutations. Most of the mutations would probably be deleterious, but some might be good. Every time duplications occur, genes have an opportunity to slightly change and take up a new function. It's called duplication and divergence. 
+
+So what happens is you can get, by random crossing over, duplication, and one of those copies now is freed to diverge. And very often, usually, the divergence produces a dead as a doornail copy, but sometimes it can begin to take up new functions. 
+
+Oh, I didn't mention. There's one more copy here. It's dead as a doornail. It's called a pseudo gene. You can see it. It's there. It's got mutations. It's the result of a crossing over that didn't work out, but it hasn't yet degenerated. Give it enough time, it'll degenerate. 
+
+So what do you think? When did these events occur? 
+
+STUDENT: Not too long ago. 
+
+PROFESSOR: Not too long ago meaning last week? 
+
+[LAUGHTER] 
+
+PROFESSOR: Last century? Give me a time frame. 
+
+STUDENT: Before mammals? 
+
+PROFESSOR: Before mammals. Pretty good idea. So basically, you would expect that all mammals would show this event. That's interesting. 
+
+And what if we began sequencing and sequencing and sequencing different organisms, and seeing which animals had which copies of globins? We could begin to reconstruct when events took place. Let's take a look. 
+
+This is chromosome 11 here. We've got beta, delta, this pseudo gene written with a Greek psy, our gammas, and our epsilons. It turns out that alpha-globin, the other part of hemoglobin there, is actually kind of related to beta-globin historically too. 
+
+An alpha-globin lives here. There's actually two alphas alpha 1 and alpha 2. There's some pseudo genes. There's a zeta-globin gene over here. And it turns out there's another heme binding protein that's not part of hemoglobin at all, but it's in your muscles, and it's used to retain oxygen in the muscles. It's called myoglobin. It lives on chromosome 22. That's on chromosome 16. That's on chromosome 11. But if you look at their sequences, they're pretty clearly related. 
+
+We can now trace back in time. This pseudo gene arose relatively recently. It's only found in primates. In fact, it's really only found in the great apes, that pseudo gene. 
+
+Then as we work back, it turns out that these fetal genes here go back to around mammals. That is, all mammals have them, but non-mammals don't. That's exactly right. We trace back that event back here to the mammals. 
+
+The alphas going back. As we trace back here, bony fish have hemoglobin, but if we go backward, lampreys do not have hemoglobin. What they have is they have a single dimer. Not a tetramer there. It has some weak cooperativity. And you can trace your way back. 
+
+Oh, and by the way, if we go back far enough, about half a billion years, myoglobins and hemoglobins come from a common, ancestral globin gene. In fact, there's an entire globin superfamily. This globin fold with these different alpha helices we saw was invented long, long, long ago, more than 500 million years ago, and there was an ancestral globin gene. 
+
+It began to duplicate and diverge, and duplicate and diverge, and scatter in different places in the genome, and become the alpha locus, and the beta-globin locus, and the myoglobin locus, and then take up other copies across the way. That's what goes on genomes. It's amazing what goes on in genomes. 
+
+And by the way, we've only talked about two genes, beta-galactosidase and how you wire a regulatory circuit, and beta-globin and how it does its job, and how mutations occur. And how, over the course of time, mutations build up all this amazing variation by duplication and divergence. That's just two genes out of millions and millions of genes out there. That's all for today. 
+
+[APPLAUSE] 
+
+All right, that's the end of this lecture. But before you go onto the next lecture, try this last question about the beta-globin gene region. 

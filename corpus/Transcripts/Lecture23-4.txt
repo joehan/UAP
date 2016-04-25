@@ -1,0 +1,47 @@
+PROFESSOR: So we have our membrane here. RAS is attached to the membrane. Our Sos protein over here-- one of many things that are GEFs. It's a GEF. It activates RAS. RAS is now activated. 
+
+And RAS binds to another protein in the Rube Goldberg machine. There are a whole bunch but I'll give you one. And I'm going to call it, because it is called this, RAF. RAF, when it binds and is brought into this neighborhood by RAS, ends up getting itself activated by something putting a phosphate group on it. 
+
+So some kinase puts a phosphate group on RAF. The RAF protein gets phosphorylated. When it gets phosphorylated, do you know what it becomes? A kinase. 
+
+So when this happens, it becomes an active kinase. And what do kinases do? They put phosphate groups on something else. So RAF goes and puts a phosphate group on another protein. And that protein, we'll give it the name MEK. 
+
+And then what happens when MEK gets phosphorylated, it becomes an active kinase, yes. And what do you think it does? Well, it puts a phosphate group on, for example, Erk1. I warned you that these names get obscure, right? 
+
+But basically, that's what happens. And then, what do you think things when the phosphate group gets added to Erk1? it? Becomes an active kinase. Right. I don't know if you all know the joke. It's turtles all the way down. Right? It's kinases all the way-- not quite all the way down. 
+
+And then, what do you think this guy does? Well, it actually runs around and puts phosphates on many things. Many, many things. It sticks phosphates. And phosphate group there. And it sticks a phosphate group there. And on another protein. And all of these different proteins, in particular. 
+
+And, in particular, it puts a phosphate group on certain transcription factors that control gene expression, which then go to the nucleus and become activated as transcription factors. They find the right place in the DNA and they turn on genes. 
+
+They do a lot of other-- so there are a lot of targets that are phosphorylated. And they do various things. But some of them are transcription factors that get phosphorylated, and they go in and turn on genes. 
+
+Yes, question? 
+
+STUDENT: These phosphate groups are not directly coming from the kinases, themselves. 
+
+PROFESSOR: Remember, the kinase is an enzyme. So it's grabbing ATP and it is-- so what's really happening is the RAF kinase is taking ATP to ADP and sticking the phosphate there. And then this enzyme has an active site, which it binds the relevant place in Erk and uses an ATP to derive a phosphate that gets stuck on Erk. 
+
+STUDENT: How do they not turn off? Or how do they turn off? 
+
+PROFESSOR: How do they turn off? The opposite of a kinase is a phosphatase. There are phosphatases running around the cell, too. Because, in fact, this is all a delicate balance. I've told you how to get a positive signal going through the whole circuit. 
+
+But if the minute anything bound, everything got phosphorylated, and then that was it, everything was all turned on. That'd be bad. So in fact, there's a whole bunch of countervailing forces-- phosphatases. And I'm not going to mention all these. But there are inhibitory signals to each of these that are regulating how much the ratio is of protein with the phosphate and without the phosphate. Kinases and phosphatases working in a balance. 
+
+Alright. What do you think the genes are that get turned on by some of these transcription factors? 
+
+STUDENT: Cell growth. 
+
+PROFESSOR: Cell growth control. These are genes for cell growth. And it begins to turn on cell growth genes, the program, so to speak, for cell growth. Now I oversimplify, of course. Because there isn't just one program for cell growth. But there are a variety of them. There are a variety of different cells. I've only told you one story. But let's just look at that story. 
+
+Here we are. We've got a receptor. The receptor dimerizes. It transphosphorylates. Kinase. The phosphates attract an adapter protein. 
+
+The adapter protein attracts this GEF that activates RAS. RAS then goes and attracts a kinase, which gets turned on, which phosphorylates something else that becomes a kinase that gets turned on, that phosphorylates something else that becomes a kinase that turns on and this is an amplifier. It's a great amplifier because each is able to amplify the signal. 
+
+And then it goes and it phosphorylates all sorts of other things that become active. And some of those things turn on programs for cell growth. And some of them do other things related to cell growth. And that's It. So basically, you understand cell growth now. There are-- I've left out some details, like all the intermediate regulatory steps, and about three, two entirely other pathways that RAS activates that I haven't told you about. 
+
+This is called the map kinase pathway-- mitogen associated protein kinase. And then kinase-- that's a kinase kinase. That's a kinase kinase kinase because this is a kinase. This kinase kinase is a kinase. This kinase kinase is a kinase kinase, et cetera. 
+
+That's it That's all there is to it. And if you want to-- actually, yeah, that's it. I'm not going to say any more than that because it's already-- that's the Rube Goldberg machine-- except to ask, how does cancer arise? 
+
+OK. Before you go on, stop and answer this question about a kinase signaling pathway. 

@@ -1,0 +1,121 @@
+PROFESSOR: Cholesterol is so hydrophobic that you can't just put it out into the bloodstream, right? It's packaged up, and it moves around the body in particles, packaged up in particles, to distribute to cells that need it. And the particles come in a wide variety of sizes and shapes and a set of names that you will enjoy. 
+
+There are Very Low Density Lipoprotein. There's Low Density Lipoprotein. There's Intermediate Density Lipoprotein. There's High Density Lipoprotein. 
+
+And there are Chylomicrons. Don't worry about that. So amongst friends, we just call these VLDL, LDL, IDL, and HDL. All right. 
+
+Now, examples of these particles here. The way you should think about them roughly speaking, I'm going to talk about say, the LDL particle here. The LDL particle has a monolayer, there we go, phospholipid monolayer going around the outside. It has a certain protein in it called ApoB100 protein. And inside it has a lot of cholesterol esters. 
+
+In fact, when I say a lot, I mean a lot. It might have about 1,600 cholesterol ester molecules in there. And this is a very big item. This is about two and a half million molecular weight. 
+
+OK. So that's LDL, the IDLs and HDLs, and the LDLs and all have-- and it turns out there are even sub types of all of those sorts of things. They were initially found, as you might guess, by density fractionation. 
+
+I could tell you, but won't tell you all the details. I won't tell you all the details about how these particles are made and how they are converted into each other because I don't actually even know all of the details. I know a lot of the details, but I actually talked to one of our MIT colleagues who works on this and he knows all the details. So I'm just going to give you a light, light version here, just enough for us to be able to have our conversation. 
+
+Basically the liver makes and puts out VLDL which becomes IDL, which then is converted into LDL by virtue of an amusing swap with HDL, where HDLs initially are carrying these cholesterol ester molecules. And they get swapped here for some triglyceride molecules, et cetera, et cetera, et cetera. OK? 
+
+So it's a very complex thing. And a lot of it happens in your bloodstream. These lipoprotein particles are remodeling in your bloodstream. So little beginnings of them get created and then they get loaded up with triglycerides or cholesterol. 
+
+And cholesterols get converted to cholesterol esters, and they come into one particle. These particles go around the body and distribute, for example, triglycerides to the muscles and the fat, and then the remnants of those particles then get loaded up with cholesterol esters. And it's a very complex game. 
+
+But what I want you to know is these particles are circulating in the blood. That's the critical thing for you to know, is these particles are circulating in the blood. And in particular, the LDL particles are carrying cholesterol esters. OK? And also I'm going to say that these HDL particles are involved in the creation of the LDL particles as well, with something called a cholesterol ester transport protein, that moves things back and forth. But we're not going to worry about all of the details there, OK? 
+
+What do we know about LDLs and HDLs? How many of you have heard before about LDL and HDL? Yeah, most of you. Many of you have heard. Most of you should hear about LDL. 
+
+Out of curiosity, how many of you know your LDL and HDL levels, or your cholesterol levels? Not surprising. At your age many people don't. But it'd be interesting for you to know. You might at some point go find out from MIT Health what your cholesterol levels are. 
+
+Why do we care? 
+
+STUDENT:  Because of heart attacks. 
+
+PROFESSOR: Well what about heart attacks? 
+
+STUDENT: That having high cholesterol makes you more at risk. 
+
+PROFESSOR: So that's right. Having high cholesterol makes you more at risk for heart attacks. Turns out that the idea that lipids were involved in a heart attack is an old idea. Goes back actually to the 1850s. 
+
+And of course, it's not that's surprising. Because when you cut open a heart that's had a heart attack, you see these big atherosclerotic plaques with lipids in them and cholesterol in them. And it's actually-- forgive me, Virchow came up with this hypothesis in 1856-- it's probably not that hard to guess that they might have something to do with it. So as early as 1856 the lipid hypothesis, that lipids have something to do with heart attacks, was suggested by a guy called Virchow. 
+
+Of course, seeing correlation doesn't prove anything, right? It could be that there was damage to the blood vessels and it was the damaged vessels that then started accumulating these plaques. And the plaques were secondary. They were a consequence of some incipient heart disease, but not really causal in any way. So it's possible. 
+
+So around 1913, someone else fed rabbits very high cholesterol diets. And what that produced was symptoms like atherosclerosis, symptoms resembling atherosclerosis. OK. That's interesting. 
+
+Still it doesn't prove in humans that that's the cause. Because they're feeding them a tremendous amount of cholesterol so that in a short period of time, these animals are getting atherosclerosis. You can feed mice extremely high cholesterol, you can put them on a very high fat diet. You can see certain changes. But none of these are perfect models for the human. The best model for the human is the human. 
+
+And so in the 19-- let's say '50s, it was over a certain period of time-- epidemiology of humans comes in. And what people found was people with high cholesterol levels did indeed have higher risks of heart attack. Now of course, you don't want to look at people who have already had a heart attack. You want to look at people before they have a heart attack, right? You want to look at people 10 years before their heart attack, and say those who have a high cholesterol level are the ones who 10 years later will go on to get heart attacks, or 15 years later. 
+
+So it means you have to set up what are called longitudinal studies, these population studies. And various studies, the most famous of which is the Framingham Heart Study. And you will all know that Framingham is not very far away from here, right? 
+
+And so the very famous Framingham heart study that has been going for more than half a century has been one of the very important studies that proved that high cholesterol is associated with heart disease. In fact, it isn't just high cholesterol in general. It's one of these particles in particular. High levels of which is associated with heart disease? 
+
+[INTERPOSING VOICES]. 
+
+PROFESSOR: OK, we need to take a vote. How many takers are there for HDL is associated with heart disease? OK. One, two, three. 
+
+Raise your hands proudly, come on. OK. How many for LDL? How many for IDL? How many for VLDL? Oh, we got one there. 
+
+You want to vote for HDL again? OK. How many for HDL? OK, good. We've got some support there for HDL. 
+
+How about for LDL? LDL is winning about two to one right now or so, maybe three to one. And were there any takes for IDL? IDL, we've got one proud IDL. I like your hand goes way up for that. 
+
+VLDL? All right. We had one previous vote but that has been withdrawn. 
+
+STUDENT: Poor VLDL. 
+
+PROFESSOR: Here's what the data look like. Turns out LDL is associated with a higher risk of heart disease. The level of LDL goes up, the risk of heart disease that's observed epidemiologically goes up. 
+
+HDL is actually the opposite. HDL is often called the good cholesterol. The higher HDL is, the lower your risk of heart attack on average. OK? 
+
+So in a ridiculously simplistic manner, LDL is the bad cholesterol, HDL is the good cholesterol. When you guys get a little bit older and you get your cholesterols checked on a more regular basis, the doctor's going to look at your ratio of HDL to LDL. Because the ratio of HDL to LDL, LDL with heart attack risk goes up, HDL as it goes up, heart attack risk does down epidemiologically. Yes, a question. 
+
+STUDENT: So what about VLDL and IDL? Do those two do nothing? 
+
+PROFESSOR: No, they do all sorts of things. But let's not get into that. It's hard enough dealing with HDL and LDL. Let's hold onto that there. These are the two principal ones that show these clear associations. Yes? 
+
+STUDENT: Does that have any relation to how HDL is [INAUDIBLE]? 
+
+PROFESSOR: Yeah, you're saying, of course, these are all complicated with each other. So in fact, let's take your question and run with it. Suppose I had a way to decrease your LDL levels. Would that decrease your risk of heart attack? 
+
+STUDENT: Do you produce LDL? 
+
+PROFESSOR: Well, but suppose I could actually lower your LDL levels? Would you have less heart attack? How many say yes? Let's get some proud votes. 
+
+How many say maybe? So about 50-50. So let's try that again. How many say lowering LDL will necessarily decrease the risk of heart attack? Proud voters. 
+
+How many say it's unclear? Oh, you see I managed to sway you with that little subtle thing. Political polls just find this out too, that slight wording changes have a big effect on the voting pattern there. 
+
+Why are you saying-- isn't it obvious they're correlated epidemiologically. Doesn't that mean that if I change one I'm going to change the other? Sorry? 
+
+STUDENT: Because there are many factors involved. And this one of them. 
+
+PROFESSOR: So, many factors. But at least you're saying it's a factor. So won't decreasing it be good? 
+
+STUDENT: Not necessarily. It might not necessarily change anything. 
+
+PROFESSOR: Why not? Why might it not necessarily change anything? 
+
+STUDENT: Well you mentioned earlier that you look at the ratio of LDL and HDL, and maybe because the pathway includes the synthesis of HDL and LDL, it's possible lowering one might lower HDL as well. 
+
+PROFESSOR: Suppose it didn't? OK? That's a good answer. So now let's try I can lower your LDL and I won't touch your HDL. 
+
+STUDENT: This is only correlational. 
+
+PROFESSOR: It's only correlational. And you turn up your nose at correlational because why? 
+
+STUDENT: It doesn't show that it's a cause. 
+
+PROFESSOR: Why doesn't it show it's a cause? Give me an idea of what could be happening. Yes? 
+
+STUDENT: Both LDL and high HDL could be  a factor of something else. 
+
+PROFESSOR: Yes. 
+
+STUDENT: Lower the LDL does not change that something else. 
+
+PROFESSOR: Yes. It could be that heart disease and LDL and HDL are all caused by factor x, which is unknown. And x is the cause. And heart disease and LDL and HDL are symptoms, results of a cause. 
+
+And changing one of those results is not going to actually change. So exactly what you're saying. Correlation does not imply causality for just that reason. 
+
+They could be the results of something else. And so there's a lot of controversy over whether or not lowering HDL would make a difference, right? And I want you to understand that even though the epidemiology is rock solid good, it doesn't necessarily mean the intervention is going to be effective. 
+
+Before you go on, answer this question about the connection between lipoprotein particles and heart disease. 

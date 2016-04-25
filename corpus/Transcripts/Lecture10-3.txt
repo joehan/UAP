@@ -1,0 +1,33 @@
+ERIC S. LANDER: Section 2 , the Structure of DNA. Alright. I'm going to give you an easy way to understand how DNA should be thought of. DNA, we're going to think about it in three basic components. 
+
+First, we have a sugar, 2 prime deoxyribose. Ribose is a sugar. It's a pentose. If it's a pentose, how many carbon does it have? Penta means five, so it's a five-carbon sugar. 
+
+And here's ribose. We have our five carbons here. We label our carbons in these sugars over here. We're going to call that the 1 prime carbon, the 2 prime carbon, the 3 prime carbon, the 4 prime carbon, and up here, the 5 prime carbon. And while I don't want you memorize lots and lots and lots of chemical structures, I do want you to know the carbons in ribose here, because they're pretty important. We're going to get to know these 1 primes, 2 primes, 3 primes, 4 primes, and 5 primes. 
+
+A sugar should have a hydroxyl at every carbon. But this one doesn't. Instead of having a hydroxyl, it's got no oxygen there. It's deoxy at the two prime position. So it is 2 prime deoxyribose. 
+
+That's our sugar. Got that one? Good. That's the first part. 
+
+Next, in thinking about DNA, we have a base. The base-- now I'm going to simplify our sugar just down to this. The base hangs off the 1 prime carbon. That's where the base goes. 
+
+And the bases come-- there are four types of bases. And the bases are-- two of them are a 6-membered ring and a 5-membered ring, a 6, a 5. And one of them has a 6-membered ring. I'm sorry-- two have this, and two have this. 
+
+These guys are purines. These guys are called pyrimidines. The two purines are adenine and guanine. A, G, we write. These guys here are thymine and cytosine. T and C. Those are the four possibilities for the base. 
+
+And these structures involve carbon, nitrogen, oxygen, and hydrogen. And they're not that all interesting. There's not like the amino acids that have positives and negatives and hydrophilics and hydrophobics and all the cysteines with their sulfurs sticking out. They're pretty boring. 
+
+That's it. So we have a sugar and a 1 prime carbon. One of four choices of bases can be put. 
+
+Now, c, on the sugar with our base hanging off here, off this 5 prime carbon, I want you to see triphosphate, a triphosphate hanging off, triphosphate. There's our c there, triphosphate. 
+
+That's it. That's our building block. This guy is called-- the whole thing is called a nucleotide, with the sugar, the base hanging off the 1 prime, and the triphosphate hanging off the 5 prime. That's it. That's our building block for DNA. 
+
+Now how do we combine these building blocks to make a chain of DNA? Well, we polymerize them by a dehydration synthesis. So if we have over here our sugar, our base, our carbon over here, we have going from the 5 prime carbon, we're going to connect, breaking that triphosphate and using the energy to do that, to the 3 prime carbon of our next sugar. Another base here. And so we have our base hanging off the 1 prime. 
+
+We're going to connect from this 5 prime to this 3 prime. That's the connection that's made is this 3 prime is connected to 5 prime, this 5 prime connected to this 3 prime. So now we're using a lot of these guys here. 5 primes. 1 primes are getting used over here. And what was special was that this guy here was deoxy, the 2 prime position. 
+
+Now I can keep going, because if I have another phosphate there I can attach, attach, attach. I can have phosphates coming down here. And in fact, what I have is a backbone, a structure that goes sugar, phosphate, sugar, phosphate, sugar, phosphate, sugar, phosphate. And that's it. 
+
+It's just an absolutely boring chain of sugar phosphate, except for bases hanging off it. And the bases only come in four flavors. And the four flavors are that all chemically different from each other. 
+
+To make sure you're following this lecture, test yourself with this question about the building blocks of DNA. 

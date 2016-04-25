@@ -1,0 +1,103 @@
+PROFESSOR: Section 4. We need to know DNA structure. How is it that this molecule we thought was so boring is able to carry information? And so began the race to understand DNA structure. 
+
+It involved a 25-year-old ornithologist from Indiana and a 35-year-old rather talkative physicist, a Brit, who had worked for the admiralty during World War II. The ornithologist-- erstwhile ornithologist in college-- one James D. Watson, and the physicist, working in the admiralty during World War II, Francis Crick. And Watson came over on a fellowship to the Medical Research Council labs in Cambridge, England, and was there to work on structures of things with Francis Crick, who knew a lot of crystallography, knew mathematics and crystallography. 
+
+And they were incredibly well known around the Medical Research Council because they talked a lot and did very little. They did a lot of talking. And they had big ideas about what they were going to do, including this DNA thing. They knew this was really important. 
+
+They weren't supposed to be working on DNA. They were supposed to be working on something else. The distinguished head of the lab, Sir Lawrence Bragg, didn't want them working on DNA because King's College down in London was supposed to be doing the DNA stuff. 
+
+But you know how kids are. They really wanted work on this DNA stuff. And they made some models. And they were kind of crazy models. And some of them were kind of embarrassing models in 1952 that they were making that anybody could have seen they had it wrong and so on. 
+
+They began going down to King's College and talking to Rosalind Franklin, who was working on crystallizing and doing X-ray diffraction patterns on DNA, invited there by Maurice Wilkins. The two of them didn't get along. Rosalind didn't really have anybody to talk to about her stuff, and there was a bit of tension between them due to a bunch of misunderstandings. 
+
+Crick and Watson came down and made a pain of themselves. And they talked back and forth. And Rosalind Franklin hated all this abstract models stuff. She wanted hard data. Crick and Watson loved models. And you had this tension back and forth there. 
+
+Rosalind Franklin, at one point, was sure, based on her data from one form of DNA, the DNA a was certainly not a helix, even published a death announcement, a black-rimmed paper saying the death of the helix, saying that it certainly wasn't going to be a helix. And it was back and forth. And it was sort of comic. And you've got to read Jim Watson's autobiography The Double Helix because he tells these stories. And others have told these stories there. 
+
+At the beginning in 1952, it has a feeling of keystone cops to it in a way. Just what's going on? They don't really know this stuff. 
+
+Now, there's one smart guy, one chemist, one biochemist who plays a role in this story. And this is a guy called Chargaff. Chargaff discovered that this simple tetranucleotide hypothesis that DNA was nothing more than an A, T, C, G stuck together, always in that ratio, was wrong. Because he started measuring the ratios of the As and Ts and Cs and Gs biochemically across different organisms. And Chargaff found in the first time he did it that they were not all equal. 
+
+He found out that the amount of A was 28%. The amount of T was 28%. The amount of G was 24%. And the amount of C was 20%. And they weren't all equal. 
+
+Now, he then did a bunch more measurements. And it turns out that, well, there's some experimental error here. And as time went on, it became clear that this is probably 22% and 22%. And then maybe I'm looking at more organisms, and the numbers varied. 
+
+But the amount of A always seemed to equal the amount of T. And the amount of G always equaled the amount of C. And these were known as Chargaff's Rule, that the amount of A equalled the amount of T and the amount of G equalled the amount of C. Chargaff's Rule-- very important observation. 
+
+So DNA was not simply a boring molecule of just an A, T, C, G. There were ratios. And they could differ between organisms and all that. 
+
+Chargaff came to the Medical Research Council once and had lunch with Crick and Watson. He was not impressed. Chargaff later said, "they impressed me by their extreme ignorance. I never met two men who knew so little and aspired to so much." 
+
+And so it went. But then word reached Cambridge, England, that somebody else was on this problem-- the person who would strike fear into the hearts of anybody thinking about chemical structures-- Linus Pauling. You remember Linus Pauling with protein structures. Sick in bed, Linus is able to take paper and fold it up and say, I don't even care about these side chains. I can make alpha helices out of the backbone. And the side chains will just stick out. And I can make beta sheets. The most brilliant chemist in probably the 20th century-- certainly of his time-- Linus Pauling was now interested in doing the same thing to DNA structure. 
+
+Crick and Watson are getting kind of worried because they are now facing Linus Pauling. Word gets out that Linus has submitted a paper to the Proceedings of the National Academy of Sciences in the US in December. January 28, 1953, the paper shows up in Cambridge, England. Actually two copies go. One of them goes to Linus' own son Peter Pauling, who's friends with Crick and Watson and generously shows them Linus Pauling's structure for DNA-- the triple helix. 
+
+Here's one of the helices in Linus Pauling's triple helix published in this paper. It has the phosphate groups in the middle and the bases sticking out into space. But it's got a triple helical structure to it. There's another helix going here. I'm not drawing it. I'm not doing justice to it. 
+
+But it's a triple helix. And down the middle of the helix, all these phosphate groups are facing each other. Is there a problem with phosphate groups all facing each other? 
+
+[INTERPOSING VOICES] 
+
+PROFESSOR: They're negatively charged. What will they be doing? 
+
+STUDENTS: Repelling. 
+
+PROFESSOR: Repelling each other. Now, somehow Linus in this model has hydrogen atoms there and somehow has these phosphates neutral. But they're not going to be neutral. 
+
+Crick and Watson, who have been shaking about what's going on with Pauling's model, look at the paper and instantly realize that it's wrong. It's just plain wrong. Pauling blew it. 
+
+They also realized that Pauling is going to figure this out really soon, too, that those are negatively charged groups. They aren't going to actually be neutral and be able to be there with each other. And he's going to work it out. And Pauling will simply go back to bed with the flu and come up with the right model. Right? 
+
+Oh boy. Give us this kind of triple helical model. The bases sticking out into space, think alpha helix kind of ideas. Well, they don't have a lot of time. 
+
+Two days later, Watson goes down to Cambridge, England. He shows the paper to Rosalind Franklin, with whom they've been talking and collaborating. Rosalind also immediately realizes Pauling's blew it. And they immediately start arguing. 
+
+Watson gets on his high horse about crystallography or something. And anyway, they start arguing. They have a bit of a falling out. 
+
+As Watson is leaving, Wilkins comes over. And Wilkins shows him a picture that Rosalind Franklin took some months ago. This picture here, photograph 51. A photograph of the B form of DNA. This photograph says, to somebody who knows crystallography, this thing is a helix. And it suggests the turn of the helix. 
+
+But Rosalind Franklin who did the amazing work to produce this photograph wasn't into interpreting this photograph in this way. But Jim understood what this meant. It meant, think helix. 
+
+And there was another piece of information that said it was a helix, which when you turned it upside down was going to be the same thing. It was symmetric. It had an axis of symmetry that way. And that conveyed more information. 
+
+And he goes back to Cambridge. And Crick and Watson suddenly take this stuff really seriously and start modeling. And Jim makes models. And he starts making models with the phosphates on the outside, the sugar phosphate backbone on the outside and the bases pointing in. 
+
+And Watson wants the bases to point in so that As match As, and Cs match Cs, and Gs match Gs, and Ts match Ts. Because that seems so logical, that the likes should match like. 
+
+And he tries. And he shows it to people. And they laugh because the hydrogen bonding isn't going to work. It's just not going to work that way. And Crick, who's the real theorist here, says, and also, it doesn't explain Chargaff's Rules. I want Chargaff's Rules to be explained by a structure. 
+
+So Watson goes back. And on the 28th of February, about 10 o'clock in the morning, comes into the lab and starts taking the models of the nucleotides that have been cut for them by the machine shop and starts putting them together in different ways and gives up on the like-by-like, and instead begins combining different with different, and sees that at equal spacing, you can make the Ts fit with As and get two hydrogen bonds. And you can make the Cs fit with Gs, and get three hydrogen bonds. And they would fit perfectly into a double helix if the two strands were running in the opposite direction, and would nicely reproduce the spacing evident in photograph 51 and the dyad symmetry present in that. 
+
+And Crick comes into the lab about an hour later. Watson shows it to Crick, and Crick instantly realizes, this feels like an answer. Not this other thing you were doing a few days ago, Jim. This feels good. 
+
+Watson is still cautious-- because they've already blown it before in producing the wrong structures-- and really wants before they tell anybody to have the machine shop build a careful model of DNA to show that the whole thing will really work. And as partnerships go, they go to lunch at the Eagle Pub. And although Watson says, let's not tell anybody yet, Crick sits down at the Eagle Pub and announces to anyone who will hear, we have discovered the secret of life. 
+
+And as it turns out, they had. Because it turns out that when the model was carefully built, the model checks out. In fact, this is Jim and Francis standing by that wire model that's built, posed in a very famous picture here by that wire model. And it all really does check out. 
+
+They write it up. They write up a paper for Nature. Rosalind Franklin and Maurice Wilkins also write up a paper for Nature describing their crystallographic experiments. 
+
+Crick and Watson describe their proposed molecular structure for DNA. It is one page long. That's the paper. One page, and you all should read it because it's only a page. And it's probably the most famous paper in the 20th century. 
+
+It starts, "we wish to suggest a structure for the salt of deoxyribonucleic acid, DNA. This structure has novel features which are of considerable biological interest." Second paragraph, "a structure for nucleic acid has recently been proposed by Pauling and Corey and" blah, blah, blah. "But without the acidic hydrogen atoms, it is not clear what forces would hold the structure together, especially as the negatively charged phosphates near the axis will repel each other." So second paragraph is dissing Pauling's model. 
+
+And then it goes on and it explains the dyad symmetry and all this and gets down to the bottom of the page and, well, why is this model so good? Why is this model so good? 
+
+It isn't just that it explains the X-ray crystallographic data. It isn't just that it explains Chargaff's Rules. A model that has A matching T, G matching C, Cs matching Gs, Ts matching As-- a model that does that has one amazing property. It explains something. It explains heredity. 
+
+It explains heredity because each of those strands alone is a complete template for the other strand. If I give you one strand, AGCTAAGG, you can fill in the other strand. If I separate these two strands, each can be used as a template to make a copy of that information. 
+
+That is a stunning observation. Suddenly, the whole notion of how you can replicate information is clear. You replicate information by having a double helix where the information is fully specified on either of the two strands. You peel them apart, and you can put together two double helices. 
+
+This is how chromosomes will replicate. This is what mitosis and meiosis must be about-- the transmission of genetic information. That's why Chargaff's Rules matter. That's why Crick goes into the Eagle Pub and he says, we've discovered the secret of life. 
+
+Now, how do you write all that in a paper? It's hard to explain that and hard to prove that. And anyway, they're racing to get this out because they know Pauling might have a structure and all that. 
+
+So they summarize the fact that they've just discovered the basis of heredity, how information is replicated and transmitted to the next generation-- also, probably, the basis of mutation. What's mutation? Occasionally the wrong letter goes in, wrong base goes in. That's it. We've just merely discovered all the faithful transmission of information through heredity, and how it sometimes goes wrong to produce mutation, all in one chemical structure. 
+
+And you really can't get into all of that given what a rush this is. And so they say in the coyest sentence in the history of molecular biology, the last proper sentence of the paper, "it has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material." 
+
+They put down their marker. And they say, we know what this means. And that's the double helix. That connects us together, the basis of using biochemistry to purify and explain heredity. 
+
+Pretty cool. And that's all for today. 
+
+OK, take a moment and test yourself with this question about the structure of DNA. 

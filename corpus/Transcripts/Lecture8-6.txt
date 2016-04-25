@@ -1,0 +1,47 @@
+ERIC LANDER: Even when Charles Davenport was getting this stuff, he got some things right, but getting a lot of this stuff wrong, there was somebody who was really nailing this stuff. And as our last topic, I'm going to tell you about that guy who nailed this stuff beautifully at the same time and showed that something really was genetic. 
+
+Our closing topic is Archibald Garrod and alkaptonuria. Archibald Garrod was a remarkable physician, who lived in the early part of the 20th century, contemporary with everybody else I've been talking about. And he was incredibly thoughtful. He lived in London. And the work I'm going to describe is going on at exactly the same time that Morgan is crossing his fruit flies, and Davenport is going and collecting these eugenic records. 
+
+This physician looked at patients with unusual conditions. One of them was called alkaptonuria. One word, but I've broken it up for you here. Black, alkapton, urine. Babies who had alkaptonuria, when they peed in their diapers and the diapers were exposed to air, the urine turned black. It was a pretty noticeable phenotype. The nannies-- this was higher upper class Britain. I suppose, the upper class weren't changing the diapers. But anyway, the nannies noticed that the diapers were black. Pretty distinctive phenotype. 
+
+And Garrod was interested in this condition, and he noticed one unusual thing about this disease that was brought in by some of these fancy families, the nannies noticing the diapers, all this kind of thing. He noticed that 8 of the 17 cases, 8 of 17 cases that he saw, the children, the affected children, were the products of a first cousin marriage. And Garrod was smart enough to say, that's very unusual. That's much higher. 
+
+Now, first cousin marriages were allowed. They were not so unbelievably rare, but it's nothing like half of all marriages are first cousin marriages. That's a huge, huge enrichment. Half of all the kids were the products of a marriage between first cousins. What's the explanation? 
+
+Yeah, let's see what goes on in a first cousin marriage. First cousin marriage here, you have the founding couple here. The founding couple, let's say, has two sons. The sons each go get married. The sons have kids. The kids are first cousins, right? They meet at some family event. They get married. They have an affected kid. I drew a double bar, which is what geneticists do when they talk about a consanguineous marriage, or marriage between two relatives, same blood, consanguineous marriage. So this consanguineous marriage, totally legal. 
+
+What's going on here? How did it happen that this person ended up being homozygous for a recessive trait? That's what's in the back of your mind, is alkaptonuria, your thinking, is a recessive trait. And somehow you're thinking that inbreeding is a very good way to homozygose an allele here. Because what you're thinking, I think, is that one of those parents was a carrier, and this one was plus over plus. 
+
+And what got transmitted to the two sons? Carriers. Did they have to be carriers? Well, now that we know that this is happening, yes. But you know, on average, one half the time, that'll be a carrier, one half the time that'll be a carrier, so it's not too rare. This person here, carrier. This person here, carrier. What's the chance that that person's a carrier? 1/2. The chance of this transmission? 1/2. This? 1/2. This? 1/2. The chance that if one of those parents was a carrier, the first cousins are both carriers, is 1/2 times 1/2 times 1/2 times 1/2, 1/16. That's not so small. 
+
+There's a 1/16 chance that you've got yourself, in a first cousin marriage, two carriers. One quarter of the kids are affected. That's much more likely than the alleles meeting randomly in the population. If q, our frequency of the alleles is a small frequency, q squared is a little number, but if I'm in a first cousin marriage situation, all it took was the allele coming into one of those grandparents there and then making its way down. This person, mutant over mutant. 
+
+Garrod quickly realized, and it's stunning that he realized this because it's just a couple years after Mendel was rediscovered in 1900, that this was how you know that something is a recessive trait. The real way you can tell that something is a recessive trait pretty quickly, without all those big numbers-- and he didn't use any computers, because he didn't have any computers, of course, this being 1900 or the early 1900s, the enrichment for first cousin marriages. That's a clear Mendelian signal. 
+
+Now, Morgan doesn't have to worry about that. Mendel doesn't have to worry about that, but a human geneticist trying to interpret the population, will look for that enrichment sometimes and say, bingo. That's a clear signal that it was a Mendelian trait. Now, you say, that's pretty cool for some British physician, right? Buddy, you haven't got half of it yet. 
+
+He goes further. He also begins to study what it is about these diapers that makes them turn black, that is more properly, what it is about the urine that is going on? It turns out that the thing that turns black on exposure to air is a substance called, a chemical called, homogentisic acid, HGA. I'll draw the structure of homogentisic acid here. OK, we've got ourselves an aromatic ring. We've got a couple of groups you know. That's what turns out to oxidize and turn black. 
+
+Garrod was really interested. Why do these kids got this homogentisic acid in their urine? Normal kids didn't have homogentisic acid in their urine. But the kids with this disease, this condition, had homogentisic acid in the urine and that was what was making their diapers turn black. Now, you guys, having studied something about biochemistry, I recall, might ask, this kind of a group, where might we find such a group in anything we've studied so far? 
+
+STUDENT: Amino acids? 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: Amino acids. 
+
+ERIC LANDER: Amino acids? Yeah, are there some amino acids that have these rings, some aromatic rings? Yeah, there are some, right? Maybe you'll remember phenylalanine or tyrosine, right? And amino acids make up proteins. So Garrod tries an experiment-- he didn't actually do all these details, but Garrod tries the following experiment. He feeds the babies more protein. If you feed the babies more protein, they excrete more homogentisic acid. More protein leads to more homogentisic acid. What happens do you think, if we feed the babies phenylalanine? More homogentisic acid. If you feed these babies more tyrosine, more homogentisic acid. That's not the case for babies who don't have alkaptonuria. 
+
+For normal babies, you feed them this, you don't get homogentisic acid. But if feed them more protein, homogentisic acid. Tyrosine, phenylalanine, more homogentisic acid. He fed the babies homogentisic acid. For normal babies, you don't see homogentisic acid in the urine because it gets digested, but for these babies, you've got quantitative increases in the amount of homogentisic acid. 
+
+Garrod is sitting there and he's saying, wow, maybe, somehow in the body, proteins are getting broken down into amino acids, like phenylalanine and tyrosine. And those amino acids are getting broken down into homogentisic acid, and homogentisic acid is getting broken down into I don't know what, but something. And what's wrong with these babies? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: They can't break that down. They have an inborn error of metabolism is the words he used in his famous 1908 Croonian Lecture. In 1908, he's talking about this and a few other diseases, which are inborn errors of metabolism, and he has put together the pieces. He knows they're Mendelian. First cousin marriages, he knows there's a biochemical defect. He knows that there is a connection between gene and protein. 
+
+He's not quite using the words, but somehow, he knows that the genetic defect in alkaptonuria is ending up causing the problem with the enzyme that breaks down homogentisic acid. And in 1908, just a few years after the discovery of enzymes and a few years after the rediscovery of Mendel, he has put together the pieces, and he gives a talk about it in London, and it's stunning. And what was the impact of that talk? 
+
+Remarkably little. Because although he gets it, you've got to realize the way science works. Folks had just gotten this enzyme thing, and they had barely digested this concept. Nobody purified any enzymes and all that. They had just been dealing with these genes, and this rediscovery of Mendel and arguing about whether this even-- what was going on in humans and flies and all this-- and to think that these two amazing discoveries of the start of the 20th century were two sides of the same coin, was just too much to really sink in. 
+
+But next time, we're going to dive into, as it comes back again a few decades later, the fact that gene and protein are indeed, two sides of the same coin. Until next time. Before going on, try this question about alkaptonuria. 

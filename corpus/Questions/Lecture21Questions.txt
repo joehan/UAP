@@ -1,0 +1,164 @@
+Who find mutants that have some phenotype?	2.350072003156488
+What's being able to do something else?	2.154626124815388
+Who go look for the genotype?	2.145046885608175
+Who do mutant hunts?	2.0236803343724374
+Who do geneticists do hunts?	1.9558575804428298
+What do geneticists go look for?	1.9183717762141872
+What's what biochemical purification was?	1.8626933765334028
+What is a big event?	1.708325227937727
+What's being able to make arginine?	1.7083236705740277
+Who do geneticists find?	1.70398462016791
+If we had the protein, who might make an antibody to the protein?	1.4594716546229378
+Who could clone the genes that had been mutated in our mutant hunt?	1.4553260759688622
+Who 're using everything we 've done in this course?	1.4219745734174403
+What do geneticists do?	1.4202860466208664
+What was biochemical purification if we had an assay?	1.4002703469390094
+Who could we do to identify mutants that affected the function?	1.3541042175048719
+Who could do a mutant hunt to identify mutants that affected the function?	1.3539845500786178
+What is the function?	1.3220361574489836
+When is very special?	1.3137590209034558
+Who 're missing one part of our triangle?	1.2776901986741138
+Who could find proteins by biochemical purification?	1.2720812696421784
+Do geneticists find mutants that have some phenotype?	1.2709997490425637
+Who needs to be able to knock out or rewrite the genome at will?	1.2688176323458022
+Who could find genes by mutant hunting and cloning them by position or complementation?	1.2390476272590125
+Who could infer the protein with the genetic code?	1.2369059145034327
+Who 'll get this one for free?	1.208009855780849
+Who could find a protein given a gene?	1.1851002123140795
+What was this if we had an assay?	1.1850981057347028
+Who could find a gene we 've got a protein?	1.147729497848538
+If we had the protein, what might we make to the protein?	1.1391597109461036
+What could we find proteins by?	1.1390485387103437
+Who find the proteins that transport oxygen around?	1.1321894596771678
+Do geneticists do mutant hunts?	1.1226450113062634
+Do geneticists go look for the genotype?	1.120456331797048
+If we had that protein what's pretty cool?	1.0822135953058027
+Who can find the function of course?	1.0763374166644493
+Who can find the gene of course?	1.070768946643652
+What could you infer the protein with?	1.0639940771423948
+Who could go from function to gene?	1.0562290990029775
+Does example's being able to make arginine?	1.0561548895976376
+Who could we find a gene 've got a protein?	1.0506982180125468
+Does example's being able to do something else?	1.043548188345993
+What can we find the function of?	1.0392577962243328
+Who could clone them by position?	1.0388701031779344
+What can we find the gene of?	1.0336893262035356
+What's what we 're going to do tonight?	1.0331338431818913
+What find mutants that have some phenotype?	1.0222388203875563
+Who could we do a mutant hunt to identify?	1.0218371576671217
+What could we find genes by by position or complementation?	1.0215115110449142
+Is the function ability to transport oxygen around?	1.0080196335906826
+What is ability to transport oxygen around?	0.9937083225687464
+What were the genes that underlie a particular function?	0.9835348307343617
+What 'll we get?	0.9760522447390263
+Were the genes that were related to example the genes that underlie a particular function?	0.9385189297959848
+Who could go on a mutant hunt?	0.9311264519507312
+What's all we need, is to go back?	0.9197122099558128
+What could we find genes by mutant hunting and cloning them by?	0.9180882539958732
+Who could we go on?	0.9139703891715594
+Who have a complete working triangle?	0.9011703894556127
+If I gave you a gene, who could sequence it?	0.8842298877832087
+Who we could clone by position?	0.8791190381965868
+Who could almost freely move around this triangle?	0.8727874227292567
+Who could clone them by complementation?	0.8695366701890146
+What do they go look for?	0.8673110578600458
+What we could clone by position?	0.839164815318916
+What go look for the genotype?	0.8181583393327108
+Who 've got our whole triangle?	0.8092799884846062
+If we found its gene what's pretty cool?	0.7885675135443218
+What do we 're missing?	0.754723686465339
+What were the genes that were related to example?	0.7385815087852634
+Who 'd have to get a phenotype?	0.7377173902654042
+Who have our coat of arms here?	0.7245468002689401
+Who 'd have to knock it out?	0.7202622999400281
+Who we could clone by complementation?	0.7097856052076668
+Who 'd have to take a gene?	0.7085137464952755
+What 'd I have to get?	0.7083281796765704
+If I gave you a gene, what you could sequence?	0.696110077737953
+Who have some function?	0.6842896810605081
+What we could clone by complementation?	0.669831382329996
+Who get to really complete the triangle?	0.6331432870547484
+Who do they find?	0.6053939007219244
+What 'd I have to knock out?	0.5434307511852674
+Is today very special?	0.4971438910283197
+Was this biochemical purification if we had an assay?	0.4948322960834606
+What do we have our coat of here?	0.49466986112106115
+What we could clone them by?	0.4719953277432003
+Who cannot do something?	0.40968476786270847
+What can we not do?	0.40653288740203597
+Who 've done?	0.3581650352724184
+Could we do a mutant hunt to identify mutants that affected the function?	0.34429656970089484
+Who need to go?	0.31335195183345643
+Could we find proteins by biochemical purification?	0.3104524827696049
+What is this?	0.2997569348829885
+Do I need to be able to knock out or rewrite the genome at will?	0.29471854733210634
+Could you infer the protein with the genetic code?	0.2713942675237231
+Do they find mutants that have some phenotype?	0.24634458685055716
+What could we find by biochemical purification?	0.246223660278305
+What do we 're using?	0.2459101947418405
+What could you infer with the genetic code?	0.23852825087789542
+'ll we get this one for free?	0.2334491721707086
+Could we find a protein given a gene?	0.2217224614184583
+We could clone the genes that had been mutated in our mutant hunt?	0.20747107377467566
+Who 're going to go back?	0.20486349662069858
+What do we have here?	0.20000823643741006
+What does that's?	0.18481499804423906
+If we had the protein, what might we make an antibody to?	0.15901550819068522
+If we had the protein, might we make an antibody to the protein?	0.1575888805421184
+Could we find genes by mutant hunting and cloning them by position or complementation?	0.15602193829561495
+Do we find the proteins that transport oxygen around?	0.1506297337483673
+Could we go on a mutant hunt?	0.13564894518429593
+Can we find the function of course?	0.11509227710782177
+Can we find the gene of course?	0.10952380708702458
+Could we go from function to gene?	0.1047109969468627
+Who talked about?	0.09366298110722404
+Do we 're using everything we 've done in this course?	0.08518012893295435
+Do they go look for the genotype?	0.08424873878410732
+Do we have a complete working triangle?	0.07842216513310518
+What can we find of course?	0.07605329901434521
+Could we find a gene we 've got a protein?	0.06775654608900528
+Does it's being able to make arginine?	0.06617013026174456
+Could we almost freely move around this triangle?	0.0658068398802385
+Does that's what we 're going to do tonight?	0.06460423648490243
+What could we find given a gene?	0.06396437171616132
+Does it's being able to do something else?	0.05933833338123584
+What could we go from function to?	0.045860629928903496
+What could we go from to gene?	0.038046909886883196
+What do we 're missing one part of?	0.014951431989682185
+If we had that protein does that's pretty cool?	0.013529377410721466
+Were the genes that were related to it the genes that underlie a particular function?	-0.020567951349456104
+Do we 're missing one part of our triangle?	-0.021163430400770844
+Who cannot go back?	-0.05002558305053606
+What could we find a protein?	-0.06188519511680801
+'d I have to get a phenotype?	-0.07337928350125056
+Do we get to really complete the triangle?	-0.07753610945551337
+What could we find by mutant hunting and cloning them by position or complementation?	-0.08375720597106273
+Do we 've done?	-0.09259742464630816
+Does that's what biochemical purification was?	-0.09623494187866544
+Who goes on?	-0.101928849925077
+'d I have to take a gene?	-0.10258292727137963
+If I gave you a gene, you could sequence it?	-0.12187423916991724
+Do we have some function?	-0.12303262228020784
+What could we find a gene we 've got?	-0.15197074040691372
+What could we find we 've got a protein?	-0.15700579934604963
+Is this a big event?	-0.22141921207403215
+We could clone them by position?	-0.23878581953073197
+What were the genes that were related to it?	-0.23949193033864713
+What could we almost freely move around?	-0.28041583740436393
+If we found its gene does that's pretty cool?	-0.28395926017527673
+Do we need to go?	-0.2903956943018158
+What 'd I have to take?	-0.29393829162962204
+Do we 've got our whole triangle?	-0.29743259579358616
+Did we talk about?	-0.33659015906940337
+What do we have?	-0.3588089870331759
+Can we not do something?	-0.374848133939675
+'d I have to knock it out?	-0.3910001408630046
+We could clone them by complementation?	-0.40811925251965264
+What do we get to really complete?	-0.419940500583317
+Do we 're going to go back?	-0.4250507451792018
+Do we have our coat of arms here?	-0.4288258550847863
+What we could clone?	-0.5098983258216139
+What do we 've got?	-0.5183904008922919
+Do you go on?	-0.5215951664671421
+Can we not go back?	-0.6223951569383701
+What do we find?	-0.7394664362397874

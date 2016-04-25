@@ -1,0 +1,103 @@
+PROFESSOR: I mean specifically, it's not on a sex chromosome. So I'm going to say autosomal dominant inheritance. What's an autosome? An autosome is a chromosome that's not a sex chromosome. So humans, as you will know from consulting your owner's manual, have one pair of sex chromosomes and 22 pairs of autosomes. 
+
+So let's take a look at a pedigree here. We're going to have this. Dad is affected. Dad's a square. We're going to have a bunch of kids. Six kids-- three boys, three girls. Let's have this person be affected here. He's going to meet somebody nice, settle down, and have four kids. She's affected. She's affected. She marries. She has four kids, two of whom are affected. That's a pedigree. OK? 
+
+Let's pick, as an example, Huntington's disease. Huntington's disease is a brain degeneration that onsets around the age of 40, 50 or so. It leads to inexorable brain degeneration, a kind of shaking movement-- question? 
+
+STUDENT: Yeah. Doesn't that male over on the right have the phenotype? 
+
+PROFESSOR: Which male? 
+
+STUDENT: Sorry, the genotype. On the right bottom. 
+
+PROFESSOR: On the right? 
+
+STUDENT: Yes. This one has-- the son of that. Because the female has [INAUDIBLE]. 
+
+STUDENT: [INAUDIBLE]. 
+
+STUDENT: Oh, sorry, it's not the same. 
+
+PROFESSOR: Cool. No, but this is good. We're thinking through. Genetics are logic problems. They're wonderful logic problems. It's an autosomal thing. So as before, with the X-linked, we had ratios of males and females. Do we expect any difference in ratio? Before, with X-linked, there were many more males than females were affected. For an autosomal dominant disease, not on a sex chromosome, we don't expect a difference in the sex ratios, right? 
+
+Let's actually work out the genotypes. What genotype would you like to give this guy? Well, we could go with mutant over plus. Mutant over plus. What chromosome should we put this on? Is it going to be on the X chromosome or the Y chromosome? No. Let's put it on chromosome four, because that's actually where it is. So it's on chromosome four. It's on the tip of the short arm of chromosome four. I happen to know that for Huntington's disease. 
+
+Plus over plus. And what goes on in this generation? What did this person get from Mom? Plus. And from Dad? Plus, probably, because the person's unaffected. Over here, this person got mutant over plus, plus over plus, mutant over plus, plus over plus, mutant over plus. Over here, this person married someone. 
+
+And if this is strict dominant inheritance, simple dominant inheritance, do we know that this person's plus over plus? Because if this person was mutant over plus, she would be affected, and she's not affected. All right. So everybody here is plus over plus. Nobody in this branch of the family has any risk of getting the disease at all, right? 
+
+But over here, the disease has been passed down, and Mom is going to transmit this to half of the offspring. But unlike the case of sex-linked inheritance, her sons and her daughters get it at the same frequency. OK? Everybody on board with that? 
+
+So what are some rules about autosomal dominant inheritance in human pedigrees? This is a pretty rare disease, Huntington's, but there are more common diseases. In fact, that's actually a pedigree of people with Huntington's disease around Lake Maracaibo in Venezuela, which is where there's a huge concentration, a big, big, big pedigree with lots of Huntington's disease. 
+
+So what are some rules about transmission for Huntington's disease? Yep? 
+
+STUDENT: About 50% are affected. 
+
+PROFESSOR: So about 50% of the offspring are affected. Why isn't it exactly 50%? 
+
+STUDENT: Probability. 
+
+PROFESSOR: Because of probability. It's random chance. You're dealing cards, and there's on average a 50% chance. What other rules have we got? Yes? 
+
+STUDENT: It affects both genders equally. 
+
+PROFESSOR: It affects both genders equally. Affects males and females equally. That's very different than the sex-linked. Yup, what else? Unaffected never transmits. That's great, I like that. Unaffected never transmits. It sort of appears in every generation. It never quote "skips a generation." Never skips a generation. For a simple, autosomal dominant trait. 
+
+Unaffecteds never transmit. Affecteds transmit to half the kids. Males, females equal. Present in every generation. What would happen if you had a homozygote? But if somebody was mutant over mutant? What fraction of their kids would be affected? 
+
+STUDENT: 100%. 
+
+PROFESSOR: 100%. That's actually interesting. If someone is a homozygote for the mutant allele, then 100% of the offspring are affected. 
+
+All right. Those are some pretty good rules. Now, let's think for a moment about population genetics. Huntington's disease has an extraordinarily low frequency. I think the frequency is something like 5 out of 100,000 people. I bet most of you don't know anybody with Huntington's disease, because the frequency is only 5 in 100,000. Very low. 
+
+I could pick another dominant disease that we're going to talk about later in this course. I'll just mention it. Familial Hypercholesterolemia-- or, as we say, FH-- meaning an inherited form of high cholesterol. That's what Familial Hypercholesterolemia is. That is much higher. About 1 and 500 people have a familial form of extremely high cholesterol in their blood. 
+
+So let's take that Familial Hypercholesterolemia. If 1 in 500 people has Familial Hypercholesterolemia, a disease we're going to talk about later in the course, what's the frequency with which chromosomes carry a mutant allele. What fraction of chromosomes carry a mutant allele? Can we back that out? 
+
+STUDENT:  1 in 250. 
+
+PROFESSOR: 1 in 250, 1 in 500. Any other votes? 1 in 1,000. Everybody knows it has something to do with a factor of 2, right? So let's think this through. Suppose we had-- let's actually be specific. We'll go plus mutant, plus mutant. Possible genotypes here-- plus plus, plus mutant, mutant plus, mutant mutant. If it's a dominant disorder, which of these cells will be affected? All three of these will be affected. 
+
+All right. Now let's think about frequencies. Suppose that the frequency of the mutant allele in the population is q. Why the letter q? Because geneticists typically use the letter q. And if that's the case, then the frequency of the normal allele is 1 minus q. And 1 minus q is officially called p. OK? 
+
+So let's look at the frequencies here. What would be the frequency of plus plus? You've got to get a normal chromosome from your mom and a normal chromosome from your dad, and the probability would be p times p. Each is p. So that's going to be, for frequency, p squared. 
+
+What's the chances that you get a normal chromosome from your mom and an affected chromosome from your dad from a random person in the population? pq. What's the chance you get the affected chromosome from Mom and a normal chromosome from Dad? pq. qp, but multiplication is commutative. And what's the probability that you get a mutant allele from both parents? 
+
+STUDENT: q squared. 
+
+PROFESSOR: q squared. So what's the probability that you're going to be affected? Well, 2pq plus q squared. Now, sleight of hand comes in, and we say q, the frequency of mutant alleles in the population is pretty small, right? It's very small compared to p, because most people don't have the trait. So for all practical purposes, let's ignore it. 
+
+And what's p? P is 1 minus q, and q is very small. So p is sort of 1. So this is sort of about 2 times q. The frequency of affecteds is twice the frequency of chromosomes carrying it. 
+
+And isn't that just the calculation we did before to find out if you were color blind? We just kind of said it was nothing more than that. You have two copies of that autosome. The chance that one of them has it is q. The chance that the other one has it is q. And it's 2q. And it isn't exactly 2q, but it's good enough for our purposes. 
+
+So now tell me, if the actual frequency is 2q, and 1 in 500 people have Familial Hypercholesterolemia, what must be q? If 2q is 1 in 500, q must be 1 in 1,000. 
+
+We just did population genetics. Actually, we haven't actually sequenced the gene. We haven't identified the gene. You haven't surveyed thousands of people by getting their DNA and reading their DNA. But you already know that if I got 10,000 people out of the human population, 20,000 chromosomes from all those people, you know that the 1 in 1,000 of those chromosomes would be carrying the mutation. You can tell that right from the human population frequency. 
+
+So we know that the frequency of the disease-- 1 in 500, the frequency of the mutation, because it's a dominant-- 1 in 1,000. And this is 2 times that, give or take. And if you want to do it right, you can correct it, and you'll find it slightly, slightly, slightly different. 
+
+All right. Now. Actually, dominant traits don't quite work like this always. I've given you the simple case, with a dominant autosomal trait, with what is called full penetrance. Full penetrance is whenever you get the mutant allele, you get the mutant phenotype. 
+
+But it doesn't always work that way. It's possible to have incomplete penetrance. So let me admit to incomplete penetrance. The two diseases I have listed here have full penetrance. If you get the mutant allele, you will get the trait. In Huntington's, it might onset when you're 40 or 50 or 60. But if you live long enough, you're going to get that brain degeneration. 
+
+Familiar Hypercholesterolemia-- if you get the mutant allele, you will get high cholesterol-- very high cholesterol. And we'll talk about it more in the course. But there's some examples of diseases without that. Let me give you one. Early-onset breast cancer. 
+
+There's two genes that cause early-onset breast cancer, and they go by the names BRCA1, for Breast Cancer 1, and BRCA2, for Breast Cancer 2. And these genes-- they live on chromosome number 17 and chromosome number 13. And we don't know how we know that yet, but we're going to know how we know that soon enough in this course. Those genes confer about a 60% lifetime risk of breast cancer on a woman who carries that mutation. 
+
+So carriers, carrier females, have about a 60% lifetime risk of breast cancer. And it tends to onset fairly early-- 30s or something like. Although it can go later, and it can be earlier than that. So that's an example of incomplete penetrance. Not everybody in the pedigree is going to be colored in. 
+
+And it will confuse you as you look at the pedigree, because you're going to say it looks like it skipped a generation. Well, that's because it was incompletely penetrant. And it's going to confuse you, because the ratio isn't going to be a half. It's not half the kids. Half the kids will get the mutant allele, but only 60% of that half will show the trait. And half of 60% is 30%. 
+
+But wait, wait, wait, wait, wait. It's incomplete penetrance. But there's another issue here, too. Breast cancer, half the females will get it. What about the males? Will any of the males get breast cancer? Why not? Because you would say-- it sounds reasonable-- they don't have breasts. 
+
+In fact, males do have breast tissue. And it turns out there is a risk of breast cancer in males. Although it's much lower. 
+
+It turns out it differs. For BRCA2, it's 6.5%. For BRCA1 it might be about 1% or so, which is still high. It's measurable, but clearly less. And it probably has to do with fewer cells, for example. But it's not 0, interestingly. Right? And so you actually do have, in males, carrier males, there is a small but measurably higher ever risk, also. 
+
+So that's another thing. We talk about sex-limited phenotype, a phenotype they could only be seen in women would be completely sex-limited. This is a phenotype that's mostly sex-limited. So genetics starts getting a little more complicated, because there's incomplete penetrance in real life, because there might be sex limitation-- a risk also, but much smaller. It's small. 1% or 6%. So that's incomplete penetrance. And that is sex limitation. 
+
+Before you go on, take a moment. I've got a question for you about autosomal dominant inheritance. 

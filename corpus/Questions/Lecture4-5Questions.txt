@@ -1,0 +1,483 @@
+What facilitates viral binding to sialic acid to receptors?	2.7511251928223226
+What contains the neuraminidase protein important for the efficient release of newly produced viruses?	2.6082794406677303
+What allows HA2 to form a triple-alpha helix bundle?	2.6048851792404757
+What is a movie made by a company called Crucell?	2.588207252632281
+What does Sorry have here?	2.530753692482342
+What can be released into the cytosome after fusion?	2.502802011565586
+What triggers the confirmational change of the cleaved HA molecules?	2.494128227895567
+What does hA1 allow to form a triple-alpha helix bundle?	2.468678542173592
+Where was what by the way?	2.4499450002884307
+Who has some proteins that have an alpha helix and a loop and an alpha helix and a little bit of hydrophobic stuff here?	2.4398556784324463
+What can the viral genome be released into the cytosome after?	2.423345205588492
+What can the viral genome be released into after fusion?	2.421630659471386
+Where does the neuraminidase protein, NA, important for the efficient release of newly produced viruses's bound there?	2.4067087319035125
+What specifically attach to the surface of the epithelial cells?	2.3824333380382945
+What's all induced by the changes in the pH.?	2.372423567606613
+What's just amino acid upon amino acid upon amino acid?	2.3615294761817007
+What extends towards the endosomal membrane?	2.358356926104517
+What is Endocytosis just being brought into-- in?	2.348399503261919
+What does hA1 allow HA2 to form?	2.306185253848884
+What does the pH trigger the confirmational change of?	2.2830357827873287
+Who is just being brought into the cell-- in?	2.2774377215714243
+What goes down from neutral pH to more and more acidic pH.?	2.235749029998681
+Who's going to need some membrane cutters or something to get through?	2.23130937095442
+How many variations there are the little variations?	2.218504559774277
+What's how the cell deals with it?	2.173145535381821
+What was what at by the way?	2.1699654503711527
+What has been designed by bacteria in human cells and things?	2.1632969081525384
+What does the M2 ion channel promote--?	2.1475306038900372
+What promotes viral structural changes--?	2.145016513109137
+What's a look at proteins?	2.1284804483408393
+What does the neuraminidase protein, NA, important for the efficient release of newly produced viruses's bound to there?	2.1264198950856956
+What do influenza viruses specifically attach to?	2.1001107291870587
+What becomes what's called a lysosome?	2.094328221349686
+What does viral internalization facilitate?	2.0933351650432352
+What's now a stuck in an endosome?	2.0865519348487296
+What can people not really design any of from scratch?	2.061135011516183
+What do hydrophobic patches want to do?	2.057908657020729
+Who's going to need something pretty clever?	2.0572447033483017
+What can people not really design from scratch?	2.0563079142878977
+What does the pH go down from to more and more acidic pH.?	2.053723676737715
+What's bound to the outside of the cell there?	2.0522887772499843
+What has all the really cool stuff been designed by?	2.0500510735110136
+What does the vesicle's all induced by?	2.025238199437398
+What is NA?	1.9942469186680534
+What are anchored in the endosomal membrane?	1.9867651916702787
+What does the virus desperately have to into?	1.9825393756158258
+What endocytosis what happens?	1.9712484702095738
+What is an unbelievably rich field?	1.9631990305618705
+What is HA?	1.9548783391930267
+What binds to some cells?	1.9542013205665
+What does what happens's got?	1.9527596368057465
+What is a virus?	1.9495225163191516
+What is the neuraminidase protein?	1.9456054514952001
+What does the viral membrane envelope contain?	1.9453947054975596
+What is the influenza hemmagglutinin protein?	1.9264259793601577
+What's wrapped up in an endosome?	1.9201792248615601
+What gets into the endosome?	1.913483041747396
+What does the pH trigger?	1.904733045074936
+What has a little spring-loaded device?	1.8998603885838146
+What changes shape again?	1.8958803462102316
+What are amazing machines?	1.8810664379386133
+What does so the vesicle's going to collapse like?	1.859742479271942
+What is the flu?	1.845442943701526
+What does a cell's a worse than?	1.8429264297888004
+What does what happens bind to?	1.8285249246596962
+What do what do want to do?	1.828318553043705
+What does the pH go down from neutral pH to?	1.818453250241761
+What is endo?	1.8167886382525478
+What does a cell's now a stuck in?	1.8018895610416217
+Who is boing?	1.7809202867923952
+What is the influenza virus?	1.7803907982503864
+What can make amazingly specific shapes?	1.7753998421267223
+What does what do now like to do?	1.7690319700778523
+What are the little variations?	1.7577028726483028
+What's a gorgeous movie?	1.7507308446929692
+Who can get these incredible shapes where something has been spring-loaded, ready for the trap to spring when it gets to the right pH.?	1.7411645765642292
+What does a cell's wrapped up in?	1.7388723223974638
+What is the endosome?	1.7350128546993435
+What does Sorry's going to need?	1.7318141826930165
+What's got a little problem?	1.7291476844928069
+What is the cell?	1.6951614778400956
+Does viral internalization facilitate viral binding to sialic acid to receptors?	1.6933287760275166
+What does the vesicle collapse like?	1.6869957970563536
+Who thinks Crucell gets amazing credit for having made this movie?	1.6811315312276123
+What does the vesicle change again?	1.6769045830077955
+What here illustrate the key points?	1.6763959859599193
+Does the triple-alpha helix bundle extend towards the endosomal membrane?	1.6547410769176145
+Who do I think gets amazing credit for having made this movie?	1.62799493794774
+What is a movie?	1.6261720713235128
+What does a cell's internalized into?	1.6248387334966519
+What is about to make that endosome highly acidic?	1.621010912472453
+What is the virus in?	1.6018280375828013
+What's a good one?	1.5979591869915142
+What does the cell actually endocytosis?	1.5936415599590565
+What do I think Crucell gets for having made this movie?	1.5921814144648385
+What does here's?	1.5657860968206112
+Does hA1 allow HA2 to form a triple-alpha helix bundle?	1.5606333871868094
+What binds to the cell?	1.5067226784296608
+What's internalized into this thing that is called an endosome?	1.4949878743806124
+Can the viral genome be released into the cytosome after fusion?	1.4874123820944196
+What begin to change?	1.4852158965321962
+What does the pH become?	1.4661844256986303
+What does all right?'s?	1.4377798322818398
+Does the pH trigger the confirmational change of the cleaved HA molecules?	1.422525229899041
+What does the real influenza have?	1.417715804464101
+Does the viral membrane envelope contain the neuraminidase protein important for the efficient release of newly produced viruses?	1.4173937942795471
+What's inside the membrane of this endosome becoming a lysosome here?	1.4094814481129005
+Is Endocytosis just being brought into the cell-- in?	1.406799720668205
+Does the M2 ion channel promote viral structural changes--?	1.4023221291619312
+Who 're going to get back to Buchner and that whole process of breaking down sugars in fermentation by stringing together a lot of these enzymes?	1.3927082343702764
+Do influenza viruses specifically attach to the surface of the epithelial cells?	1.3925881867727505
+What does the triple-alpha helix bundle extend towards?	1.3911725900174292
+What opens up?	1.3911593800518416
+What drops?	1.3881025694061386
+What was at the end of that alpha helix by the way?	1.380373024086429
+What can fold back?	1.3740187057005708
+Who 're marveling at the extraordinary engineering that they have developed?	1.3666513877960504
+What can you get?	1.3576039482829985
+What's got this thing folded over like this?	1.3539258405875363
+What sticks out it's little hydrophobic patch?	1.3433601835156326
+Does Sorry have some proteins that have an alpha helix and a loop and an alpha helix and a little bit of hydrophobic stuff here?	1.33872481013523
+Does Sorry's going to need some membrane cutters or something to get through?	1.3386507459343577
+Who 're trying to design some of our own things?	1.335357668555465
+Has all the really cool stuff been designed by bacteria in human cells and things?	1.3292387339609495
+What are proteins?	1.3279660781455236
+What is such a ridiculously simple structure that all of you can understand?	1.3073642475430085
+What makes this highly acidic?	1.3032624613126198
+What is the coolest engineer you can find anywhere?	1.2971766065792445
+Who 've got a question for you about the influenza virus?	1.286251900574396
+What was what at the end of that alpha helix by?	1.2765719617163516
+What's pretty remarkable?	1.2689650463166737
+Is the neuraminidase protein NA?	1.2684817665316754
+Does the vesicle's all induced by the changes in the pH.?	1.258213335279995
+Does Influenza virus actually have a membrane around it?	1.257117594431099
+What comes up?	1.248893645689045
+What becomes more and more acidic?	1.245719281016076
+What is shape?	1.241144458216303
+Is the influenza hemmagglutinin protein HA?	1.2393451448321877
+What does that's just upon amino acid upon amino acid?	1.2340800210961507
+What is so clever?	1.2277088874156767
+What's pretty cool?	1.2273696952572015
+Who just wants to leave you with one amazing additional molecular machine built out of proteins?	1.2270861723201385
+What does it's inside the membrane of this endosome becoming here?	1.225833471795215
+Does the virus desperately have to into the cell cytoplasm?	1.2230135869122427
+Who 're going to think about putting enzymes together in pathways?	1.2173711149078406
+Who 're sitting at the feet of cells?	1.2156407979995905
+What can all make?	1.2122108901431616
+Do what do hydrophobic patches want to do?	1.209509951205248
+Is Influenza a virus?	1.2078796195966066
+Does what happens's screwed itself into the bottom membrane?	1.2076996879502522
+What does Influenza virus actually have around it?	1.2072932492192319
+Does the neuraminidase protein, NA, important for the efficient release of newly produced viruses's bound to the outside of the cell there?	1.2057929876110123
+What's it?	1.2055681537523972
+What does Sorry's going to need to get through?	1.1929837367967675
+What is the thing the cell should be doing to destroy the vesicle actually?	1.1911567083594532
+Does what happens's screwed itself into the top membrane?	1.1905293237223336
+Are the fusion peptides anchored in the endosomal membrane?	1.18892445531824
+What's going to tug those membranes so closely together that they end up fusing?	1.1887734982796103
+What binds?	1.1832372900062267
+Does Sorry's going to need something pretty clever?	1.1803137746839298
+Does the pH go down from neutral pH to more and more acidic pH.?	1.1750694761371747
+What does what happens's screwed itself into?	1.1646131697312239
+What does this's inside the membrane of this endosome becoming here?	1.1644848746770853
+What change as to whether they 're positive or negative of course?	1.16158028862866
+What cannot really design any of these things from scratch?	1.1615287546419233
+What has some proteins that have an alpha helix and a loop and an alpha helix and a little bit of hydrophobic stuff here?	1.161199483205265
+What's this thing wrapped, two alpha helices with this loop region and hydrophobic thing at the bottom?	1.1606417263869369
+Who do we 're going to get back to?	1.1592970301117687
+What goes down?	1.1584652312864347
+Does the pH become what's called a lysosome?	1.1501565230884823
+What does that's just amino acid upon?	1.1474969571051927
+Who can adopt these cool things glom on?	1.1414697899734052
+Who 're trying to understand the basic principles?	1.1357971974509167
+What is induced to change shape by the pH.?	1.1336421394370153
+What desperately has to into the cell cytoplasm?	1.1215216081333335
+What does a cell have here?	1.1213794857958708
+What is falling?	1.1137747754026461
+Who do I just want to leave with one amazing additional molecular machine built out of proteins?	1.11217700085438
+What can change?	1.1112203998028178
+What's more favorable?	1.1035851877708203
+Is Influenza the flu?	1.1010941352107624
+Who well 'll just show you the trick?	1.08590759209716
+What's screwed itself into the bottom membrane?	1.0798087478541576
+What do we 're trying to design some of?	1.0780235176102253
+Does a cell's now a stuck in an endosome?	1.0752433746561074
+What's screwed itself into the top membrane?	1.0594554634653006
+What's got a linkage between these two membranes?	1.0586028964608554
+What's called?	1.0578602486572195
+Is the endosome boing?	1.057092697215872
+What does Influenza virus actually have a membrane around?	1.0560093686512158
+Where does it's bound there?	1.0517204201471007
+What goes down your airways?	1.0474293667230734
+What is on?	1.0448323240078263
+What can people not really design any of these things from?	1.038218194794858
+What actually has a membrane around it?	1.0302151097434757
+What does what happens's screwed into the bottom membrane?	1.0282134508535168
+Is the cell endo?	1.0223271304502686
+Does a cell's wrapped up in an endosome?	1.0198041373793818
+What does what happens's screwed into the top membrane?	1.0110430866255982
+What so's going to collapse like that?	1.008288558709387
+What can you now go continuously from out into the cytoplasm?	1.0077702982754935
+What does it stick out's little hydrophobic patch?	1.0051977345649288
+What change here?	1.0049301048672923
+Does the cell actually endocytosis what happens?	0.9893028154158918
+Does the real influenza have some proteins in its membrane?	0.9882164297806166
+What does it's screwed into the bottom membrane?	0.9874354306726831
+What does the vesicle's going to tug so closely together that they end up fusing?	0.9853675793816132
+Does hA1 open up?	0.9849814716063425
+What do we 're marveling at that they have developed?	0.9848362980894481
+Who now can go continuously from the inside of the flu virus out into the cytoplasm?	0.9801933999614645
+Is shape an unbelievably rich field?	0.9748127159772777
+What is it that all of you can understand?	0.9701164442939099
+What does it's screwed into the top membrane?	0.9688327523723428
+Who eRIC LANDER: Last topic 'll go really quickly?	0.9576727691218607
+What you can adopt glom on?	0.9548782715236774
+What does that hydrophobic patch now like to do?	0.9544870317810836
+What's going to need some membrane cutters or something to get through?	0.9517561167995094
+What has some proteins in its membrane?	0.9510257609846933
+What are these 20 variations there?	0.9489669884377461
+What is Influenza?	0.9460173235091249
+What does this stick out's little hydrophobic patch?	0.9414945304178997
+Who 'ves drawn two of those?	0.9377997310493269
+What do we 're trying to understand?	0.9345941170754524
+What do we 're sitting at?	0.9250036155731507
+Does the vesicle change shape again?	0.9168394131861008
+What get the flu this season?	0.9024055039688763
+What does it's all induced by?	0.8960534322902365
+What changes shape it turns out?	0.8928861927415019
+What brings those membranes together?	0.8916829207872372
+What's a worse than that?	0.8909324633089155
+Is the cell about to make that endosome highly acidic?	0.8855806196524885
+What's inside its own membrane?	0.8804862081852975
+Does the virus desperately have to get out?	0.8755203612600302
+What will bind to a cell in your airways?	0.8749309293840424
+What is?	0.8710267638966721
+Are proteins amazing machines?	0.8706750430152033
+What does this stick out it's?	0.8685275985493024
+What collapses like this?	0.867601947438303
+Does the pH drop?	0.8661410481685949
+Who 'll just say the flu virus here?	0.8659475515883064
+What do I 've drawn two of?	0.8648752178711567
+What does so it's going to collapse like?	0.8639657453621661
+Who 'll just home in on the flu virus here?	0.8609694816402129
+What have these little variations?	0.8589476935639715
+What do you now know the basics of?	0.8441142569184428
+What does it's now a stuck in?	0.843136022791767
+Do charges begin to change?	0.8345733944576601
+Does what happens bind to the cell?	0.8299006980639079
+What do some of your side chains change as to whether they 're positive or negative of?	0.8280125371261624
+What do we 're marveling at the extraordinary engineering?	0.8155259419241407
+What do they all have?	0.8097249053966562
+Who breathes in a flu virus?	0.8076509180167375
+What do my little drawings here illustrate?	0.7995318744359383
+What are the fusion peptides anchored in?	0.793748734828251
+Can the whole molecule fold back?	0.7886584674242714
+What does it bind to?	0.7858389635192764
+What's going to need something pretty clever?	0.7794898486674153
+What does it change shape turns out?	0.7772996451613974
+Can all make amazingly specific shapes?	0.7738241100778362
+Does the cell actually's called?	0.7710414479559538
+Who now knows the basics of proteins?	0.7599492787187803
+What do we 're trying to design?	0.7595177894522687
+What is it such a ridiculously simple structure?	0.7575024910128385
+What does it's a worse than?	0.7566981574246556
+Does all right?'s a good one?	0.7502050165930785
+What does it's bound to there?	0.7461824129285715
+What do I just want to leave you with?	0.7353508804193161
+Who 've learned from it?	0.7338621586180696
+Can you get these incredible shapes where something has been spring-loaded, ready for the trap to spring when it gets to the right pH.?	0.7282481586834049
+What does this bind to?	0.7248431461912059
+What 'll I go really quickly?	0.717015842478943
+Does the vesicle become more and more acidic?	0.7097664558552317
+Who would the virus like to infect?	0.7083201455239674
+Who might think we 're really smart?	0.7015381106474046
+What do I 've drawn?	0.6976084201416515
+Who means the real influenza?	0.6919489424254046
+Who are amazing machines?	0.6842942596569426
+Does the pH go down?	0.6753109119753293
+What does it collapse like?	0.6732441870639538
+What does it's internalized into?	0.6728672985075079
+Is what happens?	0.6698360380247104
+What will this bind to in your airways?	0.6638699587447354
+What does it's wrapped up in?	0.66239077347097
+What does it get into?	0.6602647631599883
+What does it change again?	0.657838910798831
+Do I think Crucell gets amazing credit for having made this movie?	0.657176509818544
+Who 'll do it real quick for you?	0.6537483407290163
+What does the vesicle bring together?	0.6407224507272735
+What does it stick out it's?	0.6310497656028451
+Who goes to a more acidic pH?	0.6302342294055876
+What does it change it turns out?	0.61581628569913
+Who might we think 're really smart?	0.6119143305112422
+Is the pH falling?	0.6107820519623186
+Who 'll do it really quick?	0.6001912474763043
+What does this get into?	0.5992689458319183
+What does it go down?	0.5970968593753743
+Does so what happens's attached itself?	0.5923443949025877
+Who can make amazingly specific shapes?	0.5921709070919621
+What endocytosis it?	0.5826797183560786
+What do I mean?	0.5727911725929924
+What do you change?	0.5708786928992777
+Who changes pHs?	0.5574692082857056
+What do we 've learned from?	0.5573752795710762
+Do charges change here?	0.5504482028019959
+Is the race on?	0.5492939356057331
+Who 'll I do it real quick for?	0.5414917013123066
+Does a cell have its genome here?	0.5411628681366327
+Does a cell bind?	0.537486099212722
+What has its genome here?	0.5368212417536529
+What does this go down?	0.5361010420473042
+What does it's got?	0.5283518447944993
+What do we 've got?	0.5109221565313924
+What will it bind to a cell in?	0.48359857098967174
+What does this have?	0.48355413573857153
+What does this's got?	0.47448821614326375
+What does it become?	0.47362646067017833
+Who would it like to infect?	0.4722158429469261
+What is actually the thing that is activating it to be able to attach itself to the membrane and tug down?	0.4721563563004092
+Does all's pretty remarkable?	0.4708376124570366
+What does it's?	0.4669916883629581
+What 'll I do real quick for you?	0.4656000194043939
+What do I think?	0.46308392324369674
+Is this a movie made by a company called Crucell?	0.4619833060863856
+What do you now know?	0.4578199571484396
+Do we 're going to get back to Buchner and that whole process of breaking down sugars in fermentation by stringing together a lot of these enzymes?	0.45305342450368924
+What does it's going to need?	0.44151869294241197
+What desperately has to get out?	0.43466390749866224
+What do they not do?	0.4303358087625093
+What will it bind to in your airways?	0.4283061211331367
+Does it's internalized into this thing that is called an endosome?	0.4247550957711437
+Who do not do justice?	0.41989157980805847
+What will this bind to a cell in?	0.4189966415648929
+What 'll I do really quick?	0.41629711095907385
+What does this's?	0.41590819085656894
+What do not do justice?	0.4019333942048384
+Is the thing the cell should be doing to destroy the vesicle actually the thing that is activating it to be able to attach itself to the membrane and tug down?	0.40169494869361655
+What does so what happens's attached?	0.3796411231056076
+Does a cell's internalized into this thing that is called an endosome?	0.36968843982017274
+What are they?	0.3599906126767436
+What do you go to?	0.3417977003820256
+What does it have?	0.3316182963989718
+You can adopt these cool things glom on?	0.3183989918483965
+What so's attached itself?	0.29327481484418705
+Do we 're trying to understand the basic principles?	0.29224715609732677
+What can they make?	0.27970711546405913
+Does that's just amino acid upon amino acid upon amino acid?	0.2641726302316201
+Does it's inside the membrane of this endosome becoming a lysosome here?	0.25979353122653803
+Does it's all induced by the changes in the pH.?	0.2558703759469494
+Does it's got this thing folded over like this?	0.25189221843948184
+Does it have some proteins that have an alpha helix and a loop and an alpha helix and a little bit of hydrophobic stuff here?	0.24099584349130287
+Do we 're going to think about putting enzymes together in pathways?	0.23826613227632443
+Does the vesicle's going to tug those membranes so closely together that they end up fusing?	0.23206115133385286
+Do we 're sitting at the feet of cells?	0.22745340119328006
+Does it's going to need some membrane cutters or something to get through?	0.21945277656375417
+What is the thing the cell should be doing to destroy it actually?	0.21515308709436876
+Is it induced to change shape by the pH.?	0.21474083166131086
+Was what at the end of that alpha helix by the way?	0.20361485061072093
+Does it's got a linkage between these two membranes?	0.19958528923114027
+Does this's inside the membrane of this endosome becoming a lysosome here?	0.19798667073288456
+What does it's inside becoming a lysosome here?	0.19409068021645215
+Does this's got this thing folded over like this?	0.1917101099135956
+Will this bind to a cell in your airways?	0.19035205245003084
+Does what happens's got a linkage between these two membranes?	0.1885774073804254
+Does it become what's called a lysosome?	0.18659596672544154
+What does so it's attached?	0.18365081516589732
+What is it?	0.18106647727276592
+What does it have here?	0.16147405779252977
+Does this stick out it's little hydrophobic patch?	0.1557518724883451
+'ll eRIC LANDER: Last topic I go really quickly?	0.13511012565803204
+Do my little drawings here illustrate the key points?	0.13498542439357886
+What does this's inside becoming a lysosome here?	0.13466678927552378
+Who 're doing?	0.13195670297187645
+What does that's?	0.12881881779964655
+Does it's now a stuck in an endosome?	0.1269887219807857
+Does that's how the cell deals with it?	0.11300168816312084
+Do they all have these little variations?	0.11003536533242997
+Does here's this thing wrapped, two alpha helices with this loop region and hydrophobic thing at the bottom?	0.09957497063846033
+Do we 're marveling at the extraordinary engineering that they have developed?	0.08637547181936345
+Is it the coolest engineer you can find anywhere?	0.0862457169889117
+Does it's wrapped up in an endosome?	0.07253163364675075
+Does it's bound to the outside of the cell there?	0.07216291437182143
+Does that's a look at proteins?	0.06873495764295878
+Can people not really design any of these things from scratch?	0.06830046460990147
+Is it such a ridiculously simple structure that all of you can understand?	0.05459243713536388
+Do we 're trying to design some of our own things?	0.047300021415944915
+'ll I just say the flu virus here?	0.04304099183936794
+Does so it's going to collapse like that?	0.039502926866813226
+Does so the vesicle's going to collapse like that?	0.037739952332027205
+Does it's going to need something pretty clever?	0.037688489911845924
+Are the little variations these 20 variations there?	0.03694979872736992
+We 'll just home in on the flu virus here?	0.026917304465667424
+Would the virus like to infect you?	0.010141005854226393
+Does this go down your airways?	0.009675115159098802
+Does it bind to some cells?	0.008455312215647215
+Does what do that hydrophobic patch now like to do?	0.008031496322710385
+What does it stick out?	0.005801294618220432
+Does the cell actually endocytosis it?	-0.007570284078582068
+Do we 've got a question for you about the influenza virus?	-0.01908194961948584
+Is it an unbelievably rich field?	-0.026367353163935237
+Can you now go continuously from the inside of the flu virus out into the cytoplasm?	-0.031177241849410287
+Does it's going to tug those membranes so closely together that they end up fusing?	-0.0341583265603691
+Will it bind to a cell in your airways?	-0.04489554966649867
+Is the virus in this little lysosome?	-0.052467696205512615
+Do you breathe in a flu virus?	-0.05308252625207155
+Does this bind to some cells?	-0.05350742897633731
+What does this stick out?	-0.055194522709850036
+Does it get into the endosome?	-0.057023119544149736
+Does it have a little spring-loaded device?	-0.05956943314737928
+What do we 've got a question for you about?	-0.07171535343880486
+What does it's going to need to get through?	-0.07335199856595875
+What does that's with?	-0.07925104723359877
+Does it stick out it's little hydrophobic patch?	-0.08071069040100332
+Do you go to a more acidic pH?	-0.081538703320986
+Do I 've drawn two of those?	-0.08353897366330232
+Does it's screwed itself into the bottom membrane?	-0.08603330377170293
+Do I just want to leave you with one amazing additional molecular machine built out of proteins?	-0.08862393894566667
+Are they amazing machines?	-0.09015247248472713
+Does it change shape again?	-0.09347257667178166
+Who says?	-0.09391602283275335
+Do you now know the basics of proteins?	-0.09393479118316073
+Does it bring those membranes together?	-0.1027872418050586
+Does it's screwed itself into the top membrane?	-0.10463598207204305
+Do you change pHs?	-0.10854662574100438
+Does the vesicle bring those membranes together?	-0.10966273925395953
+What would like to infect you?	-0.11218874344780905
+Does this get into the endosome?	-0.11898586073613382
+What is in this little lysosome?	-0.12125333079556433
+Does this have a little spring-loaded device?	-0.12225736723729907
+Can your shape change?	-0.12326808639576337
+Do I mean the real influenza?	-0.12712278674839483
+Do anybody get the flu this season?	-0.13029356792993707
+Does the vesicle collapse like this?	-0.13505698266284694
+Does a cell's a worse than that?	-0.13533534967519611
+Does this's inside its own membrane?	-0.13723285481259162
+Is this the influenza virus?	-0.15160856823488844
+Does it collapse like this?	-0.15205197246533242
+Can they make amazingly specific shapes?	-0.1586030762999604
+What might we think?	-0.16156430270175137
+Do some of your side chains change as to whether they 're positive or negative of course?	-0.162477031529646
+Does it bind to the cell?	-0.1869913746836418
+'ll well I just show you the trick?	-0.19320532997783446
+Does it's a gorgeous movie?	-0.21948079591506642
+Does it's got a little problem?	-0.22015695729121276
+Does it's a worse than that?	-0.22507307225616313
+Does it go down your airways?	-0.228527910685294
+Who is it?	-0.24592120718874222
+Does this's a gorgeous movie?	-0.26303596737894464
+Does this's got a little problem?	-0.2774957498735062
+Does it come up?	-0.3007816344884682
+What does it's going to tug so closely together that they end up fusing?	-0.3025552344104052
+Is this a movie?	-0.3030527449788323
+Does it change shape it turns out?	-0.3068547411755542
+What does it's screwed itself into?	-0.3089989392505048
+'ll I do it real quick for you?	-0.31742255496702376
+What 'll I just say here?	-0.3252530971221037
+Do they not do justice?	-0.32772132075792926
+What do you breathe in?	-0.32812648502049213
+Does it have some proteins in its membrane?	-0.34215083407987557
+Do we 're doing?	-0.3542255009591797
+Does this come up?	-0.3604237584070591
+Does it's a good one?	-0.3665496566915909
+What does it bring together?	-0.3712321225403665
+Does it's inside its own membrane?	-0.3800598292666759
+Do we 've learned from it?	-0.3913837387839041
+Might we think we 're really smart?	-0.40382505700163485
+Does it make this highly acidic?	-0.4329969480491911
+Does it's pretty remarkable?	-0.4893234566078315
+Is this so clever?	-0.49316166662720673
+Does that's it?	-0.5124567472744628
+Does it's pretty cool?	-0.5144482894193529
+Does that make this highly acidic?	-0.5220385493109201
+'ll I do it really quick?	-0.5221085309398603
+Would it like to infect you?	-0.524988741499222
+Is the thing the cell should be doing to destroy it actually the thing that is activating it to be able to attach itself to the membrane and tug down?	-0.5481968421597234
+What does it's inside?	-0.5605109080119324
+Does it bind?	-0.5953583012098813
+Does that's pretty cool?	-0.5953589969806274
+Does that's more favorable?	-0.6106606084871999
+What does this's inside?	-0.6143745366631679
+Do I say?	-0.6661312226995999
+What is this?	-0.6779053628045362
+Does it have its genome here?	-0.7093469898341205
+Does so it's attached itself?	-0.7226850236173816

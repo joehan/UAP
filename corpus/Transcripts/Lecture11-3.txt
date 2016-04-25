@@ -1,0 +1,79 @@
+ERIC S. LANDER: So I make it sound so easy. I have this long strand of DNA, a template. I have this little chunk that's a primer I keep extending. Then reality. If you're a bacterium-- or let's say suppose you were a person-- and your cells were replicating your DNA, let's just think about the problem you have. 
+
+I've got your double helix here. I'm not wrapping it around as a helix right now because I just want to indicate that it's really a double helix going around here. Somehow it's-- I've opened it up and I'm going to start replicating it. There's going to have to be a primer here. 
+
+This is 5 prime to 3 prime. That's the way it always goes, right? This is 3 prime over here. That must mean this is 5 prime here. 3 prime here. 5 prime here. And polymerase will fill things in. And it's no problem. And then it'll open up that double helix and continue to fill things in. 
+
+But where did the primer come from? So something made this primer. So you want an enzyme to make the primer? What would you like to call your enzyme? 
+
+STUDENT: Something -ase. 
+
+STUDENT: Primase. 
+
+ERIC S. LANDER: How about primase? We'll call it primase. OK, excellent. So primase is available to make primers. That's an enzyme. Primase makes a primer and polymerase polymerizes. Everybody knows their job pretty well. 
+
+And it just keeps going like this. And once I've got this initial primer I'm all set, right? Because it just keeps running and running and running, I don't need any more primers, right? Pretty cool. Let's just check out the other strand. Let's see, which way do I go? 
+
+STUDENT: 5 prime. 
+
+ERIC S. LANDER: 5 prime to 3 prime. So I guess I'm going that way, aren't I? 5 prime to 3 prime. I need a primer, so primase is going to come along. And it's going to make a primer and it's going to keep replicating. 
+
+Oh, what do I do about over here? 
+
+STUDENT: It's going to need to-- 
+
+ERIC S. LANDER: Need another primer. I'm going to need another primer here. And it's going to go. And then as it opens up further, what am I going to need? 
+
+STUDENT: Another. 
+
+ERIC S. LANDER: Another primer. So these two strands, actually, as this replication fork is opening up, if we just think about this, this is actually an asymmetric problem. In one direction it's chugging along 5 prime to 3 prime, moving along continuously. We have continuous replication. 
+
+This strand is discontinuous replication. We're constantly, as this replication fork-- we'll call it a replication fork-- opens up, we have to keep making primers. Oh, and not only that, as these primers are extended, they bump into the next primer. Now we're going to get a DNA here that runs up to here, but they're not joined together. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: I got to join them together. 
+
+STUDENT: Joinase. 
+
+ERIC S. LANDER: Well, I mean-- joinase. 
+
+[LAUGHTER] 
+
+ERIC S. LANDER: Bingo. Another word is we want to tie them up together, right? So to tie is to ligate, like a ligature. To ligate them together. So you will have-- 
+
+STUDENT: Ligase. 
+
+ERIC S. LANDER: Ligase. So I need to join together. And because someone else got there before you, you would have called it joinase, which is perfectly fine, but it gets called ligase, which means the same thing. It means to tie together. So there's an enzyme called ligase that ligates, primase that primes, right? Polymerase that polymerizes. Everybody knows their job. It's really good. And it just keeps going like that. 
+
+And in fact, you can demonstrate that this is true. As you do this replication, you can actually find evidence of those little fragments that are getting produced before they get joined up. They were discovered by a Japanese scientist called Okazaki. And what are those fragments called? 
+
+STUDENT: Okazaki fragments. 
+
+ERIC S. LANDER: Okazaki fragments, right? Yeah, molecular biologists just know them as these are Okazaki fragments because Okazaki found these fragments. Anyway, you can find them. There you go. 
+
+All this little machinery here just to get this simple Crick-Watson stuff done. Crick and Watson get to write one sentence, "It has not escaped our notice that this explains copying." 
+
+Well, yeah, exactly, but I mean how's that going to work? I mean, where's the enzymes? How does this work? What happens with a continuous and the discontinuous and the 5 primes and the 3 primes? And Crick and Watson would say, not our problem. Not our problem. The biochemists will work that out. All right? 
+
+Now, it turns out there's another problem. I've been sort of describing the DNA double helix, and I've been drawing this helix in this straight fashion. But it's not in that straight fashion. These two strands of the helix are wound around each other. They're wrapped around each other in this dance that goes around and around and around. Every 34 Angstroms it's turned there around and around and around. 10 bases every 34 Angstroms. 
+
+Now think, if I'm going to separate those two strands and start replicating each strand, I really don't get to pull them apart quite like this, because they're all wrapped up in each other. And then as I start pulling them apart and I start replicating them, the two strands, the two double helices that get made are wrapped up around each other around and around and around and around and around. I have a serious problem. I have a topological problem. 
+
+My topological problem is that these two strands of DNA, as each is getting used as a template, has its correspond-- oh my goodness, what a mess. I mean, they're all wrapped around each other. And in fact, mathematically, if I tug on the ends, I can't pull them through each other because they are inextricably linked with each other. In the topological mathematical sense, they're linked to each other. They're wrapped around each other. You can actually prove a theorem that says there is no way to separate them. 
+
+And yet we know if this is going to explain DNA replication and chromosomes replicating we're going to have to get those two DNA double helices, which are now wrapped around each other at an incredible rate, separated from each other. The mathematical theorem says actually just there's no way to separate them without cutting them. Cutting is cheating in the mathematical theorem. Right? Because that would just be cheating. Of course you could separate them if I was allowed to make cuts and just pass them through, right? So what does biology do? 
+
+STUDENT: It tries-- 
+
+ERIC S. LANDER: It cheats. It cuts and passes them through because it has to. It has no choice. 
+
+Now, when I take two DNA molecules that have been replicated and they're wrapped around each other and I cut one of them and pass them behind the back of the other one and seal them back up, have I changed the molecules? No, all I've changed is their topological relationship to each other. They are still the same molecules. The only difference is that they were topologically different. So what you would call them is topoisomers, because chemically they're the same thing, but topologically they're different. When they're wrapped up around each other they're topoisomers. 
+
+And so this, versus when I separate them. What I do is I clip and move them behind and all that. And I get two double helices out of that. What I've done is I've taken this, and the difference is these are different topoisomers because they have different topological properties. And I'm going to need myself an enzyme that comes along and somehow feels that those double helices have been wrapped around each other, and cuts one, and passes it through, and reseals it. And I would like a name for the enzyme that converts one topoisomer to another topoisomer. 
+
+STUDENT: Topoisomerase. 
+
+ERIC S. LANDER: Topoisomerase. Exactly. Topoisomerase. Boy, Crick and Watson weren't worrying about any of this stuff. They weren't worrying about the primases and the topoisomerases and even the polymerases and all that. [SIGH] There's another problem. 
+
+So DNA replication's a complicated process. Test your understanding of it with this question about the other enzymes that are needed for DNA replication. 

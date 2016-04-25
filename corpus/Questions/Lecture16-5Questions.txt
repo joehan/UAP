@@ -1,0 +1,671 @@
+What turns out to be what motivated the entire Human Genome Project?	2.8551188395189753
+What is someone who has sickle cell anemia?	2.7304854060092776
+What are Red blood cells big bags of?	2.644567189303894
+What did DR. eric LANDER: Cut up?	2.5670902068015975
+How many alpha sub units does Hemoglobin have?	2.56559772731986
+When do DR. ERIC LANDER: Ooh, wait?	2.532468693030211
+What 'll discuss what kind of circle it might be?	2.530041722741364
+What just had a handful of exons and a handful of introns?	2.434290667005712
+What did Good asking for a fluorescently label?	2.3970040335519456
+How many alpha sub units are two beta sub units?	2.3880889754463612
+What 'll produce antibodies against beta globin?	2.345543862779404
+What 'd probably grow just fine the cells without a working beta globin gene?	2.321527397082309
+What well is antibodies against foreign substances take our Petri plate?	2.2996039581485874
+What 'll well antibodies against foreign substances come back to?	2.2816694972051472
+How many beta sub units are two alpha sub units?	2.267759972538341
+What 'll a bunny rabbit produce against beta globin?	2.2425790068013476
+What are antibodies against beta globin?	2.2262201483241877
+What 'll antibodies against foreign substances think about?	2.2168625035803466
+What are Red blood cells?	2.215862998300554
+What is making beta globin?	2.174864655065808
+What suppose the shape of the red blood cells is now cured?	2.1478900379377577
+What does Hemoglobin have?	2.139842084786988
+What well 'll come back to the plate?	2.1171157034570802
+What would what have lower levels of around it?	2.108848961121207
+What do well antibodies against foreign substances use?	2.103539546992998
+What has two alpha sub units?	2.1002132063145567
+What would sTUDENT: And then the ones that grow be--?	2.0604241985973992
+What does beta globin's encoded by?	2.055541024162325
+What do Red blood cells not have?	2.0519653173916215
+What test subject with sickle cell anemia?	2.032524945993153
+What wait a second?	2.024099912602902
+What does a problem not come with any of its genomic controls to be expressed as?	2.0181444045302155
+What should be human cDNA?	2.013571038118345
+What put in yeast cells?	1.9946241085911363
+What 'll some kind of biochemistry make?	1.9866205864846644
+What might be able to use bacteria?	1.9819047716302272
+What is the working beta globin gene?	1.9804157088668053
+What 'll make RNA?	1.974474172491952
+What is a cool reagent?	1.9536396335055322
+What's a pretty compact gene?	1.941782448722184
+What do the cells from someone with sickle cell anemia 're seeing that the challenge here is?	1.9381242541293384
+What's a good idea?	1.933295919048154
+What is all a beautiful scheme?	1.9314689509210574
+What does Hemoglobin make?	1.9245470170975338
+What will a trick's immune system make antibodies against foreign substances it turns out with?	1.9170542851817447
+What should the human source DNA be?	1.9156115201339325
+What would what have around it?	1.9099295801545764
+What do the cells from someone with sickle cell anemia digest?	1.9089545308057696
+What does some filter turn out there's?	1.9061443089162475
+What 've got fluorescently tagged antibodies?	1.8934655892107082
+What stick to the filter paper?	1.8891238601439373
+What knew what the gene was, or even what protein it encoded?	1.8874519936164869
+What will be the subject of the next lecture?	1.8843900975091816
+What do antibodies against foreign substances 've got?	1.883567436033303
+What are two beta sub units?	1.8763195158032848
+What does filter paper's going to stick to?	1.8725696409763257
+What does a problem not come with to be expressed as a protein?	1.8725199603424834
+What do so suppose is now cured?	1.8652268111596118
+What is human erythropoietin?	1.8569440821577188
+What will a trick's immune system make it turns out with the immune system?	1.8555436619072752
+Who ERIC LANDER: Cut up my DNA?	1.8521111478880292
+What labeled antibody?	1.8220875266339105
+What 'll we come back in lectures and talk about the entire Human Genome Project?	1.8101576637297665
+Who 'll come back in two lectures and talk about the entire Human Genome Project?	1.7949265998405526
+What well use yeast?	1.7914076098276905
+Who produced?	1.7906506467275
+What is human growth hormone?	1.7897877781985696
+What does a problem not come with to turn it on?	1.77097943406658
+Is the working beta globin gene someone who has sickle cell anemia?	1.7560017636035075
+What are two alpha sub units?	1.7404826437645233
+What do the test subject with?	1.7256361377842384
+What can be a cDNA?	1.705169715167562
+What's a bad idea?	1.7023038421288685
+What's all ready now?	1.6937988214575124
+Who 'mes going to peel that filter paper off the Petri plate?	1.681669819770221
+What does some filter turn out?	1.6794972043392271
+Did STUDENT: Looking at the shape of the red blood cells produce?	1.6761185262950793
+Will a trick's immune system make antibodies against foreign substances it turns out with the immune system?	1.675904969520019
+What's not a very good experiment?	1.6657108579008484
+What is human insulin?	1.6506148672603114
+What's the colony?	1.6479065476431731
+Who yeah?	1.6447722689377025
+What are DNA?	1.6441393469998908
+What is beta globin?	1.6440509102493925
+Who 'll recall we 've talked a lot about beta globin?	1.6241108223757932
+What's not even likely to work in yeast?	1.6152064790218812
+What do the cells from someone with sickle cell anemia 're seeing that the challenge here is there's not?	1.6087041396018928
+What do not have splicing?	1.6048992784038396
+What do I 'm going to peel off the Petri plate?	1.5937463474961735
+Are Red blood cells big bags of hemoglobin?	1.5917856674074606
+What spill out?	1.5917296613143441
+What are nuclei?	1.5865984709663927
+Do DR. ERIC LANDER: Ooh, wait a second?	1.5762243664268092
+What is the host cell's spliced gene?	1.5730966716037773
+What will recognize beta globin?	1.5670328344824418
+What is beta globin one of?	1.55902313861526
+What have different things that have been cloned into them?	1.5372483075191274
+Who 'll you recall 've talked a lot about beta globin?	1.5257145957368308
+What do I 'm going to peel that filter paper off?	1.5145105901700666
+What do bacteria not have?	1.5118031959297298
+Who 'mes basically doing gene therapy in order to find the gene for betaglobin?	1.4982773120774922
+What could I then produce?	1.494869223541917
+What are tricks?	1.4947736612623612
+Who 'ves got antibodies that can recognize beta globin?	1.4940846522805713
+What will some kind of biochemistry translate into protein?	1.481992884614223
+What are big bags of hemoglobin?	1.4770829623986286
+'ll antibodies against foreign substances discuss what kind of circle it might be?	1.4740358911186062
+If instead of using a genomic DNA library, we used a cDNA library, who would not have any problem with the introns?	1.4694906264071546
+What do I 'm basically doing gene therapy in order to find for betaglobin?	1.469198426244784
+Did Good asking for a fluorescently label antibody?	1.4670712893536875
+What do I 'm basically doing gene therapy in to find the gene for betaglobin?	1.4608710407711691
+Who will some kind of biochemistry use?	1.4596257269963964
+What do the cells from someone with sickle cell anemia 're seeing?	1.4541573521546156
+What do I 'm basically doing in order to find the gene for betaglobin?	1.4538004527748338
+Who would be the ones--?	1.4475585793612205
+What keep going?	1.4425870730955128
+What did DR. eric up my DNA?	1.4349705116977245
+What do I 'm basically doing gene therapy in order to find the gene for?	1.430580343628042
+Does beta globin's encoded by the beta globin gene?	1.4215251449153024
+What washes over?	1.421285269754579
+Who asked for a fluorescently labeled antibody against beta globin?	1.41773323592649
+Might antibodies against foreign substances be able to use bacteria?	1.4086245935282036
+Who 'll discuss what kind of circle it might be?	1.4083865626296208
+Who can do cloning by complementation in mammalian cells?	1.4067945433640632
+What will bacteria and yeast not turn on?	1.403038596839431
+Who 'mes going to inject millions of mice?	1.392003998156624
+Who told you all about the structure of that beta globin gene?	1.3915437818156522
+What transcribe here?	1.3898910271360625
+What will the red blood cells have chewed up?	1.3831236487055893
+What lectures from now?	1.3753894382334384
+Do the cells from someone with sickle cell anemia 're seeing that the challenge here is there's not an obvious function to go rescue?	1.3708160102070805
+Who 'mes going to have a piece of filter paper that has lots of colonies on it?	1.3676624241069875
+What can you do by complementation in mammalian cells?	1.3674316508790092
+What is so good?	1.3558162090978785
+What will not have any introns?	1.347080691035182
+What do so suppose?	1.3467557600305307
+What would have lower levels of oxygen around it?	1.3466328159485337
+Do DR. ERIC LANDER: Good, keep going?	1.3451932590396547
+What turns out there's an easy way to do that?	1.3446646286912212
+What's encoded by the beta globin gene?	1.3412276742444447
+Do the cells from someone with sickle cell anemia's guts spill out?	1.3408360897465483
+What sticks right there?	1.3261212828753413
+Does Hemoglobin have two alpha sub units?	1.32320306077186
+'ll well antibodies against foreign substances come back to the plate?	1.322446757941258
+What's not going to work?	1.3203218007114206
+Who can make it a good experiment with a slight, tiny difference?	1.31957780146345
+Who 'll come back in two how that cloning problem motivated why we ended up sequencing the human genome?	1.3153001633049408
+What do I 'm going to inject millions of?	1.3079086876933985
+Who cool?	1.3070749108272002
+What is one of the two proteins here that make hemoglobin?	1.3066553935776892
+What will not splice the RNA?	1.3039849583180563
+What's hard?	1.3019327097974043
+'ll a bunny rabbit produce antibodies against beta globin?	1.3004580686840423
+Should the human source DNA be human cDNA?	1.3000155078030913
+Who 'ves given you a tube of antibodies?	1.298764510203855
+Who did I tell all about the structure of that beta globin gene?	1.287491444870946
+What was come?	1.2853477209140602
+Is beta globin one of the two proteins here that make hemoglobin?	1.2840406708884666
+What's going to light up?	1.2801543390116008
+Who wants to find the gene for beta globin?	1.2791067443018256
+Do so suppose the shape of the red blood cells is now cured?	1.278441631167854
+What do I want to find for beta globin?	1.2764174871062477
+Who 'mes going to grow my colonies right on top of that filter paper?	1.2685564635009028
+Who wants to see where the antibody would stick?	1.267202502689607
+What did think of this already?	1.265371228164349
+What 're seeing that the challenge here is there's not an obvious function to go rescue?	1.2606778081089813
+Who could then produce therapeutic quantities of insulin and growth hormone and erythropoietin and other things, and that is the basis of the biotechnology industry?	1.2604914197396422
+Who 'd have put in this big piece of DNA?	1.2536370670241408
+Are two alpha sub units two beta sub units?	1.247752788011307
+Who means we 're making this stuff work?	1.2469726400238454
+What bacteria and yeast will not splice?	1.2460805804678319
+Who 'ves got to have mice with sickle cell anemia?	1.2441775994485016
+What's very impressive?	1.243877021346464
+Who just saw that another way to find your gene is by protein expression?	1.2305654232623406
+What does not come with any of its genomic controls to be expressed as a protein?	1.216730001574108
+What are a lot more trouble to work with?	1.2134724780214068
+What could I then produce therapeutic quantities of?	1.2099503715751796
+Do the test subject with sickle cell anemia?	1.2064135536583165
+Do no sites telling polymerase transcribe here?	1.1981128638454557
+Who 'll stick them into skin cells?	1.1961960491585106
+Do antibodies against foreign substances 've got fluorescently tagged antibodies?	1.1877048368513732
+Who did not say anything about human cells?	1.185809782008851
+Are tricks antibodies against beta globin?	1.184676745115564
+What's exactly what we 've got here in fact?	1.1836888520227151
+What do I 've got to have with sickle cell anemia?	1.1803805196183883
+Did Let's put in yeast cells?	1.1781336487958676
+Do well antibodies against foreign substances use yeast?	1.1779580506834502
+What's going to stick to one of those spots?	1.1751109563145063
+What's really good?	1.1704820491589256
+What do I 'm going to have a piece of filter paper that has lots of colonies on?	1.1688817384938792
+Are human cells a lot more trouble to work with?	1.1674085443482323
+Who does not have a way to find it by virtue of conferring a function?	1.1667603204697095
+What have stuck?	1.1616995205420126
+Do Red blood cells not have nuclei?	1.156355478714295
+What are gone?	1.1552628308307926
+'d all probably grow just fine the cells without a working beta globin gene?	1.1541017942878868
+What 'll a bunny rabbit produce antibodies against?	1.1503446524218046
+What can you do cloning by?	1.1452136900914582
+What 'll it produce against beta globin?	1.1439767896115476
+Who 'd probably grow just fine the cells without a working beta globin gene?	1.1418720747055024
+Who do I mean 're making this stuff work?	1.1409530095909282
+What was great?	1.1383378500129309
+What 'll we come back in two about?	1.1347721752023494
+Who can do things like that with mammalian cells sometimes?	1.1334984172264342
+What notice?	1.1334755946886874
+Would sTUDENT: And then the ones that grow be the ones--?	1.1331910032207175
+Who could go back to doing this in human cells?	1.131231993562595
+What's perfect?	1.1290757034928993
+What is great?	1.1286008335688986
+What paper there?	1.1279278318312989
+Who has an antibody to clone the gene for?	1.1273540709542913
+What are oh so you proposing a different kind of?	1.1271755061668602
+Do STUDENT yeah?	1.1259452371097596
+What invented so by the way we 've also?	1.115579926234528
+Does no beta globin's going to get made?	1.1149801677607032
+What will cDNA not have?	1.1124289232864497
+What can you do with mammalian cells sometimes?	1.1105201938579845
+What oh are you proposing a different kind of cloning?	1.1097640231358543
+What all I have to do is stick it in, heat it up to extremely high temperature?	1.1081462470534178
+Who purifyes beta globin from blood?	1.1068933059240482
+Do the cells from someone with sickle cell anemia digest their DNA?	1.103533122514452
+Who 'll have to see which one gets cured?	1.1029585968769968
+What will make antibodies against foreign substances it turns out with the immune system?	1.102612767237737
+Would what have lower levels of oxygen around it?	1.1004190157305316
+What question?	1.096182963320667
+What is?	1.0904755759410274
+What did the biotechnology industry invent so by we 've also?	1.0882726531874019
+What is how you can make human insulin?	1.0869236877585764
+Will the red blood cells have chewed up beta globin's DNA?	1.0822809618634008
+What do I 've got to have mice with?	1.0822777958245187
+Who 're seeing that the challenge here is there's not an obvious function to go rescue?	1.081855856244749
+Who were willing to let me tell you that it had these exons up, give or take?	1.079193346832107
+What's good?	1.0763681752889542
+Who 've cloned it by the protein?	1.0725154269019201
+Who 'mes now giving you fluorescently tagged antibodies?	1.0691657683755849
+Who were willing to let me tell you that I gave you the lengths up, give or take?	1.0642382269330652
+Who are oh so proposing a different kind of cloning?	1.063358262401676
+Who 'll have to go through about a million separate people?	1.0617056031990657
+'ll some kind of biochemistry make RNA?	1.0578556029735249
+What does that's exactly what we 've got here in?	1.0570064194379203
+What 'll you recall we 've talked?	1.0566858642668921
+Who 'mes going to find the one which now makes-- so I 've got to have mice with sickle cell anemia?	1.048979972112119
+What did Let's put in?	1.0478852085342454
+Bacteria and yeast will not splice the RNA?	1.0466395300766949
+What do I purify beta globin from?	1.0438139063924932
+What would it have lower levels of oxygen around?	1.0426028440245818
+What do I 'm going to grow right on top of that filter paper?	1.0413731211282498
+Who were willing to let me tell you that we added them up, give or take?	1.0393299891933716
+Who kind of stick to the filter paper?	1.0387347662667117
+Who 'll I stick into skin cells?	1.0345351758019468
+If I take human beta globin and inject it into a bunny rabbit, what will make an immune response against beta globin?	1.0296806115180965
+What 'll we come back in how that cloning problem motivated why we ended up sequencing the human genome?	1.0296348451676298
+The cells from someone with sickle cell anemia do not divide?	1.026972682680885
+What did the structure of that beta globin gene just have?	1.0251730326266775
+Does Good wash over?	1.022207693099996
+Is human insulin human erythropoietin?	1.0180563540545728
+Does a problem not come with any of its genomic controls to be expressed as a protein?	1.0166767851429914
+Who do somebody walk through what we 're going to do here?	1.014749574945324
+What 'll I stick into skin cells?	1.0044904761198605
+What do we 've cloned by the protein?	0.999642573098013
+What kind of stick to the filter paper?	0.9982794395541099
+Do the cells from someone with sickle cell anemia not grow?	0.995881815321827
+What do I 'm going to have a piece of that has lots of colonies on it?	0.9920302385061512
+What would what have lower levels of oxygen around?	0.9919332555689249
+Who have a Petri plate?	0.9900675501136436
+Who wants to let them spill their guts on the filter paper?	0.9894106718553031
+Where do I 'm going to grow my colonies?	0.9868573627075896
+Who did the biotechnology industry invent so by the way 've also?	0.9857475899731558
+What you rescued the red blood cells?	0.9799197936535295
+Who needs a host cell and a way to recognize it?	0.9795547262636977
+Who wants to crack open those bacterial cells or yeast cells?	0.9714999999906688
+Who would be a bad experimental biologist?	0.9686692418799459
+Who has a working beta globin gene?	0.9679650090204734
+Is the host cell's spliced gene your vectors?	0.9677763403330002
+What do I 'm going to inject?	0.9643976278380599
+What can I make it a good experiment with?	0.9565062171620642
+Who 'ves now gotten it to spill its guts out onto that filter paper?	0.9542312097690375
+Is human insulin human growth hormone?	0.9502249107065364
+If instead of using a genomic DNA library, we used a cDNA library, what would we not have?	0.9497753771845987
+What are oh so you proposing?	0.9478436509771015
+What walk me through what we 're going to do here?	0.9477743166014496
+What all I have to do is stick it in the autoclave, heat up to extremely high temperature?	0.9446693766726513
+What does not come with any of its genomic controls to turn it on?	0.9440961583504872
+What all I have to do is stick in the autoclave, heat it up to extremely high temperature?	0.9430674338056633
+What makes this tetramer?	0.9382381066627319
+What do not have nuclei?	0.9368344830464077
+What do I want to let them spill their guts on?	0.9353724549786262
+What does the structure of that beta globin gene's?	0.9252238129914196
+What will stick to?	0.9221712533865791
+What does it not come with to be expressed as a protein?	0.9176742628911727
+What did we just see that another way to find your gene is by?	0.9113488926618973
+What do all their proteins stick to?	0.9095215831714514
+What 'll I have to go through?	0.9045726319495118
+What 'd we have put in?	0.9039248969727063
+Who might be able to use bacteria?	0.9012827703882933
+What all I have to do is stick it in the autoclave, heat it up to?	0.900536367640886
+What do I 've now gotten it to spill its guts out onto?	0.8977601326214597
+What 'll think about that?	0.896811680944321
+What does it's encoded by?	0.8880425701976653
+What did I tell you about?	0.8847926523711447
+Who would I be?	0.8807614310306553
+What did we just happen to have here on this slide?	0.8744804321141366
+Does maybe's not even likely to work in yeast?	0.868009510855865
+Did nobody know what the gene was, or even what protein it encoded?	0.8677468424013053
+What does a problem not come with any of its genomic controls to turn on?	0.8663137545962392
+Who well 'll come back to it?	0.8646177236698631
+Will cDNA not have any introns?	0.862438323065281
+Who let it develop an immune response?	0.8606676430340614
+What would it have lower levels of around it?	0.8593527825404861
+What do they kind of stick to?	0.8534749034937954
+What 'll we think about?	0.8486889796640171
+Do a red blood cell function?	0.8482251411110187
+Who just happened to have one here on this slide?	0.8453628481628908
+If I take human beta globin and inject it into a bunny rabbit, what will the bunny rabbit make?	0.8423390591836748
+What does it's going to stick to?	0.8387940557383899
+What's going to be hard to see that?	0.8384043185754555
+Who betes you 're thinking you 're probably not going to do it by complementation?	0.8358804345704269
+What did I inject into?	0.8323183268746308
+Who 'd be a great experimental biologist?	0.8317550122535953
+Who can tell that somebody has a disease, but might not know what the gene is?	0.8270537715162409
+Who do I want to let spill their guts on the filter paper?	0.8252771354728647
+'ll we come back in two lectures and talk about the entire Human Genome Project?	0.8248174784580549
+Who injected into a rabbit?	0.8234042013913472
+Who 'll think about that?	0.8200549005445668
+What is your vectors?	0.8169448904058252
+What did we just happen to have one here on?	0.8168632307996313
+What do I mean we 're making?	0.8050064795003145
+What do you need a host cell and a way to recognize?	0.8041956841451989
+What will your immune system make antibodies against foreign substances turns out with the immune system?	0.8040731353064183
+Are nuclei DNA?	0.8021528098760851
+What do I bet you 're thinking you 're probably not going to do it by?	0.7997039201398441
+Who 've got fluorescently tagged antibodies?	0.7984898773481834
+Do Pretty cool?	0.7974610808076192
+What do I want to let spill their guts on the filter paper?	0.796633824422142
+What here is making beta globin?	0.7887870893917297
+Did DR. eric LANDER: Cut up my DNA?	0.7832415989174732
+What do we 've cloned it by?	0.7815274199610636
+Does cloning's hard?	0.7799306749075388
+Who takes my filter paper?	0.7790910896832135
+What does it turn out there's?	0.7775473527139565
+What did I let develop an immune response?	0.7760347332081143
+Who 'd you be?	0.7739585248957657
+Does that turn out to be what motivated the entire Human Genome Project?	0.7700390452783306
+What do I have for?	0.7695453466432469
+What do I want to let them spill on the filter paper?	0.7670828506942207
+Do bacteria not have splicing?	0.7667474430531345
+What are there?	0.7662137998242029
+Who 've just invented the biotechnology industry?	0.7651808947465197
+What do I want to crack open?	0.762130724270726
+Who 've cloned it not by its function to rescue something?	0.7607721774250358
+Do the cells crack open?	0.7564406119675371
+Does beta globin?	0.7519475061318419
+What does it not come with any of its genomic controls to be expressed as?	0.7497423983755958
+What did I not say?	0.7496640349402743
+Who loves you guys?	0.7466612008694826
+Does Good stick right there?	0.7464211259600355
+Does a problem not come with any of its genomic controls to turn it on?	0.7452649099350592
+What will a trick's immune system make antibodies against foreign substances turns out with the immune system?	0.7439582128938831
+Who has found them by rescue, or by their protein expression?	0.7416608276493384
+What does that turn out to be?	0.7402598197928296
+What do I 've now gotten to spill its guts out onto that filter paper?	0.7378510288548648
+What do I have?	0.7336339150430367
+Are red blood cells a little weird?	0.7330202702896342
+What's not really good enough?	0.7328317915584814
+If we had only been the first to do it who 'd be really rich?	0.7281905547355056
+Who do I bet 're thinking you 're probably not going to do it by complementation?	0.7267831885088059
+Who do I bet you 're thinking 're probably not going to do it by complementation?	0.7267831885088059
+What do we 're seeing that the challenge here is?	0.7253570293254259
+What did you ask for?	0.7238599632166944
+What is that antibody?	0.7217973047365074
+Who wanted human cells?	0.7169282451970198
+What do I 've now gotten it to spill out onto that filter paper?	0.7163124736159303
+Who well use yeast?	0.712887507973466
+What 'll it make?	0.7127485269507354
+What do we 've just invented?	0.7037919677514461
+What do I 'm going to grow my colonies right on?	0.7036498052767755
+What is stick it in the autoclave, heat it up to extremely high temperature?	0.6994766064796751
+What do all these different bacterial or yeast colonies have?	0.6978244513269518
+What 'll well we come back to?	0.6886859420536724
+What gotta--?	0.6863442836663837
+Who were willing to let me tell you that it was about this long up, give or take?	0.6861794039353104
+What do I 'm going to have on it?	0.681217080236068
+Do I 'm going to peel that filter paper off the Petri plate?	0.6802317778539999
+What 'll antibodies against foreign substances discuss?	0.6781716015087189
+Who got its antibodies?	0.6732225466511601
+Was polymerase come?	0.665437182405521
+What will your immune system make antibodies against foreign substances it turns out with?	0.659428720529478
+Who 've come along a little late?	0.6578252963824882
+What's not even clear you 'll get enough?	0.6577913720673074
+What do I 've got?	0.6533037653897769
+What would it have around it?	0.6531071033225087
+Does two lecture from now?	0.6515978304529451
+What does it turn out?	0.6507291313741386
+What well is we take our Petri plate?	0.6485431505129287
+What 'd all probably grow just fine without?	0.6479975883755105
+Who should think these things?	0.6474308513425606
+What do I bet you 're thinking you 're probably not going to do by complementation?	0.6405785682085072
+Who needs a source DNA?	0.6356256901451334
+What do well we use?	0.6312269742273178
+Are all the introns gone?	0.628677633058909
+What do we have?	0.6256355053734508
+Who needs a vector?	0.6234074794232074
+Who does it's not even clear 'll get enough?	0.6222481104566582
+What does that's?	0.6199079857256926
+What does it not come with any of its genomic controls to turn on?	0.6155454532241647
+Have all the proteins stuck?	0.6136635070711496
+What will your immune system make it turns out with the immune system?	0.6078183004886575
+Who have our fluorescently labeled antibody?	0.6057245407709726
+Do all these different bacterial or yeast colonies have different things that have been cloned into them?	0.6043601680635668
+Who digest their DNA?	0.6038893363877043
+What should you think?	0.6028872864304782
+What are a little weird?	0.6018371536332727
+What will that be the subject of?	0.5920568628810394
+What can this be?	0.5861807136552164
+Who do I love guys?	0.580048963393514
+What do we 've cloned not by its function to rescue something?	0.5778039206931656
+What do you need?	0.5692769843955905
+Do so notice?	0.567508250502051
+Did people think of this already?	0.5642620233175792
+What does it make?	0.5635680459276136
+Is the problem?	0.5529740619535599
+What did we just see by?	0.5507796416870938
+What do I like?	0.545142184093746
+What can I do?	0.5413645311605155
+What do we 're seeing that the challenge here is there's not?	0.5410489128144036
+What do I not have?	0.5368243216351307
+What is your spliced gene?	0.5253365523230533
+What's going to get made?	0.522131080218827
+What did it just have?	0.5165515614173581
+Who have filter paper here?	0.5164157762043098
+What will translate that into protein?	0.513935595584391
+Who can do that?	0.5127626667044844
+What does it not come with to turn it on?	0.512582530642504
+What will have chewed up beta globin's DNA?	0.5104105332340874
+Does the biotechnology industry's very impressive?	0.5070868465334146
+Who are terminal cells that are big bags of hemoglobin that are so committed to just being big bags of hemoglobin that they digest up all their DNA?	0.4971827310735075
+Who now gives you?	0.49435743629114937
+What did I let it develop?	0.4836703825569004
+What do I take?	0.4822028161849474
+What will some kind of biochemistry translate that into?	0.47971484908595063
+What was right?	0.4767527058200492
+Do I 've got antibodies that can recognize beta globin?	0.4742520057660973
+What is this?	0.46851114797572024
+What does it's now?	0.4641489618251966
+Do I 'm basically doing gene therapy in order to find the gene for betaglobin?	0.46162868375767463
+Do you want to see where the antibody would stick?	0.4530552131430938
+Did you ask for a fluorescently labeled antibody against beta globin?	0.4521825734114344
+Who did you get?	0.4422085670888123
+What do they digest?	0.44186921668614
+Will your immune system make antibodies against foreign substances it turns out with the immune system?	0.4352286698925556
+Do last question?	0.4325968125077546
+Who likes that?	0.43255935963939596
+Is well one way to do that antibodies against foreign substances take our Petri plate?	0.42681866466664076
+Does it turn out there's an easy way to do that?	0.42397474335597307
+Who 'res saying?	0.4208467094124475
+What did I get?	0.41287451851340284
+What do we 've got?	0.4128246534883311
+What does this's now?	0.41028533317396154
+Does some filter turn out there's an easy way to do that?	0.4093429899348746
+Who do I now give?	0.40462318109280027
+What do not divide?	0.3996175983067918
+What globin?	0.39873703482844425
+What are the cells from someone with sickle cell anemia?	0.3979136847483158
+Can you do cloning by complementation in mammalian cells?	0.3963541205889718
+What do we have here?	0.3931116498474605
+What 'll you recall?	0.3909233801397811
+Who got me?	0.3854001350155549
+What does it's?	0.38262852402706415
+What do not grow?	0.3789768724519451
+What 'll we discuss?	0.37790395212459926
+Do I 'm going to inject millions of mice?	0.3770035392479887
+If one of those cells was making beta globin what is there?	0.3670109616418409
+What will that be?	0.3457109614423135
+Does it's encoded by the beta globin gene?	0.33000700282030326
+If one of those cells was making beta globin is beta globin there?	0.3293010781799244
+What crack open?	0.3277187826195245
+What 'll I have to see?	0.32591444501588906
+Is one of those cells making beta globin?	0.3248527250238942
+Who 're now going to ask?	0.3183385779312313
+What will not turn on that gene?	0.3156751022031665
+Will that be the subject of the next lecture?	0.31459201809669635
+Could I then produce therapeutic quantities of insulin and growth hormone and erythropoietin and other things, and that is the basis of the biotechnology industry?	0.31443991125312376
+Do I 'm going to have a piece of filter paper that has lots of colonies on it?	0.31436676386424267
+Does maybe's not really good enough?	0.3140253951836034
+'ll you recall we 've talked a lot about beta globin?	0.3114224944682671
+What do we 've cloned it not by?	0.30289992072700733
+What will it translate into protein?	0.30127207344186213
+Do I want to find the gene for beta globin?	0.301253910086416
+What will use that promoter?	0.2928503013729935
+What function?	0.2906208341842409
+'d we have put in this big piece of DNA?	0.28910882364689794
+What will it translate that into?	0.2889497218876691
+What does that's not?	0.2887212331605049
+Do all their proteins stick to the filter paper?	0.2760893523867862
+'ll we come back in two how that cloning problem motivated why we ended up sequencing the human genome?	0.263354452409303
+Do I have a working beta globin gene?	0.2587771421949152
+Can I make it a good experiment with a slight, tiny difference?	0.24200420642773146
+'ll antibodies against foreign substances think about that?	0.24056200599484967
+'ll I have to go through about a million separate people?	0.23917647894830196
+Do I 've got to have mice with sickle cell anemia?	0.236598861363841
+Did I not say anything about human cells?	0.2299596914265103
+'d they probably grow just fine the cells without a working beta globin gene?	0.22604063390998208
+Do they kind of stick to the filter paper?	0.22510525218721122
+Are the cells from someone with sickle cell anemia terminal cells that are big bags of hemoglobin that are so committed to just being big bags of hemoglobin that they digest up all their DNA?	0.22264829300587174
+What 'll you recall we 've talked a lot about?	0.22014549831092722
+'ll it produce antibodies against beta globin?	0.20802386602279466
+Do I want to let them spill their guts on the filter paper?	0.20690833918220708
+Does the structure of that beta globin gene's a pretty compact gene?	0.2059731483149836
+Did it just have a handful of exons and a handful of introns?	0.20216863238776606
+Did we just see that another way to find your gene is by protein expression?	0.17783272529166583
+Would I be a bad experimental biologist?	0.17588103759842033
+If instead of using a genomic DNA library, we used a cDNA library, would we not have any problem with the introns?	0.17474989695174603
+Could we go back to doing this in human cells?	0.1726635203181477
+All I have to do is stick it in the autoclave, heat it up to extremely high temperature?	0.16910897142704684
+Do I have an antibody to clone the gene for?	0.16876355317963476
+Did the structure of that beta globin gene just have a handful of exons and a handful of introns?	0.16524227912437706
+Do I want to crack open those bacterial cells or yeast cells?	0.16362963097930905
+Did every one you rescue the red blood cells?	0.15509276430852692
+Who do I love?	0.1497423949321639
+Do I 've now gotten it to spill its guts out onto that filter paper?	0.14771438037223206
+What do I want to find the gene for?	0.13812185822964995
+Are oh so you proposing a different kind of cloning?	0.13533662354462228
+If I take human beta globin and inject it into a bunny rabbit, will the bunny rabbit make an immune response against beta globin?	0.13149870872711
+Who will it use?	0.12660610593592603
+Can you do things like that with mammalian cells sometimes?	0.12256875901040187
+What will it not have?	0.11842118726486572
+Did the biotechnology industry invent so by the way we 've also?	0.11798305182831292
+What do I 'm going to find?	0.11559408802473281
+Might we be able to use bacteria?	0.11371120572389781
+Does it's going to be hard to see that?	0.11083093992905413
+Do I purify beta globin from blood?	0.10828850401431289
+'ll we discuss what kind of circle it might be?	0.09668197672766077
+Will it recognize beta globin?	0.08717824112596118
+Do we 're seeing that the challenge here is there's not an obvious function to go rescue?	0.08573572531805107
+Does Hemoglobin make this tetramer?	0.0824301537712393
+Did I tell you all about the structure of that beta globin gene?	0.08094993527400796
+Will bacteria and yeast not turn on that gene?	0.0774946233762317
+Does filter paper's going to stick to one of those spots?	0.07679095217898935
+What does that's in fact?	0.07484191220596359
+Can you tell that somebody has a disease, but might not know what the gene is?	0.0739875185131571
+What 'll we come back in two?	0.07355684393044726
+Does that's exactly what we 've got here in fact?	0.06954048684423597
+Are there yeast proteins, or whatever host cell I had?	0.06418130066272143
+Does it's going to stick to one of those spots?	0.053374451575595394
+What can you do things like that with sometimes?	0.05001992001509148
+Who do not divide?	0.04855775396022621
+Do we 've just invented the biotechnology industry?	0.0468310282507991
+What do I mean?	0.04638507442809803
+Were you willing to let me tell you that it had these exons up, give or take?	0.04617353370760169
+Will some kind of biochemistry use that promoter?	0.046090506062256065
+Did I inject into a rabbit?	0.0416331079499237
+Were you willing to let me tell you that I gave you the lengths up, give or take?	0.0413963498997596
+What is one of those cells making?	0.039275444372287804
+Is that antibody a cool reagent?	0.03508893210058339
+Do we have a Petri plate?	0.034734798720117865
+'d you be a great experimental biologist?	0.031927218228191556
+Who do not grow?	0.02791702810537955
+What did I not say anything about?	0.025354036553804082
+Will the red blood cells have chewed up its DNA?	0.02328605752985391
+What 'll it produce antibodies against?	0.015187374196498737
+'ll we think about that?	0.012142158777435519
+Will that antibody recognize beta globin?	0.010397318701444114
+Were you willing to let me tell you that we added them up, give or take?	0.006566370764122809
+Who will not even know what you put in there?	0.005508870447165082
+Is this how you can make human insulin?	-0.002689691935034544
+Is this all a beautiful scheme?	-0.0042680218871933295
+We has found them by rescue, or by their protein expression?	-0.007844627444099084
+Do we 've cloned it not by its function to rescue something?	-0.012426968913803238
+Do I 'm going to find the one which now makes-- so I 've got to have mice with sickle cell anemia?	-0.013736440360899715
+What do we 're seeing?	-0.015572526703888423
+If we had only been the first to do it 'd we be really rich?	-0.01759850880558189
+Does it's a good idea?	-0.019149211516480635
+'ll I have to see which one gets cured?	-0.02057019540514049
+Will some kind of biochemistry translate that into protein?	-0.02247576071549351
+Do I mean we 're making this stuff work?	-0.03286899777882679
+Is well one way to do it we take our Petri plate?	-0.03295356623301604
+'ll it make RNA?	-0.04331368554126458
+Do we 've come along a little late?	-0.052334775424450086
+Do I 've given you a tube of antibodies?	-0.05546742929755011
+What digest their DNA?	-0.05690965397866443
+Do we 've got fluorescently tagged antibodies?	-0.05706930703089319
+Who could get?	-0.060809644889113446
+Does it's not even likely to work in yeast?	-0.06456000995024902
+Do I 'm going to grow my colonies right on top of that filter paper?	-0.06658703196077154
+'ll I stick them into skin cells?	-0.07642270317315036
+What do I purify from blood?	-0.07661683388538365
+What can you tell?	-0.0784443669976953
+Do their guts spill out?	-0.07848608971511029
+Does that's a good idea?	-0.08588759347467789
+Do we 've cloned it by the protein?	-0.08798827198550363
+Do you 're saying?	-0.08806519803338686
+Were you willing to let me tell you that it was about this long up, give or take?	-0.09149496567903093
+Did he want human cells?	-0.09270449657925495
+Would it have lower levels of oxygen around it?	-0.10017123437804076
+Do I not have a way to find it by virtue of conferring a function?	-0.10094300655356014
+Does it's a pretty compact gene?	-0.11106037135802538
+Did we just happen to have one here on this slide?	-0.11313944482441607
+Do well we use yeast?	-0.11728423469125282
+Does it make this tetramer?	-0.12202644660879347
+Will it not have any introns?	-0.1227448386138672
+Does that's not a very good experiment?	-0.12907770866325796
+Do somebody walk me through what we 're going to do here?	-0.13800482723097174
+Is this cell here making beta globin?	-0.14735000169588686
+What 'll I stick them into?	-0.15759060037464212
+Will it translate that into protein?	-0.16706011240412488
+What are terminal cells that are big bags of hemoglobin that are so committed to just being big bags of hemoglobin that they digest up all their DNA?	-0.17067250319514748
+What did every one you rescue?	-0.17665442182854507
+Should you think these things?	-0.17765845665193503
+Do I bet you 're thinking you 're probably not going to do it by complementation?	-0.17858906778120764
+Can this be a cDNA?	-0.18835563968000746
+Do you need a source DNA?	-0.19452132038696535
+Does it not come with any of its genomic controls to turn it on?	-0.1997082397949359
+Do you need a vector?	-0.2075938300371749
+Does that's a bad idea?	-0.21611841944349308
+Will it use that promoter?	-0.22347649595313168
+Does it not come with any of its genomic controls to be expressed as a protein?	-0.23316557696965212
+'ll well we come back to it?	-0.24681481663944327
+Does it wash over?	-0.24918468525606574
+Does it's all ready now?	-0.25879666132482937
+Do I 'm now giving you fluorescently tagged antibodies?	-0.26020302373766824
+Does that's the colony?	-0.2699650674198648
+Was whatever I injected in right?	-0.27103199778692577
+What does it's not even clear?	-0.2745909833772133
+What 'd they probably grow just fine without?	-0.2772805351713097
+Does it's hard?	-0.2794933473915455
+Do you need a host cell and a way to recognize it?	-0.2806926424868237
+Can I do that?	-0.28666574880673923
+Do I like that?	-0.29928346608260425
+Do we have filter paper here?	-0.3029714042990428
+Did I let it develop an immune response?	-0.3067167228082146
+Does this's all ready now?	-0.314646097936669
+Do we 're now going to ask?	-0.3164055650276294
+What do I bet you 're thinking by?	-0.31880011994804147
+Will it stick to?	-0.34888704482484667
+What did he want?	-0.35052367630549086
+Do I take my filter paper?	-0.3538014216296912
+Is your spliced gene your vectors?	-0.35976129272692337
+Is this so good?	-0.365054344945005
+Does that spot?'s going to light up?	-0.3655201511099402
+Does that's not going to work?	-0.3731987471045086
+Will that antibody stick to?	-0.3732437455712314
+Does it's not even clear you 'll get enough?	-0.39062246600021444
+Does that's perfect?	-0.40261223782192634
+Do I love you guys?	-0.43287447128301526
+Does that's good?	-0.44503303040749076
+Did I get its antibodies?	-0.45099948798097245
+Are they terminal cells that are big bags of hemoglobin that are so committed to just being big bags of hemoglobin that they digest up all their DNA?	-0.4519988708291396
+What do you need to recognize it?	-0.4523161394936941
+Does it's going to light up?	-0.46320760679375517
+Do they digest their DNA?	-0.4772208800921969
+They do not divide?	-0.4800607694025263
+What is this cell here making?	-0.487000911408884
+Did then I gotta--?	-0.4880546799328742
+Do they not grow?	-0.5026344080938105
+Does it stick right there?	-0.5134796988358583
+Do we have our fluorescently labeled antibody?	-0.5243846009045603
+Does it's very impressive?	-0.5349008343801251
+Does that's really good?	-0.5368529024077293
+Did you get me?	-0.5376663342503876
+Is this great?	-0.5916630376752332
+Do I now give you?	-0.6092239507527484
+Will you not even know what you put in there?	-0.6106050114302921
+Was that great?	-0.624760939875225
+Could we get?	-0.6359112448623836
+What will have chewed up its DNA?	-0.6805014233992162
+Is that?	-0.6964672143765058
+What will it recognize?	-0.8214306873417052
+What will that antibody recognize?	-0.8580937290627113
+What will you not even know?	-0.9215586104449236
+What do I bet by?	-0.9484286652759631
+What are they?	-1.3650230503451213

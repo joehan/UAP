@@ -1,0 +1,69 @@
+DR. ERIC LANDER: Today we're going to do something different. We  have talked, in this class, about the whole sweep of history, from biochemistry and genetics and how they come together in molecular biology, and the details of recombinant DNA. And we've talked about genomics and the applications to medicine. What I'd like to do is take one class and just talk together as a class about science and society. 
+
+DNA, which we've talked so much about, and how it affects things outside the laboratory. There are a lot of impacts of science on our world, and in particular, in the field we've been talking about, my own field of genetics and DNA, there are a number of areas in which DNA in particular has come up against the law. And interesting things have happened when DNA and the law come together. 
+
+In the long run, it all sorts itself out. In the short run, there are some complexities around these issues. And I think it is important as scientists that we just talk about the kinds of questions that arise, and the kinds of choices scientists have to make, and the kinds of responsibilities scientists have. To be able to sometimes take action, sometimes advise on questions. 
+
+Because while ultimately, social questions have to be decided by the society at large, scientists have a special responsibility for being able to communicate important information. And very, very importantly, hold the law, or other things in society, to the highest standard. The standard that we would apply in a laboratory. The standard of scientific rigor. 
+
+So I'm going to actually talk about two things that I've actually personally been involved in myself. I'll tell you some stories about them, and then I also want to ask you questions about what you think ought to be done. As opposed to the electronic questions that you get in this course, there aren't right answers. These are complicated questions. 
+
+So anyway, I'm going to start, if I can, with something that goes back quite a ways, back to January of 1989, when I got a phone call. I got a phone call in January of 1989 from a friend of mine who works at the Cold Spring Harbor Laboratory. And he asked me to come down for a meeting on DNA fingerprinting. 
+
+Now we've talked about human genetic polymorphisms, but let's be more specific here. We know that in the human genome, there are individual nucleotides that might be variable-- an A or a C at that position, or a G or a T, in different people, at that position. And nowadays, with the super-duper power of DNA chips and sequencing and things like that, we can read out all those millions of differences. But back in 1989, you couldn't do that. 
+
+So the technology was-- well, it was primitive. And it mostly worked on, at least for really highly variable sequences, it worked on sequences that looked like this. Regions that would have tandem repeats of the exact same sequence but a variable number. These were called, not unreasonably, variable number of tandem repeat loci. Or, because that's a mouthful, VNTRs. 
+
+So if I had a restriction enzyme that would cut outside the VNTR, I would get a DNA fragment of the length, depending on how many copies there were. This has five copies, but maybe some people have eight copies. And what would happen is I would take DNA, I would load it on a gel-- here's the first person's sample, sample number one-- and I would digest the entire human genome, with my restriction enzyme loaded on a gel, and all of the DNA fragments would migrate down. All of them. Wouldn't be a single band anywhere. But this one here would end up, let's say, over there. 
+
+Now if I add another person who had more repeats, it would be a bigger fragment and it would migrate more slowly. And if I add another person who had fewer repeats, it would migrate there. And of course, these people are diploid, and so it's possible that they might have two such bands. 
+
+Now that's a lot of variation. How do I see that? I've migrated the entire human genome down this gel. How do I visualize any particular fragment? 
+
+Well, in prehistoric times, like the 1980s and early 1990s, what would happen is you would take that gel, you would put a piece of filter paper on top, a special piece of nitrocellulose paper, lay it on top, and then you'd get a whole bunch of paper towels and stick it on top of that. Then you'd get like a brick and stick it on top of that. And the water would wick up through the filter paper into the paper towels, and carry with it the DNA from the gel, which would stick to the filter paper, this nitrocellulose filter. You would then remove the nitrocellulose filter on which the DNA would have stuck in exactly this pattern. 
+
+And if I just wanted to visualize these bands, I would take a piece of DNA corresponding to that fragment and make a radioactive probe out of exactly that fragment, that sequence in the human genome. I would put this piece of filter paper into a Ziploc bag. I would add radioactive hybridization solution containing DNA probes, small, radioactive DNA probes matching just this region of the genome. I'd put it in a plastic bag and I'd leave it in the shaker overnight. 
+
+The radioactive fragments would wash around, and by Crick and Watson base pairing, they would find their matching mates in the genome, wherever they were. They would land there, and then these would have radioactive DNA sticking to them. I would wash it, I'd put it on a piece of X-ray film, and I would let it sit in the freezer for a couple of days. I'd take the X-ray film, and I'd develop it. 
+
+And then I would see a picture that looks just like what I've drawn. In effect, I would see this. Of course, at the beginning, all the fragments are there. They're all transferred. But when I add the radioactive probe for just this locus, I'm able to see just the fragments I want. 
+
+This was called a Southern blot. And I haven't taught you a lot about Southern blots because we don't do so many Southern blots anymore. But it's important to know. And this is called the Southern blot not because of the point of the compass, but because the guy who invented it was Ed Southern. 
+
+As it happens, DNA blots are called Southern blots. You can do it also with RNA. They're called northern blots, because the DNA ones were called Southern blots. And even to this day, if you do the same thing with protein, it's called western blots. But you know, molecular biology's funny that way. It all sort of traces back in some Shaggy Dog story. 
+
+But these Southern blots were done, and you could look at the patterns. And this is how people did early human genetics. The early human genetics I told you about, when people mapped Huntington's disease, they were making Southern blots from people's DNA in the family, cut up with a restriction enzyme, and probed for one particular place in the genome. They would then wash off that radioactive probe and wash on another radioactive probe. And then wash that off and wash on another radioactive probe. And you did this, and this is how, for example, the gene for Huntington's disease and the gene for cystic fibrosis were mapped. 
+
+You could do other things with it. If you looked at enough hypervariable regions, like these variable number of tandem repeats, each having many different alleles in the population, I could tell that any two people had pretty different patterns. The odds that you would have the same exact pattern at the first locus is kind of low, because there are a lot of alleles, and you have two of them. 
+
+And you're a diploid, too, and you have alleles there. And then if I look at a second focus and a third locus and a fourth focus, the odds could get pretty low. And I could have complete individual identification. So went the thinking. 
+
+And indeed, that's true. Only identical twins would match for all the possible things. So Alec Jeffreys, a brilliant geneticist in the United Kingdom, recognized that you could do this for forensic identification. If you found DNA at the scene of the crime, if you found DNA from a semen sample from a rape, you would be able to analyze its pattern of particular variable fragment sizes at locus number one in the genome. 
+
+How big are the two alleles? At locus number two, at locus number three. And then if you had a suspect, you could match up and see whether the DNA sample came from your particular suspect. 
+
+A very good idea. A good idea. It does have to be done well, though. It's got to be done carefully, and then you've got to be able to interpret the data correctly. 
+
+And sometimes science gets a little bit-- sorry. Sometimes society gets a little too enthusiastic about the potential of science and leaps over the details of, can you do it well? So that's what my phone call was in 1989, was from this friend at the Cold Spring Harbor Laboratory on Long Island, who was saying, would I come to a meeting about using these kinds of DNA techniques, these polymorphisms for variable numbers of tandem repeats, as an identification tool in forensics? 
+
+So we organized the meeting. About 30 people came. There were lawyers, there were some judges, there were some scientists. And we all talked about this. 
+
+I figured this was going to take two days. And it was interesting, there you go. I was doing human genetics.  I was doing population genetics. 
+
+At the meeting, two lawyers grabbed me, took me aside, and showed me one of the X-ray films from one of these Southern blots. And this really beautiful picture here, with crisp white and completely beautiful bands was absolutely nothing like what they showed me. It was this. 
+
+This was one lane. The three bands-- so sometimes, if the restriction enzyme might cut in here, you might get more than two bands. This was one. This schmutz was the next. And then this was the next. And this was said to match. 
+
+I don't know what it looks like to you, but it's not so obvious what's going on there. This was, you know, early 1989. And even in early 1989, if you did this in the lab, you would say, that's useless. Wash that and reprobe it again. 
+
+But this was actually about to be introduced as evidence in a criminal case in the Bronx. There had been a murder in the Bronx. A woman, a pregnant woman, had been murdered. And when they questioned the janitor of her building, they noticed a speck of blood on his watch. His name was Jose Castro. 
+
+And the police took the watch, took the blood, and sent it off to a newly created testing lab called LIFECODES, that was going to do a test on the blood from the victim and the blood from the watch and see if they matched. This was one of several of the X-ray films-- autoradiograms, we call them-- that they were using to say this was a match. 
+
+This was, as I say, in very early days, when DNA fingerprinting had basically not been used before in the courts, and this was a completely new start-up effort doing such things. And the lawyers asked me if I would comment on this. And I told them I thought it was terrible. 
+
+They asked me if I would testify about that in a court. And I said I didn't really want to get involved. Because I mean, I had a lot of work to do, and I knew how much this was going to be, to get involved in this. 
+
+And then they asked me, well, would I at least advise them on it?  Would I teach them, so that they could learn? And as you know, I like teaching. And so I agreed to teach. 
+
+Now before you go on, stop a moment and answer this question about how DNA fingerprinting worked back in 1989. 

@@ -1,0 +1,3 @@
+ERIC LANDER: Welcome back to 7.00X, Introduction to Biology, The Secret of Life. Last week, we talked about how to make libraries of recombinant DNA molecules covering a whole genome. This week, we're going to talk about how to find your gene of interest in that library, how to use different techniques to identify the genes that you're really looking for. And then once you've found it, how to analyze it, how to sequence its DNA and learn about what that DNA sequence specifies. That's what we're going to be doing in the lectures. 
+
+In addition, we have a lab video that shows how some of this works in a lab, how gel electrophoresis and other techniques work. And remember, problem set five is still open. So welcome back to week nine, lots of recombinant DNA this week. 

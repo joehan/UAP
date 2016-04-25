@@ -1,0 +1,262 @@
+What sounds like a lot of work?	2.035292670749891
+What is Right in there?	1.6805912603634137
+Who is aha?	1.6474939436922016
+What was cool?	1.6467631738822877
+What is the little window?	1.5989069955981676
+If I 'm homozygous for A who 'll only see fluorescence in that spot?	1.5758911682618169
+What did I tell you for?	1.5560859337290545
+If I 'm homozygous for A where 'll I only see fluorescence?	1.5473406445503453
+Was the Human Genome Project cool?	1.5275919601173227
+Who can build that 25-mer anyplace I want to on the glass slide using photolithography?	1.490643019459546
+What gets done?	1.428469561887413
+Where can I just lay the new sequences?	1.403736760903028
+So if you wanted to map a genetic disease, who would get DNA from different people in the family?	1.3938004934500343
+Where 'll I only see fluorescence?	1.3558817780629142
+Who would then look up on the sequence where the genetic markers are that show no recombination?	1.3496089005349479
+Who 'll put some fluorescent label on your DNA?	1.3458501419781088
+So if you 're a heterozygote, where 'll we see fluorescence because your DNA will stick to both of those alternative spellings?	1.323812906875038
+When point?	1.3097817962444362
+Meaning the whole world who has been able to go from mapping cystic fibrosis and Huntington's disease to now mapping something like 3,500 million diseases?	1.309149020989393
+So if you already had all the people, who could map a genetic disease in a week?	1.2996549991136086
+Who 'mes going to wash it over this glass slide?	1.2940086603467056
+Who 'mes going to put some DNA matching one spelling, and some DNA matching the other spelling with the one letter difference?	1.2651032603957084
+If I 'm homozygous for A what 'll I only see fluorescence in?	1.2603556110971694
+If I 'm homozygous for A what 'll I only see in that spot?	1.2511950661464488
+Who can just lay the new sequences on top of the old sequence?	1.221181949187398
+What 'd you squirt it into put it under a scanner?	1.2186151800414322
+So if you wanted to map a genetic disease, what would you get DNA from different people in?	1.2104369227414398
+When could you do hundreds of these?	1.203762627232504
+Who could do hundreds of these in a day?	1.2024087197375728
+What's how you collect polymorphisms today?	1.1909833855031953
+What could you do hundreds of in a day?	1.1898713846939133
+Who has to worry about quality and all that kind of stuff?	1.189542431860359
+Who matches right over here?	1.1866071095434836
+Who would label the DNA with your fluorescent label?	1.1841919813814727
+Who 'll only see fluorescence in this spot?	1.1780768972764495
+What's pretty good?	1.1778930670115444
+So if you wanted to map a genetic disease, what would you get DNA from in the family?	1.1722673418412826
+What will fluorescence's DNA stick to?	1.1506058314300147
+Who 'd you squirt it into the hole in the back put it under?	1.1402790522015
+What 'll I only see in this spot?	1.132204984209225
+Who looks up the sequence from that clone?	1.1250989020810533
+What is different?	1.1207624273796744
+What can I just lay the new sequences on?	1.1188985574942603
+Who would know what the genes likely were in the neighborhood?	1.1055426234805998
+Who might have to sequence their whole genome to do that?	1.1034435219998877
+What did I tell you we had with making things radioactive and looking for differences in restriction fragments, or PCR, and yes, a question?	1.1002728415069303
+How many spots is the cool thing I could actually put there?	1.096958622058121
+What does we do in lots of people?	1.0954720700870917
+Who 'd squirt it into the hole in the back put it under a scanner?	1.0786294335212983
+Who does not have to do any of this horrible stuff?	1.0776864071207672
+How many spots could I do?	1.0730082909478607
+What do I 'm going to wash over this glass slide?	1.0721769710551747
+So if you 're a heterozygote, who 'll see fluorescence in both spots because your DNA will stick to both of those alternative spellings?	1.0707453465143995
+Who can begin laying read upon read?	1.0642002343863295
+So if you 're a heterozygote, what 'll we see in both spots because your DNA will stick to both of those alternative spellings?	1.057515578115353
+Is Right in there the little window?	1.054826139384193
+So if you 're a heterozygote, what 'll we see fluorescence in because your DNA will stick to both of those alternative spellings?	1.0505675677373523
+What is clone from your genome?	1.0474156601960156
+So if you already had all the people, when could you map a genetic disease?	1.0374457873357668
+What can I begin laying read upon?	1.0334494512790164
+What 'll I only see fluorescence in?	1.033332292838165
+What could you do in a day?	1.0330386892579266
+What is I could actually put more than two spots there?	1.0204228687832648
+What could I do at a time simultaneously?	1.0167419130436226
+How many spots could I put?	1.0108399599863778
+Who could do five at a time simultaneously?	1.0100815742902416
+Who 'mes going to make a little square?	1.006549263613591
+What do you not have to do any of?	1.0057270245084728
+What matches right over here?	0.9929209654070363
+Who can I build on the glass slide using photolithography?	0.9875890180668792
+When could I do five simultaneously?	0.9704542002468008
+Who does this in lots of people?	0.9657863840924259
+What turns out you see, here was an A in person number one?	0.9533683990476842
+Who just lies it against genome number one?	0.949614875586906
+Who 'mes going to sequence the first clone?	0.9472500152153867
+So if you already had all the people, what could you map in a week?	0.9454230116138154
+Who gets DNA from you?	0.9449316363853675
+Does quality control get done?	0.9369112383158389
+Who does it turn out see, here was an A in person number one?	0.9327770424506192
+When could I do two?	0.9236284988041488
+What do I 'm going to wash it over?	0.9078085949688823
+What does we do this in?	0.9040529979080585
+What can I build that 25-mer anyplace I want to on?	0.903845933177768
+Who can build DNA in situ?	0.9016863236442321
+What is the cool thing I could actually put there?	0.8982930111677252
+What 'd you squirt it into the hole in the back put under a scanner?	0.8970055997038133
+What 'd you squirt into the hole in the back put it under a scanner?	0.8935363026260423
+What could I do at a time?	0.8785329007668536
+Who had millions of markers?	0.8759436019382307
+Who 'll give you a really cute trick?	0.875285322859239
+Who is the cool thing could actually put more than two spots there?	0.8742683446711246
+Who could do two at a time?	0.8603320214886532
+What do you have to worry about?	0.8569187616300691
+What's what we do today?	0.8550435088749422
+Who now on the order of 20 million human polymorphisms because we look and look for differences?	0.8377413495418014
+Who do I get DNA from?	0.8323222499876926
+What might I have to sequence their whole genome to do?	0.8302140618986971
+Who do I 'm going to sequence?	0.8195869914476035
+What did you have millions of?	0.8176635149397384
+What 'll I put on your DNA?	0.8155763312217825
+What do I 'm going to make?	0.8114542175452077
+Who does not have to do all this crazy stuff?	0.8089309839918775
+Who can put more than 10?	0.7851739802198376
+Do Second point?	0.7830643782330438
+What turns out it's a G in you?	0.7801680859685405
+Who does a string search?	0.778794709231575
+Who 'mes just going to make a library?	0.7777522657970819
+Who takes your DNA?	0.7746889038857456
+What would you label the DNA with?	0.7729291861930121
+Who did I get?	0.7712584032760446
+What turns out it matches?	0.7680631433257727
+Who could do 10 spots?	0.7663935141856213
+What do I just lie against genome number one?	0.7586151893195596
+What can I put?	0.7534190563047192
+Who got a clone?	0.7533415235502168
+Who collapses it down?	0.7420782687264069
+Who has the whole reference?	0.7414368666411149
+What does that sound like?	0.7268341620101879
+What do I 'm just going to make?	0.725098262249215
+Who means the whole world?	0.714217631164886
+Who could put four spots?	0.7107283410698264
+What was the first human genome?	0.7066472220813772
+What could I do?	0.6999113151435663
+Who 'd then re-sequence those?	0.6955813382859375
+What does we mean?	0.688419055647741
+What does it turn out's a G in you?	0.6881653363301445
+What 'd you then re-sequence?	0.683844988416344
+What turns out I want to do it without even having to sequence your genome?	0.6835824127648207
+Who does it turn out want to do it without even having to sequence your genome?	0.6800360386296938
+What do I do?	0.6673657935084376
+What do I have?	0.6583970128726617
+What could I put?	0.6510566089146386
+What do you not have to do?	0.6503737349821435
+What's all I do?	0.6501360780815233
+What does it turn out you see, here was?	0.6496039148282737
+What does it turn out matches?	0.6478823498044866
+Who 've just collected a polymorphism?	0.6324774563881379
+Is one letter different?	0.6319028908374118
+Who just collects polymorphisms?	0.630392703551699
+Who looks it up?	0.62546957762175
+What do I not have to do?	0.6150255663875717
+Who told you we had all these horrible methods with making things radioactive and looking for differences in restriction fragments, or PCR, and yes, a question?	0.6027526729858428
+What does it turn out I want to do without even having to sequence your genome?	0.5967244339397533
+Who do I just lie it against?	0.5847954072901216
+What did I bring?	0.5767437234846018
+What do we 've just collected?	0.5766921495037014
+Who has a whole scaffold there?	0.5453972698339713
+What did you have?	0.544056134143698
+What do I collapse down?	0.5333167306838478
+What do we now on the order of 20 million human polymorphisms because we look and look for?	0.5156610479732859
+What do you just collect?	0.5015993352099044
+Who did I tell you had all these horrible methods with making things radioactive and looking for differences in restriction fragments, or PCR, and yes, a question?	0.4991669773956229
+Who did I tell we had all these horrible methods with making things radioactive and looking for differences in restriction fragments, or PCR, and yes, a question?	0.4986835944133503
+What does it turn out it's?	0.4653114356160575
+Do I 'm going to put some DNA matching one spelling, and some DNA matching the other spelling with the one letter difference?	0.4651762190693147
+Can I build that 25-mer anyplace I want to on the glass slide using photolithography?	0.4415694820166687
+Who now has it?	0.43408358353253607
+What do I have there?	0.4238107258278294
+Who now on the order of 20 million human polymorphisms because as we just sequence people, we map the reads look for differences?	0.4147735785105804
+Does that's how you collect polymorphisms today?	0.41403624724025523
+What do we now on the order of 20 million human polymorphisms because as we just sequence people, we map the reads look for?	0.4013994781141832
+Meaning the whole world has we been able to go from mapping cystic fibrosis and Huntington's disease to now mapping something like 3,500 million diseases?	0.37318488309117503
+Would you then look up on the sequence where the genetic markers are that show no recombination?	0.36767204446577084
+Who brought one?	0.3491883089317629
+Where would you know?	0.3431442931253377
+What do we 've gone from unbelievably painful work to isolate to using something like one to two million genetic markers per genotyping chip?	0.3184064564506188
+What does that's?	0.3086622691476133
+What do we now on the order of 20 million human polymorphisms because as we just sequence people, we map look for differences?	0.30765730700864813
+What is easy because I have a whole scaffold there?	0.3019817871755066
+What do I now have?	0.2990600288052081
+If I 'm homozygous for A 'll I only see fluorescence in that spot?	0.2708219951403219
+Is the second genome easy because I have a whole scaffold there?	0.254420440888782
+Can I begin laying read upon read?	0.25369614060090706
+Do you have to worry about quality and all that kind of stuff?	0.22638283274682092
+What does it turn out?	0.215015709763146
+Can I just lay the new sequences on top of the old sequence?	0.2057476280219741
+'ll I only see fluorescence in this spot?	0.20540755317336767
+What will your DNA stick to?	0.1984565613544913
+Could you do hundreds of these in a day?	0.19564575601342327
+Would you know what the genes likely were in the neighborhood?	0.16113523722584322
+Do I 'm going to make a little square?	0.1551600302724654
+Who 've gone from unbelievably painful work to isolate genes to using something like one to two million genetic markers per genotyping chip?	0.15494386837733543
+Who sees?	0.1540592069211233
+What can I just lay on top of the old sequence?	0.15357635700493955
+What 'll I put some fluorescent label on?	0.15187494542338742
+Is clone from your genome aha?	0.1467347440064226
+Do I look up the sequence from that clone?	0.145023673717529
+What is more than enough real estate on this glass to be able to genotype two million polymorphisms simultaneously?	0.12765350514610962
+Do you not have to do any of this horrible stuff?	0.12296238112340552
+Will your DNA stick to both of those alternative spellings?	0.11513757911316302
+Do I 'm going to sequence the first clone?	0.09441006387024808
+So if you wanted to map a genetic disease, would you get DNA from different people in the family?	0.09189453493008148
+Does we do this in lots of people?	0.0913102052913457
+Can you build DNA in situ?	0.08993105990665384
+Does that sound like a lot of work?	0.08150722901748697
+So if you wanted to map a genetic disease, what would you get from different people in the family?	0.07748231625611535
+'ll I put some fluorescent label on your DNA?	0.07284194379241127
+So if you 're a heterozygote, 'll we see fluorescence in both spots because your DNA will stick to both of those alternative spellings?	0.0695436305671091
+Who says?	0.05862657753656775
+Will fluorescence's DNA stick to both of those alternative spellings?	0.057811001906729054
+Could I do five at a time simultaneously?	0.04571949247536722
+What would you know in?	0.028268124700076003
+Do I not have to do all this crazy stuff?	0.009334607937129924
+Does it turn out I want to do it without even having to sequence your genome?	0.00820474288315065
+Does clone from your genome match right over here?	0.0026224486335202357
+So if you already had all the people, could you map a genetic disease in a week?	-0.010050455633940247
+Do I 'm going to wash it over this glass slide?	-0.011428166120300842
+Is the cool thing I could actually put more than two spots there?	-0.021868588345344664
+Can I put more than 10?	-0.02420789563839043
+Do I have the whole reference?	-0.027954533040268847
+What do I 'm going to put?	-0.03126137485907887
+Does we mean the whole world?	-0.031721126368996266
+Was that which I described to you the first human genome?	-0.03467165898278246
+Could I do 10 spots?	-0.03690890596427954
+Do I do a string search?	-0.039007533644228154
+Did I get a clone?	-0.06126771736060266
+What do we 've gone from to isolate genes to using something like one to two million genetic markers per genotyping chip?	-0.06562347244596212
+Do I 'm just going to make a library?	-0.07279313667108811
+What was that which I described to you?	-0.07558983984990353
+Would you label the DNA with your fluorescent label?	-0.08572074975184218
+Did you have millions of markers?	-0.0896394151852613
+Could I put four spots?	-0.09692867112361925
+'d you then re-sequence those?	-0.09809099553845524
+Could I do two at a time?	-0.10277529373239758
+What would you label with your fluorescent label?	-0.12083707463041016
+Might I have to sequence their whole genome to do that?	-0.12672367916486982
+What can you build in situ?	-0.13380172339673146
+Does it turn out it's a G in you?	-0.13941592027248118
+What might I have to sequence to do that?	-0.1699937113236185
+Do we 've just collected a polymorphism?	-0.2028073677358282
+Do I have a whole scaffold there?	-0.23114863665446084
+Do you just collect polymorphisms?	-0.23949095816808197
+Does it turn out you see, here was an A in person number one?	-0.24364021218553145
+What do I look up?	-0.25237223799880426
+Does that's all I do?	-0.2568301319166386
+Did I bring one?	-0.2574511486795743
+Does that's what we do today?	-0.27259288190340425
+Does it turn out it matches?	-0.282035208797873
+What will stick to both of those alternative spellings?	-0.283784404261904
+Do I get DNA from you?	-0.32725321687071296
+Do I just lie it against genome number one?	-0.32740537260074043
+Do I take your DNA?	-0.35088077207460566
+What do I get from you?	-0.3816702341482605
+Did I tell you we had all these horrible methods with making things radioactive and looking for differences in restriction fragments, or PCR, and yes, a question?	-0.38874539357097726
+'ll I give you a really cute trick?	-0.39754978828022014
+Do I collapse it down?	-0.41490832791383037
+What is the cool thing?	-0.42357797404956965
+Do we now on the order of 20 million human polymorphisms because we look and look for differences?	-0.43791377045968716
+What do I take?	-0.4611024249859028
+Do I look it up?	-0.4973377722498953
+Do I say?	-0.5135886223302788
+Do you see?	-0.5138937275737658
+Does that's pretty good?	-0.5323722574862801
+If you have the A allele, what will stick there?	-0.5525965650524443
+Do we now on the order of 20 million human polymorphisms because as we just sequence people, we map the reads look for differences?	-0.5805725310108498
+Do I now have it?	-0.6453747345812579
+Do we 've gone from unbelievably painful work to isolate genes to using something like one to two million genetic markers per genotyping chip?	-0.6641099984859322
+If you have the A allele, will your DNA stick there?	-0.7128856126937866
+Does that match right over here?	-0.7260700249952508
+Is Right in there more than enough real estate on this glass to be able to genotype two million polymorphisms simultaneously?	-0.739769324603371
+What do we now on look for differences?	-0.8308951528264013
+What would you then look up on?	-1.104882431051857

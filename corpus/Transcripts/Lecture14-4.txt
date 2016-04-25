@@ -1,0 +1,17 @@
+ERIC LANDER: It turns out that circulating in your bloodstream are hormones. For example, estrogen is a hormone that circulates in the bloodstream. It's a very hydrophobic molecule, and estrogen can cross through the cell membrane. And now, because it's you, you have a nucleus, so I'm drawing your cell, and I'm drawing your nucleus here. In your nucleus, we've got DNA. Sitting here is a protein that is called the estrogen receptor. The estrogen receptor, not surprisingly, binds estrogen. Here's my binding of estrogen. 
+
+Now, it turns out that this estrogen receptor is usually bound to some other protein that's keeping it in the cytoplasm and out of the nucleus. 
+
+STUDENT: [INAUDIBLE]? 
+
+ERIC LANDER: Sorry? 
+
+STUDENT: That's not E. coli, is it? 
+
+ERIC LANDER: That's not E. coli; that's you. I'm going to put that there. This is now Homo sapiens. E. coli doesn't have a nucleus, and let's make this really clear. Estrogen receptors in mammals, like MIT students, OK? So this is our human cell. This estrogen, a hormone you make, comes into the cell. It binds to the estrogen receptor. The estrogen receptor before that was bound to something that's holding it here in the cytoplasm, but when it binds the estrogen, what do you think the receptor does? 
+
+It comes off, and it moves into the nucleus. And it sits down at particular places in the genome, different promoters, that are responsive to estrogen. They're called estrogen responsive elements. And they help cause transcription to occur at large numbers of genes across the genome, but specific sites in the genome. 
+
+Not just one site like E. coli here, but there are specific genes that are responsive to estrogen. And if a cell has an estrogen receptor, and it sees estrogen, the estrogen comes in, binds the receptor, the receptor comes off this protein that's holding it in the cytoplasm, moves into the nucleus, goes to the right genes, turns things on. Pretty cool. That's gene regulation. That's how it works, at least, that's how it can work. There are more complicated ways to work. All right, so that's the story of beta gal, any questions? 
+
+OK, we've got a quick question for you about gene regulation in mammals. Try this one. 

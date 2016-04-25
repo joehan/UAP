@@ -1,0 +1,190 @@
+How many components: the five-carbon sugar, a phosphate group, and one of four possible nitrogenous bases-- adenine, guanine, thymine, and cytosine does a nucleotide have?	3.3162954429014357
+What form when the aromatic rings of the bases stack next to each other and share electron probabilities?	2.806457713357833
+What does a nucleotide have?	2.753930115319523
+What does the stacking of the bases stabilize the double helix structure in?	2.744961340758855
+How many DNA strands interact through non-covalent hydrogen bonds between the bases?	2.6604275528341996
+What stabilizes the double helix structure in addition to the hydrogen bonding between the bases?	2.593952338250875
+What act as base pair recognition and binding sites for proteins?	2.50498337545883
+What attach to each other in the DNA strand by phosphodiester bonds?	2.478549727143382
+What interact through non-covalent hydrogen bonds between the bases?	2.476109814356975
+What means the strand is made up of many individual units called nucleotides?	2.462784733177086
+What can the DNA be acted upon in either a sequence specific or non-sequence specific manner in?	2.439443341937201
+What is missing a hydroxyl group at the 2 ' carbon which is present in ribose?	2.4321945004689933
+What does the major groove contain while the minor groove is largely base pair nonspecific?	2.4137670181270616
+What did the regularity of the helical structure forms two repeating and alternating spaces, call?	2.4026553169566944
+What binds to the 3 ' oxygen of the neighboring nucleotide?	2.3824014998453156
+What does each strand mean is made up of many individual units called nucleotides?	2.3800925367575436
+What makes the top strand orientation 5 ' to 3 ' and the bottom?	2.3778924436330238
+What do nucleotides attach to in the DNA strand by phosphodiester bonds?	2.3709317991636643
+What contains base pair specific information while the minor groove is largely base pair nonspecific?	2.3688404651965826
+What is key to describing the directionality of the DNA strand ' to 3 '?	2.35914011940782
+What does the stacking of the bases stabilize in addition to the hydrogen bonding between the bases?	2.340347225218076
+What is the carbon numbering key to describing the directionality of the DNA strand ' to '?	2.332548029681043
+What are nucleotides in DNA called deoxynucleotides because of?	2.3250709465597112
+What allows for symmetry and base stacking in the helix?	2.3067105354969586
+What has three components: the five-carbon sugar, a phosphate group, and one of four possible nitrogenous bases-- adenine, guanine, thymine, and cytosine?	2.270075358855364
+What is the geometry of the AT or TA and GC or CG base pairs?	2.254803517570405
+What does each turn of the helix measure approximately ten?	2.2388841597480678
+What does right make the top strand orientation 5 ' to?	2.2022478989489254
+What were characterized by thymine and cytosine's single ring structure?	2.184448060985592
+What is called deoxyribose because it is missing a hydroxyl group at the 2 ' carbon which is present in ribose?	2.1691647149866773
+What come together through covalent bonds in the backbone?	2.1350032263440535
+What mostly has to do with the distance between the backbones and the angles to which the bases attach to the backbone?	2.1337896396594638
+What is true for the bottom strand?	2.1314077441188948
+What is because of the patterns of hydrogen bond acceptors and donors that proteins can interact with in the grooves?	2.127636610901229
+What does the hydrogen bonding contribute to?	2.101062803107697
+What have double rings?	2.067990605534508
+What does each strand mean the strand is made up of?	2.0526670600522228
+What measures approximately ten base pairs?	2.046572326595706
+What does the phosphate group of one nucleotide bind to?	2.0353813915894103
+Does the major groove contain base pair specific information while the minor groove is largely base pair nonspecific?	2.0229849832356646
+What cannot form strong hydrogen bonds?	2.0216912899657964
+What do the nucleotides come together through covalent bonds in?	2.0126377006673013
+What are called purines?	2.011019103293927
+What are called pyrimidines?	2.0055986691789007
+What cannot disturb the helix?	1.996322332696651
+What were pyrimidines characterized by?	1.9840433433449258
+What does the geometry of the AT or TA and GC or CG base pairs allow for stacking in the helix?	1.9751652355611171
+What do purines have?	1.9665684456936858
+What is the opposite true for?	1.960115323593423
+What is a polynucleotide?	1.9573323740412898
+What are thymine and cytosine called?	1.9439561110186763
+What is called a base pair?	1.935391058223068
+What called the major and minor grooves?	1.9262895417073127
+What is the same?	1.9229199120529172
+What are adenine and guanine called?	1.91920565929808
+What is bound together by hydrogen bonds?	1.9102798153537766
+Who is each strand?	1.880825884930044
+What is also called B-form DNA?	1.861911908714279
+What does each strand mean of?	1.855913605622813
+What is each unit called?	1.84215184966511
+What are also sometimes called Watson and Crick?	1.8076189105544858
+What is largely base pair nonspecific?	1.7905224717888273
+What do all views represent?	1.78812197851421
+What is the nitrogenous base always attached at?	1.786670338017691
+Where can you see that the 5 ' carbon of each sugar is on the top strand?	1.7609996596137116
+What is DNA, or deoxyribonucleic acid?	1.7455466047240793
+What is the minor groove largely nonspecific?	1.7333067833702576
+Does each strand mean the strand is made up of many individual units called nucleotides?	1.6457976690959573
+What is the DNA strand?	1.613455538934006
+What forms multiple hydrogen bonds with its complementary base on the opposite strand?	1.5515056423238014
+What is highly regular?	1.5376920282443167
+Does right make the top strand orientation 5 ' to 3 ' and the bottom?	1.51471961178967
+Who can see that the 5 ' carbon of each sugar is on the left on the top strand?	1.5018400072292235
+What contributes to the specificity of base pairing?	1.5001469362366624
+If we count from there, what can we see?	1.4983672215371855
+What can you see that the 5 ' carbon of each sugar is on on the top strand?	1.4910072078757168
+Where can you see on the top strand?	1.4709589712827742
+Does the hydrogen bonding contribute to the specificity of base pairing?	1.4698284603483054
+What is 5?	1.4469964595477063
+Does each base form multiple hydrogen bonds with its complementary base on the opposite strand?	1.446589962339647
+What can you see that the 5 ' carbon of each sugar is on the left on?	1.4416871945849108
+What is dNA?	1.4024770610392714
+Do nucleotides attach to each other in the DNA strand by phosphodiester bonds?	1.3813240033162488
+Do the two DNA strands interact through non-covalent hydrogen bonds between the bases?	1.3765487891264478
+What do nucleotides attach to each other in?	1.3663883937444514
+Does the phosphate group of one nucleotide bind to the 3 ' oxygen of the neighboring nucleotide?	1.346456884034556
+Who can see that the sugars and phosphate groups make up the DNA backbone?	1.346236262492611
+Is the opposite true for the bottom strand?	1.3383340070443053
+Who can see that the 3 ' carbon is on the right on the top strand?	1.3288741347526454
+Is the sugar called deoxyribose because it is missing a hydroxyl group at the 2 ' carbon which is present in ribose?	1.3278179402901311
+Is the geometry of the AT or TA and GC or CG base pairs the same?	1.3150300520085225
+Does the stacking of the bases stabilize the double helix structure in addition to the hydrogen bonding between the bases?	1.309228467520486
+What can we see that the sugars and phosphate groups make up?	1.3071745529363201
+What can you see that the 3 ' carbon is on on the top strand?	1.305017849373018
+What does this mostly have to do with to which the bases attach to the backbone?	1.300286565826632
+Does each turn of the helix measure approximately ten base pairs?	1.3002284841996588
+What is the five-carbon sugar missing?	1.299373761387324
+What are called deoxynucleotides because of this?	1.297147882802383
+What are nucleotides in DNA called because of this?	1.2937315821101683
+Can other base pairs not form strong hydrogen bonds?	1.2916237277888647
+Is the most common form of the DNA double helix also called B-form DNA?	1.281080978218717
+Is the carbon numbering key to describing the directionality of the DNA strand ' to 3 '?	1.2801832213876256
+Were pyrimidines characterized by thymine and cytosine's single ring structure?	1.2797100938662442
+Do purines have double rings?	1.2658361799870623
+Is the five-carbon sugar missing a hydroxyl group at the 2 ' carbon which is present in ribose?	1.2627677863721316
+Can other base pairs not disturb the helix?	1.2609850504982085
+Did the regularity of the helical structure forms two repeating and alternating spaces, call the major and minor grooves?	1.2605990145351371
+Is the double helix structure of DNA highly regular?	1.252737173663339
+What can you see that the 3 ' carbon is on the right on?	1.2422376433389668
+Who can unwind the double helix like this so that we can see the chemical structure inside?	1.2299512603015952
+What is this because of bond acceptors and donors that proteins can interact with in the grooves?	1.2222800949213766
+Does a nucleotide have three components: the five-carbon sugar, a phosphate group, and one of four possible nitrogenous bases-- adenine, guanine, thymine, and cytosine?	1.2145348297295677
+What is always attached at the 1 ' carbon of the sugar?	1.2093745788646388
+Are thymine and cytosine called pyrimidines?	1.2087844344162675
+What is the most common form of the DNA double helix also called?	1.2048922319263609
+Is the nitrogenous base always attached at the 1 ' carbon of the sugar?	1.1995691219197395
+What were characterized by their single ring structure?	1.193695431242432
+Are adenine and guanine called purines?	1.1881249302487729
+What can you see on on the top strand?	1.1850873923683563
+What do these grooves act as?	1.1686315125981914
+Who 'ves now learned the structural features that influence its function?	1.1569925841874271
+If we count from there, what can we see that there is?	1.1504657498182351
+Is each strand a polynucleotide?	1.1085266733363186
+Who hope you 've enjoyed exploring this amazing molecule with us?	1.1004969166526148
+Is the unit bound together by hydrogen bonds?	1.0901953104160418
+Do the nucleotides come together through covalent bonds in the backbone?	1.064152852776608
+Is the minor groove largely base pair nonspecific?	1.050976925627685
+Is each unit called a base pair?	1.0502291462830433
+Is dNA deoxyribonucleic acid?	1.0418750687894316
+What do the two DNA strands interact through?	1.0315143726813214
+What do we hope you 've enjoyed exploring with us?	1.0280283506035888
+What can the DNA be acted upon in in this way?	1.0253682571632852
+Does the geometry of the AT or TA and GC or CG base pairs allow for symmetry and base stacking in the helix?	1.0187165654926194
+Who do we hope 've enjoyed exploring this amazing molecule with us?	1.0001552464228665
+What will you be able to identify the key structural features of DNA by?	0.9892412480514234
+Who do we hope you 've enjoyed exploring this amazing molecule with?	0.9860615738795973
+What is this because of the patterns of hydrogen interact with in the grooves?	0.9760638226730738
+What represent this same structure?	0.9678576100600094
+What is deoxyribonucleic acid?	0.9402743405756977
+What do the nucleotides come together through in the backbone?	0.9348412374826769
+What can other base pairs not disturb?	0.928681975002789
+What can other base pairs not form?	0.8652075769858769
+Who will be able to identify the key structural features of DNA by the end of this video?	0.8583009432104798
+What will you be able to describe the importance of those features for function by?	0.8548984255882104
+Is the DNA strand 5?	0.7850205850852916
+What does each base form?	0.784308657623134
+Who will be able to describe the importance of those features for function by the end of this video?	0.7810933625173389
+What will we look at to better view certain details during this video?	0.7327327368182748
+What is the unit bound together by?	0.7240897394394272
+Who will look at different representations of the DNA molecule to better view certain details during this video?	0.6768035779198018
+Can the DNA be acted upon in either a sequence specific or non-sequence specific manner in this way?	0.6658756135302926
+What will we look at different representations of the DNA molecule to better view certain details during?	0.6636919290314385
+If we count from there, who can see that there is a phosphate between the 5 ' carbon of one sugar and the 3 ' carbon of the neighboring sugar?	0.62661263014739
+What will we look at different representations of the DNA molecule to better view during this video?	0.6154235467782541
+What will you most commonly find double- stranded DNA inside?	0.6090868713232755
+Who will most commonly find double- stranded DNA inside the cell?	0.6045325650636071
+Can you see that the 3 ' carbon is on the right on the top strand?	0.570475166858158
+What can be acted upon in either a sequence specific or non-sequence specific manner in this way?	0.5402461459465182
+Will you be able to describe the importance of those features for function by the end of this video?	0.536903129759748
+Can you see that the 5 ' carbon of each sugar is on the left on the top strand?	0.515029799118107
+Do these pi-pi interactions form when the aromatic rings of the bases stack next to each other and share electron probabilities?	0.5079687753683939
+What will you most commonly find inside the cell?	0.5004560540796634
+Do these grooves act as base pair recognition and binding sites for proteins?	0.4940401937170482
+Will we look at different representations of the DNA molecule to better view certain details during this video?	0.4180201938776773
+Will you be able to identify the key structural features of DNA by the end of this video?	0.37668521391637366
+Can we see that the sugars and phosphate groups make up the DNA backbone?	0.37661109952202354
+What can we see?	0.347033503607616
+Are nucleotides in DNA called deoxynucleotides because of this?	0.3238440127205493
+Do we hope you 've enjoyed exploring this amazing molecule with us?	0.3219179458920398
+Were pyrimidines characterized by their single ring structure?	0.3157597694328307
+Does this mostly have to do with the distance between the backbones and the angles to which the bases attach to the backbone?	0.3024037589494659
+What do you 've now learned?	0.28771996564117264
+What is this because of the patterns of hydrogen in?	0.2803219245766191
+What is the DNA double helix?	0.28028449312638837
+Is this because of the patterns of hydrogen bond acceptors and donors that proteins can interact with in the grooves?	0.26851189952685983
+Is it missing a hydroxyl group at the 2 ' carbon which is present in ribose?	0.26698050537257956
+Is the DNA double helix what we will discuss here?	0.2471621643026971
+What is it missing?	0.18652460961078154
+Can we unwind the double helix like this so that we can see the chemical structure inside?	0.18107866303792264
+Are these strands also sometimes called Watson and Crick?	0.12528424070460176
+Will you most commonly find double- stranded DNA inside the cell?	0.12379560861814509
+Is this the DNA double helix?	0.06741796343359185
+Do all views represent this same structure?	0.06297521666379868
+Who do we hope with?	0.01715574968303124
+What is what we will discuss here?	0.0170935648639996
+Do you 've now learned the structural features that influence its function?	-0.1284316789521065
+What can we unwind so that we can see the chemical structure inside?	-0.17515331922703004
+Is this DNA, or deoxyribonucleic acid?	-0.19392217325826144
+If we count from there, can we see that there is a phosphate between the 5 ' carbon of one sugar and the 3 ' carbon of the neighboring sugar?	-0.6500628054444748
+What is this?	-0.7370257452145528

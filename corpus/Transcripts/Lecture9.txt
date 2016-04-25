@@ -1,0 +1,31 @@
+PROFESSOR: Welcome back. We've got today the beginnings of that connection that we talked about, not being present for the first, oh, 50 years of the 20th century. Between the two parts of our coat of arms, genetics and biochemistry, that for decades upon decades had nothing really to say to each other. Let's go back to our coat of arms. 
+
+Biological function could be studied in two ways. In the course we talked about biochemistry, purifying a particular molecule from an organism based on some assay of function and studying one component minus the rest of the organism. We studied genetics, looking for mutant organisms that are a whole organism minus one component. 
+
+But the connection between the two was utterly mysterious. The geneticists had nothing to say to biochemists, the biochemists had nothing to say to the geneticists. They each tootled along doing their own work. Except at the end of the last lecture. The end of that last lecture we mentioned this British physician, Archibald Garrod, in 1908 who already saw the beginnings of a connection between genetics and biochemistry. Just the beginnings of a dotted line. A genetic basis for biochemistry. A genetic basis for enzymes that carry out biochemical pathways. Pretty remarkable. 
+
+Remember what Garrod did was Garrod looked at this genetic disease-- this disease, showed it was genetic. The disease, alkaptonuria, the black urine, he demonstrated that this was genetic by his observation that it was particularly common in the offspring of first cousin marriages. 
+
+Consanguineous union, first cousins, producing an affected child. And a first cousin marriage, inbreeding, was an excellent way to homozygose an allele coming down each of the two branches of that pedigree. That's what that enrichment about, that enrichment was about genetics. It was about a recessive trait. 
+
+But Garrod also noticed that it was about biochemistry. That when you fed the babies who had this disease a lot of protein they made a lot of homogentisic acid. And in fact, when you fed them components of protein, such as phenylalanine and tyrosine, they excreted in their urine quantitative amounts of homogentisic acid. 
+
+And Garrod inferred that homogentisic acid normally is broken down along some biochemical pathway into, he didn't know what, but something. And that somehow this disease, which he showed was a genetic disease, affects a biochemical pathway. Mind blowing that this happens in 1908 and, not surprising, that it has almost no impact on the field. People note it, they applaud at the end of his lecture, they sort of mention it, and all that. But it doesn't transform everybody's thinking because they're still grappling with what is this enzyme stuff. 
+
+Remember-- actually, maybe I didn't tell you-- nobody actually succeed in purifying enzymes until two decades later. Enzyme was still a very vague concept. And of course since genetics had just come along the scene and nobody really knew what a gene was. And the idea that this poorly defined object called a gene was related to this very poorly defined object called an enzyme somehow didn't make a big impact on people. 
+
+But it begins to make some impact slowly on scientists. And there are two guys called Beadle and Tatum. And Beadle and Tatum begin to get interested in how genetic mutations could affect biochemical pathways. And they actually start working on what turns out to be a terrible choice of organism for this purpose. The fruit fly, drosophila. They try to do this in drosophila. 
+
+Remember I showed these eye color mutants in drosophila, these vermilion eyes and claret eyes and other sorts. Well, they came up with some tricks where they were able to show that-- very complicated, I'm not going to explain the genetics-- but that somehow a few of those eye color mutants could be rescued by that eye, the mutant eye, being present in otherwise wild type tissue. They came up with a genetic trick where you could have a mosaic animal that was mutant in part of its body and not mutant in other of its body. You can do that in flies. 
+
+And they demonstrated that for most mutations the eye color was autonomous to the cells in the eye. It depended only on the genotype of the cells in the eye. But for certain of them it wasn't autonomous. The neighboring regions somehow could rescue it. And they figured that somehow there was some chemical that diffused in and rescued it and they thought there must be some biochemistry going on. Now if that seems complicated, it was really complicated, and it was incredibly hard to make enough progress, to grind up enough fly eyes and try to purify what was going on. It was a horrible system. 
+
+And then somehow, by the kind of lucky accidents that happen in biology, somebody suggested why are you working on these flies? Why don't you work on a single celled fungus? You know, that would be a lot easier. And after having worked so long on flies here, they realized that would be a lot easier. 
+
+And they worked on a fungus called Neurospora, a single celled fungus. And I'm going to describe today what came out of that work. But I'm not going to use Neurospora as the actual organism, because today geneticists don't really use Neurospora. It was a great innovation of its time. 
+
+Some people work with Neurospora, but like hundreds of times more people work on yeast. Particularly, the bakers yeast, called Saccharomyces cerevisiae-- S. cerevisiae. Anyway, you know it as yeast. It's what makes bread, what makes beer. It grows on grapes, it's yeast. And geneticists now love to work on yeast. 
+
+So I'm going to talk about what Beadle and Tatum did, and of course what we do all the time in the lab now. This is now routine stuff. But I'm going to use yeast because, in fact, if you were to go work in the lab today, as I hope many of you will, you'll work with yeast. 
+
+All right, before you go on, we've got a question for you. It's a question about what causes alkaptonuria. 

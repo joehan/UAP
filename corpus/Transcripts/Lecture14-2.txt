@@ -1,0 +1,145 @@
+PROFESSOR: To think about how you would write such a logic statement, let's turn to section two-- the lac operon. We need to do two things to get lactose broken down into our two simple sugars here. One is we've got to get into the cell. That's going to take a protein. The other is we've got a break it down from a disaccharide into two monosaccharides. That's going to take another protein. Where are we going to get those two proteins? 
+
+STUDENT: Through transcription. 
+
+PROFESSOR: Through transcription of a gene. Good. We're going to have a gene. And would we like those to be coordinatedly regulated? To be turned on at the same time? Yeah. So how are we going to do that? 
+
+STUDENT: Have them be next to each other. 
+
+PROFESSOR: Have them be next to each other. And remember, we said that in bacteria, a single transcript could encode multiple proteins. So our first problem to solve here is, we want to coordinate regulation to produce this protein that's going to get the lactose in and the enzyme. So our solution to this will be to express them as part of a single transcript. Multiple proteins being made off a single transcript under a single genetic control, called a promoter-- we call that an operon. 
+
+So let's take a look at the lac operon. I'm going to draw a stretch of E. coli DNA here. Here's a stretch of E. coli DNA. There's a region that's a promoter. A promoter is where RNA polymerase is going to sit down, and it's going to start making a transcript. Then how many genes do we want to be part of that message? Two. And what E. coli does, is it has those two genes and a third. The genes are called lacZ, lacY, and lacA. And I will tell you absolutely nothing about lacA, OK? In fact, I don't know much about lacA. And nobody ever cares about lacA. But if I drew it with just lacZ and lacY, somebody would say, what happened to lacA? So I'm drawing it, and we're going to ignore it, OK? 
+
+What happens is, this promoter here, RNA polymerase, comes down-- here's RNA polymerase-- sits down there and makes a transcript. Our transcript, maybe it'll start around there. Five prime to three prime is our mRNA. That mRNA has regions that are translated into three proteins. This one encodes beta gal, our enzyme. This encodes lactose permease. You can guess that that means it lets the lactose in. And this encodes something else I'm not even going to bother telling you about. OK, looks great. We're done. 
+
+Wait a second. What was our problem? It was not just to get the thing transcribed and made. We were actually supposed to get it regulated. And right now, I've got RNA polymerase sitting there, and it's churning off transcripts and making a lot of protein and wasting all of this energy producing these proteins, when, in fact, there might not be any lactose around. So we have another problem. 
+
+So the next problem, we have to solve is that the gene is always on. So what's our solution? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Sorry? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Exactly. We've got to turn that gene off somehow. And the way to turn off a gene-- another word for turning it off-- is to repress it. We need some kind of a repressor. So how are we going to do that? Hmm. How do we repress this gene? So I'm just going to move that for a second to make a little bit of room. And I'll write here that this is beta gal and that's the lactose permease. How are we going to turn off this gene? So let's redraw that. We have our promoter, and we have these protein coding regions that we want to transcribe. Any way to turn this off? 
+
+STUDENT: Change the promoter? 
+
+PROFESSOR: Change the promoter. Change the DNA. 
+
+STUDENT: Change the base? 
+
+PROFESSOR: But I'm going to change a base-- OK, so now I can change a base, and now the promoter doesn't work. 
+
+STUDENT: Change the [INAUDIBLE]. 
+
+PROFESSOR: But then how do I change it back when I want it to work? You want to mess around with my DNA code, but my DNA code is the one thing here that's sacrosanct. No messing with my DNA code. Sorry? 
+
+STUDENT: Put something over it. 
+
+PROFESSOR: Put something over it. Ah, cover it up. Interesting idea. OK, so that's exactly what's done. There's another sequence over here that's called the operator. And it binds something called the repressor. This guy was RNA polymerase. But look where the repressor is binding. What's the repressor doing? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: It's covering up the promoter-- at least covering up part of the promoter. And if the repressor is there, can polymerase bind? No. So now we've solved it. We now are not making lots and lots of transcript and lots and lots of protein. In fact, we've totally turned the gene off. OK, well, before it was totally on. Now it's totally off. We're not really there yet, are we? 
+
+STUDENT: You need to turn it back on. 
+
+PROFESSOR: I need to turn it back on. So get rid of the operator. But I can't mess with the DNA. Come on guys. You're the engineers. A whole class of engineers here-- what do you want to do? 
+
+STUDENT: Make the repressor not be able to bind to the operator when there's lactose. 
+
+PROFESSOR: Ooo. Say that louder. 
+
+STUDENT: Make the repressor not bind to the operator when there's lactose. 
+
+PROFESSOR: Make the repressor conditional on whether or not there's lactose. Ooo. I like that. So our problem was, now the gene is always off. And your solution-- nice solution there, I like it-- is you want to have a conditional repressor. OK, how are you going to make a conditional repressor? You want this repressor not to bind if there's lactose present. Proposal? 
+
+STUDENT: What if it binds to lactose? 
+
+PROFESSOR: What if the repressor has a binding site for lactose and-- 
+
+STUDENT: And so it'll bind to lactose. 
+
+PROFESSOR: When it binds lactose, what happens? 
+
+STUDENT: Then the genes [INAUDIBLE] 
+
+PROFESSOR: So when it binds lactose, what happens to that repressor? It changes its shape. It adopts a different conformation. Remember, proteins are flexible. When it binds something, it might shift its shape as it binds around lactose. And that shape might not any longer bind the operator sequence. Bingo. So what we're going to have now is two conditions. If there's no lactose, we get that. But if lactose, then we have our promoter. And the repressor now binds to lactose-- here's some lactose bound to it-- changes its shape and comes off. And now who can come to the promoter? RNA polymerase. 
+
+Our repressor is here, off the DNA, because it changed its shape. When something changes its shape, we say that the protein has another shape. And the word for another shape is "allosteric." "Allo" means other. "Steric" means shape. This is an allosteric change-- other shape, allosteric. So we have an allosteric change in that lac repressor, and it comes off. Brilliant. We have just executed a conditional IF statement written in protein, OK? That's what we did. We did some computer programming in protein. 
+
+Now look at this gorgeous diagram. If no lactose is present, it's sitting here, gene is not transcribed. If lactose is present, suddenly the gene is transcribed because the repressor comes off. Bingo. Any questions? Yes? 
+
+STUDENT: So our computer statement says IF lactose AND not glucose. But what if we have lactose and glucose? 
+
+PROFESSOR: OK, so we haven't dealt with the glucose part. But hang on to the "AND glucose" part. Yes? 
+
+STUDENT: What exactly is an operon? 
+
+PROFESSOR: Sorry? 
+
+STUDENT: What exactly is an operon? 
+
+PROFESSOR: An operon here is a promoter that makes an RNA with multiple distinct genes, each of which is encoding its own polypeptide, its own protein. So when we talk about genes in humans, there's typically one promoter and one protein that's encoded. But in bacteria, one promoter can encode an RNA with multiple separate proteins. And it's very efficient. Bacteria care a lot about having stripped down, minimal amount of DNA. So if you want to co-regulate a whole lot of genes, you put them on a single operon. Yes? 
+
+STUDENT: Can the repressor let go of that lactose, and then the beta gal can do something with it? 
+
+PROFESSOR: Can the repressor let go of that lactose? No. You see, there's not very many molecules of the repressor. The repressor is sitting at one operator site. When there's a lot of beta gal there, the one lousy little lactose molecule that's bound to the repressor, you shouldn't worry about. There's a lot. 
+
+But I do have a problem I want to give you. Suppose there's been no lactose around. What state is the cell in? 
+
+STUDENT: Repressed. 
+
+PROFESSOR: It's repressed. So is it making beta gal? Is it making lactose permease? 
+
+STUDENT: No. 
+
+PROFESSOR: If it's not making lactose permease-- 
+
+STUDENT: It can't get in. 
+
+PROFESSOR: --then how does the lactose get in, my engineers? Huh? 
+
+STUDENT: Leave some [INAUDIBLE]. 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Leave some. 
+
+PROFESSOR: Leave some-- 
+
+STUDENT: Of the lactose permease. 
+
+PROFESSOR: Lactose permease? 
+
+STUDENT: Yeah. 
+
+PROFESSOR: Yeah, but what if it's been a long time? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Don't break it down. 
+
+PROFESSOR: Well, don't break it down-- OK, you've got to think about that. How are we going to arrange that there's at least a little bit-- yes. 
+
+STUDENT: Could we have a lack of glucose trigger the production of the enzyme that makes lactose into the cell. I forgot its name. 
+
+PROFESSOR: The permease? 
+
+STUDENT: Yes. 
+
+PROFESSOR: It's not an enzyme. But the thing that brings lactose is a permease, right? Yes. 
+
+STUDENT: Are we fixed in the order of the genes on the-- 
+
+PROFESSOR: We are. That's the order the genes. That's the way it comes. Sorry. Well, guys, you know what? How about if the repressor just isn't absolutely perfect? And every once in a blue moon there's a little transcription. That gets you enough lactose permease there, OK? But that's the way we've got to think about how you run a cell here, right? As long as that's not a perfect repressor, it's just a pretty darn good repressor, then it's mostly off, and occasionally you'll make a little beta gal and a little permease and that'll get in and... You've done it. You've written a logic statement now for E. coli, and we've got a clever little system here that works. But you've pointed out we haven't done our glucose statement yet, right? 
+
+STUDENT: Yes. 
+
+PROFESSOR: All right, let's do glucose. 
+
+All right, it's question time again. Try this question about the lactose regulation of the beta galactosidase gene. 

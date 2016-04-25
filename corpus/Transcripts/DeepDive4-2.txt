@@ -1,0 +1,33 @@
+SHIRLEEN: My name is Shirleen I'm a grad student at MIT. I'm going to be doing a series of videos on DNA replication, transcription, and translation. But before we do any of those, let's take a tour of a nucleotide. 
+
+So let's get started. So what is a nucleotide? A nucleotide is the building block of DNA. And what do we need to make a nucleotide? 
+
+First you need a ribose. That's a five carbon sugar. And we number these carbons by convention, 1 prime, 2 prime, 3 prime, 4 prime and 5 prime. 
+
+Now we're going to talk a lot about the 5 prime carbon and the 3 prime carbon. But let's take a brief look at the two prime carbon. 
+
+Now what group do you see on the 2 prime carbon? Right, there is no hydroxyl group. So this ribose is actually a deoxyribose. And your deoxyribose is a building block of DNA. 
+
+What else do we need to make this a nucleotide? You need a five prime phosphate group, and base attached to your 1 prime carbon. And your bases can be A, T, C, or G. 
+
+So let's take a closer look at your bases. Again, they're A for adenine, G for guanine, T for thymine, and C for cytosine. And adenine and guanine both have two aromatic rings. And we call these purines. And thymine and cytosine have one aromatic ring. And we call these pyrimidines. 
+
+So I like to remember that the larger bases have the smaller name, purines. And the smaller bases have the larger name, pyrimidines. 
+
+So you might remember that A always pairs with T. And G always pairs with C. So take a moment and think about what bonds are holding together these complimentary base pairs. 
+
+Now if you said, hydrogen bonds, you are absolutely right. So A and T are held together by two hydrogen bonds, here and here. And G and C are held together by three hydrogen bonds, here, here, and here. 
+
+Let's come back to our nucleotide and let's talk about how we're going to make DNA. So how are we going to make DNA? We're going to have to join together many nucleotides. 
+
+So here is nucleotide number two. Now what kind of bond would you like to form between these nucleotides? Now, I would want a strong covalent bond to hold these nucleotides together. 
+
+So we're going to form a bond between the 3 prime hydroxyl group and the 5 prime phosphate, like this. And that bond is called a phosphodiester bond. And when that bond forms, these two phosphates leave. 
+
+Let's go back a little bit and take a look at this second nucleotide. Now, if this base were an A, what molecule would this be? If you said ATP, you're right. And actually it would be deoxy ATP. 
+
+And, as you can see, ATP carries three highly charged, high energy phosphate groups. So each nucleotide actually brings its own energy to form this phosphodiester bond that holds together nucleotides. 
+
+So now you can imagine repeating this, again and again, to form a long strand of DNA. And as you can see, DNA is going to be formed in a 5 prime to 3 prime direction. 
+
+So in this video, you learned about the nucleotide, the building block of DNA. And you learned about how to join together nucleotides to form a strand of DNA. So thank you for your attention. And I will see you next time in our video on DNA replication. Thank you. 

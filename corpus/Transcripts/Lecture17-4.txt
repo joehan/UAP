@@ -1,0 +1,121 @@
+PROFESSOR: Suppose I had a piece of the beta globin gene here. If I melt this gene, if I denature this double-stranded piece of DNA, I'm going to denature it, heat it up to 97 degrees C. It melts the strands. 
+
+That's what I did before sequencing. I melted it, and I added a primer. Let me also add a primer matching the other end. 
+
+How do I know the sequence of both ends? Well, I've already sequenced your beta globin gene, so I know the sequence. So I can actually just make a primer, matching it. Because I know the whole sequence. 
+
+Now if I add polymerase, and I add dNTPs, not dideoxies now-- perfectly good, not defective. What's going to happen? It's just going to go [vuurp, vuurp]. And what have I got now? 
+
+I've replicated the strands. Where I once had a single double helix, I now have two-- one copy, two copies. Any guess what we should next? 
+
+STUDENT: Four copies. 
+
+PROFESSOR: Four copies. What we're going to do is we now have two, so if we melt that, we're going to get four single strands. Now let's get it right. We're going three prime, five prime, three prime, five prime, three prime, five prime, three prime, five prime. 
+
+We're going to put a primer over here. We're going to put a primer over there. We're going to put a primer over here. We're going to put a primer over there. 
+
+And what's going to happen? We will add our polymerase and our nucleotides and [vuurp, vuurp, vuurp, vuurp]. Now how many copies do we have? Four, we have four copies. 
+
+What's the pattern? It doubles every time. If I do this another round, I have eight. If I do it 30 times, I have how many? Two to the 30th. Two to the 30th is approximately-- what's two to the 10th? It's about 1,000. 
+
+In computer science, it's 1024. In biology, it's 1,000, give or take. We round things off here. 
+
+So two the 10th is 1,000. I know it's 1024, it's OK. It's about 1,000. So what's two to the 20th? 1,000 times a 1,000, which would be a million. It's MIT here, guys, come on-- two to the 30th, a billion. 
+
+In other words, if I just repeat this 30 times, I just do 30 rounds, 30 cycles of this, I get two to the 30th copies, or in other words about 1 billion copies. That is pretty amazing. If I knew the sequence of your beta globin gene, and I made primers for each end, I could take that fragment of DNA and by doing that, I can get a billion copies from a single copy. Yes? 
+
+STUDENT: There isn't any correction [INAUDIBLE], so wouldn't most of those be wrong [INAUDIBLE]? 
+
+PROFESSOR: Slightly. Maybe slightly wrong, but in random places, and when I sequence the whole gimish the right ones would far dominate the wrong ones. I can tolerate a little bit of error rate. I'm not trying to run an organism, I'm just trying to do a sequencing reaction. 
+
+So it turns out that polymerase will get it wrong occasionally. But a fairly low rate, and I'm doing a sequencing reaction. One molecule and 10 to the fifth being wrong won't bother me at all on my sequencing. Yes? 
+
+STUDENT: Well, I mean, it's just that if it happened in the second go, then all of them would be wrong. 
+
+PROFESSOR: Oh, if it happened in the second go. Oh, if I started with a single molecule, that would be a problem. What if I'm starting with like many molecules? 
+
+Suppose I start with 1,000 molecules, then I'm OK. But you're right, if I'm starting with a single molecule, I could be unlucky and have an early error. That's an issue if I'm doing a single molecule. 
+
+So where am I going to apply this PCR reaction? Well, in fact, I was talking about it as if that was your fragment of beta globin. But actually, what I'm going to do is just take his total DNA. 
+
+I'm going to take your total DNA, all of it. Not all of it, but like from some cells. You can keep most of it. But I'm going to ask you to give me a few cells, maybe like a little mill of blood or something like that. And from it I'm going to purify DNA, and then I'm just going to mix the primers right in. 
+
+And I'm going to heat up your total chromosomal DNA, all your genetic DNA there. And the primers, as it cools down, will go around and find their right spot in the genome by Crick Watson base pairing and sit down. And when I add polymerase, it'll copy. 
+
+When I then heat it up and cool it down, those primers will do it again. And in fact, if I do this not on a single cloned piece of DNA but just on total genomic DNA from you, I will be able to amplify your beta globin gene. 
+
+I don't need much. If we got a popsicle stick and we scrape the inside of your cheek a little bit, I'd get enough buccal cells off the inside of your cheek that if I tossed it into a test tube and I just boiled it-- I'm not going to do anything fancy-- there's enough DNA in that test tube that if I add the primers from her beta globin gene, it'll amplify your beta globin gene, even in the midst of the entire rest of your human genome. And whereas the beta globin gene starts out being a tiny fraction of the genome, after I make a billion copies of it, it's the vast majority of what's in the test tube. That's your beta globin gene. 
+
+I could get everybody here to spit in a test tube, and primers and do this, and get everybody's beta globin gene, once I know one beta globin gene. That is way cool. That was worth a Nobel Prize. 
+
+Now a couple little tricks-- when I heat this up to 97 degrees, I put my DNA in here. I heat it up to 97 degrees to melt it. I add my DNA polymerase. It does one cycle. And then I heat it up to 97 degrees again, and it destroys my polymerase. 
+
+So I have to open up the test tube, and I have to add more polymerase. Then I do another cycle. Then I heat it up to 97 degrees, and it destroys my polymerase. And I have to open up the test tube and add more. This gets boring. Yes? 
+
+STUDENT: Could you find an organism that lives around 97 degrees Celsius and steal its DNA polymerase? 
+
+PROFESSOR: Ooh, we're not even going to be engineering department and say, get me a polymerase that can work at 97 degrees. Because you know it's ask the expert, which is almost always a bacterium. There's got to be some bacterium that lives at 97 degrees and its polymerase won't denature. Where could you find a bacterium that lives at 97 degrees? That's virtually boiling water-- in a hot springs, in a geyser. 
+
+So people went and got bacteria that live in boiling water. In fact, the bacterium they got is the bacteria that has the name Thermus aquaticus. What's that mean? 
+
+STUDENT: Hot water. 
+
+PROFESSOR: Hot water, yeah. Thermus aquaticus lives in a hot spring. We just call it now Taq, T-A-Q, Thermus aquaticus. 
+
+And if you use Taq polymerase, I don't have to keep opening up the test tube. Because I throw in Taq polymerase and it doesn't denature. Now in ancient days, I have to also move my test tube between different water baths. But you could imagine from the point of view of engineering, it's not hard to put it in a machine that just goes hot, cold, hot, cold, hot, cold, hot, cold. Yes, question? 
+
+STUDENT: But if a Taq lives at 97 degrees, wouldn't its DNA not stay together? How does that work? 
+
+PROFESSOR: We just purify Taq's polymerase. We get rid of Taq. 
+
+STUDENT: Yeah, but in the Taq, when it's alive, how does its DNA stay together? 
+
+PROFESSOR: What a cool question. What a cool question. How does Taq's DNA stay together? 
+
+I'm not going to address it now, but it's a really good question. For an organism that lives in 97 degrees, is there going to be something that holds it together? Are there going to be some proteins that hold them together? Would you imagine it would have more Gs and Cs or As and Ts? 
+
+STUDENT: Gs and Cs. 
+
+PROFESSOR: Why Gs and Cs? 
+
+STUDENT: More hydrogen bonds. 
+
+PROFESSOR: Three hydrogen bonds. Taq's genome has a lot of Gs and Cs in it, for example. There are tricks. But let's hold off on it. 
+
+But it's a great question-- why does its genome stay together? But at the moment, we're just stealing its polymerase. How it managed to keep its genome together at 97 degrees is frankly its problem right now. We're simply raiders of the genome here. We've raided the organism's polymerase. 
+
+And so you add Taq polymerase. Here's a thermo cycler. It's got 96 little holes here. You put it between 96, 8 by 12, told you. 
+
+You put a  little plate in there. Or you put tubes, actually. This one's got tubes. You put little tubes there. 
+
+And you go heat cold, heat, cold. When you're done, you have a billion times more copy than whatever you put the primers in for. Pretty cool. 
+
+Now how sensitive is this? Just how sensitive is PCR? I could scrape the inside of your cheek there with the popsicle stick and get enough cells to do it. But how few cells could I use? How few cells could I use? 
+
+The limiting case would be one. How many copies of the beta globin gene are there in a single cell? Well, two, because we're diploids. So suppose we really wanted to show off. Let's use a haploid cell. What's the most convenient haploid cell to get? 
+
+STUDENT: [INAUDIBLE] 
+
+PROFESSOR: No, human. 
+
+STUDENT: Gamete. 
+
+PROFESSOR: Gamete. Which would you prefer, male or female gamete here? 
+
+STUDENT: Female. 
+
+PROFESSOR: Male gamete would be more convenient in this case, right? So we get a single sperm. I mean you can get single eggs, but it's a lot more fuss. So we're going to use a single sperm. 
+
+You could put single sperm in a test tube into a PCR reaction. And you can amplify a billion copies from a single sperm. It's pretty cool. You can do single single cell sensitivity. A sperm. 
+
+You can use PCR. Actually, when people do in vitro fertilization and they fertilize an egg in vitro, and they grow it up to the eight or 16 cell stage, and they want to find out whether this embryo is carrying a particular genetic disease where we know the mutation, you can pull off one of the cells from the embryo that has been grown in the dish. And it turns out that that eight and 16 cell stage, the cells haven't unspecified yet. 
+
+If you pull one off, the cell mass will still regulate and produce a perfectly normal baby there. You could pull one of those cells off and do a PCR reaction and check whether it has the genetic disease or not. And this is how some couples who are at risk for a genetic disease can do in vitro fertilization and re-implant only those embryos that don't carry the genetic disease, because they pull off single cells from each, do PCR in sequencing, and figure out whether they carry the mutation-- powerful technology. 
+
+You could do this to monitor the presence of HIV in somebody's blood-- get some blood, do PCR with primers against HIV. Monitor bacterial infections-- get some blood, get some urine, do something, monitor by PCR the presence of the bacteria. You can do this to monitor whether a cancer chemotherapy is working. If you know some mutations that occur in the cancer, you can do PCR there and see if you get any pieces of DNA that are characteristic of the cancer cells as opposed to the normal cells. 
+
+You can use this for forensics. Lick the back of a letter, enough DNA comes off that the guys on CSI and Law and Order can do PCR on the back of the letter and amplify DNA. It's a very powerful technology. And what it is cloning without cloning. 
+
+We went to all the work of making this library and finding our gene once. But we're then rewarded by being able to get that particular gene out of every other member of the species. And that's extremely powerful. We'll stop there and pick up again on recombinant DNA and its applications next time. 
+
+PCR is a pretty cool technique. To be sure you understand how it works, try this question. 

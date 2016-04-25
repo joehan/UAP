@@ -1,0 +1,123 @@
+ERIC S. LANDER: I have a piece of DNA. Maybe it's 2000 bases long. In fact, I ran a gel, and with a little razor blade, I cut out that piece of DNA maybe. There are other ways I could do this that are easier, but in ancient days, you used a little razor blade, and you'd cut it out of the gel. 
+
+So I have my DNA. Let's say three prime, five prime, three prime, five prime, double stranded DNA fragment here. Let me melt this DNA so I have just one of the strands I'm thinking about right now-- single strand, I've melted it just for conceptually. 
+
+And I have a primer that matches the beginning of it. That's my situation. I have my DNA. I have a primer that will match the beginning of the sequence. And here's the reaction mix that I am going to have. 
+
+I've got my template DNA, I have my primer, a small fragment of DNA that matches it. I have DNA polymerase, the enzyme for polymerizing DNA. And I've got all four nucleotides-- dNTPs, deoxynucleotide triphosphates. That is to say, dATP, dTTP, dCTP, dGTP. In other words, I've got A, T, C, Gs floating around. 
+
+If I add that reaction mixture with a template and a primer and polymerase and all the nucleotides, what happens? 
+
+STUDENT: You get a second strand of DNA. 
+
+ERIC S. LANDER: I get a second strand of DNA. It just zips over and gets a second strand of DNA. [HUMMING] 
+
+And if I looked really quickly, I would see each of the different letters going in. But I can't look that quickly, because it goes really fast, and my eyes can't see the different nucleotides going in. I wish I could. 
+
+There's one trick. It is a cool trick, and it's all there is to sequencing. By cool trick, I mean won a Nobel Prize. That's what I mean by cool trick. 
+
+The cool trick is this. Suppose I have a sequence. Let's take a sequence-- AATGCGCAATGCCAATGGAAT. There's my sequence. I don't know it yet, but suppose that was the sequence on my strand here, three prime to five prime. 
+
+And I have a primer. And my primer matches the beginning of the sequence-- TTACGCG. That's my primer, five prime. 
+
+I'm just going to add my polymerase, add my dNTPs, and I'm going to add one other thing. Here's the other thing. I'm going to add to this mixture one more thing-- defective dTTP. 
+
+What do I mean by that-- defective dTTP? And I'm going to represent that just by T*. In what way do I mean that this dTTP would be defective? I mean that it can't be extended-- that when it goes in the DNA chain, the DNA chain stops. That's it. 
+
+Let's see what happens if I threw in a whole bunch of good ATP, CTP, TTP, GTP, and some defective Ts. Help me out as we figure out what happens. What is the first base that gets inserted? T, right here. Is that a good T or defective T? 
+
+Well, let's call it a defective T for the sake of argument. Suppose we had a defective T in there. What would happen? Would the chain extend? No. 
+
+But maybe it's a good T. So what if instead we had-- and we put in a good T, what's the next one that goes in? Well, maybe it's a defective T. In that case, what happens to the chain? Stops. 
+
+Now what happens if it was a good T that went in? What goes in next? A. What goes in next? 
+
+STUDENT: C. 
+
+ERIC S. LANDER: What goes in next? 
+
+STUDENT: G. 
+
+ERIC S. LANDER: What goes in next? 
+
+STUDENT: G. 
+
+ERIC S. LANDER: What goes in next? 
+
+STUDENT:T. 
+
+ERIC S. LANDER: Oh, T. Is it a defective T? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Maybe. But maybe it's not. And if it's not, what's the next one that goes in? 
+
+STUDENT: T. 
+
+ERIC S. LANDER: And is it a defective T? Could be. What's happening? I'm producing a whole bunch of molecules of different lengths, and those lengths define exactly where the Ts are. That's it. 
+
+This is pretty cool. As long as I have defective Ts, and I have a little bit of them, a smidgen of them, maybe 1% of them, then with a 1% chance I stop at a given T. And then I get a molecule of that length. In fact, I get a series of molecules of lengths, and those lengths are exactly where the Ts are. 
+
+How do I measure lengths? 
+
+STUDENT: Gel electrophoresis. 
+
+ERIC S. LANDER: Gel electrophoresis. That's why it was such a good warm up. Now, of course, that only gives me the Ts. Anyone care to generalize this? 
+
+STUDENT: Do some more wells. 
+
+ERIC S. LANDER: How about defective As? How about detective Cs? How about defective Gs? End of story. You've just invented DNA sequencing. Fred Sanger did it first and got a Nobel Prize for it. But that's it-- that's all there is to it. 
+
+You run a gel. Here's a gel. And this gel has a lane for defective Ts, a lane for defective As, a lane for defective Cs, a lane for defective Gs. And the positions that you observe let you read out the sequence. 
+
+This is not necessarily corresponding to the sequence I drew over there, by the way. I'm just making this up as I go along. And the sequence would be GCTATCGATC, et cetera. And that's it. I just run a gel, and I look. Any questions? 
+
+It's like ridiculously simple for a Nobel Prize in chemistry, except that nobody else thought of it, and he did. And he made it work. Yes? 
+
+STUDENT: So what we put into the gel would be the complementing strand or the strand that we started out with? 
+
+ERIC S. LANDER: What we would do is we would take this double stranded DNA, melt it, and have a primer matching one of those strands. We would then extend to these defective T spots. And we would frankly throw the whole mixture in. What would we see then? 
+
+STUDENT: We'd see the new strands. 
+
+ERIC S. LANDER: We'd see these new strands. Where would the old strands be? They'd be very big. It would be up at the top. So I'd only see those new strands. So has everyone got the concept? 
+
+Let's actually take a look at this in practice. Can we pull up the image here? This is actually that. This is exactly a sequencing gel. In fact, I have that very image here. This is it. 
+
+These are these lanes. Here we go. Here are the lanes. Yes? 
+
+STUDENT: Do you know what this is? 
+
+ERIC S. LANDER: Do I know what this is? I don't. I borrowed it from a friend. 
+
+[LAUGHTER] 
+
+ERIC S. LANDER: But we could [INAUDIBLE]. Ask me this question a little later. No, no. Actually, in the lecture, we could figure it out, even tonight, if someone has an iPhone. 
+
+[LAUGHTER] 
+
+ERIC S. LANDER: It turns out we could know this. It's a great question. We just borrowed this from a friend. Here's what this looks like. Now how was this made exactly? What am I looking at here? Yes? 
+
+STUDENT: It looks like you have four lanes, and then you'd have your defective T lane, and your defective C lane, and your defective A lane, and your defective-- 
+
+ERIC S. LANDER: That's that. 
+
+STUDENT: Yes. 
+
+ERIC S. LANDER: And then what's this? 
+
+STUDENT: That would be some-- 
+
+ERIC S. LANDER: Another piece of DNA. 
+
+STUDENT: Yeah. [INAUDIBLE]. 
+
+ERIC S. LANDER: And another piece of DNA. So actually, I've got six different pieces of DNA that have been sequenced here. Because why waste space? I can do six pieces of DNA like this, each of which has its ATCG lanes. And you could sit here, if you wanted to, and you could look at the lanes. 
+
+And they're in the order GATC, and you could work it out here. It goes-- what is it-- it's a T, and a C, and a T, and a G, and onward. You just count it up. And then you have the DNA sequence. 
+
+Now, how are we visualizing this? How did this get on the X-ray film? That's the first interesting question I just want to ask you. How did this get on this film here? That's a piece of film. How did it get there? 
+
+Well, to get into that, we need to actually now not just talk about DNA sequencing, the concept-- this is just DNA sequencing the concept. We have to take a moment and talk about DNA sequencing, the implementation. 
+
+To make sure you understand how DNA sequencing reactions work, answer this next question. 

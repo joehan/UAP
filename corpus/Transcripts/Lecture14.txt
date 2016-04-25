@@ -1,0 +1,61 @@
+ERIC S. LANDER: Welcome back. Today we're going to put together what we've learned about genetics, biochemistry, and molecular biology. We've put our coat of arms back up here. Genetics, biochemistry, and now we've got a full fledged molecular biology in there. Because we understand DNA goes to RNA goes to protein. 
+
+To understand all this, you can talk in the abstract all you want. But it's really very useful to talk in the specific, to really look at some particular genes in detail. And so today the plan is a tale of two genes. We're just going to talk about two genes. In fact, the genes even sound alike. 
+
+One of them is called beta-galactosidase. And the other one is called beta-globin. So you can even call this a tale of two betas. But these genes are actually wildly different in all other important respects. 
+
+This is a gene in E. coli. This is a gene in you, Homo sapiens. This is a gene that encodes an enzyme involved in the metabolism of a sugar. And this we've actually briefly met it before when we talked about proteins, encodes one of the two proteins involved in hemoglobin, which one of the sub units of hemoglobin, which is an oxygen transporter in the human blood. 
+
+It's an accident that they're both called beta. But it's kind of nice. We're going to first talk about beta-galactosidase. And just look at the structure of the gene and the structure of the genes around it and how it's regulated. How it is that genes get used under certain circumstances and not used under other circumstances. Because gene control is a really important aspect of running an organism. 
+
+So let's start with beta-galactosidase. Beta-gal, as it's called amongst friends. E. coli craves sugar. So you remember we talked about how E. coli loves glucose because it uses glucose to make ATP. It has glycolysis, the pathway we talked about in great detail, that throws off ATP. That yields pyruvate. And then when there's oxygen around, respiration here. The respiratory chain gets you all the way down to carbon dioxide. And you get a lot more ATP. 
+
+That's all great. What if there's no glucose? 
+
+STUDENT: Nothing happens. 
+
+ERIC S. LANDER: You die? 
+
+STUDENT: Will you die? 
+
+ERIC S. LANDER: Well, probably maybe some E. coli, some organisms back when could only feast on glucose. But what if lactose was around? Lactose is the sugar in milk. So E. coli finds itself with some milk or milk sugar, lactose, around. What would you do if you were E. coli? 
+
+We got to remind ourselves, what is lactose? Lactose is a disaccharide. It has two subunits. So let's just draw a picture of lactose. 
+
+We have one monomer here. We have a beta linkage to another monomer here. This one here is galactose. That unit is galactose. And this unit is glucose. 
+
+So lactose, the milk sugar, is a disaccharide. It's got two simple sugars here. And one of them is the sugar called galactose. One of them is sugar called glucose. So if you were E. coli, what would you do? 
+
+STUDENT: Break it up. 
+
+ERIC S. LANDER: Break it up. So you're going to want to break it up. And for that purpose you're going to want to have-- what's going to do the breaking? 
+
+STUDENT: Enzymes. 
+
+ERIC S. LANDER: Enzyme. You're going to want to have an enzyme. So some enzyme is going to break this up into our two sugars here. And in fact, there'll even be another enzyme that will convert that galactose into another glucose. So that way we're going to get glucoses. We're going to get a lot of glucose. That enzyme has the name beta-galactosidase. 
+
+How does lactose get into the cell? Is lactose just going to diffuse across the hydrophobic membrane? No, because it's a sugar. It's got all these hydroxyls. It's kind of a polar molecule. It's not going to get itself through the hydrophobic. 
+
+So there's going to be some transporter, some way that it gets in, some protein that will get it in. So let's draw ourselves E. coli. Here's a big E. coli. And in the membrane there'll be some mechanism that will allow our lactose-- I'm just going to draw our lactose here as two hexagons-- to get in and then to get acted on by our enzyme here. I'll draw our enzyme as a protein that wraps itself around in some way. And it's going to then break it up into our two sugars. 
+
+All right. When E. coli is in the presence of lactose, it makes a huge amount of beta-galactosidase. In fact, it makes so much beta-galactosidase, that about 10% of the protein in the cell is beta-galactosidase. Why so much? Why so much? 
+
+STUDENT: Because they really like sugar. 
+
+ERIC S. LANDER: Well, and you know you don't know how long that lactose will be around. And you're competing with all these other E. coli. If you had a laid back lifestyle, and you said, well you know we'll just make a little bit of the beta-galactosidase and break down a little bit of this lactose, the competing bugs nearby who are making more of it would out-compete you. Because they would be able to grow faster. 
+
+Remember if you're a bacteria, it's all about growth rate. You're doubling every 20 minutes. You've got to generate ATP. ATP is going to be necessary for all these reactions you're running. 
+
+So 10%. In the presence of lactose 10% of the protein is beta gal. Can you afford to do that if there's no lactose around? Big waste. Would you bother doing that if there was a lot of glucose around? No. So write me a rule. Let's write computer science rule for E. coli to decide when to make beta-galactosidase. Give me an if statement. 
+
+[INTERPOSING VOICES] 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: In which computer language? 
+
+ERIC S. LANDER: Well, let's do it in pseudo code, OK? We'll write it in pseudo code here. And in pseudo code we would write if lactose and not glucose, then produce beta gal. That's the pseudo code for running that operation in a bacteria. You thought this was introductory biology, but we'll slip in a little bit of introduction to computer programming here too. Alright. 
+
+The question is, how do we instantiate this? Because we're not going to write this in JavaScript. We're not writing this in C++. We're writing this in E. coli. OK, so how do we write that in E. coli? That's our challenge. 
+
+OK, before you go on, stop for a second. And test your understanding with this question about beta-galactosidase in E. coli. 

@@ -1,0 +1,393 @@
+ERIC LANDER: A new topic. This was 1989. This topic is 2013. OK? Another instance where I got a little bit involved in legal things. Gene patenting. In the late 1990s, a gene was cloned by position for the phenotype early onset breast cancer. So it turns out that some women get breast cancer at very early ages, in their 20s or 30s. 
+
+And in those cases, there's a pretty high chance of familial transmission. So if one woman has it, the risk to her sister is much higher than the rest of the background population. And if two should have it, the risk to another one is much higher. 
+
+The first gene was mapped by linkage mapping, as we've talked about in this course, to chromosome number 17. And it was called BRCA1. A few years later, another gene was mapped to chromosome 13 called BRCA2. And as we've talked about, by positional cloning, nearby linkage markers were identified. 
+
+Then that process, that tedious process of chromosome walking, was carried out. And several groups were competing. The original linkage was found by a wonderful geneticist and friend, Mary-Claire King, who had the great sense to collect families of people who had early onset breast cancer. And do this horrible Southern blots and all those kind of other things, and map the gene. 
+
+But it took a long time to find the gene. And she had competition. And amongst the competition was a company that wanted to find the gene. The company was called Myriad Genetics. And it's a long, complicated story. And I'm not going to go into all the details there. 
+
+But in the end, it was a group that included Myriad that cloned each of these two genes and identified the genes and identified the DNA sequence of the protein coding regions of those genes. Myriad filed for a United States patent on those sequences, on the genes BRCA1 and BRCA2. The United States Patent and Trademark Office, the PTO, issued a patent to Myriad on those genes. 
+
+A patent confers a monopoly on someone. It says, you are the only person who may possess this composition of matter, or employ this process, or something like that. There are use patents and process patents and composition of matter patents. And they convey a monopoly. 
+
+Myriad then had a monopoly as being the only people who could perform BRCA1 testing. They therefore invested a lot of money to set up a powerful BRCA1 and BRCA2 testing lab, and perform testing, making the information available to women. They also charged a lot of money for it, $3,000 or more, $4,000. And if you wanted to get a second opinion, to have another lab do it again, you couldn't. 
+
+And people who tried to set up labs would receive letters from Myriad, saying cease and desist. Should there be patents on genes? Should we have patents on genes? Should the US Patent Office-- now here, I'm not asking you as lawyers first. I'm asking you as citizens to ask the question, is it a good thing to be awarding patents on genes? Yes? 
+
+STUDENT: It incentivizes research. 
+
+ERIC LANDER: Certainly incentivizes research, right? They spent a lot of money. They got there first, being driven by that incentive to have it. So good point. Patents have some social benefit. They incentivize research. Yes? 
+
+STUDENT: Isn't there an [INAUDIBLE] to patent drugs for a certain number of years? And we decided that's socially acceptable? 
+
+ERIC LANDER: Yeah, we can patent drugs. We can patent drugs. 
+
+STUDENT: Generic comes out later. 
+
+ERIC LANDER: And the generic comes out later. You get a period. So why not? You can patent drugs. Why not your genes? 
+
+STUDENT: It's analogous. 
+
+ERIC LANDER: It's-- no, you're absolutely right. And why do we patent drugs? 
+
+STUDENT: To encourage research. 
+
+ERIC LANDER: Well, but why not say, OK, you discovered the drug and ran the $100 million clinical trial. But anybody should be free to make it. 
+
+STUDENT: Because since I discovered-- like, my marginal costs. I have to make it worthwhile for myself before everybody else gets the technology. 
+
+ERIC LANDER: You're going to sink $100 million into the clinical trial of that drug. And if then she can come along and just sell the drug after you've proven that it's safe and effective, well, then you'd be an idiot to go do that $100 million clinical trial. So we have to give you a monopoly in order to get you to invest that money. All right. Anybody concerned about this? Yes? 
+
+STUDENT: While it may be important that we were researching on finding the gene, when we have to apply that gene-- I mean, the thing about gene is that it's not cure for cancer or anything. It's a hint to curing cancer, or curing whatever disease. So it's an information. And when this information becomes unavailable for future researchers to work with-- 
+
+ERIC LANDER: There's a cost to that. 
+
+STUDENT: Then you're hindering, actually, research. 
+
+ERIC LANDER: Oh. So the grant of a monopoly, or the prospect of a monopoly, incented people to do it. But on the other hand, now the monopoly may actually block further innovation. Yes? 
+
+STUDENT: I think I want to build on what she's saying. I think the Human Genome Project is more evidence that the analogy to marketing drugs sort of breaks down. Because we've shown that a large group of public scientists can get worthwhile without patenting genes, and can still map them. And also, like she said, maybe you can patent, we're the ones that can test for this gene, or we can do this process on this gene. But certainly, being able to do anything with that gene could still be available. 
+
+ERIC LANDER: Interesting. Interesting. Yes? 
+
+STUDENT: I think we do need to make sure, though, that the people-- so there are a bunch of men and women working very, very, very hard to figure this out. 
+
+ERIC LANDER: Yes. 
+
+STUDENT: And there needs to be some way to incentivize that, and also for them to somehow make money off that. 
+
+ERIC LANDER: Yep. 
+
+STUDENT: And for them to make more money off that than people who may just take the knowledge that they didn't put as much work into, and then-- so the people, they have to be repaid somehow for the work that they did. And I don't know if a patent's the best way to do that. But we have to keep that in mind somehow. 
+
+ERIC LANDER: OK. Yes? 
+
+STUDENT: It's like trying to say that I can patent the diagnosis for say, polio. Oh, you can't diagnose people with polio unless you come and pay me. That's like, what would the treatment for drugs or the treatment for a disease, whereas this is just figuring out the disease. 
+
+ERIC LANDER: Well, a drug's an invention. It's actually a new molecule, often. Nobody's made that molecule before. You made the drug. Did you make this gene? It's there already. Yes? 
+
+STUDENT: It's a natural phenomenon. I didn't come up with BRCA. And also, what if you have a gene that maybe encapsulates all the [INAUDIBLE]. What if I patent a gene that's longer, that encapsulates the entirety of the [INAUDIBLE]? 
+
+ERIC LANDER: Huh. Interesting. Yes? 
+
+STUDENT: [INAUDIBLE] the information that they figured out to the public. Because if someone just sequences their genome, and they have all of their whole genome, can they find this gene on their own by reading it [INAUDIBLE]? 
+
+ERIC LANDER: So who's going to sequence their genome? And are they violating the patent by doing so? 
+
+STUDENT: Well, just sequencing the whole genome. That shouldn't be illegal, because [INAUDIBLE]. 
+
+ERIC LANDER: But wait a second. But they've claimed this molecule. Isn't that a violation of the patent? 
+
+STUDENT: Well, if it's in my body-- 
+
+ERIC LANDER: It's in your body. But they've got a patent there. So they are saying, you're welcome to have it in your body. They're not claiming it in your body. But when it comes out of your body, it's now not in your body anymore. And they're claiming it. Yes? 
+
+STUDENT: Sorry, but you're talking about genetics. You're talking about something that relates to the health of yourself and the people around you. And if you need money as an incentive to say we need to make people better, then that's a sad state of affairs for the human population. And I know that's a statement of the obvious. But no. This is-- patenting a gene is completely wrong, sorry. 
+
+ERIC LANDER: Sir? 
+
+STUDENT: I have a question and a comment. First, this whole patenting a gene thing, are we actually patenting the gene or just the process to sequence that gene? Can someone come along with another process? 
+
+ERIC LANDER: So that's very interesting. You could have claimed the patent on the process for sequencing the gene, and then somebody innovates a new process. They could have claimed the use of the gene to do a certain thing. But no, they actually claimed the composition of matter of the gene itself, which it's hard to invent around. Yes? 
+
+STUDENT: If you can patent genes, wouldn't you and everyone else on the Human Genome have a patent on half our genes? 
+
+ERIC LANDER: We deliberately made sure not to patent. We put things-- sure, but we didn't. We actually said the opposite. We were going to try to what's called spoil intellectual property as much as possible. Yes? 
+
+STUDENT: Are there any standards from this Myriad company that they're doing stuff right? Or can they just do whatever with this gene? Like, what if they're sequencing the BRCA gene wrong? 
+
+ERIC LANDER: So as it happens-- good. So if they're DNA fingerprinting, you're worried about standards. As it happens, I bet they're doing a good job. But in fact, there are a lot of open questions as to whether or not they would have to be doing a good job. Would somebody else come along and be able to do a poor job? Or are there standards that would prevent it? Not always necessarily. In this case, I think they're actually doing a good job scientifically. Yes? 
+
+STUDENT: Well, one solution could be, instead of patenting a gene, just having companies decide whether or not they would like to share the information. 
+
+ERIC LANDER: Yep. 
+
+STUDENT: And if they wouldn't like to share the information, then that forces other companies to go through the same process to find that gene and the sequence. 
+
+STUDENT: Or to buy that gene. 
+
+ERIC LANDER: Ah, so they'd keep it as a trade secret. 
+
+STUDENT: Right. 
+
+ERIC LANDER: So suppose it was a trade secret. They said, I got a gene that causes breast cancer here. And I'll diagnose you for it. But I'm not going to tell any scientists about it. Why would you believe them that this was a gene that could predispose to breast cancer? 
+
+So the problem is in order to have anybody believe that they've made an important discovery, important enough to attract people to use the service, you have to disclose. They've got to publish a scientific paper. In the back. 
+
+STUDENT: I just wanted to point out that research does not always necessarily need to be incentivized by money. Otherwise, I mean, I can say free and open source software wouldn't exist. Because research often happens faster when there's money involved. And so we as a society need to make the determination of whether it's worth taking the financial hit in order to get the research faster. 
+
+ERIC LANDER: Yup. And in fact, a number of the teams working here were non-commercial teams. And most genes in the genome have been cloned by non-commercial teams. Yes? 
+
+STUDENT: Isn't the whole point of researching genetics to be able to help humans as a population to use this research to be able to understand what our bodies are doing? And therefore, here are the bad things, or keep all the good things. So by patenting it, isn't that kind of going against what we're trying to do? 
+
+ERIC LANDER: Oh but wait, the company that patented it then says, we can afford to put lots of money into this process and produce a first rate process with a big database. 
+
+STUDENT: But how many people are going to be able to be a part of that? 
+
+ERIC LANDER: Well, fewer, certainly. 
+
+STUDENT: Exactly. 
+
+ERIC LANDER: But those who-- yeah, well, these are the trade-offs. What can you do? Yes? 
+
+STUDENT: I just think that by patenting the gene and charging people several thousand dollars to get diagnosed, or see if they have those, you're taking people's lives here, and people who can't afford it, you're taking this chance away from them. So I don't think that's very right. 
+
+ERIC LANDER: There's an awful lot of medicine that costs money, though. Should we be saying that anybody has a right to health care? 
+
+[LAUGHTER] 
+
+ERIC LANDER: Well? Well, interestingly, I think that is a position that some people not unreasonably take. But other people disagree. And it's a really interesting question there. And you have to ask the question. If it's an economic barrier, OK, maybe three companies are competing. But they're still going to charge each a thousand dollars. Maybe that's not accessible. 
+
+And maybe that's not accessible to women in Africa. Even if we get it down to $500 here, maybe that's not accessible. So if we're talking about serious equity, maybe we're talking about equity around the world in making sure these things are available. And we're talking about the drugs and what do they cost here, and what do they cost in South Africa? 
+
+AIDS drugs, for example. There was a considerable period of time when AIDS drugs were incredibly expensive. And nobody in Africa could afford to buy them. And then something was done about that. Yes? 
+
+STUDENT: I don't know if such a clause in patents exist, but I feel like they do, because of the initial capital investment, deserve some of the rights to the drug. But I don't think that they should have-- 
+
+ERIC LANDER: The drugs or the genes? 
+
+STUDENT: Sorry, the genes. But I don't think that they have rights to bar other companies from using them. So I think there should be a clause that had that for some agreed sum of money, they could rent the right so to speak to make use of the drugs, other companies can. At which point it just becomes a cost to doing business. You're buying your MRI machine, or you're buying the rights to this drug. This is the cost of doing business. And if you feel you can make money off of it over top, you will invest the money. 
+
+ERIC LANDER: So some kind of an obligatory licensing scheme should be set up. Yes? 
+
+STUDENT: I was going to say the same thing, but also say that with that obligatory license thing, the more important the gene was to [INAUDIBLE] deciding how important that gene was, importance being graded by how often a person has to use that gene, the lower the cost should be. So that way, people who went through all that work of finding the gene [INAUDIBLE] process can still get a lot of money because there are a lot of people [INAUDIBLE]. 
+
+ERIC LANDER: OK. So mandatory licensing, and maybe based on how serious this is, and how we set those costs for access. Yes? 
+
+STUDENT: The other thing is when they patent the gene, you said it's like the molecular material-- 
+
+ERIC LANDER: The composition of matter. 
+
+STUDENT: So what happens if somebody else comes-- let's say there's two situations. The first one, somebody says, oh, I accidentally discovered this better way of finding the gene, or figuring out if people have it. What if somebody else comes along and says, I think there's a third gene. Does that-- 
+
+ERIC LANDER: Well, the third gene's a different gene. You should go get a patent on that one. 
+
+STUDENT: But it has the same function. Or let's say it contributes to the same-- 
+
+ERIC LANDER: Contributes to the same process, but is it a different composition of matter, a different DNA sequence? 
+
+STUDENT: Sure, but it's still related. 
+
+ERIC LANDER: It's related, but you're going to race to the patent office and patent it, aren't you? 
+
+STUDENT: Can you do that, though? 
+
+ERIC LANDER: Well, I don't know. It's over here on chromosome two. Maybe you're going to do that. Yes, you've had your hand up. All right. Yes? 
+
+STUDENT: How many changes does this patent yield? 
+
+ERIC LANDER: Changes? 
+
+STUDENT: How many changes in the genetic code that constitute BRCA-- 
+
+ERIC LANDER: Are covered by this patent? A lot. They write the patents to be pretty broad. In fact, the patent was written so that Claim Six says, any DNA sequence that shares even 15 consecutive letters with the BRCA1 gene is covered. 
+
+STUDENT: What? 
+
+ERIC LANDER: Any DNA sequence that shares 15 consecutive letters is covered. Sorry? 
+
+STUDENT: Is that not common? 
+
+ERIC LANDER: Do you mean does that occur elsewhere in the genome? As it happens, all over the place in the genome, yes. Yes? 
+
+STUDENT: Does it cover other uses of the same gene? Like say BRCA1 recombines into a different gene with a different function, is that covered? 
+
+ERIC LANDER: If it's got 15 nucleotides in common, it's covered. Claim Six. In the back. 
+
+STUDENT: How big is this problem? [INAUDIBLE] involved in a litigation on this, how many genes have been patented since Myriad started doing this? 
+
+ERIC LANDER: Well, Myriad didn't get the first gene patents at all. They go back before that. The estimates that I've read are about 40% of human genes have patent claims against them, something like that. Not all of them are economically valuable, and most of them aren't charged at those rates. But there's actually a lot of patent claims out there, some of which are ignored, many of which are ignored. 
+
+And they create complexities. When somebody thinks about-- I was talking to somebody last night who was thinking about some years ago creating a company to diagnose a form of blindness called retinitis pigmentosa. But claims had been made to a bunch of the many genes that can cause that. And it was just too complicated to start a company to do retinitis pigmentosa diagnostics. Because the intellectual property landscape was murky. Yes? 
+
+STUDENT: Can you say you can do that patenting, but it will expire in seven years? 
+
+ERIC LANDER: Oh, it expires. It expires. It's 20 years. You get 20 years. 
+
+STUDENT: So like shorter. 
+
+ERIC LANDER: Shorter, you want it shorter. So one solution, mandatory licensing. Another solution would be shorter patent times. Good, that's good. Yup? 
+
+STUDENT: So what happens, what would happen theoretically, if one company patented BRCA1 and a different company patented BRCA2. Then couldn't basically no research get done as far as creating the-- 
+
+ERIC LANDER: Yes. Basically, each would do BRCA. You'd have to go to two companies for it. And if you wanted to combine that information, you would have to take the report from one and the report from the other, and then bring it to a third person and say, here's the data. It would be inconvenient and would not exactly accelerate scientific research. That's true. Interesting. Yes? 
+
+STUDENT: So does the patent bar people from performing research on a gene if they have no intention to market anything? 
+
+ERIC LANDER: Technically, it does. Technically it does. It's rarely enforced that way. But in principle, there is no research exemption that exempts a scientist, and allows a scientist, from using this gene, because they're not doing anything commercial. Patents give you an absolute monopoly to block, regardless of whether that person is planning to do something commercial or not. 
+
+Now in practice, companies don't go enforce this against scientists doing basic research. But the patent doesn't prevent that. It doesn't prevent that. All right. So this one too is very clear, as we can tell. We do have an interesting challenge. 
+
+These particular genes are there in the human genome. They're natural. If you wanted to find out whether you're at high risk for breast cancer, you would have to sequence that. There's no way to invent around it. Your drug, well OK, you get a patent on your drug. But then he's going to make a drug that competes with your drug, and it's a new drug. 
+
+But that BRCA1 gene is the BRCA1 gene. There's not an alternative BRCA1 gene, all right? You've got to know the sequence of that gene. So in some sense, the composition of matter on a natural product is kind of special in that you can't invent around it. It's an insurmountable barrier in some way. That's an interesting challenge. 
+
+So anyway, now what you've been doing is you've been discussing this in the context of what you think is right. And you've come up with a lot of interesting ideas. Saying, we do have to worry about incentives for companies. But maybe incentives for uses and processes will be enough. 
+
+We could shorten the times of the patents. We could make mandatory licensing so they made money, but certain amount of license fees come into them, but other people get to use it. There are a lot of solutions. Or we just don't allow patents on products of nature. They're different than the drugs. 
+
+What you're doing is you're doing the analysis, the kind of economic and legal analysis, that the Congress might in principle do in making decisions about what should be allowed to be patented and what shouldn't, and what should have mandatory licensing and what shouldn't. And how do we deal with the equity issues of these? Forgetting all the patents, how do we make sure it's actually available to people who need it? 
+
+These could be important issues of life and death at some point. How do we make sure they're available to people in the United States who couldn't afford it necessarily, and people around the world who couldn't afford it? This is the whole swirl of complex issues. 
+
+And you've said already that patents could incent discovery, and they could also block innovation. And it's this uneasy compromise between all of those things. Now in practice, this situation is right now before the Supreme Court of the United States. 
+
+A group of 20 plaintiffs brought a lawsuit. I was not involved in any of this. I got involved a little later in this. But a group of 20 plaintiffs brought a lawsuit with, as their counsel, the American Civil Liberties Union, the ACLU. They sued in federal district court in New York. And they actually won with a judge in federal district court invalidating Myriad's patent. 
+
+Myriad then appealed to the Federal Circuit Court. That is, the circuit court of appeals for the federal circuit, the court of appeals for the DC Circuit, which hears all the patent appeals. Because they have some patent expertise. At the Federal Circuit appellate level, the Federal Circuit reversed the decision of the district court and held that Myriad's patent was valid. 
+
+Sorry? Plaintiffs appealed. The plaintiffs appealed for a grant of a writ of certiorari from the United States Supreme Court last year, which was granted. Went up to the Supreme Court. The Supreme Court heard another patent case called Mayo v. Prometheus. And actually said, in light of our decision in Mayo v. Prometheus, the federal court should consider the issue again. 
+
+And sent the case back down to the appeals court. The federal appeals court reconsidered the case and didn't change its mind. The Supreme Court then accepted certiorari, that's the writ of accepting a case, it's called granting certiorari. And accepted the case, and the case was argued on April 15. That is about 10 days ago, before the United States Supreme Court. 
+
+The issues are not what should be done. The United States Supreme Court does not discuss what ought to be the patent law. The US Supreme Court discusses what is the patent law. And what is the patent law is the opening sentence of the Patent Act, which says what may or may not be patented. 
+
+It says that whoever invents or discovers a new composition of matter, a new use or whatever, shall be entitled to a patent, subject to the rules below. But there's a lot of Supreme Court law on what that means. And the Supreme Court has ruled that natural laws, like E equals MC squared, are not patentable. That laws of nature are not patentable. 
+
+That certain natural phenomena are not patentable. That a plant just found in the wild is not patentable. A mineral or a rock found in the wild is not patentable. That certain sap from a pine cone is not patentable, because it's a product of nature. 
+
+So there's a doctrine of products of nature. And the Supreme Court sort of has said, although not quite in so many words, that a mixture of six bacteria that already exists is not patentable, because it's really just products of nature there. But a bacteria that's been transformed with a DNA plasmid, that's a man made construction. 
+
+And so there's a jurisprudence here, where the Supreme Court has sort of said, there are things that are products of nature and things that are not products of nature. Things that are not products of nature are eligible for patents under Section 101 of the Patent Act. And things that are products of nature are not. I simplify, but is this a product of nature? 
+
+STUDENT: Yes. 
+
+ERIC LANDER: Ah. The federal court ruled no. The circuit court of appeals said that the chromosome is a product of nature. But a fragment of the chromosome is not a product of nature. Because the whole chromosome, that occurs in nature. But a chunk of chromosome is a distinct molecule. 
+
+The sugar phosphate backbone, you guys know all this, has been broken. And it says, the Federal Circuit court says explicitly, the breaking of covalent bonds here is producing a new molecule, right? Yes? 
+
+STUDENT: But can't you find fragments of DNA? 
+
+STUDENT: Don't they break off and join another [INAUDIBLE]? 
+
+STUDENT: Don't we do this with a natural process? 
+
+ERIC LANDER: Scientists minds are breaking. What's apoptosis? 
+
+STUDENT: Cells dying. 
+
+ERIC LANDER: Cells dying. And what happens when cells die? 
+
+STUDENT: DNAs get divided. 
+
+ERIC LANDER: How do DNAs get broken up? 
+
+STUDENT: Some sort of enzyme. 
+
+ERIC LANDER: Enzyme. What kind of enzymes break up nucleic acids? Nucleases. There are nucleases that naturally break up the DNA fragments. That's true. DNA fragments are produced in your body. Huh. 
+
+In fact, in your bloodstream, in cell free blood in your serum, there are DNA fragments, all over the place. In your urine, there are DNA fragments. In stool, there are DNA fragments. The Federal Circuit court said, fragments of DNA do not occur in nature. I kid you not. 
+
+Now, what did they cite as support for that? It turns out nothing. It's stated in the opinion, but they actually didn't provide any support for it. There's no citation to testimony or scientific paper about that. And you guys are now sort of like, your mind is blown. 
+
+Because this seems like a pretty important distinction as to whether the BRCA1 gene is a product of nature or not. Because if the whole distinction was saying, look, covalent bonds were broken. Therefore, it's a distinct molecule. It's not 80 million base pairs like a chromosome. It's 2,000 or 10,000 bases. But like those fragments occur-- yes? 
+
+STUDENT: I mean, in no way do I agree with this, but who's to say that that particular fragment existed in nature? 
+
+ERIC LANDER: Who's to say that particular fragment exists? It's just like a general theoretical argument. So what would you want to do? 
+
+STUDENT: Find it. 
+
+ERIC LANDER: You'd want to find it. So suppose you were to take serum, cell free DNA, from a mother, a pregnant woman. It turns out fetal DNA is present in a pregnant woman's circulation. Suppose I were to take serum from a pregnant mom, and purify the isolated DNA, the cell free isolated DNA, and sequence it. And suppose I could assemble from that the entire genome of the fetus. Would that satisfy you? 
+
+So in fact, that was published last year. Two labs took DNA. They took fragments of DNA from serum and reconstructed a fetal genome for maternal circulation. So good, you have a theoretical objection, which is, we're saying fragments occur. But how do we know that those fragments occur? 
+
+Well, Steve Quake, for example, and Jay Shendure each published papers where they sequenced and reconstructed the genome. And I happened to call them up and ask for the data. And you analyze the data, and you find that every single nucleotide of the BRCA1 and the BRCA2 genes are covered. So, yes? 
+
+STUDENT: The fetal DNA fragments that were found in the mother's serum, do we know for sure the BRCA1 gene was connected [INAUDIBLE]? Could it have been separated and reconnected by this [INAUDIBLE]? 
+
+ERIC LANDER: Oh, pieces of the gene are found there. But remember, the patent covers anything that has even 15 bases in common. And there were a lot of pieces there, all which have at least 15 bases in common. So clearly, those fragments are all things covered by the patent. Yes? 
+
+STUDENT: So what was the decision? 
+
+ERIC LANDER: What was the decision? Well, wait a sec. Wait, wait, wait. So the first thing is, I did get involved in this case. Because it turns out I read this Federal Circuit court opinion. And read this line about fragments don't occur in nature. And I had the same reaction you did. I said, what? 
+
+And so there is a process by which neither of the two parties-- beyond the two parties who submit briefs to the Supreme Court, friends of the court, amicus curiae, are allowed to submit briefs under certain circumstances. And so I actually wrote an amicus brief to the Supreme Court, which we'll distribute to everybody if you'd like by electronically. 
+
+It's online? OK, fine. So it is online. It's already distributed. There's an amicus brief. And what it does is it lays out exactly these points. It says, cells die. And nucleases chew them up. And it's found in urine and stool and found in serum. And in fact, the BRCA genes have been found there, et cetera. And sort of lays all of this out. 
+
+And what was very interesting is there were about 55 amicus briefs filed in this case, by all sorts of parties for all sorts of purposes. But when the Supreme Court heard this argument for an hour on April 15, this brief became an important subject of conversation. And so you will find this very amusing, since I'm your teacher. 
+
+And I'll invite you to go look at it when Justice Breyer asks the lawyer for Myriad, so are you saying Lander's brief is wrong? 
+
+[LAUGHTER] 
+
+ERIC LANDER: So it was very interesting, I've got to say. I was there, and found it an unusual moment. 
+
+[LAUGHTER] 
+
+ERIC LANDER: And so you can read on and see what happened in the oral argument. 
+
+But it came up because in point of fact, it's a scientific question we're talking about. If we're going to talk about whether fragments of DNA are products of nature, the Supreme Court's entitled to decide whether product of nature are patentable, and what means a product of nature and all that. But it's a scientific question whether or not a certain thing is present there. 
+
+And so I think it was a very interesting case where the Supreme Court actually picked up a purely scientific argument and acknowledged that it might have some impact on the case. Now, so what did the Supreme Court decide? Well, the Supreme Court hasn't decided anything yet. It heard the argument on April 15. 
+
+What usually happens is the Supreme Court takes some time to write it. And as those of you who follow the Supreme Court know, the decisions for things that were argued in April come out at the end of the term. It's likely to come out late in June. 
+
+So I have no idea what the United States Supreme Court is going to decide about whether the breast cancer gene is patentable or not patentable. You've talked about whether it should be, whether our law should allow it. Their decision is going to be based on whether our law as currently written does allow it, which is very different than what you think might should be. And there are a lot of arguments on all sides. 
+
+We've just looked at a scientific issue here. There are a lot of things. Yes, question? 
+
+STUDENT: What happens to all the genes that were patented before this? 
+
+ERIC LANDER: Well, if the Supreme Court were to rule that genes in their natural state are not eligible for patents, it would apply to all of them. And so it would basically free up all of those genes from patents. 
+
+STUDENT: So even people who were motivated by the fact that they could patent the gene, it would [INAUDIBLE]? 
+
+ERIC LANDER: Well, but you see, suppose I take that BRCA1 gene, and I attach it to a plasmid. Is that patentable? 
+
+STUDENT: Yes. 
+
+ERIC LANDER: Recombinant DNA. One thing that was crystal clear in the cases were recombinant DNA is patentable. So if I wanted to use a gene to express a protein, make insulin, make other things, patent eligible. No question about it. What about a cDNA? Is a cDNA a product of nature? 
+
+STUDENT: Yes. 
+
+ERIC LANDER: Why is it a product of nature? How do you make a cDNA? 
+
+STUDENT: Reverse transcriptase. 
+
+ERIC LANDER: I take RNA, which has been spliced up. Is that a product of nature? And then I add reverse transcriptase. Humans did that. The RNA, the mRNA, is a product of nature. What about the cDNA? We transform that in the lab with reverse transcriptase. 
+
+Is that a product of nature? Or is that a product of human intervention? Yes? 
+
+STUDENT: Does cDNA exist in cells? 
+
+ERIC LANDER: Does cDNA exist? Not very often, very rarely. Usually not. So in fact, that was actually another issue of the Supreme Court. The Supreme Court was deciding also whether or not genomic DNA, unmodified in any way, is a product of nature. But also came up a lot, whether cDNA was patent eligible. 
+
+And I got to tell you, it was quite a thing to listen to the United States Supreme Court discussing cDNA, discussing introns and exons. Justice Sotomayor, go for it, she understands the difference between introns and exons and was like spot on the science. It was very impressive there. And Justice Breyer understood that RNA was different than DNA because it had uracil. 
+
+No, this was a moment of wonderful collaboration between science and law. Because I think the Supreme Court was dealing with a lot of complicated legal issues and was digesting a lot of complicated science. And I have no prediction of what they're going to do. 
+
+STUDENT: I bet they wish they had taken this class. 
+
+[LAUGHTER] 
+
+ERIC LANDER: Yes. 
+
+STUDENT: I guess mRNA does occur in nature, but what about microRNAs? 
+
+ERIC LANDER: MicroRNAs, OK, hang on to that a second. Happily, that didn't come up at the court. Yes? 
+
+STUDENT: Does this matter  just concern only human DNA genes or do they go off-- because in agriculture, there's a lot of patents in [INAUDIBLE]. 
+
+ERIC LANDER: So what does this say about plants and animals? Well, Myriad noted in the brief that they thought this might apply to plants and animals, and the court should be worried about that. Do you think this applies to plants and animals too? 
+
+Well, if our argument is about products of nature, and we can find that those fragments occur in those plants and animals, it probably does. If the argument was about the immorality of blocking humans from knowing their own genome, maybe it doesn't. But that's probably not what the Supreme Court's facing. Because they're making a statutory construction about a particular statute there. 
+
+So yeah, I bet it probably does apply more broadly there. Well, all right, so that's it. It's all pretty clear. No, look, what we've seen in both of these cases, DNA fingerprinting and gene patenting, is there's a wonderfully rich, complex interaction between science and society. There are choices we have to make as a society. 
+
+And different societies make different choices. It's done in different ways and different places. And they may value things in different ways. But it's important that as much as we may focus on alpha helices and proteins and telomerase and things like that, we recognize that what we're doing actually does spill out and affect the rest of the society. 
+
+And as scientists, or people just learning about science, it's important to think about bringing that knowledge to these social questions. They don't determine what the answer is. We already have disagreements in the class about what to do with most of these things. 
+
+But we have informed disagreements about what to do about those things. And I think that's in the end, what we want from people. That's what we want people to be able to do, to be able to take knowledge from science and then go apply it to different social situations, combining with real human values. In the end, the values make a very big difference to where you're going to come out. But if you're not informed by good science, values alone aren't going to be enough to get you to a good answer. 
+
+Anyway, this is very different than the other classes we've had. I thought it was important to have a class like this. I have no clue how in the world we're going to test you on any of this. But I think the real outcome-- well, we may think of something, absolutely, absolutely. We might. We might indeed ask you to write something about this. 
+
+But I hope going away from tonight, you will think about it. You'll discuss it with each other. And I'd love to hear more about it. We've got some materials for you on the web. I may have my opinions about each of these things. These are cases where I got involved. 
+
+But there's no particular reason why you might agree with my opinions on those things. I just hope you have your own opinions, and you hold them strongly. And when things come up where you can do something, you do something. That's it for tonight. 
+
+All right. We've just been discussing this in class here at MIT. But I want to know what you think about whether human genes should be patented. 

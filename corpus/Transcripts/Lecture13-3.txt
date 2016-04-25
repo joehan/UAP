@@ -1,0 +1,55 @@
+PROFESSOR: All right, here eukaryotes are pretty straightforward. You have your mRNA. Here's your start, your AUG, almost always an AUG. 
+
+It goes along to get a stop. There are three stop codons. Let's say UAG, for example. So we've got a stop codon here, and you make a protein. And you're done-- nothing interesting. 
+
+Prokaryotes-- mRNA, I have my start. I make a protein, sometimes. I have another start. I make another protein. 
+
+I told you it was the first AUG. Well, it turns out that in bacteria, you can actually start translating another protein later down the message. There's another place the ribosome will get there. It isn't really the first AUG in bacteria. I lied, oh well. 
+
+And it turns out you might have another one over here. You make another protein. In fact, I can make multiple independent proteins off the same one message. This is called a polycistronic message. Cistronic sort of means on the same strand, many things on the same strand. 
+
+I can actually make six proteins off a single message. Why bother doing that? Suppose I wanted to make six proteins all at the same time. 
+
+Give me an example why I might want to make six proteins all at the same time. They're all used in one process, one biochemical pathway. Maybe they're the six steps of a biochemical pathway. 
+
+So in the genome of my bacteria, if I had six separate genes each with their own regulatory controls that turn them on, I have to have DNA involved in making all that regulatory control. But I'm a bacteria and I'm competing by replicating my DNA. And I want my genome to be small. Why not just slam them together in front of one promoter? Make one long message and of all the proteins I'm going to need for this new metabolic process that I want to induce right now, this new pathway on a single message. 
+
+So bacteria, because they're conserving their DNA because they don't want big genomes, will often string together a lot of proteins on a single message-- very efficient of their DNA. Just like you're profligate about your DNA with all these introns and things like that, the bacteria are pretty worried about it. So they'll just stick them all together, and you get great coordinated regulation. 
+
+Suppose you have a virus. Suppose you're a virus. Do you worry about how big your genome is? A lot. 
+
+You really want to get every bang for your buck. So I might want to have messages that were polycistronic if I were a virus. But could I do any better than that? Yes? 
+
+STUDENT: Overlap them? 
+
+PROFESSOR: Could I overlap? What do you mean overlap proteins? 
+
+STUDENT: There's a certain amino acid chain in both proteins [INAUDIBLE] genes for them overlapping. 
+
+PROFESSOR: But wait, but I mean I've got a certain reading frame. How could I get two different sequences out of exactly the same RNA overlapping? Shift the reading frame? 
+
+So wait, let me see if I can get this right. You're proposing for a virus that sometimes you would like to have a segment of this RNA that gets read in this open reading frame but also might get read in this open reading frame, shifted one over, and you would make two different proteins. 
+
+And you're even proposing, I guess, if I was really clever, I have three reading frames available. I could start plus zero. I could start plus one, and I could start plus two. And I actually, in theory, you're proposing, could get three separate proteins out of exactly the same message, if I really wanted to. Is a virus allowed to do that? 
+
+STUDENT: You wrote it on the board, so probably. 
+
+PROFESSOR: I wrote it on the board, which is a pretty good sign that it's allowed to do it. In fact, HIV has a segment of HIV that is translated in three separate reading frames. It is translated-- there's a splice here, here, translated. 
+
+This segment can be translated in the env protein. It can be translated here in rev. And it can be translated, I guess, tat here. 
+
+You can get it translated in three different reading frames-- pretty amazing condensation of information. So basically what I told you was you have very simple central dogma. DNA goes to RNA goes to protein. 
+
+You replicate your DNA. You copy your DNA into RNA. Your RNA gets translated into proteins. It's all very simple. 
+
+Life never leaves anything alone. Once you have something simple, it starts making it more complicated. It starts saying, how can I optimize it? 
+
+I'm competing. It's all a competition down there. The bacteria are competing. You're competing. 
+
+You're trying to innovate. You're trying to do things. And the innovations happened at many different levels. 
+
+There are innovations about what kind of genomes you can have. And viruses exploit all those different kinds of genomes. There are innovations about how you can pack information in genomes to make messages by splicing it up in all different ways and getting creative molecules in your own body by having alternative splicing and creation in evolution by having exon shuffling to create new proteins. 
+
+You can pack multiple proteins into a message. You can even pack multiple proteins right on top of each other to the same nucleotides. It's a pretty impressive thing. 
+
+And it's a rule that once you've got a handle on something simple in biology, you can count on the fact that biology is constantly tweaking, constantly optimizing. It's a pretty amazing system. All right, that's all for now. OK, stop for a moment and test your understanding with this question about translation in different organisms. 

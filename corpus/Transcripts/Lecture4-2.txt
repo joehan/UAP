@@ -1,0 +1,85 @@
+PROFESSOR: What's an enzyme? How does it work? Well, it's time to really talk about what an enzyme does. And so we're going to meet one particular enzyme. And that enzyme-- section two-- this enzyme is called triose phosphate isomerase. Triose phosphate isomerase, TIM amongst friends. OK? So we call this enzyme TIM. Many people do who work on it just refer to it as TIM. 
+
+Now, we talked about oses, we talked about sugars. We said that six carbon sugars were hexoses. Five carbon sugars were pentoses. Three carbon sugars are trioses. So this is going to be a three carbon sugar that has a phosphate group on it. That's what a triose phosphate is. Pretty straightforward. Actually, most of this stuff makes sense when you get down to it. 
+
+But this enzyme is going to carry out a transformation on one triose phosphate and turn it into another triose phosphate. It's going to turn it into an isomer. Same atoms, but rearranged differently. That's what an isomer is. So it's going to take one triose with a phosphate on it and turn it into another triose with a phosphate on it. Sounds easy. 
+
+Let's take a look. So triose-- here is one triose. Remember that I need to have three carbons and-- here we go. I've got a hydroxyl here. I've got there. And instead of having another hydroxyl here-- remember, sugar had one carbonyl, hydroxyl, hydroxyl. But here I've now, instead, got my phosphate. 
+
+That is a particular triose with a phosphate on it. And this guy goes by the name glyceraldehyde 3-phosphate. Because it's on the third carbon that that phosphate is. It's glyceraldehyde, and 'cause that's a lot to say, it's just G3P. So we've got G3P here. All right? 
+
+Now I'm going to give you another triose. Let's take this triose here. Got to have three carbons. And we know we're going to have a phosphate on it, so I put that phosphate on. How is it different? 
+
+Well, it's different here because I've got my double bond here, and I've got a hydroxyl there. Whereas here I had my double bond here and hydroxyl here. Not a big difference, right? All right. 
+
+This guy is called dihydroxyacetone phosphate. And I don't care if you know what all those words mean, but that's what it's called. And I'm not expecting you to know these chemical structures here. You're going to know how to name chemical structures, and we're just going to call DHAP, dihydroxyacetone phosphate. 
+
+So I have a triose phosphate, and I have another triose phosphate. What do I need to do to convert this triose phosphate into this one? Oh, by the way, this reaction is going to have to go on in fermentation. And when we learn about how fermentation works, this is one of those reactions. So this is one of the things that Buchner squeezed out of yeast, is an enzyme that can carry out this particular transformation. 
+
+So what do I got to do? Let's see. I'm going to-- 
+
+STUDENT: Move the H? 
+
+PROFESSOR: Proton up here. The H up here. So when I'm moving a hydrogen, I'm just moving a proton, because that's all the nucleus-- I'm going to move the H up here. 
+
+STUDENT: And take an electron down there. 
+
+PROFESSOR: Well, I'm going to actually take an H up here. So basically, I'm just going to put the H here and the H here, and then I'm going to get the C double bond-- somebody said you've got to move two Hs. This can't be that hard. H's don't weigh very much, right? So I'm just going to move these Hs. Sounds pretty easy. 
+
+Well. And it actually turns out to be chemically pretty favorable to do this. Chemists can measure that with something called the free energy. Whether one structure is energetically more or less favorable than another structure. 
+
+So the free energy of G3P and the free energy here of DHAP-- DHAP is actually more energetically favorable. It's a lower energy state. It's a more favorable state. It's actually lower by-- we write delta G zero prime, which is a measure of free energy. And it's better. 
+
+On its own, if you ask these two molecules, this is an energetically more favorable state. So why doesn't G3P just become DHAP spontaneously? 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Activation energy. 
+
+PROFESSOR: Activation-- what's activation energy? I mean, we say, because there's an activation barrier. There's an activation energy. What does it mean to say there's an activation energy? 
+
+STUDENT: You need energy to start the reaction. 
+
+PROFESSOR: I need energy, so I just like light a match? 
+
+[LAUGHTER] 
+
+STUDENT: Wouldn't you need to invest some energy into breaking the bonds in G3P so that you can move the hydrogen [INAUDIBLE]? 
+
+PROFESSOR: So why do I have to invest energy? People always tell you to start investing, but you know, you're young. Why you need to start investing here, all this energy? What's the point? Yeah? 
+
+STUDENT: You'll get more energy back when the bonds reform another one. 
+
+PROFESSOR: I'll get more energy back. That's what they always tell you about why you should invest, because you can get more back. [LAUGHTER] And then the molecule pays some interest rate. But what's going on? Yeah? 
+
+STUDENT: You need to invest energy so the reaction favors the product. 
+
+PROFESSOR: That actually favors the product right now. I gave you a reaction that favors that product. It actually would rather be DHAP than G3P. It's going in the right direction. Better free energy. So it's already doing that. I don't need any energy. Yep? 
+
+STUDENT: So globally, the product has a lower free energy state than the reactant-- 
+
+PROFESSOR: It does. 
+
+STUDENT: --but locally, the reactant is in a lower free energy state than in transition. 
+
+PROFESSOR: Transition. Tell me about this transition. You're saying that to get from here to there, from one molecule to another molecule, how do I get there? I have to pass through some intermediate state, some transition state. 
+
+In fact, to get from here to there, from here to here, it turns out I have to pass through this state. Chemically, I'm not going to go into the details of why, but it turns out that in order to do this, I need to transition through this guy. 
+
+Let's take a look at what's going on. Everything below this line is the same. But above this line, while I'm doing some moving around here, this is a very different molecule. I have this double bond here. And this guy goes by the funky name cis-enediol. And what it is is this is what's called the transition state. 
+
+So cis-enediol is the transition state, or the intermediate. And it is a very unhappy molecule. It has very high free energy. It is not a happy state. In fact, it is there. 
+
+So it turns out that the reason that this reaction is not going forward is not that it wouldn't like to be DHAP. It would love to be DHAP. You appreciate, I'm anthropomorphizing when I speak about the desires of relatively small molecules, right? But nonetheless, it is energetically more favorable to be DHAP. But to get from here to there, you have to climb a mountain. You have to go through an intermediate molecular state, which is extraordinarily unfavorable. 
+
+The chance of this happening on its own is roughly nil. Because this is something like 26 kilocalories per mole, which is a lot of energy needed. Very rare that by chance the molecules are just going to happen to go do that. And the truth is, it's actually worse than that. 
+
+In this state, not only is this a high energy state, but rather than going from here to there, this molecule is so unhappy that its phosphate will usually break off. Especially in the presence of water. So the chance of going from here to here, very, very low. And then the chance of managing to keep going without losing the phosphate, forget it. 
+
+This is just not going to happen on its own. You need to help it. That is what an enzyme does. Turns out you don't have to invest any energy at all. No energy is needed to make this happen. I didn't have to spend any energy. I don't have to invest any energy, and I don't have to get back any energy. 
+
+None of that is needed. Because in fact, it's an energetically favorable reaction. It just has to go through some intermediate state. And we have to gently help it over the mountain. 
+
+Now that we've finished this segment, test yourself with this question. 

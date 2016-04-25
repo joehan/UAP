@@ -1,0 +1,55 @@
+PROFESSOR: We need a polymerase, a DNA polymerase. How are we going to get a DNA polymerase? Well, what do biochemists do? 
+
+STUDENT: Grind stuff up. 
+
+PROFESSOR: They grind stuff up. And they purify some component from the cell that's able to carry out an activity. So we're going to take a bacteria, we're going to grind up that bacteria, we're going to purify it  into all different kinds of fractions, we're going to test each fraction for the ability to polymerize DNA. That's not so hard. It's actually hard, but the idea is not so hard. 
+
+And so Arthur Kornberg, our hero biochemist here-- Kornberg in 1956, publishes a really cool experiment. He takes DNA, and let's see, DNA template, and he adds to it, what-- what's going to have to get polymerized? Nucleotides. We're going to have to have deoxyribonucleotides-- so dATP, adenosine triphosphate. deoxy CTP, deoxy GTP, deoxy TTP. 
+
+So into his reaction he adds DNA template, that is, just DNA, plus nucleotides, and he then adds different fractions from the cell. He grinds up a cell, he breaks it up into fractions, and he adds fraction, after fraction, after fraction and sees which ones can-- how does he tell whether the nucleotides are being polymerized? How can he tell whether they're being polymerized into a chain of DNA? Yes? 
+
+STUDENT: Opacity. 
+
+PROFESSOR: Sorry? 
+
+STUDENT: Opacity. 
+
+PROFESSOR: Opacity. That's hard to see that. Turns out if the nucleotides are radioactivity labeled and they're getting strung together into a chain, their molecular weights getting longer. And what you're seeing is that you started out with radioactivity in small molecules and now the radioactivity is in long molecules. That's all. Turns out this one's dead easy. There are a lot of ways to separate these ones. This turns out to be the easiest the whole lot. It's just, is the radioactivity now in a long chain, whereas you put it in little pieces. 
+
+So he just looks for that. And he purifies, purifies, purifies. He eventually finds a protein fraction that is able to carry out these reactions, and polymerize DNA, and he calls it DNA polymerase. He goes on to get a Nobel Prize pretty soon after for this, because this is a big deal, an enzyme that can copy the hereditary material. 
+
+How does this work? Let's take a little bit of a closer look at Kornberg's enzyme, DNA polymerase. So what happens is, there's a template strand. Let's give it a sequence, we'll say A-- let's see, there's a sugar phosphate backbone, I'm going to write the little phosphates in there. ApTpGpCpApCpCpTpG, et cetera. And I've got to give you the directionality of it. This is the three prime end-- remember our structure of DNA before. There was a three prime carbon and a five prime carbon. And this is three prime end, and this is the five prime end, text DNA. 
+
+Now, it turns out that to get polymerization going, there needs to be a primer here. What's going to match G? C. What's going to match C? G. What's going to match A? What's going to match T? T. 
+
+Suppose there was a primer here. And let's put one more here. What's matching G? C. All right, so five prime, this is the three prime end. The three prime end, remember, we have a three prime carbon on the sugar here. And that's got a little hydroxyl group on it, OK? This matters, remember, that's where we're going to attach our triphosphate, is through that 3 prime carbon. So I'm writing that OH there. 
+
+Now, Kornberg didn't actually know exactly how to put in a matching template, but it didn't matter. Sorry, a little primer here-- here's a template. Here's what we'll call a primer, it's a starter, a starter for the sequence. But you know, in his chopped up DNA from the bacteria, there were pieces lying around that would fit. And they could serve as primers. 
+
+But in fact, this enzyme really does require a primer. It requires a piece of DNA that matches the template. And what it does is it extends an existing primer. So then what does it do? It grabs a nucleotide out of solution, what nucleotides will it grab? 
+
+If this was the primer that it started with, floating it around will have dATP, dCTP, dTTP, and dGTP. What will the enzyme grab to match the C? dGTP. And now let's think about that structure. It's got a triphosphate on it. And it's going to stick that in, and it's going to catalyze the reaction there. 
+
+A dehydration synthesis is going to get the energy by breaking that triphosphate off there and leaving one phosphate. And it's going to attach it here. And what will that leave us over here? A free hydroxyl on the three prime end. And then it will grab another monomer, another nucleotide with a triphosphate on it, and it'll stick it on. And another one, and use the energy from that triphosphate, and stick it on. And it will just keep going like that. Once it's got a primer to start, it keeps going, and going, and going, and going. Pretty clever system, that's it. 
+
+Every polymerase ever found goes in this direction. It always goes five prime to three prime. No one has ever found a polymerase that goes the other way. Why not? 
+
+STUDENT: Energy helping them with phosphates. 
+
+PROFESSOR: Yes, it's this phosphate thing, that's exactly right. My energy here is being supplied by the triphosphate. Suppose I was running the reaction in this direction. Every time I put one in, if I was running from this direction, I'd be putting this into a primer on the other side, and I'd have my hydroxyl here, where would the triphosphate have to be? It would have to be on the growing chain. 
+
+So actually, let's make a little experiment. If we were running it backward here, it would have to be that the triphosphate was over there. And then as I put in a new nucleotide here, that would be my reaction there. The triphosphate would be on this long chain. That works, what's the problem with that? Why not just run it that way? 
+
+STUDENT: Could it react with something? 
+
+PROFESSOR: See now, you're being careful here, because you're saying, this is a highly reactive group. I've gone to all the trouble of making this chain growing here. And I have my triphosphate on the chain. And what if it just hydrolyzes and breaks off? It's highly reactive. Now, look what I've done. I've built a whole chain here and I can't keep going. 
+
+But can't that just happen over here? What about some of these free nucleotides floating around. Can't they just hydrolyze their triphosphates? 
+
+STUDENT: They just won't  attach. 
+
+PROFESSOR: Yeah, big deal, so I lost a nucleotide. I haven't invested in this whole growing chain, right? So it's much better for those triphosphates to be used from the monomer that's coming in, then to be part of the growing chain. That is, in fact, why DNA synthesis always runs five prime to three prime, not three prime to five prime. Because when DNA synthesis first evolved, it wouldn't have had a mechanism for dealing with the problem that would arise if that triphosphate somehow hydrolyzed, if it broke off there. 
+
+All right, so I just mentioned that because I want you to remember that everything we'll talk about in the course goes, five prime to three prime, five prime to three prime, that's it. All right, so Kornberg discovers DNA polymerase. Kornberg shows us that it's a perfectly sensible enzyme you can purify out of the cell. There you go, he gets his Nobel Prize for it. Pretty cool. 
+
+Before you go on, test yourself with this question about the enzyme that copies DNA. 

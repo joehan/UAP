@@ -1,0 +1,79 @@
+ERIC S. LANDER: We've got the energetics of pathways. But we really need the logical tricks of pathways. What kind of tricks can pathways play? 
+
+Suppose I have a reaction that a cell would like to carry out. A goes to B. And suppose that the concentrations that would normally be there, it's an unfavorable reaction. What are we going to do about unfavorable reaction? Delta G is positive. The reaction doesn't want to flow that way. 
+
+But maybe to build something, to create a molecule, we need it to flow in that direction. How are we going to persuade this reaction to go forward even though it is unfavorable? That's a challenge for life. So this is an unfavorable reaction. What do we do? 
+
+How do we cajole this? How about using an enzyme? Will that help? No, because of your excellent question, we know the enzyme is not going to make any difference. Sorry? 
+
+STUDENT: Change the amount [INAUDIBLE] 
+
+ERIC S. LANDER: I could change ratios. That's one thing I can do. Sorry? 
+
+STUDENT: Could you add a catalyst? 
+
+ERIC S. LANDER: No. The enzyme is a catalyst. All the catalysts do is speed things up. They can't change what happens. They can urge the reaction on, but they can't actually do anything more than that. Yeah? 
+
+STUDENT: Lower the temperature? 
+
+ERIC S. LANDER: Lower the temperature-- the problem is, that has serious other consequences for you. I could try to lower and raise your temperature, but that would be a bad thing. I got a lot of different reactions in the cells. How about we use body temperature. Yes? 
+
+STUDENT: Never mind. 
+
+ERIC S. LANDER: No, it's tough. Trick number one-- if that's an unhappy reaction, couple it to a happy reaction. That is to say A goes to B might be an unhappy reaction. But suppose I had another reaction over here, C goes to D. 
+
+And that is very negative, very very favorable. And suppose I had an enzyme that carried out both simultaneously. Suppose there was some enzyme in which A plus C gave B plus D. What's the delta G for that sum of two reactions? It's the sum of the delta Gs. 
+
+It's going to be negative. So if I can add up those reactions, I can get a negative delta G. And the reaction becomes favorable. In other words, if I can get something done that is unfavorable by coupling it to something that's very favorable and they take place at the same time in the same active site of that one enzyme, that suddenly becomes a favorable reaction. 
+
+It's a pretty clever trick. But that means I need some favorable reaction, some reaction that has a really good negative delta G. Yes? 
+
+STUDENT: ATP. 
+
+ERIC S. LANDER: ATP. The point of having a high energy storage molecule like we talked about is, when you need it and we need to break it, it's a very favorable reaction-- ATP. So you'll recall we had ATP. We had this adenosine-- we're not going to bother writing its structure here-- plus the triphosphate. 
+
+And we said that this adenosine triphosphate was a high energy storage molecule. All these negatives were together. And if we were to cleave this off and take our ATP to-- let's see, ATP is adenosine triphosphate. If we take one off, what would it be? 
+
+STUDENT: Diphosphate. 
+
+ERIC S. LANDER: Adenosine diphosphate, right. That turns out that is really good. And that's going to get us, say, typically something like-- depends of course, on the concentrations-- minus 7.3 kcals per mole. It's a nice trick, and it happens to be the fundamental trick used all over to drive reactions is burn an ATP. Hydrolyze that bond there. 
+
+Do that, and you can drive reactions that otherwise wouldn't go forward-- trick one. Now, there's trick two as well. Trick number two-- see this, I would call directly coupling. We've directly coupled two reactions going on at exactly the same time, directly coupled reactions. 
+
+But I can also do a cute trick of indirectly coupling two reactions. If I have a reaction A goes to B and the delta G is positive, it's not going to go forward. But you said something. You said change the concentrations. 
+
+What would happen if I can change that concentration of B to zero? 
+
+STUDENT: It's going to go forward. 
+
+ERIC S. LANDER: It's going to forward, right? Because if the concentration of B is zero, well, then As will be bumping into and converting to Bs. There are no Bs bumping into it and converting back to As, so it's going to go forward. So all I gotta do is get rid of the Bs. How am I going to get rid of the Bs? 
+
+STUDENT: Use another reaction. 
+
+ERIC S. LANDER: Use another reaction. What reaction would you like? 
+
+STUDENT: Something that reacts to B that gets [INAUDIBLE]. 
+
+ERIC S. LANDER: What's B going to go to? 
+
+STUDENT: C. 
+
+ERIC S. LANDER: C-- inspired. Very good. So B is going to go to C. And that's going to be a highly favorable reaction. And we're going to suck that reaction forward. We're going to suck the A-B forward by pulling the B down. And so I've indirectly coupled this to this. And I can it down this pathway even if this is energetically unfavorable on its face. 
+
+If the next step is energetically favorable, I can pull it down. In fact, that'll work for quite a number of steps. If I'm pulling hard enough, I can force things down the pathway. That's why I dwelled on the logic of this, because once you realize that it has to do with those ratios, I can work my magic on these pathways by pulling with favorable reactions. So I need some favorable reactions. 
+
+Any questions? Yes? 
+
+STUDENT: The net result of that, though, is that you converted all your A to C, right? 
+
+ERIC S. LANDER: Yes. 
+
+STUDENT: If you were looking for B, then how would that help you? 
+
+ERIC S. LANDER: It wouldn't help me. But I want that reaction to go forward probably to create some C. If B is my endpoint, it doesn't do me any good. And that's a really good point. So if I was doing this with the goal of making B, which trick would you use? 
+
+STUDENT: The first one. 
+
+ERIC S. LANDER: You use trick one. If our goal was to make B, we should be directly coupling. And we use trick one. But if in fact, we have a pathway, we're in the business of fermenting our sugar, and we have to encounter one unfavorable step, not to worry if the next step is favorable. That's the logic. 
+
+Great. You guys are really into the logic of this. This is great. So before we go into the next segment, test yourself with this problem. 

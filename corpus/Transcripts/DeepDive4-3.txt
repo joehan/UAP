@@ -1,0 +1,49 @@
+SHIRLEEN: Hi. It's Shirleen again. In this video, we are going to look at DNA replication. So let's get started. So here's a cell and a nucleus. And here is a chromosome. Now before this cell can divide, it needs to replicate its DNA so that its daughter cells will have the same amount of DNA as it does. 
+
+And let's zoom in on this chromosome. Now a chromosome's just, really, a very, very long double strand of DNA. And we're going to try to replicate this really long strand of DNA. And we could do it a couple of ways. 
+
+So one way to do it is that we could separate the two strands and replicate them from one end each. But that way would probably take a really long time. The other way we could do it is to replicate the DNA at multiple locations. And from each of these locations, replicate in both directions. 
+
+Now, this is the way that the cell chooses to replicate its DNA. And it doesn't replicate its DNA from random locations. It replicates its DNA starting from very specific locations, which we call origins of replication. So let's take a closer look at one of these origins. 
+
+So here is a representation of a short fragment from our chromosome. And remember that DNA has a polarity. So if this is the five prime end, then this is the three prime end. And DNA pairs in the antiparallel orientation, so then this is the five prime, and this is the three prime end. 
+
+So now, what is on the five prime end, again? And what is on the three prime end, again? Right. On the five prime end, there is a free five prime phosphate group, and on the three prime end, there is a free three prime hydroxyl group. 
+
+So now, let's try to replicate this double-stranded DNA. One of the first things we have to do is try to separate these two strands of DNA. And that happens at an origin of replication. And let's call this region here our origin. 
+
+And what do you think makes this sequence, specifically, the origin and not here and here? Well, now, the only thing that's different about this part of the DNA versus here and here is, really, the sequence. So an origin of replication is a specific sequence that binds specific proteins that will help separate the DNA. 
+
+When the DNA separates, what we will get is a replication bubble. And that looks like this. So now we have single-stranded DNA that are accessible for the DNA replication machinery. So what are the enzymes that are in this DNA replication machinery? 
+
+So you have helicase, which will help unwind the DNA. You have topoisomerase, which will help untangle the DNA as DNA is being unwound. And of course, you have DNA polymerase. Now, DNA polymerase, however, can't start from nothing. It can't start from scratch. 
+
+DNA polymerase needs to add nucleotides to an existing three prime hydroxyl group. 
+
+So the cell solves this problem by providing DNA polymerase with a three prime hydroxyl group. It has another enzyme called primase. And what primase does is primase makes little RNA primers that provide a three prime hydroxyl group for a DNA polymerase to add nucleotides to. I will demonstrate with DNA primers though.
+
+So here on the bottom template strand, you have a template and a primer. And DNA polymerase will come in and add GGACT. And on the top template strand, DNA polymerase will come in and add nucleotides in the five prime to three prime direction, CGTGC. 
+
+So now, a little while later, the replication bubble is going to get bigger. And now you have more template that's available for a DNA polymerase to synthesize DNA off of. So DNA polymerase is going to continue to add nucleotides here. And on the top template strand, it does the same. 
+
+So remember, though, we said earlier that at origins of replication, DNA replication happens on two strands in both directions. 
+
+And right now, what we have is DNA replication happening on each strand only in one direction. So what is happening up here? How are we going to replicate DNA here and here? 
+
+Well, we've already kind of solved this problem. We know, again, that primase can come in and make primers from which, again, DNA polymerase can synthesize and add new nucleotides to. And the same on the top in the five prime to three prime direction. So are we done now? Well, remember that your primers are RNA? 
+
+So what we have here is a mixture of RNA and DNA. And what we really want is everything to be DNA. So what the cell does now is it removes these primers using an enzyme called RNase H. So RNase H will come in and chew up these primers. 
+
+And now DNA polymerase can come in and fill in the gaps. So are we done now? Well, not yet. Because although DNA polymerase has added in new bases, there is still a gap between what it just filled in and what was synthesized before here and here. 
+
+So another enzyme called ligase comes in to make the phosphodiester bond between these fragments of DNA here and here. 
+
+So now, let's zoom out for a little bit of a bigger picture as to what's happening on the rest of the chromosome. So we could reschematize this big bubble here as this little bubble here. So black is your original template strand, and blue is your newly synthesized strand. 
+
+So as we saw before, on one strand, DNA synthesis is happening continuously. And that's what we call a leading strand. And on the top template strand here, DNA synthesis was happening discontinuously. And that's what we call the lagging strand. 
+
+Now, if you will switch over to the left replication fork, however, you'll see that the top template strand is where leading strand synthesis occurs, and the bottom template strand is where lagging strand synthesis occurs. And each of these little fragments of the lagging strand are called Okazaki fragments. 
+
+Now remember that we said DNA replication was beginning at multiple places along the chromosome? So a little further down this way, you're going to have another replication bubble where leading strand and lagging strand synthesis are going to be occurring. 
+
+So after some time, these replication bubbles are going to expand. So you'll get larger replication bubbles here. And, eventually, they are going to merge, so that now you have two copies of the original chromosome. So in this video, you learned about how a cell replicates its DNA before it divides. So thanks for watching. 

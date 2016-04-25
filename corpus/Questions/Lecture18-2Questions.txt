@@ -1,0 +1,213 @@
+What did Function understand through?	2.3535254299561665
+What understood through genetics or biochemistry?	2.348353992301097
+What was gene or protein connected through molecular biology?	2.3417412673236675
+What's one very powerful thing of knowing the sequence?	2.18039324393861
+What does each of which get?	1.9364897018713407
+What's the plan for tonight?	1.8983115012623661
+What does here's given any source of DNA?	1.8945753067727042
+What could complement the function?	1.8678093226105836
+What's a library?	1.6263638851149897
+What's a review of all of recombinant DNA that we did?	1.624988707596656
+What does every colony contain?	1.6131786095101808
+What doing PCR?	1.5993156372078334
+What was the first thing we talked about under recombinant DNA making?	1.5926131214322288
+What are bacteria?	1.5889136981195964
+What was making libraries?	1.5654543361763587
+Who 're going to talk about the Human Genome Project?	1.5630685571638008
+What sucked up that DNA, those circular plasmids there on a Petri plate here?	1.5405985487283624
+Did Function understand through genetics or biochemistry?	1.525476326035207
+What do by do?	1.5122945972461375
+So if you know the gene's function, who can do complementation by rescuing the mutant, restoring the wild type pehnotype?	1.453072675887182
+Who 've talked about how you can find the gene underlying certain functions?	1.4457150968651349
+Who did in the first lecture on recombinant DNA that part?	1.441584120836294
+So if you have a mutant, who can do complementation by rescuing the mutant, restoring the wild type pehnotype?	1.4393828159683046
+What did we do in the first lecture on recombinant DNA that?	1.4355244526303852
+What contains an individual different piece of DNA from our source?	1.404636839576245
+What gets a different piece of our source DNA?	1.3978337513569037
+Who grow up those single cells that land on the plate and carry our plasmids?	1.3920912456238161
+What does that's a review of that we did?	1.3806683613546746
+Who 're going to talk about a subject that I like a lot?	1.3203842789059164
+What CNDA?	1.3079937846839347
+Who talked about finding our gene in the second lecture?	1.30724834606881
+Was biochemistry gene or protein connected through molecular biology?	1.2902439184394678
+What was pretty cool?	1.289535850857353
+What did I not live through at biochemistry?	1.289346260415761
+Who did not live through that at biochemistry?	1.270702407775281
+What did some of them suck up that DNA, those circular plasmids there on here?	1.2642191700533405
+Who 'll talk about a question I raised at the end of the lecture before last?	1.2606640458103326
+What did we do in that part?	1.235536408903985
+Who can read out the protein by DNA sequencing?	1.2248471626627624
+What's it?	1.2238812832407366
+What does that's that we did?	1.2197897204200823
+What did I not live through that at?	1.2089850945546536
+Who 're really connecting up this picture in an operational way?	1.2016360317465313
+What did some of these suck up that DNA, those circular plasmids there on here?	1.1974082480012327
+What can you read out the protein by?	1.1674509136383504
+Who was not even born at the time that they went running into the Eagle Pub, saying to everybody they 'd found the secret of life?	1.1649886617078327
+What do we 're really connecting up in an operational way?	1.1598341089720852
+Who transform the DNA a into the bacteria?	1.153271912647834
+If we had an antibody against our protein who 'd be able to use our antibody to wash it over our library?	1.1466345688435595
+So if you know the gene's function, what can you do by rescuing the mutant, restoring the wild type pehnotype?	1.1415990178018527
+What is roughly the period that I 've been in biology for?	1.1305018371460833
+So if you have a mutant, what can you do by rescuing the mutant, restoring the wild type pehnotype?	1.1260034374154886
+What was betaglobin?	1.1244915784937108
+What's fun for me to describe genomics?	1.12304376360226
+What do we 're really connecting up this picture in?	1.1230165854979282
+What's great?	1.0983022427877926
+Do genes encode proteins?	1.0937405634316861
+Who go back to our coat of arms every time?	1.0922486913772937
+What does each of which get a different piece of?	1.0896865579011625
+What let's just briefly review what we did in recombinant DNA?	1.077319762485308
+What's our DNA source given any source of DNA?	1.0493628594119069
+What do we transform the DNA into?	1.0466590745330522
+Who talked about two examples of how you might find your gene?	1.035582957980044
+What do we 're going to talk about?	1.024790806971351
+Who 're going to talk about genomics?	1.0047018800786072
+Who do I want to tell about that?	0.9957697791350479
+What do we 're going to talk about a subject that I like?	0.9947124788302946
+What do we 're going to talk about that I like a lot?	0.9923002469396216
+Who wants to describe how it came to be?	0.9793722523159116
+Who wants to tell you about that?	0.9744658382323383
+What did we not have an answer for?	0.9719235613687822
+What does that's a review of all of recombinant DNA?	0.9621161628982986
+Who can cut it up or shear it up, break it up in some way into pieces of DNA?	0.9581011774328103
+Who one did not have an answer for?	0.9290323364507427
+What did we talk about finding our gene in?	0.9269192009731964
+Who 've been doing for the past several?	0.9263770443922628
+Who wants to tell you about how it is that we collectively across the world got the project done?	0.919592988588553
+Who can ligate it to vector molecules?	0.9191362478798568
+If we wanted to find a particular protein that we did not have a mutant who talked about doing this by protein expression?	0.8893658316383803
+Who wants to tell you about what's happened since then?	0.8827997407436183
+Who 're going to get us an answer for it?	0.8779331713818059
+When do we 've been doing several?	0.8737005269493097
+What do genes encode?	0.8697580865873253
+When is roughly that I 've been in biology for something that's been a big part of my own scientific life?	0.8652773595282819
+What does it's fun for me to describe?	0.8471930881626695
+Who talked about how given that you had found your gene sequence?	0.8431416531983671
+Who analyze your gene?	0.843125126670508
+What does here's our DNA source?	0.837916570081225
+What was one example we gave?	0.8294751406887464
+Who had the sequence of a gene once?	0.8262345134175322
+What do we go back to every time?	0.8241245025994013
+What did I not live through?	0.8235688696656815
+What encode proteins?	0.8163868945088044
+What do I want to tell you about?	0.8128173610338056
+What's really just the complementaiton test that we talked about in genetics turns out to be one of the great ways you can find the gene?	0.806261800784368
+What did one we not have for?	0.7973261511528051
+Who might find the gene?	0.7941548782658898
+Who did not live through that?	0.7929217952888774
+Who do I want to tell about what's happened since then?	0.7923807137324685
+What does it's to describe genomics?	0.7923061679093457
+What do we go back to our coat of arms?	0.7748322756242803
+Do by do PCR?	0.7640101364057439
+What can we ligate to vector molecules?	0.7457178554169159
+What could that complement?	0.7404846451865168
+What is roughly the period that I 've been in for something that's been a big part of my own scientific life?	0.706985488657673
+What's the answer to a question?	0.7007144679502917
+Who do I want to tell about how it is that we collectively across the world got the project done?	0.6887373814792925
+What is roughly the period in something that's been a big part of my own scientific life?	0.6876365993377511
+If we had an antibody against our protein what 'd we be able to use our antibody to have?	0.6854304756625007
+If we had an antibody against our protein who 'd be able to use our antibody to have it stick to whatever colony had cells making that protein?	0.6447059278613241
+Who talked about how once you had the sequence of a gene once, you could get that gene again and again and again by amplification?	0.6405001709733373
+What was biochemistry?	0.6314078919991322
+What did we talk about how once you had the sequence of a gene once, you could get that gene again and again and again by?	0.6266671944830173
+What was I not even born at the time that they went running into the Eagle Pub, saying to everybody?	0.6135983173825115
+Do we 're going to talk about the Human Genome Project?	0.6000359014194587
+Was the first thing we talked about under recombinant DNA making libraries?	0.5891279140081904
+Who have not got it fully operational yet?	0.5890252267537581
+Does that's a review of all of recombinant DNA that we did?	0.5663079508956623
+What can we ligate it to?	0.5366525722161932
+What do I do?	0.5289993131814033
+What does it's?	0.5083448502953689
+What do we 're going to talk about a subject?	0.5028222039057575
+What did you have once?	0.4985929879053419
+Who does genomics?	0.4746580843828154
+Did we do in the first lecture on recombinant DNA that part?	0.4528052359806738
+What have we not got fully operational yet?	0.4218219703722317
+Did some of them suck up that DNA, those circular plasmids there on a Petri plate here?	0.4201341459829768
+What are these?	0.41117345054681187
+If we wanted to find a particular protein what did we talk about doing this by protein expression?	0.3776536494549343
+Did some of these suck up that DNA, those circular plasmids there on a Petri plate here?	0.3532228700020945
+Do we 've talked about how you can find the gene underlying certain functions?	0.3531081085855301
+What 'll we talk about?	0.3530158251138571
+Does every colony contain an individual different piece of DNA from our source?	0.351050041680665
+Who both knew?	0.3503013223021274
+What does every colony contain an individual different piece of from our source?	0.3407980778332935
+Does each of which get a different piece of our source DNA?	0.3258718181901967
+What do I want to describe?	0.3189914242063514
+Did I not live through that at biochemistry?	0.312623022754134
+Do we 're going to talk about genomics?	0.27446636711971006
+Can you read out the protein by DNA sequencing?	0.25508963036824683
+Do we 're going to talk about a subject that I like a lot?	0.22431008853361645
+Do we 're really connecting up this picture in an operational way?	0.2210501567948424
+What do we grow up?	0.22101319951010945
+What can you read out by DNA sequencing?	0.22091785859620616
+What did some of them suck up on a Petri plate here?	0.20469713755070096
+Do so let's just briefly review what we did in recombinant DNA?	0.20202149670242742
+Do we transform the DNA a into the bacteria?	0.1835637036790181
+If we had an antibody against our protein 'd we be able to use our antibody to wash it over our library?	0.1520898439177918
+So if you know the gene's function, can you do complementation by rescuing the mutant, restoring the wild type pehnotype?	0.15095287139428937
+What does that's?	0.14713194728798573
+Who was not there?	0.1464447076279316
+What do we transform a into the bacteria?	0.14638112252512014
+Was I not even born at the time that they went running into the Eagle Pub, saying to everybody they 'd found the secret of life?	0.1426285962631817
+What did some of these suck up on a Petri plate here?	0.13817955775193447
+So if you have a mutant, can you do complementation by rescuing the mutant, restoring the wild type pehnotype?	0.1376195974989285
+Who divide?	0.13100582958404972
+Does that's one very powerful thing of knowing the sequence?	0.11893746726518195
+Does here's our DNA source given any source of DNA?	0.116438409130597
+What divide?	0.11198188899240269
+Do we 've been doing for the past several?	0.10270447357954415
+Who grow?	0.09660461982597268
+Do we grow up those single cells that land on the plate and carry our plasmids?	0.09586917614235624
+If we wanted to find a particular protein that we did not have a mutant did we talk about doing this by protein expression?	0.08039026391890625
+What grow?	0.07758067923432521
+What does it's really just the complementaiton test that we talked about in genetics turns out to be?	0.06823986658436554
+Who go on?	0.053408817099832584
+Did we talk about finding our gene in the second lecture?	0.025500283968895143
+Did we talk about two examples of how you might find your gene?	0.022269954880242526
+Is roughly the period that I 've been in biology for something that's been a big part of my own scientific life?	-0.003267251817941963
+Did I not live through that?	-0.004453900287071599
+Might I find the gene?	-0.012414775767974229
+Did one we not have an answer for?	-0.01631907521627185
+'ll we talk about a question I raised at the end of the lecture before last?	-0.018173156139634328
+Does our library cnda?	-0.03168101578529736
+We can cut it up or shear it up, break it up in some way into pieces of DNA?	-0.045064024614014375
+Does it's the answer to a question?	-0.06381796329528933
+Could that complement the function?	-0.06437546196332256
+Was one example we gave betaglobin?	-0.06864041530624454
+Did I both know?	-0.08185010836250184
+Does it's fun for me to describe genomics?	-0.11359623392309626
+Did we talk about how given that you had found your gene sequence?	-0.12827014922245805
+Did you have the sequence of a gene once?	-0.12903723138593381
+Do I want to describe how it came to be?	-0.13140297241415322
+Do we 're going to get us an answer for it?	-0.14457567160889462
+Does that's the plan for tonight?	-0.16049347213478216
+Do I do genomics?	-0.17045703297330772
+Do I want to tell you about that?	-0.17059182005768614
+Do I want to tell you about how it is that we collectively across the world got the project done?	-0.1730417324494231
+What did you have the sequence of once?	-0.17735805524186166
+What might I find?	-0.19487966249044764
+Do I want to tell you about what's happened since then?	-0.21671141590069465
+Do we go back to our coat of arms every time?	-0.22001896737608706
+What does it's really just the complementaiton test that we talked about in genetics turns out to be one of?	-0.22087097350210205
+Do we analyze your gene?	-0.28549866166314586
+Does that's a library?	-0.28909763191042637
+What did we talk about?	-0.29566787454542676
+Are these bacteria?	-0.3378510024976398
+Can we ligate it to vector molecules?	-0.3424285914989469
+Do we go on?	-0.3425138605970981
+If we had an antibody against our protein 'd we be able to use our antibody to have it stick to whatever colony had cells making that protein?	-0.3515356580531561
+Did we talk about how once you had the sequence of a gene once, you could get that gene again and again and again by amplification?	-0.3552967444462176
+What do we analyze?	-0.3691927528623744
+Does that's great?	-0.42464280968727985
+What does it's really just?	-0.43303092229961626
+Do they divide?	-0.4404462672132119
+Was that pretty cool?	-0.45052521915287946
+Was I not there?	-0.4596650245734497
+Do they grow?	-0.4662471745317698
+Does that's it?	-0.4941436177861236
+Yet have we not got it fully operational?	-0.5090893008475581
+What does it's really just turns out to be one of the great ways you can find the gene?	-0.5315236361708391
+Does it's really just the complementaiton test that we talked about in genetics turns out to be one of the great ways you can find the gene?	-0.6460850154489808
+What do so let's just briefly review in?	-0.6886866342808486

@@ -1,0 +1,113 @@
+ERIC S. LANDER: Now you'll remember, we've talked about hemoglobin. We even saw hemoglobin before. And hemoglobin was this nice protein that had-- I'm doing great violence to it here-- it was a tetramer, two alpha subunits and two beta subunits. 
+
+Let's not do so much violence to it. Let's actually bring it up. There we go, beta globin. There's our beta globin. No, there's our hemoglobin that we've talked about before. And you'll see that it's holding heme. The heme here is holding oxygen. The heme's being held in place by the proteins. These proteins-- what's the structure of these proteins-- 
+
+STUDENT: --alpha-- 
+
+ERIC S. LANDER: Alpha helices, a lot of alpha helices here. It's a distinctive kind of fold with a certain distinctive number of alpha helices. And its holding heme. And it's got these oxygens. 
+
+If the oxygens aren't there-- let me take out the oxygens-- it moves. Oh, look at that. It changes its shape. That's good. We saw that before, last time we saw hemoglobin. We can look at this view like that, as well, there. See it move again. OK? But I like the view with the-- OK-- the alpha helices. So that's our beautiful hemoglobin. 
+
+Alpha and beta subunits are encoded by different genes. The alpha subunit is encoded by the alpha globin gene. It's on chromosome 16. The beta subunit is encoded by the beta globin gene. It's on chromosome 11. There's no particular logic to where genes sit in the human genome. They sit where they sit in the human genome. 
+
+So let's go take a look at beta globin, the gene that encodes one of these two proteins. So we have chromosome 11. And beta globin gene lives about there, on the short arm of chromosome 11. I'm going to zoom in on it. Here's a zoom in, a very tiny region of DNA on chromosome 11. And what you'll see, when you come really close to it, is there are exactly three exons. Remember our terms exons and introns? The exons stay in, and the introns come out, right? 
+
+So let's take a look at these exons here. First, there's a promoter just like we had in E. coli. And the minimal promoter for this gene, actually about 200 bases or so, provides the place where RNA polymerase will sit down and start transcribing. And we've got exon 1, exon 2, and exon 3. This is 140 bases long. This is 222 bases long. And this is 252 bases long. I'll write base pairs. 
+
+So those are the lengths of the exons. These introns are pretty small, also, 130 and 850. Remember, I showed you, there are some genes that could be 10,000 bases, 30,000 bases, 2 million bases. But this is a very compact little gene here, this beta globin. It's got small exons. It's got small introns. 
+
+What happens from this DNA when RNA polymerase sits down and transcribes it is we get an RNA. The initial RNA contains both the exons and the introns. And then what happens to the introns? Spliced out. The splicing machinery takes them out. And instead, we end up with a mature RNA that just has those exons in it. 
+
+So this is the immature RNA. And this is the mature messenger RNA. OK. Now this guy is 140 bases. And where does the RNA start being translated? 
+
+STUDENT: AUG. 
+
+ERIC S. LANDER: There's an a AUG somewhere in there. 
+
+And it turns out that that's about 50 bases in. In fact, it is 50 bases in. So we have 50 bases in is where we get our AUG. Then there's about 90 bases to this junction. But of course, this junction is now connected. I'm just noting that there were 90 bases there. That adds up to my 140. Then we have our 222 bases. 
+
+Then it turns out that at some point there's a stop. And the stop codon is located 120 bases into exon 3. Here's our stop codon, and it's TAA, which is a stop codon. And so that's 120 bases in. And that leaves over 132 bases on this side. 
+
+So we have an AUG. And we don't just have a stop. It's an in-frame stop. It's in the reading frame. We get a stop. 
+
+So how long is this whole RNA, the mature RNA? Somebody just do the arithmetic here. 140 plus 222 plus 252 is-- this is tough. You know, we're going to add three numbers. It's MIT. We're going to try to add three three-digit numbers here. Let's add that. We get-- 
+
+STUDENT: 432. 
+
+ERIC S. LANDER: Let's see, 362, five-- Come on guys. We've got 140. We got 222. We got 252. We're going to have four. No carry, right? One, maybe 614? 
+
+STUDENT: Yes. 
+
+ERIC S. LANDER: Should we try that? All right, yes. 614 bases. OK. We're going to put this on as an electronic problem on the web. All right, now-- 
+
+STUDENT: --can we get that part cut out of the video? 
+
+ERIC S. LANDER: How long is the coding region? 
+
+STUDENT: 432. 
+
+ERIC S. LANDER: 90 plus 222 plus 120 is what? 
+
+STUDENT: 432. 
+
+ERIC S. LANDER: 432. Yes, that's what I get, too. I think that's about right, if I've got it correct. It's 432. In case any of my numbers are wrong, it's still illustrative, right? OK, 432 bases. So how many amino acids are encoded? 
+
+STUDENT: Divide by three. 
+
+ERIC S. LANDER: Divide by three, good. This is just getting to know a gene. Somebody want to divide by three? Sorry? 
+
+STUDENT: 145? 
+
+STUDENT: 144. 
+
+ERIC S. LANDER: 144 amino acids. All right. That's probably about right. I could have written something down wrong. My own guess is I'm actually off by two somewhere. I think it's actually 146 amino acids, but who is counting? All right. I probably left out something up here. It's close enough. 
+
+So now look what we've done. We found out that there's a coding region to this gene. The coding region starts here, runs across here, and that's translated. It's translated. 432 bases are translated to get 144 amino acids. Great. 
+
+What do we call this bit, the part that's not translated at the five prime end here? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: There's a fancy name for the region up here that is untranslated at the five prime end. It's called the five prime untranslated region. 
+
+[LAUGHTER] 
+
+STUDENT: Really? 
+
+ERIC S. LANDER: OK. And anyone want to venture a guess as to what is the region at the other end that's not translated? 
+
+STUDENTS: The three prime-- 
+
+ERIC S. LANDER: --the three prime untranslated region. Excellent. Good. We're just getting to know a gene here. Three prime untranslated region. Good. Excellent. This is just a gene. 
+
+Now what happens at the end of the message? What did I say happens in eukaryotic messages? 
+
+STUDENT: It would be poly(A). 
+
+ERIC S. LANDER: Poly(A). Well, there's a cap at the front. So there's a G cap up here. And there's a poly(A) tail that's stuck on at the end-- A, A, A, A, A, A, A, A, A, A, A, A, A, A, A. OK? How does the poly(a) tail get stuck on? 
+
+There's a particular sequence at the end that is recognized and cut, and that's where the poly(A) tail is put on. And the place where it's cut and the poly(A) tail is put on is called the polyadenylation site, all very reasonable. 
+
+So there's a polyadenylation site here. It's cut. And we put on the long tail of As. That's pretty much it. That's what a gene kind of looks like, OK? Now, let's take a look at the beginning of the translated sequence here. Going to write it in its DNA bases. So let's just write. We're going to do the beginning of the translation of beta globin. 
+
+It starts out at the five prime end with an AUG. But I'm going to write it in DNA language, ATG, OK. Then there's a GTG. Then there's a CAC. Then there's a CTG. Then there's a ACT. Then there's a CCT. Then there's a GAG. And onward, OK? 
+
+Somebody want to translate these for me? Let's translate these. ATG, A-- well, it's an RNA code. AUG, methionine, OK? Keep going. What's the next one? GTG? 
+
+STUDENT: Valine? 
+
+ERIC S. LANDER: Methionine, valine, histidine, leucine? 
+
+STUDENT: A, arginine. 
+
+ERIC S. LANDER: Threonine. Yeah, I did this before, actually. Proline. Glutamic acid, et cetera. And you just keep reading off the code there. I could go a few more, but I won't, OK? 
+
+What's the first amino acid of beta globin? 
+
+STUDENT: Is it methionine? 
+
+ERIC S. LANDER: Methionine. It's actually not. Remember, you always start translation with a methionine? But very often, the methionine gets taken off by what's called a post-translational modification? Methionine comes off. 
+
+So no way you could tell that from the DNA. But when you look at the protein, you'll find out the methionine's not there. And so it turns out that when people who study the protein count, that's number one, that's number two, that's number three, that's number four, that's number five, that's number six, et cetera, OK? And it goes on like that. 
+
+All right. The beta globin gene is pretty cool. We've got a question for you here about the beta globin gene's structure. Try it. 

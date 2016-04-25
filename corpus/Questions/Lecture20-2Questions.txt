@@ -1,0 +1,748 @@
+How many families ERIC LANDER: Yeah have a common ancestor?	2.75497513609237
+What 'll be some other nucleotide that's changed in the gene?	2.5924751781556825
+What do STUDENT 'm going to see a lot of?	2.5802322693238398
+What ERIC LANDER: Yeah have a common ancestor?	2.5610276682769406
+Who 'm going to see a lot of there?	2.5423494703079266
+If there's about a 1 % chance that a gene has a rare genetic variant, what's the chance that both copies have a rare genetic variance?	2.527753102911788
+What is carried on a chromosome with potentially different flanking markers-- surrounding markers?	2.5177966718636813
+What 'll get the C in the unaffected with the chance 99 %?	2.517715094651125
+Who have to know some statistics to say how many patients is enough?	2.5114463544490846
+What do about 20,000? 're getting into?	2.456397104673824
+What do all right try answering?	2.453161639465988
+What 're trying to find the cause of a Mendelian disease?	2.421208402213695
+Who 're saying that the way I 'm going to get around linkage is with numbers?	2.4143371388542376
+What changed a proline to an alanine?	2.4063076078694854
+What do STUDENT have to know to say how many patients is enough?	2.4010710249187954
+What have different sequences in little quadrants of the chip here?	2.3754688290532915
+How many crossovers is enough to try to randomize which one is there?	2.367101453801541
+What is every one of ERIC LANDER carrying?	2.36450249936184
+What 're getting into the interesting, kind of complex Mendelian genetics that's going to go on in a world of complete sequences?	2.3531944856408566
+Who here might have two variants in the same gene?	2.3289223899004003
+How many different variants do STUDENT 'm going to say there might be-- that individual might have?	2.3268578609557613
+Who can almost pin STUDENT down to the gene?	2.321120857528037
+What's the goal for today, is global views?	2.3133064651875848
+What is about looking at the entirety of the genome?	2.31144474735486
+What actually have a big catalog of all the common variations in the population?	2.308310341424542
+What are different sequences in little quadrants of the chip?	2.3056280603739987
+What do STUDENT 're saying that the way I 'm going to get around linkage is with?	2.3044286677462593
+Who 'm going to say there might be-- that individual might have two different variants?	2.300122646453681
+Who do ERIC LANDER: find?	2.2764971269445655
+Who can a single patient with a single-- with a recessive disease, almost pin down to the gene?	2.2631360574489148
+What is the ability to use recombinant DNA to study genes?	2.257212588958125
+What are like certain kinds of blindness?	2.25506542153455
+Who do about 20,000? 're getting into?	2.2528342543896143
+What are little cells of the chip?	2.2522759873405698
+What do STUDENT 'm going to see?	2.249655736349267
+What is just global views of a whole set of components in biology?	2.2453485195203777
+What's not so easy to know everything from the whole sequence from a single person?	2.234369800675997
+What is the sense just global views of?	2.2335019244168213
+Where does the difference's a little less because they 're under some selection, but all right in 2,000, or in 3,000?	2.2284790631103717
+If STUDENT only have a single patient what can I not do for a dominant disorder?	2.210101300489848
+What is each of there carried on with potentially different flanking markers-- surrounding markers?	2.184898271879085
+What 'll have a C, et cetera?	2.1726284203045645
+What 've now looked at thousands of people?	2.1716051723368643
+What are different sequences in little quadrants of the chip little cells of?	2.163544263301847
+What do STUDENT 'm going to say there might be-- that individual might have?	2.162472869724653
+What said that about one letter in a thousand are polymorphic?	2.158031233028346
+What might match allele number 1, or allele number 2?	2.138142678742239
+What did 20 % of the population have?	2.1298463644314816
+How many families 'll also have As and Cs?	2.1143394722245743
+What can see the patterns here between the wild type, or the mutant, or the heterozygote?	2.1100528689307168
+What is a family here in Boston?	2.108548236112955
+What's what the world then looks like?	2.101801848107409
+What can a dime sequence 50,000 people see the patterns here between?	2.0966872801805896
+What do STUDENT 'm going to say-- that individual might have two different variants?	2.095089817118689
+What 'll be a different mutation?	2.0829314896041105
+What was exactly the same allele marking there?	2.0818177824689914
+What is about looking at the big picture?	2.0771847348477994
+What is the study of individual genes?	2.077042549092445
+What is very common in the human genome?	2.0442141009076207
+What's the chance that a particular gene will have a rare variant that's not been seen before?	2.0374275153169035
+Who think you 'll like the problem?	2.032032788871857
+What is 1 % 10 to?	2.026268335552869
+What are often called SNP chips?	2.0246354307377854
+Who got to do some statistics here?	2.012588535039755
+What 're getting into the really interesting retinitis pigmentosum-- that have zillions of different genes that can be mutated to produce retinitis pigmentosum?	2.0053677615075927
+What: Find the actual mutation?	2.0016762368267718
+What was marking the affected chromosome there?	1.9939628323363088
+What is enough to try to randomize which one is there?	1.992258332034207
+What did some variant amino acid change?	1.9777710590715338
+What do STUDENT think you 'll like?	1.9741140635714942
+What is 1 % to the minus 4?	1.9726259840887541
+What is 10 to the minus 4?	1.9724548647670759
+If there's about a 1 % chance that a gene has a rare genetic variant, what does what's?	1.9723502313988328
+What does the difference's a little less in because they 're under some selection, but all right in 2,000, or in 3,000?	1.9571257547982117
+What learned about for human genetics?	1.9559471981760088
+What 're under some selection, but all right in 2,000, or in 3,000?	1.9527058377552107
+What do STUDENT have to know some statistics to say?	1.9459073296469966
+What did STUDENT get to do here?	1.9414036547861355
+What are less than a half a percent?	1.9396612978407661
+What was transmitted through the population?	1.9362699085110944
+What's very important to know the difference?	1.9357594534352491
+What's a crummy marker?	1.933264826892999
+What does the copy on the other chromosome's?	1.9223943604639322
+Who hung out a long time?	1.9185735630779952
+What is genetic variation?	1.9183157843502316
+What 'll see an excess of rare variants in the same gene if we have enough patients?	1.9096849854757951
+What is same base change in the gene?	1.9056786195879505
+What's actually a little bit tricky?	1.9006997719525762
+What do not have the phenotype?	1.89558681404546
+Who 'll all right? be?	1.8945055238501192
+What is function-gene-protein?	1.893401904281814
+What went down to a family here?	1.8867531742798818
+When did some mutations hang out?	1.8824432334171985
+What are rare variants?	1.8813087861282034
+What are single nucleotide polymorphisms?	1.8805122240548684
+What is each of there carried on a chromosome with?	1.8720273055468404
+What is spelling difference very common in?	1.8613291679182078
+What is genomics about looking at?	1.8584336370409726
+What are diseases like?	1.8517303334005282
+What might they have where there's an A the middle, or where that same 25-base pair sequence where there's a G in the middle?	1.8330765628918635
+What do STUDENT 'm going to say there might be--?	1.8283125303400043
+What 'll all right? have?	1.8254196066253061
+What's a normal copy?	1.8204310076619512
+What is the sense?	1.810360950570159
+What does any one gene have a mutation on?	1.8074245140961647
+What is dNA variation?	1.7997622790747774
+What do the disease not have?	1.7986960672288577
+Who 'll see an excess of rare variants in the same gene if we have enough patients?	1.7859770452742283
+What 'll also have As and Cs?	1.7833772597055169
+What can a dime sequence 50,000 people see here between the wild type, or the mutant, or the heterozygote?	1.7804644242511292
+What is a very small number?	1.723430158315722
+What 'll all right? be?	1.702900526005603
+What is just plain linkage analysis?	1.7011550443617132
+Who got to see?	1.6816748586706376
+What's a different mutation?	1.6782113407670025
+What did everybody get?	1.672027587423003
+Who 're getting into the interesting, kind of complex Mendelian genetics that's going to go on in a world of complete sequences?	1.6558588364927176
+What do STUDENT 're saying with?	1.644449427504566
+What is exactly the same allele?	1.6314647623102203
+What's another way to do it?	1.61639516766414
+What total catalog?	1.6126790371621689
+What do all right try answering this question about?	1.6117631386195947
+What does what's the chance that a particular gene will have a rare variant?	1.6115072984198016
+What dot dot?	1.5936743530884039
+What try answering this question about comprehensive views of DNA polymorphisms in medicine?	1.5821679892850615
+What do a total?	1.567452906414052
+What will contain in any one person rare variants?	1.5585099844556571
+Who does linkage's?	1.5364410580382335
+What do we 're getting into?	1.5243048273985775
+Do STUDENT 'm going to see a lot of there?	1.4971149546869649
+What might have a 25-base pair sequence where there's an A the middle, or where that same 25-base pair sequence where there's a G in the middle?	1.4969584112865495
+Do STUDENT have to know some statistics to say how many patients is enough?	1.492668876064688
+Who 'll have a lot of other chromosomes that have perfectly good, normal copies of that gene?	1.4805717365004591
+Who 've talked about how we can use DNA variation in medicine?	1.4736667632297626
+Who do ERIC LANDER: Yeah they have?	1.4730530286915386
+Who can count that A as a very good marker to trace the chromosome within a family?	1.4638149779046796
+Who 've talked about how to map Mendelian diseases-- single-gene diseases?	1.4606308959740222
+Do about 20,000? 're getting into the interesting, kind of complex Mendelian genetics that's going to go on in a world of complete sequences?	1.459174665728849
+What can I count that A as a very good marker to trace the chromosome within?	1.4585643506426509
+Who do these cool DNA chips 've got all across the chip?	1.4585052651517079
+Who talked about ways of using DNA spelling differences to trace inheritance?	1.4563100806754319
+What can I count as a very good marker to trace the chromosome within a family?	1.4545884655893158
+What is maybe one?	1.45320836821999
+Who like what we did with the other?	1.4525252065147711
+What will 1 % of the genes contain in?	1.4517481503492928
+How many different variants do I 'm going to say there might be-- that individual might have?	1.449372458221918
+Who 've talked about how the new sequencing technologies make it possible to do that?	1.4414917346905693
+'ll all right? be some other nucleotide that's changed in the gene?	1.431964918084752
+What is about standing back?	1.4295113602201421
+What can also just do total sequence?	1.4256971160995
+Who 'ves seen the viewers we 've got for individual genes?	1.42531037154227
+Who ERIC LANDER: Yeah have a common ancestor?	1.4234266262437751
+What is 10 crossovers enough to try to randomize?	1.421999207741118
+What 'll we see an excess of in the same gene if we have enough patients?	1.4186613629014548
+What 'll these cool DNA chips get the C in the unaffected with?	1.4170995692915662
+Do ERIC LANDER: find the actual mutation?	1.4128998918246065
+How many variants in the same gene might this individual here have?	1.409613930750416
+What 've got zillions and zillions and zillions of these all across the chip?	1.4048976893686325
+Who do I have the entire sequence of in the postmodern world?	1.4039339177833972
+Did some variant amino acid change a proline to an alanine?	1.4036778521775664
+Who do we 've got all across the chip?	1.4007426169342834
+What is fine?	1.400565502643561
+What's some distance away?	1.3980375393832158
+If there's about a 1 % chance that a gene has a rare genetic variant, does what's the chance that both copies have a rare genetic variance?	1.3865888683286216
+What's what we 're going to talk about today?	1.3863921110449007
+Is function-gene-protein the ability to use recombinant DNA to study genes?	1.3855496929721833
+What 'll we see in the same gene if we have enough patients?	1.3841148570982211
+Who 're trying to find the cause of a Mendelian disease?	1.379008512181937
+What do these cool DNA chips 've got zillions and zillions and zillions of these across?	1.3784419402535426
+Do STUDENT 're saying that the way I 'm going to get around linkage is with numbers?	1.3783597725580283
+What will every gene have?	1.377731429953759
+What was or recessive or dominant?	1.3659629171524563
+What 'll these cool DNA chips get with the chance 99 %?	1.364995105926094
+What is?	1.3629014429182715
+Who 're not quite at the point where you can just on a dime sequence 50,000 people?	1.3622456582610294
+What 'll they get the C in the unaffected with?	1.3591206318679192
+What's extremely simple?	1.3590496382735346
+What is 1 %?	1.355929819890681
+Who 've got zillions and zillions and zillions of these all across the chip?	1.3544895182299936
+What do we 've got zillions and zillions and zillions of these across?	1.352463281417478
+Who: Could be either?	1.3490560952983734
+What do we 're going to talk about genomics as?	1.3461416728951932
+Who do ERIC LANDER: Yeah those two families have?	1.345996063790551
+If I only have a single patient who cannot do that for a dominant disorder?	1.345571109109423
+What did we talk about?	1.3413553417009672
+What do these cool DNA chips 're trying to find the cause of?	1.3399410918039987
+What well was?	1.3395841030367153
+What will still show linkage?	1.334743339360735
+Who 'mes going to see a lot of them?	1.330855165856998
+What 'll they get with the chance 99 %?	1.3283051011529325
+Who sees both patterns there at the heterozygote?	1.327534373180499
+Who has to know some statistics to say how many patients is enough?	1.3263501218299991
+Who can you scan the entire genome in?	1.3255972443187232
+Who has the entire sequence of all the patients in the postmodern world?	1.3248980942854565
+Who 'll get the C in the unaffected with the chance 99 %?	1.323406964148317
+Who do we 're getting into?	1.317180268631866
+What is one gene?	1.3160466618229905
+What does require enough?	1.3125773439098498
+Who 're going to talk about genomics as a big picture of biology?	1.3100518405615937
+Who 're getting into the really interesting retinitis pigmentosum-- that have zillions of different genes that can be mutated to produce retinitis pigmentosum?	1.3080321123594532
+Who might have a 25-base pair sequence where there's an A the middle, or where that same 25-base pair sequence where there's a G in the middle?	1.3031560969215987
+Will every gene have some variant amino acid?	1.2997448299093852
+What can a single patient with a single-- with a recessive disease, almost pin STUDENT down to?	1.2983140593488254
+Who 'll be able to see what it's going to look like in the coming years?	1.2981008261357383
+What do you have to know to say how many patients is enough?	1.2919340715035457
+Who can scan the entire genome in a viewer?	1.2892994387555081
+Who told you about these cool DNA chips?	1.2859766399902353
+Who 've talked about DNA genetic-- DNA variation?	1.2855350804146317
+Who actually have a big catalog of all the common variations in the population?	1.2821566089969978
+Is the copy on the other chromosome fine?	1.281467321963801
+What do we 're trying to find the cause of?	1.2792603239680709
+What might these cool DNA chips have where there's an A the middle, or where that same 25-base pair sequence where there's a G in the middle?	1.2774596422412081
+Who well 're going to give you a problem very shortly where you get to look across a lot of genes?	1.2767082563377032
+If I wanted to, who would just sequence the entire genome of everybody in the family?	1.2740458023307615
+Who 've also talked about the fact that studying individual genes, or individual proteins, gives you just a little bit of the picture?	1.2713571826567036
+What 're just going to look for rare variants?	1.264235746271261
+Who 'd like to take it a little bit into the future?	1.2616027250272897
+What do you see there at the heterozygote?	1.2605686931871731
+What 'd be so simple?	1.258975016454989
+What could I have in different people all with exactly the same mutation?	1.2586477035514534
+What do I have in the postmodern world?	1.258281697532185
+What do we 're going to talk about as a big picture of biology?	1.2569345526191555
+What do you see both patterns there at?	1.255473021015363
+Is genomics about looking at the entirety of the genome?	1.2554548837993975
+What do I have the entire sequence of all the patients in?	1.2508143746335891
+Is 10 crossovers enough to try to randomize which one is there?	1.2498555892650263
+What is each of them carried on with potentially different flanking markers-- surrounding markers?	1.2489617528769217
+Who can sequence a person for several thousand dollars?	1.2385668807380723
+Who 'res saying that the way I 'm going to get around linkage is with numbers?	1.2360796523500865
+What is actually very helpful?	1.2306543102665441
+If STUDENT only have a single patient who cannot do that for a dominant disorder?	1.2178661136984474
+Who can almost pin you down to the gene?	1.2167833088787336
+Who 've got tools that are getting us there?	1.2155966178444446
+Does what's not so easy to know everything from the whole sequence from a single person?	1.211422361745631
+Can a single patient with a single-- with a recessive disease, almost pin STUDENT down to the gene?	1.2036530780752872
+Do STUDENT 'm going to say there might be-- that individual might have two different variants?	1.2021686965354075
+What do we actually have a big catalog of?	1.1983989839300637
+Are diseases like certain kinds of blindness?	1.1970150252084828
+Is genomics about looking at the big picture?	1.1896996684620804
+Where is this a family here?	1.1867509973595154
+What's not cystic fibrosis where we are ready know the gene?	1.1862304506154193
+Are different sequences in little quadrants of the chip little cells of the chip?	1.1838059076257847
+Is each of there carried on a chromosome with potentially different flanking markers-- surrounding markers?	1.1833312358285997
+Is spelling difference very common in the human genome?	1.180515475585759
+What is multiple different bases that could have been mutated?	1.1798570257799081
+Who did I tell about these cool DNA chips?	1.174672275677176
+Who 'mes going to give you the entire sequence?	1.1720504911168361
+Who cannot trace that marker along with the disease?	1.1704543694795144
+What's a little less in coding regions because they 're under some selection, but all right in 2,000, or in 3,000?	1.169868623557559
+'ll all right? be a different mutation?	1.168752429580143
+Did STUDENT get to do some statistics here?	1.1603916692145377
+'ll all right? have a C, et cetera?	1.153844534228568
+What do we 've also talked about?	1.1524089127746207
+Is the sense just global views of a whole set of components in biology?	1.1517845508200169
+If STUDENT have several of about 20,000? who can get there?	1.1503076023771817
+Was exactly the same allele marking the affected chromosome there?	1.1490761270668073
+Who could have many copies of that gene in different people all with exactly the same mutation?	1.1485556563613297
+What did diseases caused by mutations in a single gene with pretty high penetrance that follow the simple patterns we learn about for?	1.1457814910222233
+Who 've talked about function-gene-protein?	1.1438897667814336
+Who could look at a bunch of people who do not have the phenotype, and a bunch people who do have the phenotype?	1.143814912330682
+If STUDENT have several of about 20,000? can you get there?	1.1409141773174007
+Who do I 'm going to see a lot of?	1.1408105991677293
+What do these actually have a big catalog of?	1.1389951932438955
+Who 're just going to look for rare variants?	1.1381767107970675
+What does that's the goal for today, is?	1.138026030068692
+Who 'mes not tracing across the whole population?	1.1368276433456068
+What do these cool DNA chips 're trying to find?	1.135125129542918
+Who has their three billion nucleotides of sequence for each?	1.1301704267394093
+What will linkage still show?	1.129389668356912
+Who said that about one letter in a thousand are polymorphic?	1.128017303003888
+Who 've now looked at thousands of people?	1.1279504415798325
+If STUDENT only have a single patient what can I not do that for?	1.1262465939413402
+Who 'res feeling just one part of the elephant?	1.1258979698393197
+Who 'mes going to say there might be-- that individual might have two different variants?	1.1247584953961982
+Who knows what, we 'll make-- we 'll have mom transmit it this time?	1.1224714814399204
+Do STUDENT think you 'll like the problem?	1.1175796675654817
+What do I 'm going to see a lot of?	1.114352881958541
+What can one see the patterns here between?	1.111352338410898
+What could I have many copies of that gene in all with exactly the same mutation?	1.110844538518978
+Are rare variants less than a half a percent?	1.1091961130275378
+Is one gene multiple different bases that could have been mutated?	1.1084972072389876
+Who does it have on this chromosome here?	1.1079978345008161
+Who 're getting pretty close to being able to do that?	1.1071826134054983
+If I have a lot of generations what's very likely?	1.1009167374384217
+What can you scan in a viewer?	1.0999698407541234
+Who counts the number of recombinations?	1.0955155373444234
+Do about 20,000? 're getting into the really interesting retinitis pigmentosum-- that have zillions of different genes that can be mutated to produce retinitis pigmentosum?	1.0947931394438388
+Who thinks we could rule that one out?	1.0898824008716397
+Did STUDENT get to see?	1.0886285563751446
+Who can look at all the messages in the cell simultaneously?	1.0876831755452376
+When do I 'm going to make us imagine today what that world is going to be in, oh, I do not know, ?	1.0839793481472775
+Who would have the C allele that was going through?	1.081816239562944
+What is the right?	1.081415828597601
+What 'll be some disease which we do not know?	1.0803481298884536
+Did some mutations hang out a long time?	1.0791502153138746
+What do you 're feeling just one part of?	1.0737259689023229
+What have a polymorphic site over here that's got maybe an A spelling here on that chromosome and a C spelling there on that chromosome?	1.0723506162123315
+Who mean?	1.0701894595784545
+What do I 've told you that there may be no correlation between the allele at my marker locus and this mutation over here with?	1.0690820272411616
+What does it's getting transmitted from mom to here?	1.0676122481524257
+Is dNA variation genetic variation?	1.0639708985917355
+Is exactly the same allele same base change in the gene?	1.0632739422561883
+Is function-gene-protein the study of individual genes?	1.0586261818061748
+What do I 'm going to say there might be-- that individual might have?	1.0516642367641857
+What was it marking there?	1.0507474381982984
+Is Genomics?	1.0467560153604105
+Does the copy on the other chromosome's a normal copy?	1.0452875235104133
+Who do I know I 'm making about it?	1.0406796526330044
+If I only have a single patient what can I not do for a dominant disorder?	1.0376405288644457
+What do maybe an A spelling here on that chromosome and a C spelling there on that chromosome 're just going to look for?	1.034736419334633
+What does that's is global views?	1.03431834407519
+Who 'll be able to see how close we are to it today?	1.0334949637711097
+Who have a polymorphic site over here that's got maybe an A spelling here on that chromosome and a C spelling there on that chromosome?	1.0303404902084181
+Does the right's very important to know the difference?	1.0269441903437597
+What do we 're just going to look for?	1.020461225587657
+Who knows I 'm making a big deal about it?	1.0097919490009892
+What do we 've talked about?	1.0092811008862
+Do the C dot dot?	1.0089088906407344
+Do the disease not have the phenotype?	1.008654883444462
+Who 'ves got three billion nucleotides to sequence?	1.0081315641783477
+Who does any one gene have on this chromosome here?	1.001263555549555
+What do you count the number of?	0.9985944335607597
+What might not?	0.9970657023098646
+What does not matter because I 'm just tracing in the family?	0.9919540511105176
+Who could I have many copies of that gene in different people with?	0.9910912352193033
+What is this here in Boston?	0.9901291095161893
+Who do STUDENT think 'll like the problem?	0.9889842969388625
+What do I 'm going to say-- that individual might have two different variants?	0.9842811841582206
+Will 1 % of the genes contain in any one person rare variants?	0.9816561043651457
+Does the difference's a little less in coding regions because they 're under some selection, but all right in 2,000, or in 3,000?	0.9805956974809151
+When 'd I like to take it a little bit?	0.9789912009650588
+Who could just sequence everybody of course?	0.9776540311566444
+What is function-gene-protein the study of?	0.977530278770234
+Where does it's a little less because they 're under some selection, but all right in 2,000, or in 3,000?	0.9747822763302947
+What has a mutation on this chromosome here?	0.9737452237900432
+What can one see here between the wild type, or the mutant, or the heterozygote?	0.9669034826676561
+Who do you think could rule that one out?	0.9657125019991817
+What do we 're trying to find?	0.959197727332793
+Does an excess of rare variants require enough?	0.9580471689415
+Who 'll it be?	0.9578871453709823
+What do I 'm not tracing across?	0.957801077569638
+Is the gene that's responsible over here?	0.9561385274349716
+Who do you 're telling that when I look, I 'm going to see that there are some nucleotides that are different here?	0.9522268116008374
+If I only have a single patient what can I not do that for?	0.9504092718983046
+If I wanted to, what I would just sequence the entire genome of?	0.9396401996397408
+Who might match allele number 1, or allele number 2?	0.9391585421369413
+What do we actually have?	0.9366637295274172
+What do I 've got three billion nucleotides to?	0.9362251579608787
+What is each of them carried on a chromosome with?	0.9344086031912082
+What do these DNA chips have here?	0.9269927109611349
+How many nucleotides do I 've got that they got from their other parent?	0.9266606584841857
+How many nucleotides do I 've got to sequence?	0.9231631958970279
+What you could just sequence everybody of?	0.9230452602847368
+What is carrying that level?	0.9144863087629096
+Who did not give you the entire three billion letters of the genome?	0.9144696383548032
+Where do I 've told you that there may be no correlation between the allele with just a subset of markers scattered around the genome?	0.9121748689520994
+Who can see things by looking at the overall pattern that I cannot see by looking at any one gene?	0.9115892386325792
+Who do I know 'm making a big deal about it?	0.904841338712719
+What's getting transmitted from mom to some of the kids here?	0.9013650165490548
+What do you 're saying that the way I 'm going to get around linkage is with?	0.8976013757345038
+What does it's any of?	0.8958179387338812
+What you could just of course?	0.8898769466982763
+What is this a family here in?	0.8893719805746836
+What might these cool DNA chips match?	0.8877430658727863
+Where do I 've told you with just a subset of markers scattered around the genome?	0.885299860809841
+What do these actually have?	0.8828336013007823
+What 'll it have?	0.8802993841042765
+Who 'res telling me that when I look, I 'm going to see that there are some nucleotides that are different here?	0.8780860431998339
+Will linkage still show linkage?	0.8740219390654964
+Who you can sequence?	0.8700175905489091
+What did it change?	0.8698550217343772
+Who thinks you 'll like the problem?	0.8668227201666121
+Who do I think 'll like the problem?	0.8606753728570178
+Who 'res probably saying it's so obvious?	0.855922881143437
+Could STUDENT: be either?	0.8462304367662397
+What 'll maybe an A spelling here on that chromosome and a C spelling there on that chromosome see in the same gene if we have enough patients?	0.845864940916703
+Where do we 're not quite just on a dime sequence 50,000 people?	0.8417114596082362
+Do a total catalog?	0.8343491634260094
+If I wanted to, what I would just sequence?	0.8322808473188072
+Can a dime sequence 50,000 people see the patterns here between the wild type, or the mutant, or the heterozygote?	0.829089035481616
+Does Hang's extremely simple?	0.8290889314641927
+What do I know I 'm making a big deal about?	0.8283904279645253
+What do you have to know some statistics to say?	0.826735754000582
+What's any of five?	0.8250228139776401
+What do I have their three billion nucleotides of sequence for?	0.8192065875239785
+Was well the answer?	0.8183426553903534
+What might they match?	0.8172697263743558
+What do we 've now looked at?	0.8166753143868695
+If you have several of them who can get there?	0.8103099641548357
+What do you know all of?	0.8046279279040385
+What do I have their three billion nucleotides of for each?	0.8043821950949257
+What did this time go down to here?	0.8040830107747434
+What can I look at simultaneously?	0.8037270867413799
+Who knows all of this?	0.8006843166824367
+What do you count?	0.7957403869643347
+Is genomics about standing back?	0.7945967366258659
+What is so that's another way to do it I can study it with?	0.793017847344307
+What does it have a mutation on?	0.7914252978673182
+Does what's the chance that a particular gene will have a rare variant that's not been seen before?	0.7895775013145319
+Is 1 % a very small number?	0.7893033724529592
+What will be some rare disease I mean?	0.7892879565122828
+Is Linkage actually very helpful?	0.7873073438870992
+What was it transmitted through?	0.7853340939610569
+What might this individual here have?	0.7844986501913231
+What can I count that A as within a family?	0.7842515344718235
+What can I not trace?	0.783654478101949
+What do you think we could rule out?	0.7831263424595085
+What do these 've now looked at?	0.7805273530160797
+Who 'ves got three billion nucleotides that they got from their other parent?	0.7791624582862455
+Do coding regions 're under some selection, but all right in 2,000, or in 3,000?	0.778174143539655
+What do we 're not quite at the point where you can just on?	0.7697768038745478
+What 'll it be?	0.7693049843055579
+When do I 'm going to make us imagine what that world is going to be in, oh, I do not know, the next three, four years?	0.765426534238141
+What do I 'm going to see?	0.7641406273145974
+What 'll maybe an A spelling here on that chromosome and a C spelling there on that chromosome see an excess of in the same gene if we have enough patients?	0.7570566694866592
+What did I tell you about?	0.755724339076536
+Who 're under some selection, but all right in 2,000, or in 3,000?	0.7533386073238859
+Is 1 % recombination?	0.7521006681180717
+Who 'd like to just go back over what we talked about here?	0.7511032878214805
+What 'll I have a lot of?	0.750620116020257
+Who cannot do linkage without families?	0.7500634509750963
+Who is so that's another way to do it can study it with DNA chips?	0.7476493336102528
+How many their nucleotides of sequence do I have for each?	0.7468580076240823
+What do these cool DNA chips do?	0.7405085203379735
+Who 're actually thinking that maybe pretty soon, we 'll actually cue that up?	0.7392579241727115
+What's one way you can do it?	0.7380784516887364
+Who is what I 'll do 'll build a big catalog of all the common variations in the population, and cross them off first?	0.7374294635829637
+What was this time transmitted through?	0.7350287414697887
+What is every one of you carrying?	0.7340815909670109
+What do I have for each?	0.7334679755622213
+What did it go down to here?	0.7312736635786918
+What can I not do linkage without?	0.7289037717100721
+Does linkage's a different mutation?	0.7273638144810008
+Who can trace it?	0.7181545443231658
+What can I not do without families?	0.7123507110364047
+What do I 'm going to say there might be--?	0.7076545251670041
+If this one is the right gene sitting right over here who do what do you think 'll see?	0.705803755551337
+If this one is the right gene sitting right over here who do what do think you 'll see?	0.7057859372450168
+What does it's a little less in because they 're under some selection, but all right in 2,000, or in 3,000?	0.7034601193141115
+Who can study DNA polymorphisms?	0.7033172678583497
+Who 'mes just tracing in the family?	0.6967641085956737
+Did we talk about ways of using DNA spelling differences to trace inheritance?	0.6933176686750269
+Who can study them?	0.6925535947418195
+What can you get?	0.683013879474841
+What did you get to do here?	0.6812219029978333
+Do we 're getting into the interesting, kind of complex Mendelian genetics that's going to go on in a world of complete sequences?	0.6746758651250895
+What had that?	0.6713908601854026
+What do I 'm just tracing in?	0.667772013803376
+What 'll I have?	0.66597917880925
+What is so that's another way to do it I can study with DNA chips?	0.6640755330186012
+Who can get that?	0.662630752578625
+What's not looking for a single one?	0.6624978332962017
+What do you 're feeling?	0.6529821175327031
+If this one is the right gene sitting right over here what do you think you 'll see?	0.6528331781083376
+What do you 're probably saying's so obvious?	0.6472275872834892
+What do these have?	0.6451690130883301
+Who 'll also have As and Cs?	0.6444537265814989
+What do I 've told you that there may be no correlation between the allele at with just a subset of markers scattered around the genome?	0.6435553787216297
+Do ERIC LANDER: Yeah they have a common ancestor?	0.6414892170116069
+Was the disease or recessive or dominant?	0.6381467911189973
+Who 'mes going to make us imagine today what that world is going to be in, oh, I do not know, the next three, four years?	0.6373503025509104
+Do we 've talked about how to map Mendelian diseases-- single-gene diseases?	0.6304663926792773
+What do I 've got to sequence?	0.6302433886747849
+How many the next three, years do I 'm going to make us imagine today what that world is going to be in, oh, I do not know, ?	0.6156432681386121
+What do I 've told you at with just a subset of markers scattered around the genome?	0.6105064882123572
+What does it's not looking for?	0.6053446709892933
+Who do I 've got three billion nucleotides that they got from?	0.605195404471943
+What are these often called?	0.5985601766966917
+What do you know?	0.5950421292810792
+What can we study?	0.5947707179676973
+What can I see by looking at the overall pattern that I cannot see by looking at any one gene?	0.5891591501744273
+What does it's not know the gene?	0.5888444462300966
+What will have some variant amino acid?	0.584054107650533
+Who would not see any changes here?	0.5832084161862439
+Do STUDENT mean?	0.5776547334109896
+What do I 've got that they got from their other parent?	0.5689329093404483
+What 'll we probably do?	0.5662299778178261
+What do we 're not quite at just on a dime sequence 50,000 people?	0.5591958246925428
+If this one is the right gene sitting right over here what do what do you think?	0.5540246996924085
+Who 'll probably do that?	0.5538647636729499
+What can I trace?	0.5536393309060705
+What would I not see here?	0.5511493589912244
+What do you just do?	0.5448943632045109
+Who just does this?	0.5400374266200396
+What do I think you 'll like?	0.5386436742639966
+What could I look at?	0.5383394534479886
+Who can we study?	0.5381858388703284
+What's-- so I mean?	0.5327948079545162
+What do you 're telling me that when I look, I 'm going to see that there are here?	0.53143910233637
+What do STUDENT: Gene amplification, like with?	0.5308415146813399
+What does this's?	0.529401412654559
+Who do I 'm going to make imagine today what that world is going to be in, oh, I do not know, the next three, four years?	0.5215502528190472
+Do ERIC LANDER: Yeah those two families have a common ancestor?	0.5179865994882955
+Do you see both patterns there at the heterozygote?	0.5150287726899836
+What is I 'll build a big catalog of all the common variations in the population, and cross them off first?	0.5116040057723819
+Do all right try answering this question about comprehensive views of DNA polymorphisms in medicine?	0.5092575005257292
+Do STUDENT: Gene amplification, like what we did with the other?	0.5029455402696796
+'ll I have a lot of other chromosomes that have perfectly good, normal copies of that gene?	0.4997303696747659
+Is the right maybe one?	0.49862991238888
+Does yeah 1 %'s probably not it?	0.49398509857623174
+Did diseases caused by mutations in a single gene with pretty high penetrance that follow the simple patterns we learn about for human genetics?	0.4935832293502864
+What can these cool DNA chips also just do?	0.4933198288921117
+What have that?	0.491961027826076
+What will these be I mean?	0.49117433883142314
+What do these cool DNA chips have?	0.4856169231250447
+What got that?	0.48361530952533305
+Who talked about how, if he had a family in which the Mendelian disease was inherited, dad-- let's make it a dominant disease-- passes it on to some of the kids here?	0.4834389387955105
+'ll it be some other nucleotide that's changed in the gene?	0.4817636758890198
+What does it's?	0.4794400391601754
+'ll we see an excess of rare variants in the same gene if we have enough patients?	0.4762523728015462
+If STUDENT only have a single patient can I not do that for a dominant disorder?	0.47419863195558687
+Who does it's?	0.47296752313780366
+What does what's?	0.46689990458184377
+What would I have?	0.458778229200443
+Do we 've talked about DNA genetic-- DNA variation?	0.4577931040305345
+Is the problem?	0.45291580423169897
+Can I count that A as a very good marker to trace the chromosome within a family?	0.45095588288758526
+What do that?	0.448580105403535
+Who 're diploids?	0.4464993009667053
+Do these cool DNA chips 're trying to find the cause of a Mendelian disease?	0.4440048466448636
+Who have that?	0.4408587959512369
+What 'll we see an excess of rare variants in if we have enough patients?	0.4361395403823738
+Who 'ves told you that there may be no correlation between the allele at my marker locus and this mutation over here with just a subset of markers scattered around the genome?	0.4353497293478341
+'d two be so simple?	0.4333108305834703
+What do I 've told you that there may be at my marker locus and this mutation over here with just a subset of markers scattered around the genome?	0.4295242761518492
+What 're diploids?	0.4230670567388828
+What do we do?	0.41749792251320117
+Who cannot do linkage anymore?	0.4149417927812411
+What yeah's probably not it?	0.41487990373520645
+Do we 're trying to find the cause of a Mendelian disease?	0.4043644465610545
+Could I have many copies of that gene in different people all with exactly the same mutation?	0.40019348714198255
+'ll these cool DNA chips get the C in the unaffected with the chance 99 %?	0.39956785218858837
+Do you have to know some statistics to say how many patients is enough?	0.38375553586713895
+Who can also just do total sequence?	0.37538477802947345
+What can I not do anymore?	0.37198234631572635
+Do we 've talked about how the new sequencing technologies make it possible to do that?	0.37159676701120103
+Did it change a proline to an alanine?	0.3691314932863059
+What 'll they also have?	0.36731298125636846
+Who do it?	0.36683038452614847
+What do you 're saying with?	0.3594920768751224
+What do we 're actually thinking that maybe pretty soon, we 'll actually up?	0.35946464646146303
+Do these cool DNA chips 've got zillions and zillions and zillions of these all across the chip?	0.3572195197050445
+What are these?	0.35705467740764685
+What do we have?	0.3567708971238208
+'ll they get the C in the unaffected with the chance 99 %?	0.35453909293461816
+Might they have a 25-base pair sequence where there's an A the middle, or where that same 25-base pair sequence where there's a G in the middle?	0.3486358479975342
+Can a single patient with a single-- with a recessive disease, almost pin you down to the gene?	0.3414468634843888
+Do we 've got zillions and zillions and zillions of these all across the chip?	0.3326560748075589
+Do I 'm going to say there might be-- that individual might have two different variants?	0.3229880423417275
+Do these DNA chips have different sequences in little quadrants of the chip here?	0.32175099784712824
+When 'll we be able to see?	0.320525049594808
+Do I have the entire sequence of all the patients in the postmodern world?	0.31994380288926694
+Can you scan the entire genome in a viewer?	0.319541906460993
+Do we 're getting into the really interesting retinitis pigmentosum-- that have zillions of different genes that can be mutated to produce retinitis pigmentosum?	0.3193295148261619
+Who do I 've told that there may be no correlation between the allele at my marker locus and this mutation over here with just a subset of markers scattered around the genome?	0.31755661550197445
+Do we 're getting pretty close to being able to do that?	0.31666660348327236
+Do I 'm not tracing across the whole population?	0.3129559387729488
+Does it's not so easy to know everything from the whole sequence from a single person?	0.310295016099273
+Who do you 've seen?	0.3077952838567497
+What can we also just do?	0.3044957179848109
+Do we 're just going to look for rare variants?	0.29962986263486835
+Do we 've talked about function-gene-protein?	0.2947790676099502
+Do we have a polymorphic site over here that's got maybe an A spelling here on that chromosome and a C spelling there on that chromosome?	0.2921279123004572
+Do we 're going to talk about genomics as a big picture of biology?	0.28197014011636545
+'ll we be able to see how close we are to it today?	0.2816660197811811
+Is 1 % 10 to the minus 4?	0.27836634901363144
+Do well we 're going to give you a problem very shortly where you get to look across a lot of genes?	0.27457846503446426
+Do we actually have a big catalog of all the common variations in the population?	0.27434433807687686
+Does that's what we 're going to talk about today?	0.2656601787727584
+What 'll those two families also have?	0.26351721327097244
+You can sequence a person for several thousand dollars?	0.2621624441118473
+What did we say?	0.25867066790286986
+What is what I 'll do?	0.2535125049133027
+Is every one of ERIC LANDER carrying that level?	0.24938532786411738
+Is each of them carried on a chromosome with potentially different flanking markers-- surrounding markers?	0.24761241114276755
+Does that's the goal for today, is global views?	0.24192617389267257
+Do we 've also talked about the fact that studying individual genes, or individual proteins, gives you just a little bit of the picture?	0.2320030897777614
+Will these be some rare disease I mean?	0.22937645011095098
+Did we say that about one letter in a thousand are polymorphic?	0.22734191228402034
+Do I know I 'm making a big deal about it?	0.22239047671436474
+What do we 've got?	0.21655640897831185
+Can I not trace that marker along with the disease?	0.21245225607557705
+'ll it have a C, et cetera?	0.21227485194570272
+Do these actually have a big catalog of all the common variations in the population?	0.21180536225722157
+What can a single patient with a single-- with a recessive disease, almost pin you down to?	0.20774432130154663
+Might this individual here have two variants in the same gene?	0.2050752832708227
+Could I look at a bunch of people who do not have the phenotype, and a bunch people who do have the phenotype?	0.20260340346543781
+Do you 're saying that the way I 'm going to get around linkage is with numbers?	0.1991342370959468
+Might these cool DNA chips match allele number 1, or allele number 2?	0.19660761567865537
+What did these say?	0.1953604177037438
+These might not?	0.1898940051963185
+Might these cool DNA chips have a 25-base pair sequence where there's an A the middle, or where that same 25-base pair sequence where there's a G in the middle?	0.18975471388895304
+'d I like to take it a little bit into the future?	0.17899000363716233
+Might they match allele number 1, or allele number 2?	0.17748066075389435
+Would I have the C allele that was going through?	0.1690563624999264
+Did 20 % of the population have that?	0.1688282814120221
+Did these say that about one letter in a thousand are polymorphic?	0.16129071797637629
+What do I 'm going to make us imagine today, the next three, four years?	0.16071849850012598
+What said was about one million bases away that's 1 % recombination?	0.16046180086567174
+What is I can study it with DNA chips?	0.15795738929066472
+Do we 've now looked at thousands of people?	0.15593080179389984
+Do we 've talked about how we can use DNA variation in medicine?	0.1546674688241212
+Who knows?	0.15122907625731696
+What's getting transmitted again?	0.1502851740152824
+What is so that's another way to do it with?	0.14752253162357598
+Was it marking the affected chromosome there?	0.13637602760631795
+What could I have many copies of in different people all with exactly the same mutation?	0.13548979474731215
+Does that's what the world then looks like?	0.13486910924209994
+Who does not know?	0.1347494997879095
+What do STUDENT think?	0.13328872698915983
+What does yeah it's probably not?	0.1308664721337387
+What do you 're telling me that when I look, I 'm going to see here?	0.12971870478319691
+Do you 're feeling just one part of the elephant?	0.1281033765380699
+What 'll we be able to see to?	0.12647924276174405
+What does yeah 1 %'s probably not?	0.12372559078419898
+Do you know what, we 'll make-- we 'll have mom transmit it this time?	0.12278022885300466
+Can I look at all the messages in the cell simultaneously?	0.1207492724121546
+'ll it be a different mutation?	0.11937122336953943
+Do you count the number of recombinations?	0.11656865524453952
+Who said was about one million bases away that's 1 % recombination?	0.11633863689364232
+Who has a mutation on this chromosome here?	0.1148613313499598
+Do these 've now looked at thousands of people?	0.11345957582217459
+What will it still show?	0.10537338230957083
+Who 'd really like to do?	0.09765625140511136
+Does that's actually a little bit tricky?	0.09557012765583339
+Does it have a mutation on this chromosome here?	0.09477751813729984
+Do you 've seen the viewers we 've got for individual genes?	0.09377105032898347
+Do you 're telling me that when I look, I 'm going to see that there are some nucleotides that are different here?	0.09116104737376984
+Is what I 'll do I 'll build a big catalog of all the common variations in the population, and cross them off first?	0.07994433340689922
+Do maybe an A spelling here on that chromosome and a C spelling there on that chromosome 're just going to look for rare variants?	0.07366131341183069
+What is over here?	0.0713945037310133
+Did it go down to a family here?	0.04994943640440885
+If I only have a single patient can I not do that for a dominant disorder?	0.038222953802387494
+Do we 're not quite at the point where you can just on a dime sequence 50,000 people?	0.03805566826940554
+Did you get to do some statistics here?	0.036725046386228755
+Do I 'm going to see a lot of them?	0.031828916749681024
+'ll we be able to see what it's going to look like in the coming years?	0.02503763802709047
+Is this a family here in Boston?	0.024342965613554757
+Can one see the patterns here between the wild type, or the mutant, or the heterozygote?	0.019304595653713452
+Did I tell you about these cool DNA chips?	0.012768772061808598
+Did this time go down to a family here?	0.004874787998105479
+You could just sequence everybody of course?	1.5860554963165185E-5
+Do I 've got three billion nucleotides to sequence?	-0.007081005799071116
+If I wanted to, I would just sequence the entire genome of everybody in the family?	-0.007100658666334025
+What do you think?	-0.012852938279030113
+What's very interesting?	-0.01594656793166327
+Do they 're diploids?	-0.016794496381842938
+What do you 're probably saying?	-0.01734617576407005
+Does any one gene have a mutation on this chromosome here?	-0.01923424545200514
+Do I 've got three billion nucleotides that they got from their other parent?	-0.025623352366277663
+Does it's getting transmitted from mom to some of the kids here?	-0.026564146668455413
+Does it's not cystic fibrosis where we are ready know the gene?	-0.027027762502028763
+Are these often called SNP chips?	-0.027327823915946903
+Do I 'm just tracing in the family?	-0.04389988786533028
+Who looks?	-0.04691137525120814
+Does it's a crummy marker?	-0.04802831796730089
+What does it's not cystic fibrosis where we are ready know?	-0.05002675953792046
+Are these single nucleotide polymorphisms?	-0.050408083511263246
+Was it transmitted through the population?	-0.052318402104426065
+What is this?	-0.05611554459452783
+Does it's any of five?	-0.060732717156032345
+Do these cool DNA chips do that?	-0.07556834320556138
+Does it's not looking for a single one?	-0.07578308686913693
+Do we 've got tools that are getting us there?	-0.0760450700355979
+What do I know about?	-0.08003682798199452
+Does this's a crummy marker?	-0.09158348943118
+Can we study DNA polymorphisms?	-0.09671774561520641
+Was this time transmitted through the population?	-0.10268005524458523
+What does that's?	-0.10284612744830057
+'ll it be some disease which we do not know?	-0.1102661849070743
+'ll those two families also have As and Cs?	-0.11304049229704427
+'ll they also have As and Cs?	-0.11808067673972467
+Is every one of you carrying that level?	-0.11811736753610624
+If I have a lot of generations does it's very likely?	-0.1220514402693913
+Do I 'm going to give you the entire sequence?	-0.13312618795518794
+Can I see things by looking at the overall pattern that I cannot see by looking at any one gene?	-0.13875082447816944
+Who means?	-0.13941158192147052
+Can you get that?	-0.14474525991999965
+Will it still show linkage?	-0.14999434698184388
+Do we have that?	-0.15471037003227206
+Did everybody get that?	-0.1557315519718374
+Do you know all of this?	-0.16433441129403237
+Is so that's another way to do it I can study it with DNA chips?	-0.1658078127589926
+What do I think?	-0.169892383931458
+Do I have their three billion nucleotides of sequence for each?	-0.1817721405876842
+Who has?	-0.18734916263025891
+Did you get to see?	-0.19079942701090769
+Do these have that?	-0.19137302662744915
+Does it not matter because I 'm just tracing in the family?	-0.19405611346809404
+If you have several of them can you get there?	-0.19438429032996907
+Do you think we could rule that one out?	-0.19535351017249547
+Do they 're under some selection, but all right in 2,000, or in 3,000?	-0.20049373438182783
+Who might not?	-0.20366304157116177
+Can I not do linkage without families?	-0.20485465434662653
+'ll maybe an A spelling here on that chromosome and a C spelling there on that chromosome see an excess of rare variants in the same gene if we have enough patients?	-0.20573853514667673
+If this one is the right gene sitting right over here do what do you think you 'll see?	-0.21043668585554043
+Does it's a normal copy?	-0.21423347334776577
+Would I not see any changes here?	-0.21624794084457322
+What 'll maybe an A spelling here on that chromosome and a C spelling there on that chromosome see an excess of rare variants in if we have enough patients?	-0.22866973386685285
+Is this just plain linkage analysis?	-0.23177720908206556
+Do these cool DNA chips have a polymorphic site over here that's got maybe an A spelling here on that chromosome and a C spelling there on that chromosome?	-0.2422728199947699
+Can these cool DNA chips also just do total sequence?	-0.24698868348109237
+'ll we probably do that?	-0.25404797809418134
+What are 150 genes that have a rare genetic variant that nobody else in this class has?	-0.26649394101949486
+Do you just do this?	-0.27003127317195097
+Does it's a little less in coding regions because they 're under some selection, but all right in 2,000, or in 3,000?	-0.2718085954465226
+Does it's some distance away?	-0.27736981435178776
+Who do I 've got three billion nucleotides from?	-0.2945903899945811
+Do you 're probably saying it's so obvious?	-0.29485269854296536
+Does it's a different mutation?	-0.31090746577427675
+Do I think you 'll like the problem?	-0.3131243179915464
+Does that's another way to do it?	-0.3259936925089555
+Do I 'm going to make us imagine today what that world is going to be in, oh, I do not know, the next three, four years?	-0.33694212324138384
+Does that's one way you can do it?	-0.36082485413614496
+'d I like to just go back over what we talked about here?	-0.3620004054334174
+Can I not do linkage anymore?	-0.38115255878741094
+Did we not give you the entire three billion letters of the genome?	-0.3855324793308794
+Can I trace it?	-0.38780200120441677
+Does it's getting transmitted again?	-0.3894357125472867
+How many genes somewhere between 100 are 150 genes that have a rare genetic variant that nobody else in this class has?	-0.3913971981706952
+Can we study them?	-0.4033884149047604
+Does a polymorphic site over here that's got maybe an A spelling here on that chromosome and a C spelling there on that chromosome's some distance away?	-0.40949990462409724
+Can we also just do total sequence?	-0.4215286330510619
+'d it be so simple?	-0.4358729756915254
+Do I not know?	-0.446040300936859
+What does it's not?	-0.46170331373802365
+Do you know?	-0.46649420248950246
+'d we really like to do?	-0.4845615199118145
+Does it's extremely simple?	-0.4853915059148346
+Did we talk about how, if he had a family in which the Mendelian disease was inherited, dad-- let's make it a dominant disease-- passes it on to some of the kids here?	-0.48587171833151266
+Does it's-- so I mean?	-0.49561710599576303
+Does it require enough?	-0.5180493734792353
+Do we 're actually thinking that maybe pretty soon, we 'll actually cue that up?	-0.5279111361178888
+Do we do it?	-0.5374153414107379
+Does it's very interesting?	-0.5523769477984908
+Do I 've told you that there may be no correlation between the allele at my marker locus and this mutation over here with just a subset of markers scattered around the genome?	-0.5684052762249712
+Did these cool DNA chips say was about one million bases away that's 1 % recombination?	-0.6146024014105307
+Did we say was about one million bases away that's 1 % recombination?	-0.6452357192306077
+Do I look?	-0.6715154009253934
+What are about 100 genes somewhere between 100?	-0.7177100352568435
+Do I mean?	-0.7372972058597591
+Do I have?	-0.7517138456549444
+They might not?	-0.7632240138873307
+Does yeah it's probably not it?	-0.8008421422459411
+Are about 100 genes somewhere between 100 150 genes that have a rare genetic variant that nobody else in this class has?	-0.8431564633899724
+What do you 're telling me?	-0.9607594428771266
+What do we 're actually thinking?	-1.6419200309037383
+How many genes that have a rare genetic variant that nobody else in this class has are about 100 genes somewhere between 100?	-1.692695213386183

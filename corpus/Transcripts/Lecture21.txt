@@ -1,0 +1,25 @@
+ERIC S. LANDER: Welcome back. Today is very special. Today we get to really complete the triangle. We have our coat of arms here. The coat of arms-- function, gene, protein. 
+
+From the abstract understanding that functions could be studied through genetics to get genes and through biochemistry to get proteins, and that genes encoded protein, and recombinant DNA even allowed us to read the sequence of genes, we began to take a picture that was abstract and make it operational. 
+
+For example, if we had a biological function, and we wanted to find the genes that were related to it, the genes that underlie a particular function. Maybe it's being able to make arginine. Or maybe it's being able to do something else. 
+
+We could go on a mutant hunt, and we could clone genes. We could do a mutant hunt to identify mutants that affected the function. And then we could clone the genes that had been mutated in our mutant hunt. Maybe we could clone them by complementation. Or we could clone them by position, positional cloning. 
+
+So we could go from function to gene. Could we go from gene to protein? Sure. If  I gave you a gene, you could sequence it. And with the genetic code, you could, by sequencing, infer the protein. 
+
+Suppose I gave you a protein. Could I find the gene? Yes, because we talked about, if we had the protein, we might make an antibody to the protein, and we could clone the gene by expression. We're using everything we've done in this course. 
+
+And if we had that protein, and we found its gene, that's pretty cool. So if we had a function, could we find proteins related to the function? Sure. That's what biochemical purification was. This was biochemical purification if we had an assay. 
+
+So given a function, we could find genes by mutant hunting and cloning them by position or complementation. We could find proteins by biochemical purification, given a certain assay for what we were studying related to the function. We have some function, ability to transport oxygen around. We find the proteins that transport oxygen around. 
+
+Given a gene, we could find a protein. We've got a protein, we could find a gene. We could almost freely move around this triangle, except we can't do something. We can't go back. We're missing one part of our triangle. That's all we need, is to go back. And then we have a complete working triangle. And that's what we're going to do tonight. We're going to go back. 
+
+We need to go, given a gene, find its function. And of course, if we have a protein, we can find the gene and thereby find the function. So we'll get this one for free. As long as we've been given a gene, find a function, we've done. We've got our whole triangle. So this is a big event. Hang onto your seats. 
+
+How are we going to find the function associated with a gene? Geneticists do mutant hunts. They find mutants that have some phenotype, and then they go look for the genotype. 
+
+STUDENT: Do you knock  out? 
+
+PROFESSOR: I would have to actually go backward, do the opposite of a mutant hunt. Instead of looking for a mutant phenotype and finding the gene, I'd have to take a gene and knock it out and get a phenotype. To actually complete a triangle, I need to be able to knock out or rewrite the genome at will. Before you go on, take a moment and answer this question about adding back genes into a cell. 

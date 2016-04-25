@@ -1,0 +1,77 @@
+PROFESSOR LANDER: Welcome back. Today, we're going to pick up on making libraries, and really explore how to take a library of DNA molecules that have been cloned in vectors, and figure out which of the many, many molecules that are in the library are the ones that you want. 
+
+That is, if I made a library out of the human genome, how would I find the beta globin gene? If I made a library out of a yeast how would I find the gene that was responsible for an enzyme that made arginine? How do I find my clone in the library? 
+
+So remember, the idea before, the idea we talked about, the brilliant idea about cloning, was you start with some source DNA. So here we have source DNA. And that source DNA could be anything. It could be human DNA, could be zebra DNA, it could be yeast DNA, it could be a viral DNA. 
+
+We cut it up into pieces. We get lots of pieces. We cut it up in the last lecture using restriction enzymes. For example, that restriction enzyme EcoR1 that cut at a specific site, GAATTC, or a different restriction enzyme. 
+
+We take those pieces, we ligate, or paste them-- but ligate is the word we use-- to a vector. A vector is a molecule which is capable of being replicated when it goes into a cell. It has an origin of replication-- the DNA sequence that says to the cell, start copying me here. And, it has a selectable marker. Maybe an antibiotic resistance marker. 
+
+And the pieces of DNA from our source are ligated onto our vector to make a circle of DNA. That circle of DNA is transformed into bacteria. We have a tube containing-- here's my little bacteria, here-- I'm putting little flagella on them, so you know they're bacteria. I transform the DNA into the bacteria. And, of course, this DNA circle here is tiny compared to bacteria. So I've just drawn it this way so we see the DNA circle. But of course, their teeny things. 
+
+They go in here, and the DNA is taken up by the bacteria. And then what we'll do is we'll plate out the bacteria onto petri plates. And here is a petri plate. And on to that petri plate, individual little bacteria will land. And if we have put-- say the antibiotic, maybe ampicillin, or some other antibiotic-- into our petri plate, and if the selective marker, here, is resistance to ampicillin, then those cells that land here, that picked up my vector carrying an insert will grow and make little colonies. 
+
+It will grow and divide and grow and divide, and I'll get colonies. And every colony, here, is carrying lots of bacteria, genetically identical, because it grew up from one bacterium. And inside it is a plasmid containing some of my source DNA, as well as the bacteria's whole genome. All right. Any questions about that? 
+
+That's our basic plan for making a library, which is what we talked about last time. And now the question is, how within this library, that might contain-- well I've drawn it one, two, three, four, five, six clones there, but of course it will have millions of clones. But I'm not draw millions of little dots there to indicate a million colonies. How do I find which one is the gene I care about? 
+
+They all look the same. So what am I going to do? All right. So that's our plan for today's lecture, is to figure out how we're going to find our gene. Before I do it, though, at the end of the last lecture, several of you came up to me and asked some questions about how this library making really works. And you had some concerns about it. 
+
+And so I thought I would take a moment and talk about the tricks of the trade, in order to really make libraries right. So before we get to find our gene, Section One-- Tricks of the Trade, secrets of molecular geneticists. How do you make things really work? 
+
+So one person came up to me after class and was very worried about the following situation. What happens if the gene that I'm really most interested in, like I don't know in advance what the gene structure is going to be, what if it turns out that smack in the middle of my gene there's an EcoR1 site? And over here there's an EcoR1 site outside the gene. 
+
+I was hoping, probably, to get the entire gene contained in one EcoR1 site, but maybe I'm unlucky, and there's an EcoR1 site in the middle. And if I cut the DNA up into pieces with EcoR1, I'm never going to get the whole gene there. That bothered at least one person, and I think maybe two people, at the end of last lecture. 
+
+We have tricks for that. Or as they say, we have an app for that. The app for that-- suppose you don't add so much restriction enzyme, so that it only cuts every other site. We don't let it complete the reaction. We don't let it go to completion. You add a limiting amount of restriction enzyme. Then maybe only get every other site, or every third site. And we can actually titrate that. 
+
+There's actually a kind of cute trick, based on what we learned last time, that's even better. Suppose I were to add the restriction enzyme together with the methylating enzyme and let them race against each other. If the restrictions enzyme gets there first, it cuts. If methylating enzyme gets there first, it protects. 
+
+And by setting the ratio of cutting and protecting, I can arrange to cut at every site, every other site, every third site. Not exactly, but on average, I can do that. So if I want to make bigger fragments, littler fragments, not a problem. So if you were worried about that, relax. I can do partial digestion. Or I can do restriction/methylation competition. Now the goal isn't that you memorize all the tricks of the trade. The goal is to know that there's a whole bunch of tricks of the trade here. 
+
+Now, there was another thing that someone came up to me after class and was very worried about, with good reason. And that is, suppose I have my vector that has an origin of replication, and it has a selectable marker, ampicillin resistance. And I want it to ligate with an insert piece of DNA, a piece of my source DNA. I'd like that. 
+
+But what happens, if no source DNA finds it? Couldn't this vector just ligate to itself? Origin, ampicillin resistance. And won't that go into a cell, and transform the cell, and make it ampicillin resistant, and thumb its nose at you and say, I don't have any insert, but I'm able to go into the cell anyway. And won't my library consist mostly of empty vectors? That's a problem, isn't it? It should be a problem, right? You should be pretty worried about that. 
+
+Is it more likely that the molecule's two ends are going to find each other wandering around in space and re-ligate, than that a piece of source DNA will attach? You bet. Those two ends are very close to each other in space. If they're just randomly diffusing around, they're likely to find each other. And ligase will just close up that circle. Doesn't that mess up our whole scheme? We have to prevent the circle from re-closing. 
+
+So, tricks of the trade. Let's look closely at that circle. It's a double stranded piece of DNA, and at the 5 prime end I have a phosphate. At the 3 prime end I have a hydroxyl. I've got over here a hydroxyl. Over here-- I'm just drawing these balls here at the end to mark the ends-- I've got a phosphate. 
+
+What's going to happen is, ligase is going to come along and see a phosphate at the 5 prime end, a hydroxyl at the 3 prime end. And that's what it needs in order to sew up the DNA. It'll ligate there. How could I prevent the circle from re-closing? 
+
+STUDENT: Add something to one of the ends? 
+
+PROFESSOR LANDER: I could add something to one of ends, or I could? 
+
+STUDENT: Move something. 
+
+PROFESSOR LANDER: Move something, remove something from one of the ends. What might I choose to remove? 
+
+STUDENT: The phosphate? 
+
+PROFESSOR LANDER: The phosphate. It needs that phosphate. No phosphate, no re-closure. So suppose I were to delete, somehow, the phosphate. Now that can't be re-closed by ligase. Pretty cool. How do I remove phosphates? What enzyme might remove phosphates? 
+
+STUDENT: [INAUDIBLE]? 
+
+PROFESSOR LANDER: How about phosphatase? 
+
+STUDENT: Of course. 
+
+PROFESSOR LANDER: Of course, right? So I'm going to add an enzyme, phosphatase, that will take the phosphate off. Now what I have is I have myself a molecule. And that molecule has no phosphates on it there. Now it can't ever re-close. And what will happen is, that when my insert comes along, it brings a phosphate here, and it brings a phosphate here. And the phosphates from the insert will be sufficient to allow ligase to close this up. And ligase to close this up. Pretty cool. 
+
+So without those phosphates, circle can't re-close. By the way, did this get re-closed over here? No. Because I only brought me a phosphate and a phosphate here on the 5 prime ends. So I don't actually re-close. There's a little nick here that hasn't been re-closed by ligase. There's a little nick here that hasn't been re-closed by ligase. Does that matter? 
+
+It does matter. That's going to have to get repaired. Who's going to repair that? Well, it turns out we're pretty lazy. That's good enough to toss in the cell, because it's kind of closed up well enough. Just transform it into the cell. When it gets into the bacterial cell, the bacterial cell will say, oh, I have a nick in the DNA. And it will use its own DNA repairing system to close up our nick for us. So we didn't have to do that part. As long as we get this one there, and that one there, the fact that it's got a few nicks-- tricks of the trade. OK? 
+
+That's how we prevent the re-closure. That's how we deal with the fact that we've only actually covalently bound one of the two strands, is we leave it to the bacteria go tidy that up for us. Cool tricks of the trade. There are more tricks of the trade. Again, the goal isn't to learn every trick of the trade. The goal is to know that there's a huge bag of tricks we own. 
+
+Oh here's one more trick  of the trade. Suppose I really don't want to use all this restriction enzyme stuff, at all. I mean, it seems a little fussy to use restriction enzymes and hope that I'm hitting the right sites. The truth is, I can actually just shear up my DNA by just passing DNA through a thin needle, or agitating DNA a lot. The forces, the shearing forces in the water, will tear the DNA to bits. 
+
+I could tear them to bits of 5,000 bases, on average, bits of 1,000 bases, on average. I can actually, by how hard I'm shearing the DNA, randomly shred up the DNA. So I can actually just get random shreds of DNA without even worrying about restriction enzymes. Now, there are rather sloppy pieces of DNA, because sometimes they have a little overhangs and things like that. But that's OK. In the bag of tricks there are enzymes that can be used to clean up that. 
+
+We can make that work. Just pull out an enzyme that will chew back any little overhanging ends. If I want to clone that, I can clone that. A cute trick for cloning it-- again, you shouldn't care-- I can actually use an enzyme that'll add an A at the end. There's a cute enzyme for that. 
+
+And then, I can use vectors that happened to have a T at the end. So I can add As there, and then have my vector have an extra T hanging over it. And it turns out these are just in the catalog. I can get from the catalog an enzyme that'll chew it back to be neatly blunt-ended with no overhangs. And enzyme that will add a little A here. A vector that will have a little T there. 
+
+So there's tricks and tricks and tricks and tricks. The goal is not to memorize tricks. The goal is to know that there's a huge collection of enzymes. You can do so much with it. And whatever you worry about, somebody comes up with a way to work around it. That's cloning. All right. We've just talked about tricks for cloning. Test yourself with this question. 

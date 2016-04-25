@@ -1,0 +1,337 @@
+
+If I look at two species.
+let's say the human and the mouse genome, what do I see?
+Well, I guess the first thing is, I need a mouse genome.
+We had the human genome.
+We realized we would need, if we're
+going to do these kind of evolutionary comparisons,
+more species.
+By comparing humans and mice, we might
+be able to see what was in common, what was different.
+We actually thought about that at the time,
+this was around 2001, as kind of a Rosetta Stone.
+Where we have the same text in different languages.
+So it's written in human, and it's written in mouse.
+Of course, not exactly the same text.
+Humans and mice aren't exactly the same,
+but they're pretty similar in body plans.
+Things like that.
+So anyway, we thought about this a lot as a Rosetta Stone.
+And so we really wanted the mouse genome.
+And by 2002, we had a rough draft sequence of the mouse
+genome, and a few years later we had a finished sequence
+of the mouse genome.
+And we could start comparing the human and the mouse.
+And what we saw, if we looked at those two species.
+And we picked a gene in the human.
+I'm going to represent the exons here.
+Exon.
+Exon.
+Exon.
+Exon.
+And I'm going to go like that to indicate that these exons are,
+when they are transcribed into RNA, spliced up
+into a single gene.
+So this is one gene.
+I don't know what we'll call it.
+We'll just call it gene number-- well,
+I'm going to call it beta globin.
+Beta globin actually has three, I believe,
+but anyway, three exons, not four.
+But we'll just call it beta globin
+for the sake of argument.
+In the mouse is there are similar gene?
+There is.
+In fact, for a typical gene, it looks like that.
+It has the exact same exon structure.
+The exons start and stop at the same places usually.
+
+Very interesting.
+Why is that?
+
+There's a common ancestor.
+There's a common ancestor of mouse and human.
+And it had that gene with that exon structure.
+And it was passed down to the two descendants.
+And we can see that in the exon structure.
+Is that distance?
+Sorry?
+Is it distance?
+Is the distance?
+Did I draw the distance the same?
+I didn't quite draw it the same.
+You could line this up pretty well,
+but actually, the way I drew it on the board,
+it looks like the mouse gene's a little smaller.
+On average, that's right.
+The human genome is about 3 billion bases,
+and the mouse is about two and a half billion bases.
+Most of it, though, has to do with that non-genic DNA.
+In fact, what's going on, what changes there are here
+are transposable elements have hopped in in different numbers.
+New different transposable elements.
+Deletions have occurred.
+And on average a little more stuff is in the human,
+because of transposons hopping in
+or deletions occurring in the mouse.
+But it lines up pretty well.
+Now there are, of course, single base changes.
+On average, in a totally neutral piece of DNA,
+that's present in both species.
+Let's see, I said about 0.2 changes occur over
+a million years.
+So if I compare to our common ancestor between human
+and mouse, there were 0.2 changes back
+to our common ancestor, and 0.2 changes along the mouse
+lineage to mouse.
+So the difference between-- if 0.2 changes occurred
+from common ancestor to human, and common ancestor to mouse,
+the difference between human and mouse
+will be about 0.4 changes.
+That a 40% chance that a base has changed
+between human and mouse.
+And that's about what we observe.
+And it turns out, if I give you a long DNA
+sequence in which about 40% of the letters have changed,
+you can still write a piece of computer code
+that will line them up.
+Remember, it's a four-letter code.
+So that means there's maybe a 60% chance
+that the letters match, but at random there'd
+be a 25% chance the letters match.
+You can still detect that.
+So you actually line up the sequences of human and mouse,
+and count the changes.
+
+Do you think the changes are as frequent in the protein coding
+sequences?
+Why not?
+Can't changes occur there, too?
+Won't mutations happen in the protein coding sequences?
+They die out.
+They die out there.
+And there's selection.
+So in fact we observe fewer changes
+not because fewer changes are occurring,
+but because those are selected against.
+And we can measure the evolutionary constraint,
+or evolutionary conservation, and there's greater
+conservation-- greater sequence conservation-- in the exons
+than in the introns, for example.
+Telling us that these are functionally pretty important.
+And there you go.
+You can line that up.
+Pretty cool.
+You can go a little further.
+You can look at many species.
+
+Let's see.
+We'll look at, let's say, humans.
+
+And we'll look at chimps and the macaque monkey.
+
+And the lemur.
+And, say, the dog.
+In the evolutionary tree that relates these guys,
+humans and chimps are closest, and then macaques,
+and then lemurs, and then dogs.
+So suppose I told you that at one specific base
+I'm going to pick a single base in the middle of an intron
+of beta-globin chains.
+Some single base.
+Here is the base.
+I've lined up the species and I'm
+going to look at them in human, and chimp, and other things.
+Suppose human has at that one base a G,
+and the macaque has a G, and the lemur has an A,
+and the dog has an A at that one base of that one gene.
+I could do this 3 billion more times,
+but I'm just picking one of them right now.
+Here's my gene.
+I'm looking at this one base, and that's what I see.
+What can you tell me about what happened
+over evolutionary history at that base?
+Did that base change?
+When did it change?
+Position the mutation for me.
+
+Right there.
+That's where the mutation occurred.
+What happened was an A went to a G
+somewhere during that lineage.
+You can tell that.
+
+What do you think the chimp has?
+Prediction.
+
+Does it have to be G?
+Why not?
+How could it not be a G?
+Student answer.
+It could have had-- it should have been a G coming down
+to here, but it might have had a mutation in the chimp.
+But if it's only 5 million years,
+the chances are not so good.
+In fact, let's see, we would expect about 1 change in 100.
+There's about a 1% chance that it wouldn't be a G,
+give or take.
+So that means you now know your betting odds.
+You're going to bet 99 to 1 it's a G. And if I were
+to look at 100 such positions in the genome that look like that,
+99 of them should look like this, and one of them
+might be different.
+It checks out.
+Modulo my rough arithmetic here, but it checks out.
+This is like stunning, because if these species were not
+related by an evolutionary tree, you would not predict that.
+You would not predict it, because the human
+and the macaque agree, but differ here.
+The chimp will agree, but 99, but not 100% of the time.
+But that's what you get.
+It checks out beautifully.
+These to me are the most stunning demonstrations
+of evolution and evolutionary reconstruction
+that one can imagine.
+You can date it reasonably well.
+We can actually go a step further.
+We can look not at one gene, but many genes,
+to look at gene order.
+
+Oh, actually, before I do gene order.
+I got ahead of myself for a second.
+Forgive me.
+There's one other thing we can do.
+
+Suppose in the human genome, at this position
+a specific transposon had hopped in at that base.
+
+And suppose we also saw that transposon hop in here,
+but wasn't present there.
+When did that transposon hop in?
+
+There.
+What is the chance it's not present in the chimp?
+
+Transposons don't hop out.
+
+It's got to be there.
+It's got to be there.
+And, in fact, at exactly that very base, you find it.
+Unless, of course, a bigger deletion took out
+that whole chunk of DNA.
+But if the chunk of DNA is present,
+the transposons is present.
+Pretty impressive stuff, that it's exactly to the base
+you see this stuff there.
+Anyway that's fun, but now many genes.
+
+Suppose I saw a bunch of genes in the human.
+
+Gene one, gene two, gene three, gene four, gene five, gene six.
+In the mouse, well, I already said gene one's structure
+looked the same, typically.
+If these were the exons, we would
+see a similar exonic structure in the mouse.
+
+But would we see the same genes in the same order?
+
+Well, it's an empirical question.
+If you begin lining up sequences,
+typically, they line up.
+
+Over the course of, not the whole chromosome, but often,
+for stretches of about a million or several million bases,
+you see exactly the same genes in the same order.
+See you can take a million bases of human chromosome
+14 and a million bases of mouse chromosome 12,
+and line up sequences across it.
+And see that not just was this little gene the same
+between those species, but the million bases was
+the same between the species.
+A whole million bases.
+What does that tell you?
+It tells you that million bases has even
+stayed together since the origin of mammals,
+100 million years ago.
+Now why doesn't it keep going all the way more than several--
+yes, please.
+How was it chosen to have the human chromosome 14 and mouse
+chromosome 12?
+Just randomly?
+How were they named?
+No, how were they-- was it like--
+Lined up that way?
+Yeah.
+We ran a computer program, and said,
+take this part of human chromosome
+14, and is there any part of the mouse that matches up?
+And then, but you could do that to the next piece
+of chromosome 14.
+And what do you see if you go to the next piece of chromosome
+14, over here?
+It might match a different part of the mouse genome.
+How could that happen?
+
+Suppose sometimes chromosomes break,
+and you get chromosomal translocations, rearrangements.
+Not very often, but with some frequency
+breaks occur, and you get a translocated chromosome.
+And if that were to be evolutionarily
+selected or fixed, then the mouse
+could acquire a new scrambled order.
+Well, in fact, by doing exactly what you just said.
+Use the computer to run across here
+and say what matches in the mouse,
+you can build a look-up table.
+Here's a look-up table.
+These are the mouse chromosomes, and how
+they match up with the different human chromosomes.
+And so we have a whole look-up table covering about 95%
+of the genome.
+This says any particular part of mouse
+matches this part of the human.
+Any particular part of human matches this part of the mouse.
+You can see that they were the same genome 100 million years,
+ago but scrambled.
+On average is about 200 scramblings,
+200 breaks and reunions.
+Cuts and pastes that occurred across the genome.
+And you can reconstruct those.
+And you can reconstruct them across many other species.
+And you can watch the whole thing have happened
+in evolutionary time, of genomes rearranging
+at a slow but steady rate.
+All of those events occur.
+And when you see the events occur in this part of the tree,
+all the organisms in that part of the tree
+tend to have that event.
+All right.
+Any questions about this?
+Yes.
+How do you end up with the different number of chromosomes
+for different species?
+How do you end up with a different number of chromosomes
+for different species?
+Turns out that chromosomes can break and rearrange
+in such a way that they both have a centromere.
+And you get an extra chromosome.
+It's very rare, but it does happen.
+So mice have 20 chromosomes.
+We have 23 chromosomes.
+And so you might fuse a chunk of one chromosome
+onto the other chromosome, and lose that centromere.
+So they now hang out together.
+You might break in such way.
+Maybe add a centromere.
+So weird things happen.
+They happen with great rarity.
+Right?
+We're talking about handfuls of events over the course of 100
+million years.
+But they happen.
+And we see the results of that.
+And with enough species now having been reconstructed,
+having been sequenced, we can actually
+reconstruct those events.
+OK, to make sure you understand that material,
+test yourself with this question about evolutionary comparison.

@@ -1,0 +1,165 @@
+
+B. A high energy molecule.
+
+I'm not going to go into the chemical details here,
+but I'm going to briefly sketch.
+
+That is an adenosine molecule, which we'll come to know about.
+And off this adenosine molecule, I'm
+going to take the phosphate groups that we were just
+talking about.
+
+Negative, negative, negative, negative, negative.
+That molecule there, hydrophobic or hydrophilic?
+
+Hydrophilic.
+It's very negative, right?
+Good, that's not the part I care about.
+The part I care about is, you have three phosphate groups.
+They're all negative.
+What do negatives like to do?
+Repel.
+Do you think those three negatives
+are very happy being covalently bonded to each other?
+No, they're straining at the bit there.
+They'd love to get away from each other.
+Right?
+In other words, if I could free them up,
+if I could break that bond, I would release energy.
+It turns out that we can very simply understand here
+that that is a great way to store energy,
+and a lot of energy, to use it later on a reaction.
+By sticking three negatives together, I can store energy.
+And the cell has figured this out
+and it uses that molecule as an energy currency.
+An energy store to run reactions.
+When it needs energy, it resorts to adenosine
+with three phosphates, or adenosine triphosphate.
+Or, amongst friends, ATP.
+
+There you go.
+
+Last example.
+And then we'll quit.
+
+I just want to bring us back to glycolysis and Buchner
+and sugars.
+Let's just talk for a moment about sugars.
+We'll see more about sugars a little bit later in the course.
+But let's talk about carbohydrates.
+
+Carbohydrates have the following structure.
+They have a certain number of carbons.
+I'm going to do a carbohydrate here
+that has six carbons on it.
+Every carbon except one carbon has a hydroxyl group on it,
+but they can go in different ways and different places
+and all that here on the carbon.
+I'm drawing this one this way.
+
+Just hydrogens there.
+Except this guy here, or one other one somewhere.
+We have a carbonyl.
+C double bond O. And if you do the arithmetic, this thing
+here-- H, H, I'm bored drawing these Hs,
+and you're going to get bored drawing them,
+and we're not going to draw them usually as you'll find out--
+has this formula CH2O six times.
+That is C6H12O6.
+
+If a sugar has six carbons, we call it a hexose,
+because hex means six.
+
+If it has five carbons, we call it pentose,
+because pent means five.
+If it's got three carbons, we'll call it a triose,
+because tri means three.
+Anyway these are just different names
+for different kinds of sugars.
+And amongst the hexoses are things like glucose,
+the very important sugar.
+In fact, the sugar that yeast needs here
+in growing this glucose.
+
+Now I'm not going to go into a lot of detail,
+but I'm going to mention that this linear chain is not
+the usual way that glucose will be found.
+Glucose will spontaneously make itself
+into a nice little chair.
+And the structure glucose is usually running around
+in looks like this.
+
+One of the carbons is up here.
+Then as we chase the carbon chain, carbon, carbon, carbon,
+oxygen here.
+
+And depending on the sugar, whether these
+hydroxyl groups are up, or down, or vary.
+And you get this nice thing.
+And this can be a very reactive group.
+
+This monosaccharide, single sugar molecule,
+they can form together by dehydration synthesis
+to make two-- a disaccharide.
+And I'm going to forget all the chemical structure here,
+and I'm just going to draw you a hexagon here.
+And say they might bond together like that.
+And then they could continue to bond together like that.
+Or they could bond together in many, many other combinations.
+Sugars are kind of very permissive.
+You could bond them this way, and that way, and this way.
+And depending on how you bond them, you get very different
+shapes.
+You can make long, linear chains that
+nuzzle up against each other.
+You can make chains that don't nuzzle up each other.
+You can make branched structures.
+And let's just bring up some examples of this.
+We can put them together here.
+You get starch molecules.
+Put them together in a different way,
+up, down, up, down, up, down.
+You get cellulose molecules.
+You put it together in branched ways,
+you get what's called glycogen. The way
+you store sugars in your liver.
+And, in particular, if we take the way
+of doing this where those chains lineup just perfectly,
+look what happens.
+
+If this lines up just perfectly you
+could make hydrogen bonds across, and across, and across,
+within and across.
+And those fibers can be so powerfully strong that you get
+cellulose that holds up trees.
+Pretty impressive.
+And at the same time, by just bonding in a different way,
+you get the glycogen, which is stored
+in a completely non-structured, non-rigid way in your liver.
+So what's the take home message?
+What we've said is life is understandable at a chemical
+level.
+We didn't need Vitalism to explain life.
+We've got a limited set of forces.
+We've got covalent bonds, strong covalent bonds.
+We have hydrogen bonds.
+We've got ionic bonds.
+We've got Van Der Waals forces holding up our gecko.
+We've got hydrophobic forces, which aren't really forces.
+They're just the exclusion of things that are breaking up
+happy hydrogen bonds.
+And together we can explain by understanding
+the structure of a molecule.
+We can understand how membranes form spontaneously,
+how energy might be stored in a molecule, how trees might stand
+up by very large numbers of hydrogen bonds between chains
+of sugars holding themselves up.
+At this level, biochemistry helps
+us understand those things that once seemed magic about life.
+Next time, we're going to move forward
+to the most interesting molecule of all.
+Those molecules that Buchner purified from his yeast juice.
+The proteins that can carry out those magical transformations.
+So that's for next time.
+All right, back again with a question.
+We got questions for you on carbohydrates and on ATP.

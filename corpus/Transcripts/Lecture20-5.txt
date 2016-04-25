@@ -1,0 +1,45 @@
+PROFESSOR: Protein localization on the genome. Just to indicate this generality here, earlier in the course, when we were talking about genetic regulation, we talked about the lac operon and some protein sitting down at the lac repressor. I also mentioned that there were mammalian examples, like the estrogen receptor, that sits down at certain genes in the genome and causes them to be turned on. 
+
+Suppose I wanted to find, across the entire human genome, all of the places where the estrogen receptor was sitting down. Turns out it's activating that gene there, and that gene there. It's sitting down here, and that gene's getting activated. Maybe there's 50 places where the estrogen receptor is binding to the genome. How can I find them? 
+
+STUDENT: Tag estrogen? 
+
+PROFESSOR: Tag estrogen-- estrogen binds the estrogen receptor. That's true. But I'm not going to know where it is. 
+
+I tag estrogen. I look in the microscope. I see little tagged spots. I don't know where in the genome they are. I want to find out where in the genome they are. 
+
+STUDENT: [INAUDIBLE]. 
+
+PROFESSOR: Yep? 
+
+STUDENT: Can you alter the estrogen proteins [INAUDIBLE]? 
+
+PROFESSOR: OK. So you want to somehow find out what piece of DNA it's sitting at. Quick answer, I can use chemicals to cross link the protein to the DNA it's sitting on. So I can use a chemical cross linker to cross link and fix the estrogen receptor to the DNA that it's sitting down on. For example, formaldehyde will cross link it. 
+
+Now I've attached the estrogen receptor in a way which is not going to come off to the DNA. How do I find out which DNA is there? Well, sequence it. But if I sequence it, I get all the DNA. 
+
+How do I know which ones have the estrogen receptor? I need to purify that which had the estrogen receptor. How can I purify that protein, the estrogen receptor? Yes? 
+
+STUDENT: Use antibodies. 
+
+PROFESSOR: Antibodies, bingo. We had antibodies. Remember, we used antibodies to clone? So suppose I had an antibody against the estrogen receptor. 
+
+Bingo, well done, antibody. So now suppose what I did was I used an antibody against the estrogen receptor. And what I did was I just shred up the DNA. So I'm going to break up the DNA into lots of small pieces, maybe using a little enzyme that breaks up DNA, or maybe shearing it in some way. 
+
+And now I go use my antibody. And my antibody pulls down what? It pulls down the estrogen receptor. And with the estrogen receptor, what does it pull down? 
+
+The DNA that the estrogen receptor is sitting on. And I sequence that DNA. And I know where the estrogen receptor is. I can do that. 
+
+STUDENT: Do they all have the same sequence? 
+
+PROFESSOR: What, where they're sitting down? Oh, do they all bind to the same sequence? I could find out. In fact, that's how you would find out. 
+
+Because you would get them. You would sequence them. And then you'd ask, computer, do you see any common pattern? 
+
+And you might discover the binding site for the estrogen receptor. Good thought. Very cool. 
+
+And if you add an antibody against another protein, you could do it for another protein. And if you add antibodies against hundreds of different proteins, you could find out where hundreds of different proteins were sitting in the human genome. And you could ask which protein sat down with other proteins, and when did they sit down, and when a cell went from being certain type of cell to another type of cell. How did the pattern where the proteins were sitting down change? And you could begin to follow the causes of gene expression in this way. 
+
+This is what I mean by global views of biology. And it's something that I think-- for MIT students, and I hope for everybody-- resonates with you. Because it's both real wet biology, and real big data, and how you can learn from the pair of those two. 
+
+Anyway, it won't surprise you, that is why I so much love genomics. All right, we'll stop here. OK, one final question. Try answering this question about the localization of proteins in the human genome. 

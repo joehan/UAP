@@ -1,0 +1,151 @@
+PROFESSOR: Section 5, Characterizing Your Mutants-- Test Number 2. We have these 50 mutants here-- m1, m2, m3, up to m50. We've tested them, and we know who is recessive and who's dominant. 
+
+And maybe all these guys above the line are recessive. And we've ordered these so all these guys are the dominant ones. Mostly it's recessive. Maybe 47 or 48 out of the 50 will be recessive phenotypes, would be a typical finding. 
+
+Are they in-- let's say up to m47 here-- are these guys in 47 different genes? 47 different genes? Are they in one gene? This is all the same gene? 
+
+You could have different mutations all that hit the same gene. Are they in three genes, two genes, 47 genes? How do you know? 
+
+Cross them with each other. How could that tell us? 
+
+STUDENT: If they have the same gene, then it will show up in-- wait. 
+
+PROFESSOR: It'll-- no, keep going. This is great. So if they are in different genes-- 
+
+STUDENT: Then they'll make up for the other-- 
+
+PROFESSOR: They'll make up for each other. That is to say, each-- suppose there were two different genes, gene a and gene b. Then when they mate, each will have one defective and one good copy of gene a, and one defective and one good copy of gene b. So each will, you could say they complement each other. The complement each other. 
+
+Do you get her point? The idea is, if you mated them together, you could test whether they complement each other's defects. So why don't we call this a test of complementation? Excellent, a complementation test. Fabulous, great idea. 
+
+So let's take our yeast. And I'm going to even make it simpler. I'm only going to go down to drawing two of the chromosomes right now. And we're going to cross them. 
+
+And maybe our first guy, m1 is here. And this guy was plus. And in fact, this guy, our second mutant strain, had a mutation over there. And that guy was plus. Then when we mate them, what can you tell me about this diploid when we mate them together? 
+
+It's going to be doubly heterozygous. It's going to be a double het-- heterozygous of the first locus and heterozygous of the second locus. Pretty cool. Yes? 
+
+STUDENT: Even if they were on the same gene, wouldn't the defect still not be controlled? Wouldn't they still complement each other, because the defect wouldn't be in the same location on the gene? 
+
+PROFESSOR: Ah. Let's draw out that picture. We have this "or" picture here. great. You guys ask such great questions. 
+
+It's in the same gene, m1, m2. When you mate them together, you're going to get a yeast that has got mutations in both copies of that gene. M1 and m2 mean that they were different mutations. But they could be in the same gene. They could be in the same gene. Because what I really mean here is that there is a gene, a particle of inheritance in Mendel's terms, a factor of inheritance, a something-- we don't know what it is. And it could have two alternative mutations affecting it. Now we want to give it a name, different from the names of the mutations. 
+
+What should we call this gene that is necessary for making arginine? How about Arg1? So the gene here, we'll name Arg1. And the mutations in the gene are m1 and m2. I'm distinguishing between mutations in a gene. 
+
+A gene might have many different mutations in it. But the gene is called Arg1. Up here, this affected the gene Arg1. 
+
+And what did this affect? What gene does that happen to be? Arg2, exactly. 
+
+How did you know that? That's very good. That's Arg2. 
+
+So here they were in different genes, Arg1 and Arg2. And you told us cross them together. And when we cross them together here, we're going to be heterozygous for Arg1. And we're going to be heterozygous at Arg2. 
+
+And will this work? In other words, what will be the phenotype associated with being a heterozygote at Arg1? Can you grow a minimal medium? 
+
+STUDENT: If it's recessive. 
+
+PROFESSOR: If it's recessive. If it's recessive. What if it was dominant? 
+
+This whole test wouldn't make any sense. We pick the recessive one. So this only works for recessives, because they have to be able to rescue each other. And the dominance, you can't rescue with that. Because even wild type won't rescue them. 
+
+Bingo. So the test of complementation that you've invented over here is a test that only can be used for the recessives. Now we understand why this now complements. 
+
+But you've asked there a question. Why won't this work if it's two mutations, but they're different mutations in the same gene? That's a very interesting question. 
+
+Because, the way we're thinking about it is each of those mutations destroys a function of the gene. It destroys it in different ways. We're going to come to know pretty soon that each of these genes is a DNA sequence. And each of these mutations is a change to the DNA sequence, a misspelling of the DNA sequence. 
+
+And there are multiple ways you can misspell the gene to break it, to make it not work. But if it's not working, it's not working. And even though there might 87 different ways to make that gene not work, if m1 is one of those ways to make the gene not work, it won't produce its enzyme. And this guy here, you break it another way, it also doesn't produce the enzyme. And therefore this guy doesn't produce the enzyme. 
+
+So even though there were separate mutations, different changes to the gene, we know it's going to turn out to be different things affecting the DNA sequence, they both don't work. Yes? 
+
+STUDENT: So you'd be crossing two things that both couldn't produce-- 
+
+PROFESSOR: The necessary enzyme, Arg1, the product of-- 
+
+STUDENT: So this wouldn't be crossing Arg1 with some other, like tyrosine deficiency. 
+
+PROFESSOR: No, we're only doing Args. And that's the important thing to think about. We've done our mutant hunt. They're all arginine auxotrophs. But we don't know which genes they are. 
+
+How many genes are there that are necessary for arginine biosynthesis? At the beginning, you don't know. How are you going to find out? Are there 50? 
+
+Well, the way you find out is you start doing her test of complementation. You start doing this test of complementation. You test mutant 1 and mutant 2. And you find out, do they complement each other, or do they fail to complement each other? 
+
+Let's make a table over here. Let's keep score. We've got mutant 1, mutant 2, mutant 3, mutant 4. 
+
+I'll stop there. But I could go up to mutant 50. But the board's not big enough. 
+
+And actually, I'm going to put a wild type strain there too. We'll write wild type. So I've got wild type. And I've got my mutant 1, mutant 2, mutant 3, mutant 4. 
+
+I'm going to start crossing them together, just as you said, and see if they can grow on minimal medium. Wild type by wild type, can it grow on minimal medium? 
+
+Yes. I'll put a plus there to indicate I grow on minimal medium. Wild type by mutant 1? 
+
+STUDENT: Yes. 
+
+PROFESSOR: Why yes? Because we agreed we're only doing the recessives. So if we're only doing recessive phenotypes, then it's going to be plus whenever I cross the wild type. We now understand, recessive, why it's so important. Now I cross mutant one by mutant 1. 
+
+STUDENT: No. 
+
+PROFESSOR: No, because is mutant one and mutant one in the same gene? Of course it is. Because it's mutant 1. 
+
+There's one gene. It's in its gene. It can't rescue itself. And therefore, minus. It's unable to grow. Actually, all down the diagonal-- mutant 2 by mutant 2, mutant 3 by mutant 3, mutant 4 by mutant 4--- those can't rescue each other. 
+
+Now when I cross mutant 1 by mutant 2, can they rescue or not? Maybe, maybe not. Supposed they can't. What would you conclude? 
+
+STUDENT: They're on the same gene. 
+
+PROFESSOR: Same gene. And you'd also get the same with mutant 2 by mutant 1. But now when I cross mutant 1 by mutant 3, what would I get? 
+
+I don't know. But suppose it turned out it could grow on minimal medium. What would you conclude? Are they on the same gene? Different genes. 
+
+Mutant 1 by mutant 4, it grows. Mutant 2 by mutant 3, what do you predict? 
+
+STUDENT: It grows. 
+
+PROFESSOR: See, 1 was able to rescue 3. And 2 is in the same gene. So it probably can rescue 3 also, and it does. 
+
+1 by 3, 1 by 4, what about mutant 3 by mutant 4? Well, I'm going to tell you it turns out to be minus. What does that tell us? 
+
+They can't rescue each other. They don't complement each other. They fail the test of complementation. They are, therefore, in the same gene. Failure to complement means you're in the same gene. That's what a complementation test is. Notice what we've just done. 
+
+We've taken a pile of 50 mutants. And just by crossing them by each other, and seeing who can't rescue each other, we figured out who's in the same gene. We started with 50 mutants. And we organized them into what we might call complementation groups-- mutations that are unable to complement each other. 
+
+They define the genes. Suppose I made that big 50 by 50 matrix. And suppose there were 17 little patches of blocks of minuses that can't rescue each other. How many genes would there be? 
+
+STUDENT: 17. 
+
+PROFESSOR: 17 genes. Notice I didn't need to know what a gene was. I didn't have any DNA sequencing. I didn't have any anything. A geneticist is able to tell whether things are in the same gene, just by their failure to rescue each other. 
+
+And when a geneticist goes out and does a big mutant hunt, she's able to tell right away how many genes she's hit by crossing them together. Question? 
+
+STUDENT: So how could you know m1 and m2 are not the same? Suppose the additive was m1. 
+
+PROFESSOR: Exactly the same mutation. 
+
+STUDENT: Yeah, so how can you know that it was not? 
+
+PROFESSOR: All I can tell is that m1 and m2 were isolated separately, that they arose independently. 
+
+STUDENT: But m2 could be m1. 
+
+PROFESSOR: It could be the same exact change to the DNA sequence, which we haven't-- 
+
+STUDENT: It could be not the same. How can you tell which-- 
+
+PROFESSOR: We can't yet. At this point, just by plating things on plates and crossing things together in the 1930s, we can't do that. But notice, I can tell you they're in the same gene without any fancy molecular biology DNA sequencing, mega anything. 
+
+You want to actually know, do they make exactly the same change to the gene. You're going to have to wait until the 1970s. Hang on. 
+
+You're going to have to wait until we invent recombinant DNA. And actually, first we're going to have to discover DNA. Then we're going to have to figure out how to clone and sequence DNA. And that's going to take us maybe a couple weeks. 
+
+Hang on. We'll be able to know. But what I want you to know is that you can tell this without any of that. Because genetics is incredibly powerful at getting these answers before you know any of that. And that logic is really important. 
+
+Suppose a deaf woman, congenitally deaf woman, marries a congenitally deaf man, as happened between an Amish and a Mennonite person. Will their children be deaf? Maybe is the right answer. 
+
+Why? It depends whether they are deaf due to mutations in the same gene or different genes. And in fact, in this particular case that I happen to know about, when this Amish woman married this Mennonite man, the children were all perfectly hearing. What was that? A test of complementation. 
+
+The defects complement. They were in different genes. You can actually begin to sort out how many genes cause deafness in the human population before you know what the genes are. 
+
+It might be pretty cool. I find it really exciting that you can know these things from genetic principles. But I know you want to actually find out what's the DNA sequence and all that. 
+
+So hang on, we'll get there. Before you go on, try this question about complementation tests. 

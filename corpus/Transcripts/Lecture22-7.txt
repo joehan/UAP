@@ -1,0 +1,51 @@
+PROFESSOR: There was another human genetic observation, and that had to do with a certain gene called PCSK9. And I won't go into as much detail about this, but I'll just tell you, some investigators had found that there were dominantly inherited forms of hypercholesterolemia due to mutations in PCSK9. But it didn't look like these were knockouts of the gene. It looked like this might be gains of function. OK? 
+
+So several groups had found that certain missense mutations that did not destroy the function of the gene but might change it, like maybe made it even more active, led to hypercholesterolemia. Helen Hobbs and Jonathan Cohen, two very nice people in Dallas, said, you know, if certain mutations can cause it to increase cholesterol, I wonder what happens if you knock  out the gene? Maybe it would decrease cholesterol. And they had a really clever idea, which was they said, let's look at the human population and look for people who are mutant for one copy, people who have lost the copy. 
+
+So they sequenced a whole lot of people to look for people who had lost copies, one copy, who were heterozygotes, for a true loss of function. And it turns out, there's this big study called the Dallas Heart Study, and in the Dallas Heart Study they found a bunch of people in that large cohort who had mutation, stop codons, in one of their two copies of PCSK9. And it turns out they had lower LDL, which we know can be a good thing for their heart disease now. And, in fact, it was a good thing. It was correlated with protection for heart disease. 
+
+So you could say, maybe we should make a drug that inhibits PCSK9. Now it turns out, I'll tell you what PCSK9 does. It's a soluble protein, and it is involved in the degradation of the LDL receptor. PCSK9 causes degradation of the LDL receptor. 
+
+So let's work out the logic. It leads to degradation. If this causes the LDL receptor to be degraded, and we can decrease this, what happens to the LDL receptor? It's not degraded as much, which means I have more LDL receptor, which means I decrease my cholesterol levels, my LDL cholesterol levels. OK? 
+
+So that was the simple idea, was make a drug against  PCSK9. It's a protein floating around in blood there. Decrease it. In fact, you could make an antibody against it, and shoot people up with the antibody against PCSK9 in their blood, and try to take out the PCSK9. 
+
+Now why do we think this is going to be safe? What happens if you don't have any PCSK9? You always have to worry when you're making drugs that maybe they'll be so effective-- yep? 
+
+STUDENT: Maybe then you'll have some other protein that it doesn't degrade that builds up. 
+
+PROFESSOR: Well, we have to worry, because, I mean, who would we know it's safe? 
+
+STUDENT: But don't people already have, like, didn't you say there were people [INAUDIBLE]. 
+
+PROFESSOR: They're heterozygotes. The heterozygotes have got half as much. What would you really like to see? 
+
+STUDENT: Homozygote? 
+
+PROFESSOR: You'd really liked to see a homozygote. If you saw a homozygote in the human population, and the homozygote was just fine walking around, you would know this would be a pretty safe therapeutic strategy. So they looked. And they found. And she was a woman and an aerobics instructor. So it was compatible, at least, with being an aerobics instructor. 
+
+It suggests, and she's smart, and this is a published case of a homozygote for loss, complete loss of PCSK9. It's not lethal. That's a really important thing. So when drug companies found out that you could actually knock this thing out, and it would be perfectly compatible with life, then that said, this isn't such a risky thing. And a number of companies have made antibodies against PCSK9, and they've been in clinical testing. 
+
+And here's an example of the effect of a monoclonal antibody to PCSK9 on LDL cholesterol. One injection. That's it, as the antibody then washes out. Decreases quite substantially. Several companies have done this. These haven't yet been approved. I think it's very likely they will be approved. Cool. 
+
+So we're not by any means is done with cholesterol lowering. There are other strategies. Last point. HDL-- HDL is the good cholesterol. Suppose I could raise your HDL levels and not touch your LDL levels? Would that be a good thing? 
+
+STUDENT: Maybe. 
+
+PROFESSOR: Maybe, maybe, maybe. Exactly. It's a therapeutic hypothesis. It might not be right. Four drug companies have invested more than $1 billion each on that therapeutic hypothesis. The first drug out of the box, by Pfizer, dramatically, effectively increases HDL. It did not improve heart attack, at all. Interesting. No effect. What's going on? 
+
+STUDENT: So what's making the HDL? 
+
+PROFESSOR: Yeah. This is very interesting. So now here's an interesting question for genetics. Do you remember I told you, finding genes for diseases, common genetic variance affecting diseases and mapping lots of factors? Well, I'll tell you an interesting story about what somebody here in Boston did. 
+
+A guy called Sek Kathiresan did a study where he looked at many of these common genetic variance and rare genetic variance. All these genes that could affect cholesterol levels. And he sorted out all of these different genes in which genetic variance could affect cholesterol levels. And took those that had an effect on HDL but not LDL. 
+
+So these were people who were born from birth with small genetic variance, but collectively ones that either increased your HDL or decreased your HDL with no effect on your LDL. And when he looked across all that, he could take the high HDL people versus the low HDL people, with no effect on LDL. And what do you think the impact was on heart disease? Nada. Nothing. Nothing. 
+
+Therapeutic hypotheses aren't necessarily true. And here, it tells us that HDL lowering alone is unlikely to be an effective strategy. But that's not the end of the story. There are some drugs in clinical testing right now that block that transfer of cholesterol ester from the HDLs to LDLs, and they have a dual effect. They increase HDL and simultaneously lower LDL. They may be very effective, because they're lowering the LDL. There you go. 
+
+You now know how we use this course. At the beginning of this course, I think it would have been hard to have followed any of this logic. But you now have all these pieces. We have our triangle. We're able to use human mutants to discover critical genes involved in cholesterol, to discover the LDL receptor. We're able to clone them. We're able to use the biochemical pathways. We're able to put these together into strategies. We're able to understand how to deploy information about mutants. 
+
+All of these pieces in the triangle, we've used every one of these pieces in the triangle, basically, and this is what we mean by rational medicine. This is what molecular biology has gotten us, and what genomics has gotten us, is the ability to put together this information and synthesize it to take on disease in this way. 
+
+It's pretty cool. And I think it's wonderful that you now can see how it all fits together. So we'll do one more lecture on rational medicine, having to do with cancer. But that's it for tonight. Finally, take a moment and answer this question about new ideas for treating high cholesterol. 

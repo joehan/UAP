@@ -1,0 +1,148 @@
+What is MICHELLE MISCHKE: Hi, this?	2.6872951053716263
+What this is Michelle Mischke?	2.664778163796847
+If two polymerases make many changes what could we prevent RNA polymerase from?	2.5372679856950318
+What can two polymerases improve through the binding of other proteins that will help RNA polymerase bind?	2.5131089152666584
+What is important when two polymerases consider vectors in cloning?	2.4676965508689324
+What so must be binding to the specific sequence found at the origin?	2.4260584504309923
+What 'll two polymerases observe little to no transcription in?	2.3085697858410748
+What can two polymerases look at a bacterial promoter as?	2.154295570516994
+What are Ts, Cs and Gs?	2.14678778229546
+What is copied to produce two identical molecules?	2.0856597210135703
+What's dNA that represents a gene?	1.8316768473377971
+What was a hard question?	1.7795157804061863
+What is dNA simply a collection of?	1.7427429143012911
+What are nucleotides, As?	1.725066811459727
+What is the same?	1.6903283555248092
+If we make many changes who could prevent RNA polymerase from binding?	1.6557256795958395
+What's all there is?	1.6421162195233223
+What can we improve through the binding of other proteins that will help RNA polymerase bind?	1.6258792242767455
+What is the case?	1.596107918633122
+Who is a specific double-stranded DNA sequence like an origin?	1.5656981900281899
+If two polymerases make many changes who could prevent RNA polymerase from binding?	1.557501889577185
+What is important when we consider vectors in cloning?	1.5481338543773422
+If two polymerases make many changes could we prevent RNA polymerase from binding?	1.5474060988454372
+What is the answer?	1.5368956422641398
+If two polymerases make many changes what could we prevent from binding?	1.5349837725238293
+What is dNA simply?	1.533272637857753
+How many polymerases can look at a bacterial promoter as an example?	1.4812974625908386
+What binds to the promoter and initiates transcription to produce an RNA?	1.4316909324936757
+Who can improve the transcription from this last weak promoter through the binding of other proteins that will help RNA polymerase bind?	1.4178437817482008
+Is MICHELLE MISCHKE: Hi, this Michelle Mischke?	1.4104087269902692
+Is a promoter a specific double-stranded DNA sequence like an origin?	1.402535825668779
+What 'll we observe little to no transcription in?	1.4005762757423512
+Who 'll observe little to no transcription in this case?	1.3994876760691874
+Does rNA polymerase bind to the promoter and initiates transcription to produce an RNA?	1.390666364231881
+Are nucleotides, As Ts, Cs and Gs?	1.3900596316710554
+Who does rNA polymerase bind to to produce an RNA?	1.3797514247642941
+What can we improve the transcription from this last weak promoter through?	1.3768272928514387
+What is a promoter a specific double-stranded DNA sequence like?	1.3682722870469743
+Who 're going to talk about two important noncoding DNA sequences-- the origin of replication and the promoter?	1.3666959795525329
+What 'll we observe little to in this case?	1.3551441429097046
+What does rNA polymerase bind to the promoter and initiates transcription to produce?	1.3371394970068717
+If we make many changes what could we prevent RNA polymerase from?	1.3351709558169533
+Who have talked about DNA that represents a gene?	1.315343796898515
+What can two polymerases improve the transcription from this last weak promoter through?	1.2746788125818376
+What 'll two polymerases observe little to in this case?	1.2674400629893703
+Who can look at a bacterial promoter as an example?	1.2633185561851383
+What can look at a bacterial promoter as an example?	1.2613477678313472
+Is an origin a specific double-stranded DNA sequence?	1.2582131752752796
+Who 've talked about both of these sequences in lecture?	1.2453615118893633
+What can we look at a bacterial promoter as?	1.2369696810361228
+What do we get lots of from this promoter?	1.2354666281189712
+What do two polymerases get from this promoter?	1.2248309365817889
+Can two polymerases look at a bacterial promoter as an example?	1.2074523906275738
+What bind?	1.2019489066408873
+What is a promoter like an origin?	1.2016042543966434
+Who needs to think about what makes one region of DNA different from another?	1.196838604696484
+Is the original molecule copied to produce two identical molecules?	1.1968157539706494
+Who can two polymerases look at as an example?	1.1911187246522892
+What do we 've talked about both of these sequences in?	1.190667713535574
+Who should know there would be more than one promoter?	1.188339342139189
+What do we 've talked in lecture?	1.187479602365133
+What is simply a collection of nucleotides, As?	1.1744963780927784
+What do two polymerases get lots of from this promoter?	1.165333059073245
+Who hopes that helped you understand origins and promoters?	1.1647670296875612
+What do we get from this promoter?	1.1602945291642972
+Who get lots of transcription of this gene from this promoter?	1.1101505767946316
+If two polymerases changed the sequence just a little, what is less likely to bind?	1.103967420201815
+If two polymerases changed the sequence just a little, is RNA polymerase less likely to bind?	1.0535718276559414
+What is a specific double-stranded DNA sequence?	1.043989528937734
+Who do I hope that helped understand origins and promoters?	1.0294418909683936
+If the proteins are different who would expect the recognition sequences would also be different?	0.9983064294399122
+Is dNA simply a collection of nucleotides, As?	0.9765860946969671
+If we know why the proteins bind to the origin, and not the sequence to the right or the left who can answer our original question?	0.9753169615436097
+Who wants to take this idea one step further?	0.9062223376928662
+What do I want to take one step further?	0.8749653883801869
+What is an origin?	0.8666321661929097
+Who should also recognize that you do not want to transcribe all of the genes all of the time?	0.8603469411570726
+What binds to very well?	0.8508083770585397
+Is the answer the same?	0.7751192334332848
+Who wants to tell you a little more about both today?	0.7447357158672314
+If we know why the proteins bind to the origin, and not the sequence to the right or the left what can we answer?	0.7437505448389774
+Who wants to ask you this?	0.6932982809598796
+What does a sequence that RNA polymerase bind to?	0.6270967539887216
+How many polymerases can improve the transcription from this last weak promoter through the binding of other proteins that will help RNA polymerase bind?	0.6168763841313085
+How many polymerases 'll observe little to no transcription in this case?	0.6027188105145993
+Who has another question?	0.5832453806375539
+What should you also recognize that you do not want to?	0.5307433425032959
+What do I want to ask?	0.5145356541844481
+What do I have?	0.506629041977215
+What must be binding to a specific sequence found at this site?	0.45475411803087695
+Can we improve the transcription from this last weak promoter through the binding of other proteins that will help RNA polymerase bind?	0.4544998836286589
+'ll we observe little to no transcription in this case?	0.42943609991092746
+Must rNA polymerase be binding to a specific sequence found at this site?	0.42420875310903394
+Is this information important when we consider vectors in cloning?	0.42295885546956535
+What can improve the transcription from this last weak promoter through the binding of other proteins that will help RNA polymerase bind?	0.41112203623730803
+What 'll observe little to no transcription in this case?	0.3932199450098097
+Must so these proteins be binding to the specific sequence found at the origin?	0.3853607075383567
+What was this?	0.36665278742380014
+Have we talked about DNA that represents a gene?	0.35435339645031805
+If we make many changes could we prevent RNA polymerase from binding?	0.34617365240173426
+What's it?	0.3415192381076375
+Is this information important when two polymerases consider vectors in cloning?	0.3358917897859004
+'ll two polymerases observe little to no transcription in this case?	0.3336637019597397
+Can two polymerases improve the transcription from this last weak promoter through the binding of other proteins that will help RNA polymerase bind?	0.3312732672601979
+If we make many changes what could we prevent from binding?	0.3143908762073191
+How many polymerases get lots of transcription of this gene from this promoter?	0.3031310114531025
+Can we look at a bacterial promoter as an example?	0.297563922732464
+What is this?	0.27533776802000154
+Who can we look at as an example?	0.26259248807210556
+Do we 're going to talk about two important noncoding DNA sequences-- the origin of replication and the promoter?	0.26091039517087955
+Who 'res right!	0.2555493691799948
+Do we 've talked about both of these sequences in lecture?	0.22666708903962185
+What do we 've talked about both of in lecture?	0.22011587573616254
+Should you know there would be more than one promoter?	0.2174827957368186
+Do you need to think about what makes one region of DNA different from another?	0.1834467709643932
+Who do we get lots of transcription of this gene from?	0.15446824300752837
+Do we get lots of transcription of this gene from this promoter?	0.14267214713393273
+What do we 're going to talk about?	0.11418037923359936
+Who should you know there would be?	0.11270560088316417
+What get lots of transcription of this gene from this promoter?	0.10348209085923799
+Who do two polymerases get lots of transcription of this gene from?	0.0867568044966891
+Does a sequence that RNA polymerase bind to very well?	0.07505725897781046
+Do two polymerases get lots of transcription of this gene from this promoter?	0.055350172436014144
+If the proteins are different would you expect the recognition sequences would also be different?	0.05435031793956124
+If we changed the sequence just a little, what is less likely to bind?	0.04781289106684783
+What should you also recognize?	0.03533108530116791
+If we changed the sequence just a little, is RNA polymerase less likely to bind?	0.020911970160375493
+If we know why the proteins bind to the origin, and not the sequence to the right or the left can we answer our original question?	-0.022866289378773663
+If the proteins are different what would you expect would also be different?	-0.03571622656586171
+Do I want to take this idea one step further?	-0.06674766442702906
+Does that's dNA that represents a gene?	-0.11269188659521179
+Do I hope that helped you understand origins and promoters?	-0.1279283129370572
+Was this a hard question?	-0.14827089484519318
+Should you also recognize that you do not want to transcribe all of the genes all of the time?	-0.17716449333245698
+What do I hope that helped you understand?	-0.21311368752976523
+Do I have another question?	-0.2274551086788119
+Does that's all there is?	-0.23231851784346813
+Do you 're right!	-0.24924514912869355
+Do these proteins bind?	-0.3006276932075709
+What have we talked about?	-0.33394969195478397
+Is this the case?	-0.3358228094374418
+If the proteins are different what would you expect?	-0.3454606857233149
+Does that's it?	-0.3765056629192225
+Do I want to ask you this?	-0.4172930382840543
+Do I want to tell you a little more about both today?	-0.5508763043877396
+What should you know?	-0.7371945330545384
+What does that's?	-0.7614559481454266
+What do I hope?	-1.0395880363536336

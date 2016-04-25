@@ -1,0 +1,29 @@
+SAMIN: Hello, 700X students. My name is Samin. And I'm originally from Iran. I have completed my undergraduate degree here at MIT in biology. Right now, I study how cancer cells spread, the process known as metastasis, and, unfortunately, the leading cause of death among cancer patients. But first, do you know how a cancer cell originates? By the end of this video, you should be able to explain the genetic and molecular processes that make a regular cell transformed into a cancer cell. 
+
+What are the two processes of cell division in eukaryotes called? You have learned about mitosis, the process of a diploid parent cell producing two identical daughter cells, and meiosis, the process of a diploid parent cell generating haploid gametes, such as eggs and sperm cells. 
+
+Now, what you have not learned yet in this course is how cell division is controlled. Cells go through a very delicate process known as the cell cycle with proteins that regulate cell division. Now think, are your cells dividing all the time? 
+
+No. They need to divide when it's necessary, like during wound healing or growth. As you may know, when this control is lost, it will lead to cancer. The cell cycle is the controlled clock that dictates when cells divide. Some cells, like neurons, are set not to divide. This state of no division is called senescence. 
+
+For the rest of the cells that continue to divide, such as your intestinal cells, there are a set of genes that either promote, or inhibit, cell division. Genes that encode proteins that promote cell division under the right circumstances are known as proto-oncogenes. And genes that encode proteins that prevent cell division are known as tumor suppressor genes. 
+
+As people age, and more cell divisions occur, DNA accumulates mutations. What would happen if these mutations occurred in genes that control cell division? Actually, the answer depends on the type of mutation that happens. 
+
+We're going to discuss two types of mutations-- a gain of function mutation and a loss of function mutation. A loss of function mutation, as the name implies, means that the protein that is coded by the gene of interest cannot do what it's supposed to do. A gain of function mutation, on the other hand, causes the protein to typically lose the ability to be regulated properly and, as a result, will have a higher level of activity. 
+
+Now take a moment to think about these questions. Would a gain of function, or loss of function, mutation in a proto-oncogene cause uncontrolled cell division? Would a gain of function, or a loss of function, mutation in a tumor suppressor gene cause uncontrolled cell division? 
+
+Well, let's review the example that you learned in professor Lander's lecture. As you saw, the ligand EGF binds to its receptor. And the receptor gets phosphorylated, and recruits Grb and SOS, who, in turn, promote Ras to exchange its GDP for GTP become active. 
+
+Now, the activated Ras phosphorylates and, in effect, activates Raf, who activates Erk. And in the end, it causes cell division. Now, as long to Ras is bound to GTP, it will be promoting this pathway. In a normal cell, after some time, Ras will hydrolyze GTP to GDP and become inactive. 
+
+But what happens when Ras can't hydrolyze GTP anymore? Well, it will remain active and keeps on signaling for the cell to divide-- even when there is no EGF. A mutation like this is a gain of function mutation. And it turns the proto-oncogene Ras to an oncogene. 
+
+Now, you may wonder about the other copy of Ras, which is not mutated. Can it compensate for the mutant Ras? Well, even if the other copy is functioning normally, it cannot stop the mutated Ras from signaling. 
+
+Now, let's look at another gene, P53. The protein encoded by this gene prevents the cell from going into cell division. And in fact, it promotes apoptosis, the programmed death of cells that have accumulated massive amounts of mutations. 
+
+So what happens when there's a nonsense mutation in the middle of the coding region of P53? Well, the protein will be truncated and nonfunctional. Will the cell experience uncontrolled division? 
+
+Actually, no, because we have two copies of P53. So even if we lose one copy, the other copy of the gene expresses the protein and can compensate. But if we lose both copies, then we are in trouble. Only a loss of function mutation in both copies of the tumor suppressor gene causes uncontrolled cell division. Now go ahead and test yourself on these concepts. 

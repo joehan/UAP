@@ -1,0 +1,101 @@
+ERIC S. LANDER: Welcome back! Today, we're going to finally unite the two sides of our triangle, genetics and biochemistry coming together through molecular biology. So let's draw our coat of arms, biological function, studied through genetics; organisms minus a component-- that component is a gene; biochemistry, purifying single components away from an organism; and the most interesting of those components are the thousands and thousands of diverse proteins. Nothing to say to each other almost through most of the first half of the 20th century. And then they begin talking. 
+
+We saw in the last lecture how geneticists began to do the genetics of biochemistry, looking for mutants that affected biochemistry. Of course, Archibald Garrod found those human mutants with alkaptonuria back in 1908, but people really didn't understand them. And it took the studies in fungi to really show that you could make genetic mutants that would affect different steps of biochemical pathways, and therefore, genes underlay biochemistry. 
+
+So the idea of organisms minus a component could be used to study biochemistry. But what about the reverse? How do we use biochemistry to study genetics? That's much, much harder. Somehow-- we know biochemists just grind things up and purify something-- somehow we've got to grind up an organism and purify heredity. 
+
+But how do you get a pure fraction of heredity in a test tube? What's the assay? Imagine that, that that was your goal. You somehow wanted to be a biochemist and study inheritance. You'd grind up an organism and look for what? 
+
+We showed you in the video how to purify green fluorescent protein. You could separate different fractions and assay for green fluorescent protein because it's green. But how are you going to assay for heredity? And granted the organism, how do you transmit it to the next generation? That seems like an impossible problem, and yet that's what happened. 
+
+And as almost always happens in biology, it happened by accident. It was a total, total accident. It was motivated by this. This is the Spanish influenza. 1918, 1919, millions of people dying in a pandemic around the world because of this influenza virus that went around the world then, and people were not immune to it. 
+
+About half the people who died in the Spanish flu, died of the influenza virus itself. The other half of the people died because of pneumonia from Pneumococcus bacteria. That was the other leading cause of death. And so people became very interested in studying the Pneumococcus bacteria and studying the different types of Pneumococcus. 
+
+In fact, two of the people we'll talk about today really got into this, to understand Pneumococcus. They had no interest originally in heredity. Nobody had any idea how to study heredity. 
+
+And the person we're going to start with, who eventually gets us back to using biochemistry to purify heredity is a British medical officer. And he discovers something called Section 1, the Transforming Principle. 
+
+Now, you may think I use the word principle like some mathematical idea of principle. I don't. I mean it in the old alchemists' idea. A principle was a substance, the magic principle. 
+
+We don't use the word principle like that anymore. But that was the way it was used in old, old times. And the transforming principle means like the transforming substance. 
+
+So in this case, our hero is Fred Griffiths-- Griffith. Fred Griffith is an officer in the British Health Service. And in 1928, he publishes the result of a remarkable study. He's studying this Pneumococcus bacteria that causes this pneumonia. And he's got a variety of different strains of Pneumococcus. And I'm only going to mention two of them. 
+
+One of them is a smooth, glistening, very, very smooth and glistening strain of bacteria, that also happens to be virulent. That is to say, it will kill a mouse if you infect it with this smooth, glistening bacteria. I'll make it smooth and glistening. 
+
+Then he had another one, rough bacteria. And this was harmless. Both Pneumococcus strains, but it didn't have-- I'll make it a little rough for you here. It didn't have this smooth coating to it. The smooth coating turns out to be very important for that bacteria to invade the immune system and to be virulent. 
+
+And it turns out, we now know it had a mutation that affected a polysaccharide in the coat of this bacteria here. So virulent, it'll kill a mouse; harmless; smooth. You see this, and rough. In fact, if we look over here, these are smooth, glistening bacteria here. And on a slightly different plate here, these are rough bacteria there. We've got our virulent and nonvirulent. 
+
+OK, Griffith does the following incredibly simple experiment. If you take this virulent strain of bacteria, and let's take our virulent bacteria, smooth, virulent bacteria, and inject it into a mouse-- that's a mouse-- what happens? 
+
+STUDENTS: It dies. 
+
+ERIC S. LANDER: The mouse dies, right. That's a dead mouse. That's one of the easier assays in biology, feet up, feet down. That's really pretty simple there. So that's a dead mouse. 
+
+Now, let's take our-- so this is the virulent-- let's take the harmless, rough bacteria, and we inject it into a mouse. And what happens? 
+
+STUDENT: Live mouse. 
+
+ERIC S. LANDER: A live mouse because it's harmless. This is all kind of obvious. I don't know why we're bothering to do this. But he then takes the smooth, virulent bacteria, and he cooks it in an autoclave until it's dead. So he now takes dead, virulent bacteria, and he puts it into a mouse and what happens? 
+
+STUDENT: It lives. 
+
+ERIC S. LANDER: It lives. The mouse lives because it turns out that the bacteria has to be alive to kill that mouse. A dead, virulent bacteria doesn't bother the mouse. 
+
+He then does the following experiment. He combines harmless living, that rough bacteria, plus the dead virulent. That does not harm the mouse. That does not harm the mouse. He injects the combination into a mouse, and what happens? 
+
+STUDENT: It dies. 
+
+ERIC S. LANDER: Dead mouse. Dead. Not only is that mouse dead, but from that mouse you can culture out smooth, glistening, live bacteria, even though he didn't put any in. Somehow by co-injecting the dead virulent stuff with the live harmless stuff, the live harmless stuff was transformed into smooth and virulent. 
+
+It was transformed. Some substance from the dead, virulent bacteria was enough to transform the properties. What was that principle, that substance? It was the transforming principle. And he went out to try to find and purify this transforming principle. 
+
+That was a lot of work. I mean for one, he was killing a lot of mice along the way. The whole assay depended on killing these mice, which wasn't so pleasant. But I mean you got to remember, millions and millions of people died in this pandemic. And nobody was worrying about the fact that he was killing some mice in order to try to tame the pneumonia. 
+
+But he was trying to do this. After several years, it turns out he can do it without the mouse. He can just take the dead stuff and combine it with the live stuff and by mixing it together, get out live, smooth bacteria. 
+
+Then it turns out he can actually take extracts of the dead stuff and mix extracts of it with the harmless bacteria. And certain fractions, biochemical purifications, certain fractions are adequate to confer this transformation, to transform it into smooth. In fact, he called it the S-transforming principle because it transformed you into smooth. 
+
+And he kept trying to purify. The problem was it was hard to get purer, and purer, and purer stuff. And Griffith continues to work on this for another decade or so, purifying what is the transforming principle, and he never succeeds. He is at the lab bench in 1941, when a blitz bomb hits his lab and he dies at the bench. 
+
+His obituary, published shortly afterwards, doesn't even bother mentioning this experiment because it didn't make an impact on people yet. Later, people would understand what an incredible experiment this was. 
+
+As it happens though, other people are working on this too, led by Griffith's observation, including Oswald Avery, also who'd had been brought into the study of Pneumococcus because of the pandemic. And Avery and his colleagues-- Avery and McCarty and MacLeod start purifying and purifying and purifying and purifying and purifying. And they made more and more and more biochemically pure fractions. 
+
+And they show proteins. The transforming principle doesn't seem to involve any proteins. They can get rid of the proteins. And lipids, they can get rid of the lipids. And polysaccharides, they can get rid of the polysaccharides. They can purify the polysaccharides. RNA they can purify away too. 
+
+They can purify all these things away. And they're sort of left with one thing. They're left with DNA. Their purified transforming principle appears to be DNA. 
+
+And you can imagine how exciting this is. DNA must be the hereditary material. And they publish this in 1943. And the impact of this paper is-- 
+
+STUDENT: Nothing. 
+
+ERIC S. LANDER: --nothing. Well, almost nothing. People read it and they say it doesn't seem sensible to me. It can't be DNA. 
+
+Why can't it be DNA? Well for one thing, smart people know that proteins are incredibly varied in their properties. Proteins, they've got all these different amino acids. They can make all these shapes. They can do all these other things. They've got all these incredibly varied properties. 
+
+And if we're going to talk about heredity, we're going to need a tremendous amount of interesting variation to encode all that stuff. So pretty clearly, it's going to have to be an interesting molecule, like proteins. 
+
+DNA was regarded as really boring. We'll come to the structure. But you know that DNA has four bases, A, T, C, and G. And at that point, many people thought that it was just a four letter molecule, four subunits strung together, an A, a T, a C. 
+
+It what's called the tetranucleotide hypothesis. It was a short little thing. People thought it might be structural. But in any case, it was broadly agreed by everybody to be pretty boring. 
+
+And so what was the reaction? The reaction was sure, you purified it. But how do you know for sure there wasn't a little smidgen of protein that came through? Biochemists can be like that. And they're right. Because how do you know? How do you know there's not just a little bit of protein. 
+
+And I got to tell you there was a good reason they said that. I didn't tell you all the history of the purification of enzymes. But the purification of enzymes during the 20th century, around this time, actually about a decade or so earlier, involved people purifying enzymes. And one guy, a very famous biochemist, published a paper that said he was able to purify enzymes, and it had no proteins. 
+
+STUDENT: You couldn't. 
+
+ERIC S. LANDER: Now, he's wrong. There were proteins in there. And he was wrong. But it meant that everybody, everybody, those enzymes did have proteins. But he purified enzymes. He thought he'd purified enzymes, and he thought he'd ruled out proteins as being the basis of enzymes. 
+
+And people learned you can make those kind of mistakes. There could be proteins there, even when you think there aren't proteins there. And turned out the enzymes were proteins. And so everybody learned not to trust it when you said there were no proteins there. 
+
+They learned that so well that they didn't trust it when Avery, and McCarty, and MacLeod said there were no proteins there, and it was DNA. They thought it was probably some protein. Real science is much more complicated than textbook science because of this back and forth of these ideas and things. 
+
+And then, there was one other thing. Besides of the fact that DNA was known to be boring and structural and proteins were known to be really interesting. And people before had failed to see that proteins were in an important substance like enzymes. There was one other reason why maybe people didn't pay as much attention. 
+
+It's a little World War II. Like there's a lot of other things going on right then. And maybe everybody dropping what they're doing and racing around DNA isn't so likely, right? 
+
+Before you go on, try answering this question about the transforming principle. 

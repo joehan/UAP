@@ -1,0 +1,35 @@
+ERIC S. LANDER: Welcome back. Today we have a big reveal. We've been talking about genetics and biochemistry. Today, they come together as we finally talk about how a gene goes to protein. So let's draw our coat of arms because this is a big day. 
+
+Function studied through genetics, organism minus a component, studied through biochemistry, component minus an organism. Biochemists love these proteins that have all these amazing different functions. Geneticists love these genes that specify traits. And we worked out how genetics can be used to study biochemistry and how biochemistry, perhaps even more remarkably, can be used to study genetics by purifying the hereditary material. 
+
+Turns out to be DNA. And it turns out, through this beautiful, double helical structure, to explain the secret of life by each strand containing the information for the other strand. We've talked about DNA replication, how that simple idea that each strand is the template for the other strand really works with enzymes. Now, we have to fill in that. 
+
+How is it that genes specify proteins? That's what we need to talk about. And the answer lies in this picture of how the DNA that makes up genes specifies the proteins through an intermediate molecule that we call RNA. 
+
+So DNA goes to RNA, goes to protein. In fact, DNA replicates itself. We've talked about that already. It is then copied pretty faithfully from DNA into this RNA molecule. That process is called transcription. 
+
+As you might imagine for something, it's basically like taking dictation, copying letter for letter with a very slight change. And then from the world of RNA, a nucleic acid into proteins, amino acids, you really are going from one language to another. And to go from one language to another we refer to that as translation. 
+
+So replication we know, transcription, translation. That's what we're going to cover today. Now, to understand this, we need briefly to think about RNA. So section one-- RNA. 
+
+You remember the structure for a nucleotide of DNA. That structure, I told you involved a sugar, deoxyribose. And it involved four bases-- A, T, C, G. Here's deoxyribose. Here is a T:A base pair. 
+
+RNA involves the following very minor looking edits. Instead of deoxyribose, which is what DNA uses, RNA uses just ribose. And what's the difference? 
+
+One hydroxyl group, and remember, this was really two prime deoxy, and which is the two prime carbon? That's the one prime carbon, the two prime carbon, the three prime carbon, the four prime carbon, the five prime carbon. You want your hydroxyl here. That's the difference. 
+
+Not very impressive difference, is it? Is that two prime carbon used for anything that we've talked about so far? It's not used for the linkage to the base. It's not used for the three prime and five prime joining of the sugar phosphate backbone. In fact, it seems almost irrelevant. 
+
+But RNA uses the hydroxyl layer. And DNA uses the deoxy there. For all practical purposes today, you can say it doesn't matter. Nothing I'm going to tell you about makes it matter. We could come back a little later in the course and talk about why it really does matter, having to do with the structures that DNA can take up versus RNA can take up. 
+
+It turns out that that little difference of hydroxyl makes important differences in the kinds of structures that DNA and RNA can form. But for just the very functional things we're talking about now, you'd basically say it's just a detail to memorize. It actually happens to be really important. 
+
+But for now, it's simply a detail to memorize. Now, RNA, ribonucleic acid instead of deoxyribonucleic acid, has four bases-- C, G, A, and U. So instead of thymine, which is what DNA uses, RNA uses uracil. 
+
+And uracil differs in one tiny respect. This methyl group is not there, no methyl group. Now, is that a methyl group that is involved in hydrogen bonding of the base pairs? No, because we've conveniently drawn for you the hydrogen bonding of the base pairs. 
+
+And it's not hard to see that this is not involved in the hydrogen bonding of the base pairs. It's pointing the other way. So for everything we've told you, is there any difference between the methyl group there or not? No. It's an irrelevant detail to memorize. 
+
+Except it really does matter. And there are reasons why life uses ribonucleic acid versus deoxyribonucleic acid and uracil versus thymine. But they're a little subtle. And we're not going to try to explain them today. For the moment, you should regard this as a detail introduced by life to complicate things for introductory biology students, because it really doesn't speak to anything we talked about. But it is actually important. 
+
+Before we move on, test yourself with this question about the difference between RNA and DNA. 

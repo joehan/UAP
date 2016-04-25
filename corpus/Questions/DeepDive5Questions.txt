@@ -1,0 +1,137 @@
+Who is one of the coordinators for 7. 00 x.?	2.5494733354634462
+What should have helped reinforce the ideas of transcription and translation?	2.439309162760283
+Who is Michelle Mischke?	2.3950767233343644
+Who is Michelle Mischke one of?	2.375267010479518
+What is made five prime to three prime?	2.353240544402123
+What does AUG encode?	2.2351697963176163
+What would be methionine alanine, and, glycine, et cetera?	2.1622472545485207
+When encodes methionine?	2.1303665598136874
+Who is transcription starting at base pair 50?	2.093787358688592
+What is moving left to right?	2.053488412020681
+What begins at base pair 50?	2.001286876605604
+What is the bottom strand being used as?	2.0010170290728078
+What is rNA polymerase moving left to?	1.9990798294164842
+What is being used as the template?	1.9102191437015774
+When is pause the video?	1.8997142484594693
+What does transcription begin at?	1.8886159435621976
+What is AUG.?	1.8694322331448816
+What will the mRNA read five prime ACGGAAUAUG in?	1.8349698724400894
+What requires a template?	1.7764564365482882
+What is the start codon?	1.743451889149694
+How many first amino acids of this polypeptide would be methionine alanine, and, glycine, et cetera?	1.6824225434537472
+When is the moment?	1.6765638259493099
+What does all nucleic acid require?	1.6494912519532587
+What is the sequence?	1.613946562121036
+What will the top strand be used as?	1.576969511487908
+What was the very first codon?	1.5554480110486903
+What was AUC?	1.5549366299297442
+Who oK 've come up with two hypothetical mRNAs that could be produced from this gene?	1.5437701492750966
+Does AUG encode methionine?	1.5354016384423623
+What's all for now?	1.5276504939735445
+Who 'mes Michelle Mischke Today?	1.5251635221996347
+What should have allowed you to predict the mRNA and the protein that could be encoded from a gene?	1.5242999301938691
+Is Michelle Mischke one of the coordinators for 7. 00 x.?	1.5239822235741345
+What will be used as the template?	1.4891491550136593
+If you scan the sequence of this mRNA who 'll see there is no start codon to indicate the start of translation?	1.4149708759794897
+If we 're thinking about translation, who has to think about a start codon?	1.411633012806527
+What would the first three amino acids of this polypeptide be?	1.4092770662091572
+What will the mRNA look like?	1.3588404630483781
+What is the mRNA that's produced from this gene?	1.343002243256993
+What give me the sequence of the first three amino acids?	1.3340647741984264
+What is bound?	1.3325686991139536
+What should this exercise have helped reinforce the ideas of?	1.325056112807386
+If you look at that mRNA sequence, who made a fatal flaw?	1.323506405006539
+If we look at the sequence of the top strand, who can see that the mRNA will read cetera?	1.3133894842298761
+Is all nucleic acid made five prime to three prime?	1.3122952438242628
+What does this mRNA have prior to what we would read as the start codon?	1.2885622115909365
+Will the mRNA look like the bottom strand?	1.2857658315301297
+If you started translating with the very first codon, who made a fatal flaw?	1.28346486887422
+If that is the case, what is the mRNA that this gene would encode?	1.282053881083137
+Will the top strand be used as the template?	1.2728602386377665
+If we look at the other mRNA, who see the sequence?	1.2681728587018037
+Will the mRNA look like the top strand?	1.2347435354279033
+Is the bottom strand being used as the template?	1.2160014309677454
+Who 'mes going to choose this region as my promoter?	1.2062730680013511
+Who should this exercise have allowed to predict the mRNA and the protein that could be encoded from a gene?	1.2049579149205316
+If you scan the sequence of this mRNA what 'll you see?	1.204139982069051
+Is rNA polymerase moving left to right?	1.1862360290225813
+Who 'mes going to highlight it with a box?	1.1647508139279052
+Does transcription begin at base pair 50?	1.1312613350878427
+Who would start at AUG?	1.122350751450134
+Who can practice what you 've learned about transcription and translation?	1.0852251571392872
+If we 're thinking about translation, what do you have to think about?	1.0791018799906777
+If we look at the sequence of the top strand, who can we see that the mRNA will read?	1.0780762284565686
+If you scan the sequence of this mRNA what 'll you see there is to indicate the start of translation?	1.0754091565998585
+Who 'ves also marked the sequence with every 10 nucleotides just for convenience?	1.0680383960410507
+Is the start codon AUG.?	1.0632981821216947
+What was sort of a trick question?	1.0592652641965774
+Who do I 'm going to choose this region as?	1.0400507316777485
+What was it sort of?	1.0310138129289004
+What should this exercise have helped reinforce?	1.0211525544795514
+If that is the case, what is what the mRNA?	1.0191293881720225
+Is the sequence ACGGAAUAUG?	0.9964073544936769
+What do I 'm going to highlight with a box?	0.9491459274369094
+If you look at that mRNA sequence, what did you make?	0.9482771803558501
+Is rNA polymerase bound?	0.9184091559727539
+What is ACGGAAUAUG?	0.9100440133494525
+If you started translating with the very first codon, what did you make?	0.9076024519697707
+Was the very first codon AUC?	0.8891809515858133
+Does all nucleic acid require a template?	0.8642364713734978
+If you 're making RNA who will use uracil instead of thymidine?	0.858434457772431
+What do I 'm going to choose as my promoter?	0.8548472055822884
+What would we start at?	0.8521906184644457
+What do I 've also marked the sequence with every 10 nucleotides just for?	0.8417755565779605
+Is the moment pause the video?	0.831335042546191
+What do I 'm going to highlight it with?	0.8199633506169755
+Who would we need?	0.7459424659720222
+What will the mRNA read in this case?	0.7154618173816236
+Who would need a promoter?	0.7018121945319371
+What is our promoter?	0.661970243363105
+What will look like the bottom strand?	0.5854472690107975
+What does it require?	0.5786044184318297
+What is base pair 50?	0.5672796305368042
+Do oK we 've come up with two hypothetical mRNAs that could be produced from this gene?	0.5661665108257532
+What was it?	0.5648908114059603
+What will look like the top strand?	0.5322367152979262
+Does this mRNA have a few nucleotides prior to what we would read as the start codon?	0.5248225463441258
+Do I 'm Michelle Mischke Today?	0.46613279457903634
+What does that's for now?	0.4240868099595134
+What has a few nucleotides prior to what we would read as the start codon?	0.41884762245857043
+Should this exercise have helped reinforce the ideas of transcription and translation?	0.40833533868813765
+Would the first three amino acids of this polypeptide be methionine alanine, and, glycine, et cetera?	0.3712867586765265
+If you 're making RNA what will you use uracil instead of?	0.36204026062046557
+Will the mRNA read five prime ACGGAAUAUG in this case?	0.34921703478138877
+If we 're thinking about translation, do you have to think about a start codon?	0.347804968577083
+Would we start at AUG?	0.32265012179425234
+Do pause the video give me the sequence of the first three amino acids?	0.3082952213508525
+Should this exercise have allowed you to predict the mRNA and the protein that could be encoded from a gene?	0.30482893635945274
+Is base pair 50 the mRNA that's produced from this gene?	0.2983807582028146
+If you 're making RNA what will you use?	0.25762279329584903
+If you look at that mRNA sequence, did you make a fatal flaw?	0.2450759675172498
+Who 'll be right back?	0.2287602815724612
+If you started translating with the very first codon, did you make a fatal flaw?	0.21947058028921207
+If we look at the other mRNA, do we see the sequence?	0.18901320466530613
+If that is the case, what is what that this gene would encode?	0.16269877022470158
+Was it sort of a trick question?	0.14296884042071056
+If you scan the sequence of this mRNA 'll you see there is no start codon to indicate the start of translation?	0.13437616334219982
+If that is the case, is what the mRNA that this gene would encode?	0.12420784181597266
+Is our promoter transcription starting at base pair 50?	0.12420340268823171
+What do I 've also marked just for convenience?	0.043239402750018474
+Do I 've also marked the sequence with every 10 nucleotides just for convenience?	0.030093499110961375
+If we look at the sequence of the top strand, can we see that the mRNA will read cetera?	0.01176431714242332
+What should this exercise have allowed you to predict?	0.0020437210163706254
+What do oK we 've come up with?	-0.030746474971894644
+If we look at the other mRNA, what do we see?	-0.04255517319088198
+What will read five prime ACGGAAUAUG in this case?	-0.06661929454999194
+What can you practice about?	-0.06670998021965491
+Do I 'm going to choose this region as my promoter?	-0.09669720213761224
+Would we need a promoter?	-0.09886643169497722
+Do I 'm going to highlight it with a box?	-0.1383532099552005
+What does?	-0.17380002967065689
+Does it require a template?	-0.1821308300781057
+If you 're making RNA will you use uracil instead of thymidine?	-0.18287196324780775
+Can you practice what you 've learned about transcription and translation?	-0.18546101512887225
+'ll we be right back?	-0.36698913228012087
+Does that's all for now?	-0.3746214318101788
+If we look at the sequence of the top strand, what can we see?	-0.514328531189784
+Does it do?	-0.7080455514173811

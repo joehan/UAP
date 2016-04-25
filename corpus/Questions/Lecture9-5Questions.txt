@@ -1,0 +1,105 @@
+How many copies of each of the 16 chromosomes does a diploid cell's got?	2.4298545144878663
+What's got two copies of each of the 16 chromosomes?	2.394780066143289
+What is a wild type yeast of the opposite mating type?	2.3472913372759976
+Who give rise to a recessive or a dominant phenotype?	2.3436245932725193
+What does a diploid cell's got two copies of?	2.104682467471518
+What does what's the allele at?	1.9766500930046977
+What is mutant over plus?	1.9620882005316542
+What does a diploid cell's got?	1.9181321201830221
+What is the normal yeast?	1.8490901013546355
+What's a mating type alpha?	1.8455179262658437
+What's exactly First characterization test?	1.841029071775505
+What get a diploid cell?	1.8268374565095482
+What's what it's got?	1.5838924024995442
+What does a cartoon's?	1.514682537290595
+How many copies of each of the 16 chromosomes does it's got?	1.414150287294499
+What is a diploid cell's genotype at that particular gene or locus, mutant over?	1.3429196375295631
+What is its genotype at that particular gene or locus, mutant over?	1.327379469815814
+Is the normal yeast a wild type yeast of the opposite mating type?	1.3056170664286157
+If it can grow on minimal medium-- if the answer is yes, what can grow on minimal medium?	1.2880385577481515
+Does a diploid cell's got two copies of each of the 16 chromosomes?	1.2604171058741214
+What's the allele at that particular gene?	1.246128739892033
+What is the normal yeast a wild type yeast of?	1.2259731598180812
+What's the first characterization we might do?	1.206888670530959
+What do those mutations give to a recessive or a dominant phenotype?	1.1888177309289247
+What's the first characterization those 50 matings might do?	1.1807933737308387
+Who now introduce it to a normal yeast?	1.159893774881644
+What does what's at that particular gene?	1.1338939086999682
+If it can grow on minimal medium-- if the answer is yes, what can it grow on?	1.1287963150101823
+How many matings 're recessive or dominant?	1.1098380545668474
+What questions?	1.0935451338685875
+What is normal?	1.0913064018875027
+What does it's got two copies of?	1.0740340542618245
+What do I have nothing more than at this point?	1.067297228009283
+Who has nothing more than a yeast growing on a plate at this point?	1.042186555756583
+What do I have nothing more than a yeast growing on a plate at?	1.0416597883888357
+What does that's those 50 matings might do?	1.0309984181400074
+What do those mutations give rise to?	1.010314575446749
+Who does that's the first characterization might do?	0.9948317129609923
+What I now introduce to a normal yeast?	0.9650571668487686
+Does a cartoon's a mating type alpha?	0.9598102407615867
+Who did I get 50 of there?	0.9595649638071595
+Who got 50 of those guys there?	0.9500444289023435
+Who 'mes only drawing three of them here?	0.9479877682188573
+What does that's we might do?	0.9144547064383084
+Who 'mes drawing it as if I knew which chromosome that was on and which gene it was in?	0.9076061411064114
+What does it's got?	0.8519241570968217
+Who 'mes giving you a normal one?	0.8459857083041649
+Who now knows for each of your 50 mutations that have arisen whether they 're recessive or dominant?	0.8395794463558426
+Who 'mes just drawing a cartoon?	0.8292216233007812
+Who get a diploid cell?	0.813464886628307
+Who do I 'm only drawing three of here?	0.745419845539649
+What do I 'm just drawing?	0.7407541805325173
+Who did I get there?	0.7238656688796976
+What do I 'm only drawing three of here?	0.7199820721231771
+Who wanted a normal one?	0.690849439883934
+What do we get?	0.6882127605350328
+What did you want?	0.6756414468962795
+What 're recessive or dominant?	0.6537771867759838
+What I now introduce it to?	0.6392826784020724
+Who has my haploid?	0.5912661215022534
+What do that get?	0.5886599525847809
+What do I 'm drawing as if I knew which chromosome that was on and which gene it was in?	0.5790188957106976
+What's the dominant phenotype?	0.5512955169728209
+What does that's exactly?	0.4977928023369276
+Who 're recessive or dominant?	0.4967918552164081
+What does it's?	0.48597384409927646
+What's exactly it?	0.4779058932280611
+What has its mutation?	0.44569663151795313
+Does any question?	0.4199018308154787
+What do I 'm only drawing here?	0.4151376958062538
+Is a diploid cell's genotype at that particular gene or locus, mutant over plus?	0.3699240071159542
+Is its genotype at that particular gene or locus, mutant over plus?	0.36055067899387616
+Who does it have?	0.3425726958724715
+What do I have?	0.29102796375161244
+Does it's got two copies of each of the 16 chromosomes?	0.2527507493251586
+How many matings does that's the first characterization might do?	0.23641058059921782
+Do those mutations give rise to a recessive or a dominant phenotype?	0.2309070652842733
+Does what's the allele at that particular gene?	0.14622264847391397
+Does that's the first characterization we might do?	0.14227365623543253
+Does that's the first characterization those 50 matings might do?	0.1099392552855658
+If it can grow on minimal medium-- if the answer is yes, can it grow on minimal medium?	0.09763696833460633
+Did I get 50 of those guys there?	0.09412232898102024
+Do I have nothing more than a yeast growing on a plate at this point?	0.03354083070299119
+Do I 'm drawing it as if I knew which chromosome that was on and which gene it was in?	0.018896675276496744
+What does that's the first characterization might do?	1.8135507988281674E-4
+Do those 50 matings 're recessive or dominant?	-0.012935798798240361
+Do we get a diploid cell?	-0.02089278481008283
+Do I 'm just drawing a cartoon?	-0.046464393294860074
+Do that get a diploid cell?	-0.11136315745325298
+What does that's?	-0.11179329671312543
+Do they 're recessive or dominant?	-0.11350289420942383
+Did you want a normal one?	-0.1255947664308077
+Does it's a mating type alpha?	-0.14637504674699864
+Do you now know for each of your 50 mutations that have arisen whether they 're recessive or dominant?	-0.16960313781113712
+Does it's the dominant phenotype?	-0.19476304476072048
+Does that's exactly First characterization test?	-0.21705482136370047
+Do I 'm giving you a normal one?	-0.35448150335583994
+Do I 'm only drawing three of them here?	-0.35928611608761307
+Does that's what it's got?	-0.3837168064104306
+What does that's the first characterization?	-0.3948622807846587
+Does that's exactly it?	-0.4396063667780077
+Do I have my haploid?	-0.5290898386985652
+Does it have its mutation?	-0.5818011057417185
+Is this normal?	-0.6431252676038006
+What do you now know for?	-0.6823622285862172

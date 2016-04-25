@@ -1,0 +1,37 @@
+PROFESSOR: So let's start. Section one. Yeast-- a model eukaryote. You'll remember from our first lecture, eukaryotes means a true nucleus. These guys have a true nucleus, just like you. Their chromosomes come in pairs. They undergo meiosis and mitosis. They're just like you, other than the fact they have single cells and you have more than single cells. 
+
+So yeast. If I grow up a test tube of yeast-- here's my test tube of yeast. So I'm going to have some liquid medium here. I'm going to inoculate a little bit of yeast that'll grow up. Lots of yeast cells in there. Then I'm going to take a Petri plate. The Petri plate has agar forming a kind of soft, solid support on the bottom with various nutrients. 
+
+And I'm going to take a little bit of this-- an appropriate dilution of my yeast culture-- and I'm going to spread it with a sterile glass rod across. And if I've done it at a good concentration, single cells will land in different places. And I won't be able to see them. They'll just look like I've spread liquid and the liquid dries off. 
+
+But if I then incubate that for some period of time, each of these single cells will grow up into a pile of cells of identical genotype-- all the descendants of a single cell. And we call that little pile of cells a colony. These are all colonies-- descendants of single cells that landed on this plate. 
+
+I brought one tonight. That's a plate of yeast. I've wrapped up in Parafilm here just so the top doesn't come off. But you can see colonies of yeast growing there. It was spread, and they all grew up. Yeast. 
+
+Now that's yeast. It has a life cycle, like I said, pretty much like you. Yeast has a diploid cell with 2n chromosomes. It's a single cell. And it will undergo mitosis. In the case of yeast, the number of chromosome pairs-- n equals 16. So that means there are 16 pairs of chromosomes or 32 total chromosomes. But I always think in terms of pairs in the diploid there. 
+
+Now it can then undergo sporulation to make spores, that is, the process of meiosis. When undergoes meiosis, the cells here are no longer diploid. It's no longer paired chromosomes. They are haploid. And instead of having 2n chromosomes, it has n chromosomes. And then what do these gametes do-- these spores do? 
+
+They mate. So you have mating. Yeast has two mating types. They're called a and alpha, but you don't need to know that. But if you have yeast of two mating types that meet each other, these two haploid cells, they will then come together to form a diploid. And this guy can undergo mitosis. 
+
+That, frankly, looks just like you, doesn't it? That's what you do. But yeast can do one more thing you can't do. These guys also undergo mitosis. The haploid cells undergo mitosis. Now you guys-- your gametes, your sperm or your eggs, do not undergo mitosis. 
+
+But yeast can hang out as a diploid. It can hang out as a haploid. Both of those states it can continue to grow by mitosis. That is incredibly advantageous for geneticists. Because it means we study it as a diploid. We can study it as a haploid. And we can make it mate when we want to. Pretty cool. 
+
+Yeast also is accommodating in one other way. Yeast is stunningly self-sufficient. You students require all sorts of care and feeding. We got to feed you food of all sorts of elaborate types, right? Actually in this class, we're feeding you pretty well, I think. But for example, you need to have amino acids, all sorts of nutrients-- things like that. 
+
+Yeast? Yeast can fend for itself. If I give yeast a Petri plate that has simply some carbon source-- let's say glucose. Yeast is fond of glucose, although it could deal with other sugars, too. For example, something where it's going to get its carbon and its energy from. Some nitrogen. Some phosphorous. Some trace salts. 
+
+But for example, I'm not handing it any amino acids. There no amino acids that are being given here. I'm not giving it any DNA. I'm not giving it any lipids. I'm not giving it any of that stuff. I'm just giving it essentially a source of carbon, nitrogen, phosphorus, and salts. It will grow. And it will make everything it needs. It will make all its own amino acids. It'll make all its lipids. It'll make all its complex sugars, things like that. 
+
+It can handle all that stuff. That's pretty impressive. That means it has an elaborate biochemical set of pathways that allow it to synthesize all the macromolecules it needs. So you can grow it on minimal medium. Minimal media-- media is the growth material. This is minimal media. Yeast can grow on minimal media. 
+
+Now, just because yeast can grow on minimal media does not mean that yeast is stupid. If you give yeast rich media, it will use the rich media. If you hand it amino acids, it will take up amino acids and use it not bother making amino acids itself. So it can also grow on rich media. 
+
+For example, media that's supplemented with amino acids and many other sorts of things. It's happy to take up all those things and not bother synthesizing. What do you know about? What does that mean? When it's handed amino acids, it doesn't bother to synthesize amino acids. What does that tell you about the biochemical pathways in yeast? Sorry? 
+
+Somehow that those pathways are regulated. And you're guessing-- I think right-- that the amino acids can inhibit that pathway. And so yeast is not so stupid as to keep making amino acids if it's got amino acids. So it's very smart. It can regulate all its biochemical pathways depending on what it really needs. Very impressive organism. All right. 
+
+Beadle and Tatum were really excited when they found that their fungus grew with very little requirements. Because they understood that that meant it carried out all sorts of biochemistry. And they said, let's find us mutants. Let's find us mutants that are unable to carry out some bit of biochemistry. 
+
+Take a moment and test yourself. We've got a question for you about yeast as a model organism. 

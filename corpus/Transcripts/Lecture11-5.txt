@@ -1,0 +1,29 @@
+PROFESSOR: Arthur Kornberg discovers this polymerase. Kornberg wins the Nobel Prize for his polymerase, the thing that replicates chromosomal DNA. The only problem is Kornberg's polymerase isn't the right polymerase. 
+
+It turns out that studies show in E. coli that replication, DNA replication, occurs at a rate of 1,000 nucleotides per second. 1,000 nucleotides per second. But Kornberg's polymerase, which he calls DNA polymerase I, a perfectly reasonable name, is polymerizing at the pokey rate of 10 to 20 nucleotides per second. And the real polymerase that should be copying the long chromosome of the cell, that polymerase should be able to run really long distances. 
+
+Kornberg's crummy polymerase sort of peters out. It only runs distances-- it peters out after maybe 25 or 50 nucleotides. It doesn't run all that far. Kornberg's polymerase does not seem like it's the right polymerase to actually have the properties. 
+
+But biochemically, it polymerizes DNA. So the biochemists say, we purify something out of the cell. It has this function. But how do we know whether this enzyme really carries out that function in life? 
+
+There are two sides of our triangle, genetics and biochemistry. Biochemistry can tell us what happens in a test tube. But if we want to find out what happens in the organism, we need a mutant. The only way you could be sure what something does in the organism as opposed to in the test tube is you have a mutant. 
+
+So what is a geneticist want to do? Find a mutant. What mutant would you like? Suppose you could find the mutant, which didn't have Kornberg's polymerase, but could still replicate its chromosome. It would show that the real polymerase that copied the whole chromosome was a different enzyme. 
+
+How are you going to find it? How would you find an E. coli mutant that lacked Kornberg's polymerase? You go on a mutant hunt. 
+
+You'd pick one colony. You grow it up. And you purify Kornberg's polymerase and see if it's there. And if it is, you say, I didn't find the mutant. 
+
+You then take the next colony. And you grow it up. And you purify Kornberg's polymerase using Kornberg's recipe. And if the polymerase is there, you didn't find the mutant. 
+
+And you keep going in an unbelievably tedious fashion, testing colony after colony after colony, purifying it by Kornberg's recipe, until you get to colony number 3,478. When Cairns in 1969 reached colony 3,478-- actually his research assistant reached colony 3,478, he found did not have DNA polymerase I. It was a mutant that did not make DNA polymerase I, but it grew. Obviously it grew.  It was growing on the plate. That's how he got it. 
+
+Kornberg's polymerase is not the main polymerase. It turns out Arthur Kornberg found a polymerase used in repair of DNA. He found a repair polymerase. 
+
+There are multiple polymerases in the cell. And this one is used for repairing things. It runs short distances. It runs much slower. And the real understanding of polymerase in the end, it required a ton of biochemistry. 
+
+But to know what goes on in the organism, you also need the companion discipline there of genetics. It's the mutant that tells you. The mutant is the arbiter of what really goes on in the organism. 
+
+So that's it for DNA replication. Next time we're going to talk about the central dogma. 
+
+Before you go on, we've got one more question for you about Arthur Kornberg's DNA polymerizing enzyme. Try it. 

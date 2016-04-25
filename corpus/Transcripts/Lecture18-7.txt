@@ -1,0 +1,51 @@
+ERIC LANDER: And we now have genetic maps that look like this, but using these kind of chips like I just showed you, we have genetic maps like this, where we have Andermann syndrome, albinism, microcephaly, spinocerebellar ataxia et cetera. We have dense genetic maps showing the locations of all these different disease genes. This is on chromosome number 15. Pretty amazing. Bloom's syndrome, et cetera. 
+
+All right. So now, it was worth it, this Human Genome Project, because look what's gone on since then. Now, the last thing I want to talk about is sequencing. Remember how impressed you were when we went from radioactive sequencing to this fluorescent sequencing? With radioactive sequencing, where I told you in ancient days, meaning when I first got started in molecular biology, we might have done 100 bases in a week, and then we got this fluorescent sequencer that was able to run multiple times a day and get you a million bases. 
+
+Let's discuss where we are now. That million base machine which was so impressive just last lecture is now so passe. I mean it. I mean it. We have essentially no use for that machine anymore. So let's describe what we do today. This is the last thing we'll have here. 
+
+Suppose you had a glass slide, just like I was talking about with the genotype picture. And suppose in some little segment of that glass slide, you had primers. And suppose I somehow arranged for a specific DNA molecule. This is all the same DNA sequence bound in this little spot. 
+
+Actually, I'm going to tell you in advance how that happened. What happened is there are a lot of primers sitting here on the slide. I made all my DNA with a matching end to it. I put matching ends on all my fragments of DNA, and I just let one piece hybridize. And then what happens is with it hybridized right there, I let it do a little local PCR using those primers on the slide. 
+
+Yes, I can actually do PCR just in the little region. What happens is this is guy number one, the one who actually landed here, and these are all the copies of it made by a little teeny, weeny PCR reaction in this little corner. So a single molecule of DNA hybridizes to my little primer there, and I start running a little local PCR reaction just on that tiny little spot, and I get a lot of copies. 
+
+So now I have a lot of copies of that one molecule, and I have a primer. And what happens is we'll look up close here. I've got my primer, here's my template. How do we do DNA sequencing? What do we add? What do you remember we add? DNTPs plus a little bit of DDNTP with a fluorescent dye on it. 
+
+OK, here's what I'm going to do, skip to the DNTPs. I'm just going to use dye deoxys, just defective T with a dye on it. If the next base is A, what will go in here? Defective T, right? That's what will go in, is a defective T. Why not a good T? 
+
+STUDENT: You didn't give it any. 
+
+ERIC LANDER: I didn't give it any good Ts. So look what happens. If it goes in and it has its fluorescent label on it, I know that it was a T that I just put in. Fabulous. I've read one base if it was a T. Now, I could also do it next with putting in a defective A, and if A was the next base, I could see that. But I only get one base this way, right? Because it's defective. 
+
+What if it was reversibly defective? What if was defective because it had a blocking group on it, a chemical blocking group that could be removed? Then I can read one base. When I'm done reading one base, I do the chemistry to remove the blocking group, and I do it again, and I read the second base, and then again. 
+
+Suddenly, I don't need to run DNA down any lanes, knock down any capillaries. I'm not measuring length anymore. If I guarantee that I'm just adding one base at a time because every single NTP is a defective NTP, it's a blocked NTP, it's a not extendable NTP, then I'm adding exactly one base. 
+
+I add the Ts, I take a picture. I actually then remove the florescent group. I add the As, I take a picture, I remove the fluorescent group. I had the Cs, I take a picture, move the group. I add the Gs, I take the picture, I remove the group. Then I remove the blocking group. Then I do my next round. Then I can just take snapshots. I just take snapshots of it as I do my chemistry on the slide, and I can read that DNA molecule because I made a bunch copies of the PCR, and then one base at a time, I synthesize it, and I'm watching how I'm synthesizing it. 
+
+But the thing is I could do more than one spot. I could do two spots with two different DNA molecules that had landed here. And with my camera, I could follow both spots. And you see where this is going. I could do three spots. I could do 1,000 spots. In fact, on the current machine we have here, the number of spots we can do and read, three billion spots simultaneously. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: You can only get about 100 base pairs. It doesn't get you 700 right now. It gets you about 100 base pairs, but 100 base pairs times three billion spots is 300 billion letters of DNA, which is more than we collected in the entire Human Genome Project. It's collected on a glass slide. 
+
+I brought one for you. This is how you read 300 billion bases of DNA. Actually, you can read other strand, too. You can go back the other way and get more, so you can really get 600. But you get a lot of DNA out of this. What does that look like? So different pieces of DNA land on the slide, a little PCR reaction is done in every little spot, and then we start sequencing. 
+
+On the first round, Fluorescent A. If there was an A there, A lands there. So we A, we take a snapshot, we then get rid of this fluorescence. We add Ts. Anybody who had T at that position, we take the picture. Nobody had a C. One of them had a G. So we're able to read out that this clone here had a T in its first position. This clone here had an A in its first position. This clone here had a T in its first position. This one had a G in its first position. This had an A in its first position. Remove the blocking group, read the next, the next, the next, and there you are. 
+
+And what it looks like is that. What you're seeing are one round snapshot of where the As are, Ts are, Cs, are Gs are on a lot of spots. That's actually just a teeny little portion of the slide that you're looking at. In a teeny portion of this slide, you see this. So we're simultaneously reading about three billion spots, about 100 letters in every position, on one slide. 
+
+By the way, the machine does two slides at a time, and we have 50 of them, 50 machines. And so you can do a lot of work. You do a ton of work. You can get several entire human genomes. That's roughly where we are. 
+
+Now look, I've told you a lot of details here. I've told you a lot of details partly because I lived through all this, and this actually is roughly the boundaries of my own scientific career today. But I told you a lot of details because there's something important to learn about this which is very hard to learn in an introductory biology course. Most introductory biology courses, you learn about what we know today. 
+
+A lot of the reason I've tried to talk about the history is because I want you to get a sense of the pace of change because it isn't going to stop. That's the important thing. It's one thing to get a point estimate of our current knowledge. It's much more interesting to know the derivative of knowledge, the rate of change of knowledge. 
+
+This is the rate of change of knowledge. We went roughly from the mid-1980s, where this idea had been floated and painfully, Gusella was able to find markers linked to Huntington's disease on for the tip of Chromosome Four, and it took 10 years to get that genome. Turned out to be a very interesting genome. We'll tell you about it. But everybody knew we had to have a Human Genome Project, and we labored for a decade to get a Human Genome Project. 
+
+But once we had one reference sequence, we could build on that reference sequence as many as we wanted. And then the technology came along, and we went from radioactive sequencing, to fluorescent sequencing, to now this massively parallel sequencing on physical slides like that by optical methods. It isn't going to stop. That is what makes biology so cool. So that's it for today. 
+
+[APPLAUSE] 
+
+ERIC LANDER: The improvements in DNA sequencing technology over the last decade are simply mind blowing. To make sure you know how it works, try answering this question. 

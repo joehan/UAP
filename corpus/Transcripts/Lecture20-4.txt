@@ -1,0 +1,131 @@
+ERIC S. LANDER: Section 3, instead of DNA variation, RNA variation. Just the same way, in a totally unbiased look across the entire genome, I could look for spelling differences that were associated with the disease, now let me look across all of the mRNAs in a cell and look at their levels. 
+
+So I'm going to take a particular cell or a particular cell type. Maybe, I'm going to take, oh, I don't know, we'll take a particular type of blood cell out of your blood system there. Or we'll take a little bit of skin, some skin cells. 
+
+And I want to look at how much the level is of each RNA. How do I measure the levels of your RNA? 
+
+STUDENT: You can convert it to DNA. 
+
+ERIC S. LANDER: I could convert it to DNA by using reverse transcriptase. And then I could sequence it, for example. I could just do that. It's exactly right. I could do that. I could do it by sequencing. 
+
+So I want to measure the level of all the RNAs, all the mRNA levels. 
+
+And you're saying, one way I could do it is, I take the RNA. I convert it to DNA. And then, I just sequence it. Turns out, there's another good way to do it, too, which is chips. 
+
+We've been using the chips mostly up to now but, increasingly, we're using the sequencing. And what these chips have are, instead of pieces of DNA that match different spellings, different alleles, different polymorphisms, we just have pieces of DNA that match each gene in the genome that are complementary to each RNA. 
+
+You take the total RNA from a cell, label it with a fluorescent group. And then you wash it over a chip, and it sticks. The RNA from gene 17 sticks to spot number 17. The RNA from gene 332 sticks to spot 332. And you just use a laser scanner to read across there and see how much you have of each one. 
+
+So in fact, every gene in the genome gives you a level. So let me get a sample. Sample number 1, gene number 1. I'm going to get a certain level, x1. Then for gene number two, I'm going to get another level, x2. How many genes are there in a genome? 20,000, let's say? It's about right. It's about 21,000. We'll say 21,000. Gene 21,000, we'll get a level x21,000. 
+
+That sample, if I can measure the level of each of the 21,000 different genes-- which I can do by taking the total RNA, fluorescently labeling it, and washing it over a chip, or by sequencing the total RNA and just counting how many times I saw each molecule-- that cell now gives rise to a mathematical vector of length 21,000, a point in 21,000-dimensional space. Pretty cool. Whoa. 
+
+If I have another sample, I get another vector. Sample number 2, I get another vector. We'll call that x2,1, and x2,2, and onward like that. Every sample I look at becomes a vector of length 21,000. 
+
+I can look at all of the genes simultaneously, how much they're turned on or off. Pretty cool. Let's use it for something. Let's use this for something. 
+
+These are two samples from patients with leukemia. They have acute leukemia. You look at them under the microscope, and they look like that. It's not easy to tell the difference. I can't really see a difference. They look like leukemia cells. But there's a difference. 
+
+Turns out, there are two types of leukemia. One is called AML. And one is called ALL. OK. It is a triumph of medicine that they could be told apart. Because it turns out the patients with one or the other kind of leukemia require completely different treatments in order to have a good chance of cure. 
+
+The discovery was made by this guy over here, Sidney Farber. Those of you who know Boston well will know that there is a place called the Dana-Farber Cancer Institute. That's the Farber of the Dana-Farber Cancer Institute. 
+
+Sidney Farber, well, he thought that there were probably some differences. And he looked and thought he could see some differences. And then they found some molecular markers and some enzymatic things. 
+
+And eventually, by a lot of hard work, they were able to make diagnostic criteria that could distinguish between these kinds of leukemias and say, that's an ALL, and that's an AML. But you needed a pretty sophisticated pathologist to make that distinction using the biological differences that they had kind of worked out. 
+
+In the modern world, how could I tell the difference between AML and ALL? If they're really two very different kinds of cancer, even though they look the same under the microscope, do you think their gene expression is the same or different? 
+
+STUDENT: Different. 
+
+ERIC S. LANDER: Different. If I write each of them as a vector of length 21,000-- that is, if I grind up the cells, make RNA, and wash them over a chip, and I read out the vector of length 21,000-- I'm going to see different patterns, probably. That would be your guess, right? 
+
+Well, grind it up. Here is a chip. Here is a gene expression chip. We take the tumor. We grind up some of the tumor cells here. We extract the RNA, label the RNA, put it onto those chips. I showed you a chip. You squirt it in the back, swish it around. And you get this. You read it off. And here are the vectors. 
+
+I've only shown you some. There's actually 21,000 columns here. But I  haven't shown you all 21,000 columns. I've just shown you a few. I've shown you, every sample is a row. See those? Every sample is a row. Every column is a gene. And I've only shown you certain genes. 
+
+What do you see? What can you see from that picture there? 
+
+STUDENT: You're going to have a difference? 
+
+ERIC S. LANDER: There's a difference. Good, that's great. There's a difference. These genes here-- red means highly expressed-- these genes here are more highly expressed in ALL, less expressed in AML. These genes here, more highly expressed in AML, less highly expressed in ALL. 
+
+Those are the vectors of  length 21,000 truncated a little bit. So now, suppose a new case comes to the clinic. And you want to determine whether that new case is AML or ALL. What are you going to do? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Run it on a chip? Go look at the vector. Here we go. Ready? Make a diagnosis. 
+
+STUDENT: AML. 
+
+ERIC S. LANDER: AML. Here's another one. 
+
+STUDENTS: AML. 
+
+ERIC S. LANDER: Next one? 
+
+STUDENTS: ALL. 
+
+ERIC S. LANDER: Congratulations, you're pathologists. Excellent. Excellent. Now, I mean, I don't trivialize pathology. Pathology is a serious business. 
+
+But the point is it turns out it's shootin' fish in a barrel. There's a lot of very big differences between these. And I've only shown you some of them there. It's not hard to tell them apart. 
+
+Now, this is a little bit easy, right, because I'm giving you all of these examples. Did Sidney Farber already know all these examples? No, he didn't even know there was a distinction, right? He had to first intuit and discover the distinction. 
+
+So imagine the problem Sidney Farber had. He had this, a whole lot of samples. And he didn't have any names for them. They were just sample 1, sample 2, sample 3, sample 4, sample 5. 
+
+Could he have discovered, if he had those data-- the data we have today of 21,000 different expression levels of the different genes-- could he have discovered that there were two types of leukemia? Could you be able to take lots of vectors of length 21,000 and say they come in two different patterns? 
+
+Well, let's see. Every vector of length 21,000 is a point in 21,000-dimensional space, right? So let's just draw 21,000-dimensional space over here. Now, as it happens, we can't afford, here at MIT, 21,000-dimensional blackboards. 
+
+So I'm going to kind of represent it on a two-dimensional blackboard, kind of pretending there's maybe even a third dimension here. But the point's not very different. 
+
+The points that are AML are probably similar to each other. The points that are ALL are probably similar to each other here. They cluster. 
+
+Now, I ask you, do you think, if you could project points in 21,000-dimensional space, somebody could write an algorithm that says, some points are near each other, other points are near each other, and these guys are far from those guys. 
+
+Yeah, come on. MIT students, you could write the Euclidean distances between those points. And you could see which ones had small Euclidean distances and which ones were far apart. And you could write a clustering algorithm. 
+
+It would turn out that Sidney Farber needed-- and it was a triumph. I mean, he's a real hero-- but it was decades of work to distinguish between AML and ALL. 
+
+You could do this in about 12 seconds. It takes about 12 seconds to see that this thing here really has two subpatterns, pattern 1, pattern 2. And you can pick them out. 
+
+So now, I'm somewhat oversimplifying all of this. But the idea of what you can do by looking at the whole global pattern is pretty cool. If I don't have to guess in advance which two genes are going to tell the difference between AML and ALL, but I'm willing to take all 21,000 and look, are there two patterns here, or three patterns or something like that, you can learn a lot without any prior prejudice. 
+
+AML, ALL, people can do that themselves by pathology, by old techniques. This is actually useful for some new things. 
+
+Women who have had surgery for breast cancer and may be treated with Tamoxifen, a particular drug, need to ask, should they have chemotherapy in addition? 
+
+Chemotherapy might prevent a recurrence. But chemotherapy carries its own risks. And it's really beating up somebody sometimes. It's pretty serious chemotherapy. Maybe some women should have chemotherapy, and others shouldn't. 
+
+Well, what somebody did was they took a whole bunch of tumor samples from women with breast cancer who had had that breast cancer long ago and for which they knew the answer as to whether or not that cancer had recurred. 
+
+And they could ask, was there a pattern of gene expression there at the beginning that correlated with whether that cancer was going to recur or not? Huh. Same thing we just did here. 
+
+But now what we're using is data from a tumor at the time of the initial surgery, examining the gene expression patterns, and then correlating it with the outcome 10 years later. 
+
+It turns out there's a gene expression signature. There are several gene expression signatures that tell the difference. You plot these points in 21,000-dimensional spaces. And the cases that have recurrence have somewhat different patterns than the cases that don't have recurrence. 
+
+So in fact, there are tests available. There are two companies now that market tests that look at gene expression of a set of genes. And they can say that, whereas on average, there's a certain rate of recurrence, for some people it's extremely low, only a couple percent. And for other people, it's much higher, perhaps 25% or 30%. And that's used to allow people to choose whether they wish to have chemotherapy. 
+
+Some people might want to have chemotherapy no matter what, because even a 2% chance is too much. But it allows you to stratify the risk. And there was no way to have guessed which genes to use. But by looking across the whole genome in a global genomic way, you are able to pick out those patterns there. Yes? 
+
+STUDENT: Is that the same as finding genes that cause metastasizing? 
+
+ERIC S. LANDER: That's different than finding genes that cause metastasizing but related. It's related, because the recurrence is perhaps a little bit different than the metastasis question. But you could ask the same question. 
+
+I could say, let me take tumors that do or don't metastasize. Like, for example, suppose I take tumors from a patient, and I put them into a mouse and ask, do they have the ability to metastasize in a mouse? 
+
+And I can look and see if the genetic expression pattern, the gene expression pattern, correlates with whether or not certain tumors are able to metastasize or not metastasize. Do you think I could get a pattern of metastasis? 
+
+STUDENT: Um, hmm. 
+
+ERIC S. LANDER: Yes, in fact, even in my lab, in collaboration with another MIT professor, we did the experiment you named. So it's possible to do things like that. That's right. 
+
+STUDENT: Then, can you knock it off? 
+
+ERIC S. LANDER: Oh, well, finding something and knocking it off turns out to be very different. But the ability to find what's going on is increasing and increasing. You can find it by unbiased DNA looking. You can find things by different RNA expressions. What I'm giving you is this last piece here of genomics. Essentially, what genomics is, is really just the unbiased looking. 
+
+All right, there's lots more unbiased lookings I could tell you about. I'm not going to go into all of the details of it. I'll tell you in passing one more fact, but I'm not going to say anything more than that. 
+
+Stop a moment, and answer this question about differences in RNA expression between cells. 

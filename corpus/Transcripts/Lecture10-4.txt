@@ -1,0 +1,111 @@
+ERIC S. LANDER: Section three, Bacterial Viruses. It turns out not only do humans get viruses like the Spanish influenza and catch a cold, but bacteria get viruses, too. It turns out bacteria deal with viruses. There are-- and people found, at this part of the century-- these strange things that attached to bacterial cells and would kill them. And these were viruses. 
+
+I've drawn this way out of scale here, because I've made the virus too big compared to this cell. The cell is much larger than this. But I wouldn't be able to draw you a good picture here for you to see it. These viruses could be added to a mixture bacteria. 
+
+They would attach to the bacteria. And in some number of minutes, 20 minutes, 30 minutes, they would destroy the bacteria. They would eat up the bacteria. 
+
+They were referred to-- because they thought "eat" bacteria-- as bacteriophage. Phage means to eat. So bacteria eaters, bacteriophage. 
+
+In fact there were people who had all sorts of ideas in the early part of the 20th century that maybe this was a good way to cure you of a bacterial infection, was have you drink a lot of bacterial viruses so that your bacteria would get sick with viruses. That hasn't really worked out. But it actually got people interested. 
+
+The point was these viruses, when they killed the bacteria, didn't just cause the bacteria to die. It caused the bacteria to burst open. And lots and lots and lots of bacterial viruses, bacteriophage, would burst out. It would replicate and make thousands of copies of itself. 
+
+It sort of might be thought of as a living organism. Now as a living organism-- I suppose you'd call it. People love to debate is a virus living or not living, I don't really care. The point is, a virus, when it goes into a cell, can replicate itself. 
+
+It needs the cell to replicate itself. So replication goes on. In that sense, this is a replicating thing. 
+
+And it's very simple. And it clearly, somehow, is in the instructions to make more of itself. It has some sort of heredity to it. 
+
+It's able to make progeny, offspring. But it's very simple, much simpler than a cell. In fact, it was so simple, because all it really had was it had an exterior package, a capsid that was made out of protein. And inside that capsid it had DNA. 
+
+There are really only two choices for what could possibly be carrying the heredity here. It was either the protein or it was the DNA. And all you had to do was find out which it was. 
+
+Two people, Al Hershey and Martha Chase did what are known, not surprisingly, as the Hershey-Chase experiment. They took bacterial viruses. They let them attach to the bacteria. And they asked, what went into the cell? 
+
+Was it protein that went into the cell, or the DNA that went into the cell? If it was the DNA a that went into the cell, it must be DNA that's carrying the instructions. How could they tell? How would you know whether it was the DNA that went in or the protein that went in? You'd have to-- 
+
+STUDENT: Use biochemistry to separate them and inject each individually? 
+
+ERIC S. LANDER: I could use biochemistry to purify the protein component and the DNA component. And then how do I get them into the cell? The virus is this insidious device that can inject whatever it needs to into the cell. It's a living, working mechanism. 
+
+The minute you grind this thing up to separate the protein and the DNA, it now doesn't actually work. So how am I going to get into the cell? It's an idea. 
+
+We purify and try each component. But I don't know how to make it work, then. It's broken. What else can I do? Yes? 
+
+STUDENT: Add fluorescence to either just protein or just DNA. 
+
+ERIC S. LANDER: If I could fluorescently tag just the protein, and see if the fluorescent label goes in, or fluorescently tag the DNA and see if it goes in. How do I fluorescently tag something? They need some fancy chemistry to take this virus and chemically attach a fluorescent chemical group to the DNA. And then stuff it back in the head of the virus. 
+
+It's a great idea. But I don't know how to do that. But you've proposed a label. You've said label it somehow. How else could we label it? 
+
+STUDENT: Radioactivity? 
+
+ERIC S. LANDER: Radioactivity. If I had a radioactive element that only went into proteins but not into DNA, then I would have labeled the proteins. Now I have to think of some atom that is found in proteins and not DNA. Yes? 
+
+STUDENT: Sulfur? 
+
+ERIC S. LANDER: Sulfur, bingo. So we want to label-- this is great, guys. We are creating this experiment. We want to label the proteins one way and the DNA another way. And we're going to use a radioactive element. 
+
+Actually, how do I make radioactive protein? Do I go in there and I install little radioactive sulfur into my protein? How am I going to make viruses that have review active sulfur in their proteins? Any ideas? 
+
+STUDENT: You just make the virus replicate in the presence of radioactive sulfur. 
+
+ERIC S. LANDER: Bingo, that's it. All I need to do is I throw in, maybe I'll make it radioactively labelled cysteine, or sulfur in some form. 
+
+I just grow it in the presence of radioactive sulfur. And when it replicates it has radioactive to sulfur in it. It turns out to be a piece of cake. No problem. 
+
+So you want me to label this with sulfur. And S35 is the isotope I'm going to use. Because proteins have sulfur. What amino acids have sulfur? Cysteine has sulfur, and-- 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Sorry? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: Anybody else have a sulfur? 
+
+STUDENT: Methionine? 
+
+ERIC S. LANDER: Methionine, maybe? Yes, methionine. Excellent. So there's two amino acids that have sulfurs in them. 
+
+And DNA has no sulfur, because I didn't show you any sulfur here in the DNA. What does DNA have, though that I can use? How about nitrogen? Poor choice, because proteins have nitrogen. Oxygen? Poor choice. 
+
+STUDENT: Phosphorus. 
+
+ERIC S. LANDER: Phosphorus. Proteins did not have any phosphorus when we put up those amino acids. So I can use radioactive P32. P32, radioactive phosphorus, radioactive sulfur, bingo. If I grow the virus in the presence of radioactive sulfur or radioactive phosphorus or both, I get a labelled virus. 
+
+I now take a tube of cells. Here's my bacterial cells. I'm going to add virus to it. 
+
+And the viruses floating around here are going to attach and inject something into those cells. And I need to know what goes in the cells. And I can do that by figuring out which radioactive label goes into the cells. 
+
+Now we have a problem. The viruses attach to the outside of the cell. I want to see what's inside the cell. I don't want the virus attached anymore. 
+
+I have to dislodge the virus from the cell. Otherwise I'm not going to be able to tell what's inside versus what's outside. Because they're stuck together. 
+
+I need some incredibly powerful device to create shear forces at the molecular scale, shear forces at the viral scale that are going to knock this virus off. So you need some pretty fancy technology to knock off these viruses, to create violent forces. And I brought it here. 
+
+It is the kitchen blender. In fact, the Waring blender. These are called Waring blender experiments, as well. 
+
+And you would put them in. And you would press puree. And the violent forces there would then knock the viruses off the cells. They would go floating around. Now I need to separate them. 
+
+And it turns out that I can do that by centrifuging the mixture. The denser bacteria go to the bottom. The lighter viruses stay up in the supernatant. I pour off the supernatant. And I see which radioactive element went in. And which goes in? 
+
+STUDENT: Phosphorus. 
+
+ERIC S. LANDER: Phosphorus, bingo. It's the phosphorus. So when I do this, and I do the blender, and then I centrifuge-- so the blender separates the bacterial cells here from the little viruses. And when I centrifuge the bacteria pellet at the bottom, and my little viruses are up here, and I measure it, and what goes in here is P32, definitively proving that heredity is due to-- 
+
+STUDENTS: DNA. 
+
+ERIC S. LANDER: DNA. Because absolutely no sulfur is found down there at the bottom. Do you believe that? 
+
+Do you believe that zero radioactive sulfur in any experiment you do in the lab is found down there at the bottom, that we've managed to perfectly get all that virus? No, of course not. There's about one percent of the radioactive sulfur still there. 
+
+So suppose you were a churlish biochemist. What would you say? 
+
+[INTERPOSING VOICES] 
+
+ERIC S. LANDER: There's still a little bit of protein there, and it's doing it. But time has moved on here. We now have two different ways to think about it. 
+
+We got this bacterial virus experiment that's mostly giving us this answer. We got that Pneumococcus experiment. It's mostly giving us this answer. It's beginning to make sense. 
+
+And also the people who are doing genetics were studying a lot of these bacteriophages, and liked them a lot, and believed. And the combination of Avery's experiment, which was well known by now, and the Hershey-Chase experiments pretty much said, it's got to be the DNA. Pretty amazing story so far. But stop for a moment, and test yourself with this question about the Hershey-Chase experiment. 

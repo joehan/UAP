@@ -1,0 +1,471 @@
+What was discovered with synthetic RNAs being fed to cell extracts?	2.6676933152642173
+What was not enough to know in principle that ATG encoded a methionine?	2.6015542178570534
+What was dissatisfied with where things stood?	2.5737073587342385
+When did folks talk about the gene that encodes beta globin-- the beta globin gene on chromosome number 11?	2.540812616824543
+What was the word proteins and lipids and other things used with Griffiths?	2.5319256080365387
+What talked last time about the gene that encodes beta globin-- the beta globin gene on chromosome number 11?	2.5313501539439827
+When's a lot smaller than the whole genome?	2.489636833521324
+How many the steps-- take DNA from a source?	2.4207133361670916
+How many first steps are Cut and paste?	2.4103639014485534
+What might the cell have many copies of?	2.403966981731557
+What was not to purify the things away from each other in any meaningful way?	2.392832184289717
+What can do a biochemical purification that purifies DNA away from proteins and lipids and other things?	2.3745894674065187
+What 're going to paste DNA to vectors?	2.3727766706479554
+What is what do proteins and lipids and other things want to paste the DNA to?	2.3245573961954316
+What could not read a single gene in the mid 1960s?	2.298926569432587
+What is a typical gene a tiny fraction of?	2.2987943815185656
+What could principle that ATG encoded a methionine, et cetera transform?	2.2970539118027307
+What refers here to the molecular cloning of DNA?	2.281974261355897
+What bases-- 3 times 10 to the ninth bases?	2.264335822446109
+What need to transform the DNA into bacteria?	2.2544816406915307
+What are molecules that have the ability to cause a cell to replicate them?	2.2377553898917366
+What is the transfer of genetic information called?	2.227467324629782
+What came with the ability to purify individual genes away from each other?	2.1986131550774317
+What does last time's a lot smaller than?	2.191847217281956
+What take DNA from a source?	2.16246794649032
+When could people not read a single gene?	2.1492908029443636
+What was the genetic code discovered with?	2.146645877489503
+What's the entire lecture today?	2.1446145556530927
+What do the three steps-- take DNA from?	2.1419881376910794
+What do proteins and lipids and other things 're going to paste DNA to?	2.1239137985180876
+What was et cetera?	2.1237918253481816
+What did the really major revolution come in that no purification had ever been done before?	2.1059765162848105
+What got to the mid 1960s?	2.0983768144122603
+What have the same biochemical properties?	2.0900030825549423
+What might the cell have?	2.063026897560365
+What could transform one Pneumococcus?	2.06299604427453
+What do proteins and lipids and other things need to transform the DNA into?	2.054419810178605
+What actually wanted to read a real gene?	2.0495584018580866
+When sort of fits in about 1,000 bases or so?	2.0451448878415404
+What did Cut and paste into?	2.0264570319218476
+What had the genetic code table?	2.026337016030213
+What came in a way that no purification had ever been done before?	1.9937053771085915
+What really was an idea that folks had people 're pretty smart?	1.9850418893108837
+What is called transformation?	1.9742456733647773
+What and paste into vectors?	1.9591267310803866
+What is why people had trouble?	1.9399842209080205
+What are Cut and paste?	1.9232195225554276
+What need glue to paste DNA?	1.915309758390137
+What know the secret of life?	1.9073164246786494
+What wanted to purify a real gene?	1.9041840896175117
+What need scissors to cut DNA?	1.8761899717707298
+What is a typical gene?	1.8682847854896103
+What does cloning refer here to?	1.8674646360523854
+What's not much of a purification?	1.859606302824469
+What had the same properties?	1.852843173045134
+What are the first two steps?	1.834972762866355
+What just nailed the secret of life?	1.8256767928171658
+What was the methionine?	1.821191016894895
+What is gene-- genetics, biochemistry?	1.8147276006203052
+What do people know the secret of?	1.8012796350281488
+What do people just nail the secret of?	1.7973829313573608
+What do proteins and lipids and other things have?	1.7923355590723309
+Was the young generation dissatisfied with where things stood?	1.7886613606969823
+What can distinguish bacteria?	1.7651787133366061
+What do proteins and lipids and other things need to paste DNA?	1.7646745818564156
+What can crack open cells?	1.7553609350374082
+What do proteins and lipids and other things need to cut DNA?	1.7462796411768333
+When did people get?	1.7452303675131893
+What came in the form of cloning?	1.743606627610085
+What's Cut and paste?	1.7416991979479814
+What did the really major revolution come with?	1.7389116299015028
+What's a single molecule?	1.737741227837162
+What are little genes?	1.7351860221925932
+What did the really major revolution come in?	1.7339466404719588
+What 'll proteins and lipids and other things come to?	1.7327690494617418
+What was the trick?	1.7204826178911137
+What have a big human genome?	1.7153284235009194
+What said that's the genetic code?	1.699203860809977
+Did folks talk last time about the gene that encodes beta globin-- the beta globin gene on chromosome number 11?	1.6800947067197556
+Was the genetic code discovered with synthetic RNAs being fed to cell extracts?	1.6602999675097299
+What was the word we used with Griffiths?	1.6540112123651398
+What's proteins and lipids and other things's recipe?	1.6435507205446644
+What can folks crack?	1.6384507377143394
+Does Ts and Cs and Gs like everything else do?	1.616215357326121
+What can proteins and lipids and other things distinguish?	1.6090932218815068
+What do folks have?	1.599166434028924
+What does human genome base--?	1.598012969996986
+When did we talk about the gene that encodes beta globin-- the beta globin gene on chromosome number 11?	1.593167638060883
+What is 3 billion?	1.5890729667451544
+Who said OK?	1.5791793582923868
+What do people know?	1.578547691213592
+What did people say that's?	1.5594914116151173
+What do different proteins all have?	1.5430584714524862
+What do proteins and lipids and other things do?	1.5317697638628567
+Who 'll have many copies of that cell?	1.53083784957176
+What is that's useless?	1.5144167149201624
+What's a cell?	1.513812917042669
+What did people have?	1.5048277886347994
+Who talked last time about the gene that encodes beta globin-- the beta globin gene on chromosome number 11?	1.4937928718913338
+What might have many copies of that vector with our sequence?	1.483998762687162
+When did folks talk so much?	1.4755084785097055
+What are vectors?	1.474801183362573
+What 'll do to keep here straight?	1.4742615946938575
+What is the source?	1.471394507807181
+What do people just nail?	1.4701974792500616
+What is cloning?	1.4624253896876707
+Was the young generation not enough to know in principle that ATG encoded a methionine?	1.4533123357560247
+What is gene?	1.4455086641410344
+What do proteins and lipids and other things not mean?	1.4327267251384248
+What is to purify proteins?	1.4297623251571856
+Was the real trick of cloning not to purify the things away from each other in any meaningful way?	1.4232131277820845
+If you could amplify that molecule up to make many copies of itself who 'ves accomplished purification?	1.4224405909152749
+What do proteins and lipids and other things still use?	1.4147079542041114
+What is what do we want to paste the DNA to?	1.4093235816708845
+If you could amplify that molecule up to make many copies of itself what do I 've accomplished?	1.3936244485066607
+What might have many copies of that vector with proteins and lipids and other things's sequence?	1.392380910515119
+What is the problem?	1.3918053837283617
+Could principle that ATG encoded a methionine, et cetera transform one Pneumococcus?	1.3797177640003544
+Are vectors molecules that have the ability to cause a cell to replicate them?	1.3762781376701816
+Who 've looked at what happens with mutations and frame shifts of the genetic code?	1.3592745349833102
+What is human genome?	1.3478263197099483
+What is a tiny fraction of the genome?	1.346258552076419
+What is the second step?	1.3443772003257133
+Who can do a biochemical purification that purifies DNA away from proteins and lipids and other things?	1.3339864374811379
+Who 're going to paste DNA to vectors?	1.333005059409036
+Who know DNA goes to RNA goes to protein?	1.3248278015854065
+Is a typical gene a tiny fraction of the genome?	1.3246745611072188
+What did the really major revolution come in a way?	1.3222790307495342
+Did the really major revolution come with the ability to purify individual genes away from each other?	1.3195456354397277
+Does last time's a lot smaller than the whole genome?	1.3031207250007544
+What do we know DNA goes to RNA goes to?	1.2926195589227194
+What divides?	1.2924114270873621
+What do we know DNA goes to goes to protein?	1.28374641646607
+Is the transfer of genetic information called transformation?	1.280678832522256
+Can folks do a biochemical purification that purifies DNA away from proteins and lipids and other things?	1.2765414498523264
+What 've got to do, ?	1.2731453552299026
+So if I take pieces of DNA what are pieces of DNA?	1.2653872647651054
+What did people say?	1.26160515206057
+What do we 're going to paste DNA to?	1.2524137286248793
+What 'll this guy have many copies of?	1.2468138957372563
+Does cloning refer here to the molecular cloning of DNA?	1.246769715984121
+What grows?	1.2459106406807043
+Does human genome base-- 3 times 10 to the ninth bases?	1.2452202603161382
+What turns out that when proteins and lipids and other things do this transformation, we do not always manage to get DNA in every cell?	1.24167306400114
+What's it?	1.238006524937368
+What's a lot smaller than the whole genome?	1.2332825888749586
+Is the second step what do proteins and lipids and other things want to paste the DNA to?	1.2288681577925953
+Was the methionine et cetera?	1.2264690012344222
+What check?	1.2263273614784949
+Are Cut and paste the first two steps?	1.2194452112924772
+When could they not read a single gene?	1.2159132566196593
+Who need to transform the DNA into bacteria?	1.2147100294526112
+What 'll proteins and lipids and other things do to keep straight?	1.2100611249193145
+What now becomes very dilute?	1.2091444885284042
+Who actually 'mes going to use another color so we can distinguish bacteria?	1.2088962265316563
+What does?	1.2068052718198183
+Who are going to ask how we make this operational?	1.2005370203535022
+Who 'mes going to use it recognizing that that word gets used for other things as well?	1.1941720535656013
+What does it's a lot smaller than?	1.1921545779857454
+Do proteins and lipids and other things 're going to paste DNA to vectors?	1.1888410406110967
+Do the three steps-- take DNA from a source?	1.1874023323616045
+What is very big?	1.1806747286893904
+What 'll you have many copies of?	1.1799325233942053
+What do we need to transform the DNA into?	1.1666761579425726
+What need to do?	1.166273649768146
+Did the really major revolution come in a way that no purification had ever been done before?	1.1652282015969186
+Did folks actually want to read a real gene?	1.164746570561444
+What does here's?	1.1556151738191878
+Did Cut and paste into vectors?	1.1506276471077754
+What can folks do?	1.1499051985456963
+What did it come in that no purification had ever been done before?	1.1495172737632355
+What are we going to take at function?	1.1481954042087712
+Could people not read a single gene in the mid 1960s?	1.1457042312059365
+Who are going to take a look at function?	1.1409752475754273
+What are actually much longer?	1.1400647691941508
+What do proteins and lipids and other things 're going to paste to vectors?	1.1378242800898533
+What do the three steps-- take from a source?	1.137531476215556
+What does a cell turn out that when proteins and lipids and other things do this transformation, we do not always manage to get DNA in?	1.1356373067450307
+What are we going to take a look at?	1.1254874558102
+Who adds a lot of water?	1.1223012002253299
+Who could not read a single gene in the mid 1960s?	1.1205412388708917
+What's not hard to do?	1.1193483615935587
+Did people have the genetic code table?	1.119167966266693
+Who could make many many of these?	1.1182478098465447
+What could I make many many of?	1.1153445785633305
+Do proteins and lipids and other things need to transform the DNA into bacteria?	1.109870397635388
+What are so if I take pieces of DNA these?	1.107052003719717
+What do I add a lot of?	1.0944527849549153
+What's pure?	1.0875180278976058
+What could people not read in the mid 1960s?	1.0816722102143297
+Do proteins and lipids and other things have the same biochemical properties?	1.0811234603797666
+What do proteins and lipids and other things need to transform into bacteria?	1.0700343296203325
+What is?	1.0697919881516438
+What back up?	1.066946557990519
+What really was an idea that folks had we 're pretty smart?	1.038467316130009
+Do Secret of life, check?	1.0322782519302987
+Did folks want to purify a real gene?	1.0288607218451529
+What could I do with anything?	1.0209118514473636
+Who could do that with anything?	1.0064859433693525
+What do I 'm going to use recognizing that that word gets used for other things as well?	0.989491796681756
+What could I do that with?	0.9697969928813264
+Did the really major revolution come in the form of cloning?	0.9560765320582076
+Did people get to the mid 1960s?	0.9559321912333352
+Did people say that's the genetic code?	0.95212732220405
+Who 'ves shown you sequences of genes?	0.9402711165547164
+What 'll you have?	0.9323913104773915
+What is test all right?'s understanding with this question about why it's harder to purify genes than it to?	0.9141738173494103
+Who got to the mid 1960s?	0.9121650317906664
+What all have these weirdly different properties?	0.9035103225165744
+Does the beta globin gene have As?	0.8968318368882775
+Can folks crack open cells?	0.8897614712059956
+Who have the same biochemical properties?	0.8870997014463795
+What 'll this guy have?	0.8870602082424783
+Who know the secret of life?	0.8825734546331443
+Who need glue to paste DNA?	0.8738587933850555
+What do I add?	0.8643259112911834
+What is test your understanding with this question about why it's harder to purify genes than it to?	0.8599811297585951
+Do people know the secret of life?	0.857825881746739
+What do we just nail the secret of?	0.8576285577081899
+What do actually I 'm going to use so we can distinguish bacteria?	0.8549560669575866
+Do people just nail the secret of life?	0.8528753415201149
+Who purifyes it up?	0.8525046757544161
+What do we know the secret of?	0.8492926945337143
+What is it so even for a gene like this?	0.8447176248679973
+What could I make?	0.8424315822514075
+Is Scale?	0.8415943807357247
+Do folks have a big human genome?	0.8410448449843444
+What do I 'm going to use it recognizing that that word gets used for as well?	0.839819101168541
+Who need scissors to cut DNA?	0.8347390067656484
+Can proteins and lipids and other things distinguish bacteria?	0.8328094886078534
+Do proteins and lipids and other things need glue to paste DNA?	0.8325696411317336
+What had this genetic code?	0.8298628830667267
+What did folks actually want to read?	0.8201271393023903
+Do proteins and lipids and other things need scissors to cut DNA?	0.8160079693529319
+What contains the instructions to be replicated?	0.8131949050557732
+Who can take cells from your blood?	0.8130001427609779
+Is the problem that's useless?	0.802834653143403
+Who just nailed the secret of life?	0.8018784592651267
+When did they get?	0.8000173115917435
+What sort of fits in about 1,000 bases or so?	0.7918423670790107
+What 'll come to that?	0.7914117873405151
+What do proteins and lipids and other things need glue to paste?	0.78015262117121
+What do we need to paste DNA?	0.7744073999169552
+Is function gene-- genetics, biochemistry?	0.7718603875172447
+What 'll we come to?	0.7672051521957739
+What is that so even for a gene like this?	0.7665478376126906
+What do they have?	0.7662442447068702
+What do proteins and lipids and other things need scissors to cut?	0.7635909493924082
+Who 'ves purified it!	0.757757513110525
+What did folks talk last time about?	0.7545025742432685
+Who can purify the human genome?	0.7522424010523312
+Who 'll come to that?	0.7487013070108115
+Are a big human genome little genes?	0.7484448097698315
+What does that problem's not much of?	0.7476339164994872
+What can I purify?	0.7410945305241468
+What do we need to cut DNA?	0.7356892477998995
+Did we talk last time about the gene that encodes beta globin-- the beta globin gene on chromosome number 11?	0.7331501490078751
+What does it turn out that when we do this transformation, we do not always manage to get DNA in?	0.7304556817963637
+Is human genome 3 billion?	0.7287795540050364
+Is the source cloning?	0.7204771816688187
+Who can distinguish bacteria?	0.7112516376001421
+What did all these nucleotides have?	0.7098812446244998
+Who can crack open cells?	0.7036283480680765
+What did folks want to purify?	0.7008979302254972
+Who wanted to purify a real gene?	0.7003358309341747
+Does the cell divide?	0.6972281462223173
+What does this DNA contain?	0.6893764724346558
+What's our recipe?	0.6889695690522517
+What do I purify up?	0.6874456705654963
+What did it come in?	0.6842596185018566
+Does the cell grow?	0.6765874203674711
+Who showed you briefly was two million bases long?	0.6725774258679704
+What's not different charge and different size and other properties?	0.6677234183712679
+Do proteins and lipids and other things 've got to do?	0.665315128997831
+What could it transform?	0.6641225699005624
+Who have a big human genome?	0.6640186621796655
+What turns out that when we do this transformation, we do not always manage to get DNA in every cell?	0.6578779849350109
+What can we distinguish?	0.6552454215911052
+What does it's not much of?	0.6511161383483426
+What talked so much about that last time?	0.6467112229518
+What's what that is?	0.6442150190484601
+What can we crack?	0.641496116905476
+Who had this genetic code?	0.6402825750370285
+What do this transformation?	0.6294850785755
+Who here is my bacteria?	0.6279276650701182
+What do we know?	0.6147100157972158
+Who talked so much about that last time?	0.6057952333668275
+What can I take cells from?	0.6050905726967128
+Who takes your DNA?	0.5847094226236516
+'ll proteins and lipids and other things do to keep here straight?	0.5833086676460408
+What was this really an idea that folks had?	0.5811759859172958
+What do we have?	0.5755642196161119
+Who have to admit something?	0.5732317724536347
+Who do this transformation?	0.5731524420783922
+Is function gene?	0.5621782078194448
+Do proteins and lipids and other things need to do?	0.5608158505028815
+What did they have?	0.5575049365256164
+What will start replicating this DNA?	0.5518677600373629
+What think about what that problem is?	0.5464965315093702
+What do we have to admit?	0.5456028820519674
+Who did I show briefly was two million bases long?	0.5441103683152426
+Is gene protein?	0.5396845203203315
+Is bacteria very big?	0.5351754321908613
+Do we know DNA goes to RNA goes to protein?	0.5314152646329804
+What are a big human genome?	0.5305282616932321
+Who 'll do to keep them straight?	0.5296016078219818
+What do we just nail?	0.5266837765885708
+Was that the word we used with Griffiths?	0.5140593045501491
+What do we do?	0.5082009182491785
+What can I take from your blood?	0.504463375354105
+What do I 've purified!	0.5031156694893097
+What is yourself?	0.49904507907681706
+When did we talk so much?	0.49704497346779375
+Is dNA very little?	0.49555905726546823
+What still use that word?	0.4808764115285855
+What is shred?	0.4735328839214772
+What do not mean that?	0.4709417306946009
+Was it not enough to know in principle that ATG encoded a methionine?	0.46996748360548635
+Who said that's it?	0.4590040024374693
+What was that?	0.452797208530312
+What do we not mean?	0.44892524744643447
+What is protein?	0.44436148366291395
+What does that problem's?	0.4429376967152556
+Who still use that word?	0.4381659311988819
+What said that's it?	0.4371205283128292
+Who is the source?	0.43238825002403636
+Are some actually much longer?	0.4299180882984708
+So if I take pieces of DNA are these pieces of DNA?	0.42805587492740127
+What do we still use?	0.42736887452391814
+What will the cell start replicating?	0.42591793926166677
+What does a cell turn out in?	0.42419933694886947
+Who do not mean that?	0.4183488881041193
+If you could amplify that molecule up to make many copies of itself do I 've accomplished purification?	0.4083114544414692
+Do we 've looked at what happens with mutations and frame shifts of the genetic code?	0.4041900584761322
+What does it's?	0.40171795005100286
+Was that the word proteins and lipids and other things used with Griffiths?	0.40036404654390045
+Might the cell have many copies of that vector with our sequence?	0.396981188307147
+What did they say that's?	0.3922876289052557
+Does a lot now become very dilute?	0.3860950265563172
+Is the problem?	0.37693132176011246
+Who 'll we do to keep straight?	0.35656020706612424
+What is function?	0.3547223920231164
+What is it?	0.3471534697496681
+'ll you have many copies of that cell?	0.3352036350576939
+Does it's a lot smaller than the whole genome?	0.33266751216863266
+Do we 're going to paste DNA to vectors?	0.3315431260835866
+What's my bacteria?	0.32659432357748
+What 'll we do to keep straight?	0.326515507384038
+Is the second step what do we want to paste the DNA to?	0.32409613523853453
+Can we do a biochemical purification that purifies DNA away from proteins and lipids and other things?	0.3225005639050318
+Who 'mes serious?	0.30669893257933234
+Might the cell have many copies of that vector with proteins and lipids and other things's sequence?	0.2929132471482192
+What did it come in a way?	0.2913246834836103
+What do we know goes to RNA goes to protein?	0.2909742861401776
+'ll this guy have many copies of that cell?	0.28595782597805686
+What do we 're going to paste to vectors?	0.2759755223846838
+Do we need to transform the DNA into bacteria?	0.2328341642366949
+What is this guy here?	0.21534044054250745
+Could they not read a single gene in the mid 1960s?	0.2126121425562748
+Who 've got to do, ?	0.21221594343742822
+Did it come in a way that no purification had ever been done before?	0.20797385480045882
+What do we need to transform into bacteria?	0.19865009728784822
+What do I 'm going to use it recognizing for as well?	0.19558738041245882
+What is very little?	0.16724469832033328
+What has As?	0.16538335537563476
+Could I make many many of these?	0.16487854994849682
+What does that's?	0.16125718898461705
+Are we going to take a look at function?	0.15987165819045446
+Do I add a lot of water?	0.15958417510223244
+Do different proteins all have these weirdly different properties?	0.15629325860791532
+What could they not read in the mid 1960s?	0.1484088469596423
+So if I take pieces of DNA what are these pieces of?	0.1453955636391373
+What can we do?	0.13917086975922066
+Who need to do?	0.12179984798397236
+Will the cell start replicating this DNA?	0.11916879336672093
+Do they have the same biochemical properties?	0.1141101016348478
+Do actually I 'm going to use another color so we can distinguish bacteria?	0.10024709577298241
+What is one, one hundred thousandth of the genome so even for a gene like this?	0.09556933144537738
+Do I 'm going to use it recognizing that that word gets used for other things as well?	0.09376464429273401
+Did all these nucleotides have the same properties?	0.09117664556472027
+What did they say?	0.07797819008125195
+Does that's the entire lecture today?	0.06672433131001743
+Did it come in the form of cloning?	0.054652073662913025
+Could I do that with anything?	0.04499189948321769
+Did they want to purify a real gene?	0.0436852037804738
+Could it transform one Pneumococcus?	0.036502249879676096
+Is test your understanding with this question about why it's harder to purify genes than it to purify proteins?	0.029804316728448743
+What are we going to ask?	0.029553538431963844
+Does this DNA contain the instructions to be replicated?	0.028628544095218977
+Did they get to the mid 1960s?	0.015585637923231754
+What is it one, one hundred thousandth of so even for a gene like this?	-0.043563570270423346
+Can I purify the human genome?	-0.05713947480589687
+Is test all right?'s understanding with this question about why it's harder to purify genes than it to purify proteins?	-0.058482162536253046
+Does it's not different charge and different size and other properties?	-0.05906854096668046
+'ll we come to that?	-0.05921143475631996
+'ll proteins and lipids and other things come to that?	-0.07620379562756385
+Are we going to ask how we make this operational?	-0.08289389547462545
+Can we distinguish bacteria?	-0.08452460501006076
+Do we just nail the secret of life?	-0.08687903212905601
+Do now think about what that problem is?	-0.09259083550907143
+Was this really an idea that folks had we 're pretty smart?	-0.09297323800688106
+Do we know the secret of life?	-0.0941610587476962
+Can we crack open cells?	-0.0964066654054796
+What is that one, one hundred thousandth of so even for a gene like this?	-0.12268489423409479
+Do we need glue to paste DNA?	-0.12497981373064593
+Did they have this genetic code?	-0.12666615945848392
+Does it's not much of a purification?	-0.14085817713466353
+Was this really an idea that folks had people 're pretty smart?	-0.14639866482600605
+Do we have a big human genome?	-0.14829493238286284
+Is this why people had trouble?	-0.15654318371021536
+Do we need scissors to cut DNA?	-0.1579901109140549
+Does that problem's not much of a purification?	-0.16962501926307683
+Does that's Cut and paste?	-0.17894280398062268
+Did people have this genetic code?	-0.18365391777348639
+What do we need glue to paste?	-0.18396054981279275
+Do I 'm serious?	-0.21612470372935122
+What do we need scissors to cut?	-0.2169708469962024
+Did we talk so much about that last time?	-0.21748164300409978
+What did we talk last time about?	-0.21818245712147055
+Is the source yourself?	-0.2366742099447703
+Do we have to admit something?	-0.23818841725408557
+Does it's a single molecule?	-0.23885369727844386
+Does that's our recipe?	-0.24125410565239114
+Do we do this transformation?	-0.24147903791563463
+Was that the trick?	-0.24296512212775112
+Does it turn out that when we do this transformation, we do not always manage to get DNA in every cell?	-0.24644915955086155
+Do proteins and lipids and other things do this transformation?	-0.2467228844677325
+Did folks talk so much about that last time?	-0.2528864747874022
+Do I purify it up?	-0.2619958139743561
+Does that's proteins and lipids and other things's recipe?	-0.2622195663525202
+Does that problem's a single molecule?	-0.2643516664823875
+What does it turn out that when we do this transformation, we do not always manage to get in every cell?	-0.2646677284820729
+Does that's what that is?	-0.2923873123933556
+Are it little genes?	-0.29366369290000893
+What did they want to purify?	-0.29940324567922394
+Do I 've shown you sequences of genes?	-0.3001118139402916
+Is it shred?	-0.3011703322279904
+What do we know to?	-0.3267777538543337
+Do we 've got to do?	-0.33449074903013987
+Is this guy here my bacteria?	-0.3625076893617376
+Do proteins and lipids and other things not mean that?	-0.3738012941700757
+Do we still use that word?	-0.37387865800227416
+Do we not mean that?	-0.3784458415893426
+Do proteins and lipids and other things still use that word?	-0.3840845009639233
+Does a cell turn out that when proteins and lipids and other things do this transformation, we do not always manage to get DNA in every cell?	-0.38910117918118137
+Does that's a cell?	-0.39592762339349163
+Does here's my bacteria?	-0.39800467186850885
+What does a cell turn out that when proteins and lipids and other things do this transformation, we do not always manage to get in every cell?	-0.4056966015132817
+Do I 've purified it!	-0.44113094091121674
+Can I take cells from your blood?	-0.442530419885667
+What was this really?	-0.46482730045259124
+Does it's pure?	-0.4665188258544213
+Do we need to do?	-0.4768962287096794
+Does that's it?	-0.48001837608949205
+Do it back up?	-0.489335036432204
+Do I take your DNA?	-0.5408602533366991
+Did they say that's it?	-0.5417382992198543
+Does that's pure?	-0.550058818052857
+Do that back up?	-0.5685519614748504
+Does that's not hard to do?	-0.5743453976483559
+Does it now become very dilute?	-0.5813450495822721
+Did I show you briefly was two million bases long?	-0.5820588181382671
+'ll we do to keep them straight?	-0.5904432499733325
+What do I take?	-0.6510819062479964
+What does it turn out in?	-0.6974771774064377
+What are it?	-0.757130223944998
+What did I show?	-0.9073740903694896
+Is it one, one hundred thousandth of the genome so even for a gene like this?	-1.0258090070594297
+Is that one, one hundred thousandth of the genome so even for a gene like this?	-1.1042993843793119
+What is it one, one hundred thousandth of the genome so for?	-1.139323062917469
+What is that one, one hundred thousandth of the genome so for?	-1.2208780382214701

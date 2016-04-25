@@ -1,0 +1,43 @@
+JOSH: Hi. Welcome back. Josh here. Today, we're going to learn how to analyze pedigrees. And we're going to use pedigrees to determine how a trait is being inherited in a family. 
+
+By analyzing the pattern of this trait in the pedigree, we'll be able to infer the genotypes of the individuals as well as the mode of inheritance of that trait, whether it be inherited in a recessive or a dominant fashion, autosomal versus sex-linked fashion. 
+
+So here's what one of the pedigrees we'll be looking at looks like. So let's go over what these symbols are. So when an individual is indicated as a square, that means that individual is male. And when an individual is drawn as a circle, that means the individual is female. 
+
+The shading of these symbols indicates whether this individual is displaying the trait in question. So if a symbol is unshaded, then that individual is unaffected, or does not display the trait. And if a symbol is filled, that means that individual is affected and displays the trait. 
+
+By looking at these pedigrees, we're going to try and determine if the trait is being inherited in a recessive versus dominant fashion, as well as whether the trait is being inherited in an autosomal versus X-linked fashion. 
+
+So here's our family. Here's our pedigree, with affected individuals shaded in black. And if we want to know what the mode of inheritance, or the most likely mode of inheritance, of this trait is, what I like to do is for each scenario, we'll draw the genotypes of each individual. So what would the genotypes be of the individuals in this pedigree if this trait was being inherited in an autosomal recessive manner? 
+
+So we'll indicate a wild-type copy of the gene in question as a plus and a mutant copy of the gene in question as a minus. The trait is being inherited in a recessive fashion. That means that affected individuals must be homozygous for the mutant version of this gene. And since this daughter inherited two mutant copies of the gene, that means her mother must be a carrier for the mutant copy of the gene and be a  heterozygote. 
+
+And since this male is affected, we know both of his parents must be carriers. And these final three unaffected individuals in the third generation can either be wild-type homozygotes or carriers, heterozygotes. So the data is consistent with the hypothesis that this trait is being inherited in an autosomal recessive manner. 
+
+What would the genotypes be of these individuals if the trait was being inherited in an autosomal dominant manner? Well, we know this affected individual cannot be a homozygote for the mutant copy of the gene. Because then all of his offspring would have to inherit this mutant allele. And because the trait is dominant, all the progeny should be affected, which they are not, which means that this individual must be a heterozygote for the affected trait. 
+
+This female must be a homozygote, the wild-type copy of the gene, because she is not affected. This individual is affected, so they are heterozygote. This individual is unaffected. They are homozygous recessive as is this person's partner. 
+
+And now we come to a problem. Because since both of the individuals in the second generation are wild type and have two wild-type copies of the gene, it's impossible for this son, this affected son, to have the disease trait. Because somehow this male must have inherited the mutant allele, which is impossible, unless it arose again de novo from a new mutation, which is highly unlikely. So we can rule out this autosomal dominant hypothesis. 
+
+And when you're looking at these pedigrees, and you see an affected individual come from two unaffected parents, you can rule out the autosomal dominant mode of inheritance. So this right here is the giveaway that this cannot be inherited in an autosomal dominant manner. 
+
+So what about X-linked recessive? And in this case, we'll draw the wild-type copy of the allele as an X with a superscript plus, and the mutant copy of this allele as an X with a superscript minus. So let's draw the genotypes of the first generation. 
+
+This individual is a male, so they have one Y chromosome and one X chromosome with the mutant copy. This individual is a female. Let's hold on to her for a second. 
+
+This daughter has two X chromosomes and since, in this hypothesis, the trait is being inherited in a recessive manner, this daughter must have two mutant copies, which means that her mother must be a carrier and have one wild-type copy of the gene and one mutant copy of the gene. 
+
+This male inherited a Y chromosome from their father and an X chromosome from their mother, which must be wild type, because this individual is unaffected. This male in the third generation inherited a Y chromosome from their father and an X chromosome with a mutant allele from their mother, because this individual is affected, which means that their mother must be a heterozygote and be a carrier for this mutant trait. 
+
+And then we can go in and fill in the rest of these genotypes. This individual must have inherited a wild-type X chromosome from their father and could have inherited either the wild type or a mutant chromosome from their mother. This individual has one wild-type X chromosome. So the mode of inheritance of X-linked recessive is not ruled out in this pedigree yet. 
+
+And let's draw the genotypes for the fourth and final mode of inheritance, X-linked dominant. The male in generation one must have a mutant copy of this gene. This female must have two wild-type copies, because she is unaffected. This male must have inherited a wild-type copy. And this female must have inherited a wild-type copy from their mother and a mutant dominant allele from their father. 
+
+This female must have two wild-type copies. And down here, this male must have a Y chromosome from their father and a wild-type copy from their mother, because their mother is a homozygote with a wild-type allele. But this individual is affected, which rules out the X-linked dominant hypothesis. 
+
+So we're left with just two modes of inheritance, autosomal recessive and X-linked recessive. And so now, what kind of data in this pedigree could rule out the X-linked recessive mode of inheritance? Well, let's imagine that this affected female married an unaffected male and had a son who was also unaffected. 
+
+Well, we know the genotype of this male must be one Y chromosome and one X chromosome with a wild-type copy of the gene. This son must have gotten a Y chromosome from their father and must have inherited a mutant copy of this gene from their mother, since their mother is homozygous for the mutant allele. And yet this individual is not affected. So this data would rule out the X-linked recessive hypothesis. And this would be what to look for to rule out this kind of mode of inheritance. 
+
+All right, so today we've used pedigrees to determine if a trait is being inherited in a recessive or dominant fashion. We've also use them to determine if a trait is being inherited in an autosomal or sex-linked fashion. So great job, everyone. 

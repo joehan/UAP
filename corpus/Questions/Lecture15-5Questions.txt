@@ -1,0 +1,356 @@
+Who slurps up a bit of beta globin?	2.7818974162978636
+What are some of the E. coli going to take up?	2.697018097680994
+What do some of the E. coli 've purified every piece of?	2.6525163519267254
+What do some of the E. coli 've purified?	2.651988896402196
+What 've purified every piece of the human genome?	2.5472283491996373
+What do some of the E. coli have zillions of?	2.545510487462576
+What does one of the slurps up some alpha globin slurp up?	2.523823192629997
+What did lots of choices of restrictions sites start making synthetically?	2.500582807698232
+What plasmid containing a different piece of human DNA?	2.4946500710730266
+What 've taken the entire human genome ligated it to vectors, transformed it into host cells?	2.4803215924185027
+What do some of the E. coli have?	2.4705850930446402
+What really is beta globin triosephosphate isomerase?	2.4067495660907032
+What have zillions of colonies?	2.3690924008060246
+What did Amp R. amp?	2.3594832331377535
+What do some of the E. coli 've done?	2.3506773360041127
+What is taking up DNA from the environment?	2.344406124273948
+What does one of the slurps up some alpha globin slurp up a bit of?	2.321830927619387
+What did a plasmid containing a different piece of?	2.3211981435316806
+What 've some of the E. coli taken ligated it to vectors, transformed it into host cells?	2.306460250884165
+What's an intellectually different kind of purification?	2.3058761540398502
+What do bacteria like to pick up little pieces of?	2.29616352145357
+What are bacteria going to plate them on?	2.2384205553160696
+What are going to take up plasmids?	2.233516921773276
+What do some of the E. coli call?	2.22888758489196
+What 've some of the E. coli taken the entire human genome ligated it to, transformed it into host cells?	2.189288976940441
+What is one of bacteria's many businesses taking up DNA from?	2.1784069522363105
+What is one of bacteria's many businesses taking up from the environment?	2.1676821577846646
+What are lots of restriction sites?	2.148909649805284
+What does a little puddle of cells, a colony make?	2.1428045288440343
+Who had a different plasmid?	2.1206291696174344
+Who Amp resistance?	2.0890708916547576
+What has descended from a single cell?	2.0863451589357838
+What has each individual colony descended from?	2.0491495240175626
+What did a plasmid containing?	2.0053997405468786
+What are the vectors lots of?	1.9962280633739165
+What 've done the entire human genome?	1.9942201656810112
+What makes a colony?	1.9729952994485005
+Who here has beta globin?	1.969154867644306
+What do somehow come up with?	1.9526405227216623
+What's most amazing kind of purification?	1.9517480426208136
+Who do bacteria 're going to take?	1.9444970324232456
+What were of course?	1.927052916590221
+What 're going to divide?	1.9113106638547142
+What's actually what bacteria's business is?	1.903803377339596
+Who has a plasmid?	1.900761867015357
+What do bacteria like to pick up?	1.9002501139823547
+What 're going to grow?	1.8834660303805608
+What's got agar?	1.8711831127273
+What is the polylinker?	1.8701839316629414
+What do some of the plasmids have?	1.8667382475879915
+What's carrying an ampicillin resistance gene?	1.8545210976532107
+What are a colony?	1.840518491460954
+What have a certain resistance?	1.8085165030730215
+What is a specific book?	1.7777173089147666
+What were people of?	1.7665640222915644
+If that plasmid carried the resistance gene for penicillin who put on the plate?	1.7422213849705313
+What are the vectors?	1.7331738311511136
+If that plasmid carried the resistance gene for penicillin what did I put on?	1.7277973631861907
+What does the test tube have?	1.7276144283530588
+Do lots of other E. coli 're going to divide?	1.7135897055076206
+What is one of them?	1.712641085655651
+What is the next lecture?	1.7090513079019911
+Do lots of other E. coli 're going to grow?	1.698401723612628
+What are bacteria much larger than?	1.6975250546788436
+What is ampicillin?	1.6570353605778556
+Who 'mes going to pour this DNA onto these E. coli?	1.6555318359361686
+What do bacteria end up with?	1.6336662769066506
+What is the plate?	1.6279300004294435
+Are some of the E. coli going to take up plasmids?	1.6091006796504277
+What do I 'm going to pour onto these E. coli?	1.6087111769121245
+Who 'ves plated my library on the Petri plate?	1.6084117365770512
+Who is a little stretch that has lots of different restriction sites and things like that?	1.5892139543794648
+What is the book?	1.5843915340002281
+What does a different plasmid's carrying?	1.5686741864136557
+What does one's got?	1.5493019851693388
+Do lots of other E. coli divide too?	1.5401176403847812
+Do some of the E. coli 've purified every piece of the human genome?	1.5354473834918583
+What divide too?	1.5098460661512167
+What are cells?	1.506541957182929
+If I 'm willing to make many plates, who could have millions of separate colonies?	1.5060255238249645
+What was the cell that had that piece of beta globin, or the piece of alpha globin?	1.5042377141757748
+What do I 'm going to pour this DNA onto?	1.480687858555283
+Did Amp R. amp resistance?	1.4748975363000119
+What are going to plate them on a Petri plate?	1.470881035863882
+What is the alpha globin?	1.4689355277858294
+What divides?	1.4535238423887353
+Do some of the E. coli have zillions of colonies?	1.447616323588333
+Does one of the slurps up some alpha globin slurp up a bit of beta globin?	1.4406423677389317
+Who 'ves got all these pieces of human DNA in these vectors?	1.4300163510877297
+Who are going to plate them on a Petri plate?	1.4257542544072113
+Who 'ves selected for those who have acquired the plasmid?	1.4241268618629155
+Did a plasmid containing a different piece of human DNA?	1.422753660297528
+Are bacteria going to plate them on a Petri plate?	1.407639566062421
+What grows?	1.4070230559820773
+What like to pick up little pieces of DNA?	1.3912917897079828
+Has each individual colony descended from a single cell?	1.3910328276399961
+Who 've purified every piece of the human genome?	1.371518037829604
+What do I 've got all these pieces of human DNA in?	1.3658973116731046
+What do I 've plated on the Petri plate?	1.363815423101292
+What do I 've got all these pieces of in these vectors?	1.357803746297538
+What do I 've got in these vectors?	1.3525901987635973
+Do bacteria like to pick up little pieces of DNA?	1.3525718958788535
+What does the engineering department's actually?	1.3518881131903882
+What do we 've purified every piece of?	1.3420794585793971
+Do some of the E. coli 've done the entire human genome?	1.3338098657688082
+What come up with some special trick to persuade these bacteria to take up little circles of DNA?	1.3298663103199084
+What's pretty much there?	1.329735088991742
+What did each individual of those founder cells have?	1.3273972048892388
+What 've some of the E. coli taken the entire human genome ligated to vectors, transformed it into host cells?	1.3247456776757542
+Who 've taken the entire human genome ligated it to vectors, transformed it into host cells?	1.3130223375438401
+What started making these things synthetically?	1.3109338459674311
+What's OK?	1.3030790531101903
+Who 'ves accomplished a biochemical purification by taking the DNA, ?	1.3013912892437234
+What do?	1.2980602592209796
+What says?	1.2968571443511008
+Who are we going to plate on a Petri plate?	1.2743487501636075
+Who can put a lot of bacteria on a plate?	1.269797796440204
+Who 'ves got a test tube here filled with bacteria?	1.2654085404527704
+Is one problem really beta globin triosephosphate isomerase?	1.2638096002508692
+What 've we taken the entire human genome ligated it to, transformed it into host cells?	1.2597615717822683
+Who draws this at huge scale to exaggerate?	1.2591018299570798
+What divide?	1.2496311029965566
+What are we going to plate on a Petri plate?	1.2469813095646667
+What can I put a lot of bacteria on?	1.2436012727062704
+What's it?	1.238006524937368
+Who are bacteria going to plate on a Petri plate?	1.237269916171761
+What 've we taken ligated it to vectors, transformed it into host cells?	1.2358355838601627
+What do I draw at huge scale to exaggerate?	1.2349439143193384
+Does a little puddle of cells, a colony make a colony?	1.2144842852612854
+What are bacteria going to plate on a Petri plate?	1.2099024755728207
+What is one of their many businesses taking up from the environment?	1.2098835750908
+What is one of their many businesses taking up DNA from?	1.207635409575171
+Who wants to take a test tube containing bacteria?	1.1953839667919528
+Do the host cells that pick the entire human genome up grow and divide, grow and divide?	1.1947044466341374
+Who have zillions of colonies?	1.193323538313086
+Who wants to add these DNA molecules to the bacteria?	1.1910069215135497
+What do I 've accomplished by taking the DNA, ?	1.1883659040248022
+What do I draw this at to exaggerate?	1.1601099307389058
+Is one of bacteria's many businesses taking up DNA from the environment?	1.1555680666363122
+What's done?	1.141939131664168
+If I 'm willing to make many plates, what could I have millions of?	1.1331809475025216
+What do I 've plated my library on?	1.1293542326260044
+What do I want to add to the bacteria?	1.1282570635871334
+What's not good?	1.1237105603627366
+What do we have zillions of?	1.1191554882986487
+What does it's an intellectually different kind of?	1.1149390477729995
+What is?	1.106592999907898
+Who has now purified the pieces of human DNA away from each other?	1.0991253640593048
+What are our plasmids that have been sealed up here containing various different pieces?	1.0972159657652552
+What is all off?	1.096210201251408
+What 've we taken the entire human genome ligated to vectors, transformed it into host cells?	1.0949777162914125
+Do some of the plasmids have a certain resistance?	1.093723804867356
+Who wants to persuade the bacteria to take up that DNA?	1.0806315414161696
+What can I put on a plate?	1.0777217599148678
+Are the vectors lots of restriction sites?	1.0741890451973721
+If I 'm willing to make many plates, what could I have?	1.0722586166620705
+Who need to stick it into bacteria?	1.0676841830869255
+What do I want to persuade the bacteria to take up?	1.0644179283176247
+Are some of the E. coli?	1.063433509690963
+What have I now purified the pieces of away from each other?	1.0420623539950369
+What are?	1.0400312066381798
+What does that's an intellectually different kind of?	1.039286909486048
+What have I now purified away from each other?	1.035771814057465
+What do we 've purified?	1.0300426214895957
+What has our circles?	1.023995524112498
+Does the engineering department's actually what bacteria's business is?	1.0185734171307828
+What do we need to stick into bacteria?	0.9953150360221936
+Were people of course?	0.9951166999674566
+Does a different plasmid's carrying an ampicillin resistance gene?	0.9758611549366052
+Who 'ves accomplished my purification?	0.969455196751982
+What are we going to plate them on?	0.9685146332974
+Who are not?	0.9594160719439744
+Who do we 're going to take?	0.9398929777670746
+Are cells a colony?	0.9309174241690987
+Who 're going to take these guys?	0.9262125698396249
+Is the plate ampicillin?	0.9197553459449428
+What 've done that?	0.9179724190289846
+What have I now purified the pieces of human DNA away from?	0.9037476414498555
+Who go to the engineering department?	0.8954371349913026
+Will individual, teeny little bacteria land?	0.8935304726933289
+Does the engineering department say?	0.8903164635271168
+What is too?	0.8887078566605295
+Do bacteria end up with colonies?	0.8772831368891674
+What's got some nutrients and all that?	0.8761154872707764
+What does it's most amazing kind of?	0.8709272126524361
+Who 'll sometimes say I 've plated my library?	0.8672087751371245
+Is the book a specific book?	0.8509962808206575
+Who 're going to take this?	0.8277342152219966
+What do we go to?	0.8264969756481422
+Does one's got agar?	0.8223475433127203
+Is the alpha globin one of them?	0.814952269391026
+What does that's most amazing kind of?	0.7943986461530974
+What do we 're going to take?	0.7930332361596153
+Who attaches it to these vectors that can be replicated, and at the point where they land as individual cells?	0.7734282337235878
+Who 'll I sometimes say 've plated my library?	0.7732052966733374
+What do we have?	0.7699974714780513
+What grow?	0.7604212934794888
+What call this a library?	0.7569264592648943
+Do penicillin do?	0.7524312823218569
+What end up with colonies?	0.7465751508307801
+What do I 've selected for?	0.7413843029347698
+What does this guy have?	0.7337162075653552
+What could most of them be one's that did not pick up my DNA in?	0.7280151519467037
+If that plasmid carried the resistance gene for penicillin did I put on the plate?	0.7275421463185601
+Who wants different restriction sites?	0.7250342904182334
+Who 've done it?	0.7078776915598155
+What does it make?	0.7068919779217331
+Who can have different restriction sites?	0.706322016488919
+Who end up with colonies?	0.7019214766391675
+What does it's got?	0.6839715824935115
+Who say thank you?	0.6789087794226407
+Does a biochemical purification's done?	0.6723410776491388
+What 'll I sometimes say I 've plated?	0.6682681602765803
+What was this one here?	0.668056849698272
+What do I 've got?	0.6626848823482205
+Do I 'm going to pour this DNA onto these E. coli?	0.6622016996699682
+What say thank you?	0.6528315530131128
+What do I 've accomplished?	0.652755358048648
+Who is the alpha globin one of?	0.6486425688433524
+What do we end up with?	0.6444484583919572
+Who can put thousands?	0.6428669243542997
+What could be one's that did not pick up my DNA in fact?	0.6389570399033278
+Who do they say thank?	0.6290893807801459
+What is the alpha globin one of?	0.6182425949977068
+Who cannot see the bacteria even there?	0.6102109412584078
+Who 've got a test tube here?	0.6062766339814465
+Who 're going to divide?	0.5952081213044698
+Who call this a library?	0.5913244177370947
+What's actually what their business is?	0.5881210229061995
+What do you want?	0.5854760070071607
+What does this guy here have?	0.5835394820636532
+What can I put?	0.5771010383244861
+What do I attach to these vectors that can be replicated, and at the point where they land as individual cells?	0.5768806209192121
+Does one divide?	0.5721549339763135
+What do we call?	0.5720157804820896
+What can you have?	0.5681413165082929
+Who 're going to grow?	0.5673634878303171
+What do I want to take?	0.5580335570294999
+What could most of them be's that did not pick up my DNA in fact?	0.5545697126571087
+What do we 've got here?	0.5519017277670257
+Do bacteria 've talked about?	0.5480723808521015
+Does one grow?	0.5463540266577556
+What does it's carrying?	0.5420946816119205
+What could most of them be one's that did not pick up in fact?	0.5247125215825119
+What do we 've done?	0.5175938229060673
+Did lots of choices of restrictions sites start making these things synthetically?	0.5129183678349309
+What is I put into the medium of the plate, or penicillin, or whatever one I 'm using?	0.47457997456700474
+Do I 've selected for those who have acquired the plasmid?	0.4619593464399916
+If I 'm willing to make many plates, could I have millions of separate colonies?	0.4601095271955038
+Who wants to select that only those who picked up the plasmid get to grow, and those who did not pick up the plasmid do not get to grow?	0.44666286269572697
+Is the polylinker a little stretch that has lots of different restriction sites and things like that?	0.4359069072661179
+Do somehow come up with some special trick to persuade these bacteria to take up little circles of DNA?	0.4258312959789854
+Is the problem?	0.41373233351636673
+Did each individual of those founder cells have a different plasmid?	0.40989894755652756
+Do we 've purified every piece of the human genome?	0.39438684747497765
+Do I 've got all these pieces of human DNA in these vectors?	0.39209064863364196
+Was this one here the cell that had that piece of beta globin, or the piece of alpha globin?	0.38651221827946847
+What's pretty much it?	0.3773045391545389
+Who 'mes?	0.35217901175190325
+Do I 've accomplished a biochemical purification by taking the DNA?	0.3410488421252622
+Do this particular bacterium over here that had the plasmid divide?	0.3213962332058071
+Is one really beta globin triosephosphate isomerase?	0.31805805529378617
+Do this particular bacterium over here that had the plasmid grow?	0.31279593076628753
+Do I 've plated my library on the Petri plate?	0.293208855350263
+Do I draw this at huge scale to exaggerate?	0.27455839037593455
+Do I 've got a test tube here filled with bacteria?	0.2611672903483919
+Can I put a lot of bacteria on a plate?	0.25962344861495357
+Do some of the E. coli 've done that?	0.2577371290500561
+What could most of them be one's in fact?	0.2555822831375636
+What is that?	0.23883015539980912
+What does it's?	0.23391225826411288
+What can I put a lot of on a plate?	0.22794802780016887
+Do I want to add these DNA molecules to the bacteria?	0.2201068524418277
+Do I want to take a test tube containing bacteria?	0.21992033524060606
+What 've talked about?	0.2185487121837717
+Do we have zillions of colonies?	0.21135086728733476
+Does it's an intellectually different kind of purification?	0.20574004072789043
+Do we 're going to take these guys?	0.19971764587817953
+Is one of their many businesses taking up DNA from the environment?	0.19892097295572242
+Do bacteria 're going to take these guys?	0.1962807739752801
+Who divide too?	0.18933521996479752
+What do I want to add these DNA molecules to?	0.1737949576206903
+Who goes?	0.1717143293279939
+What does that's?	0.16125718898461705
+Do the host cells that pick it up grow and divide, grow and divide?	0.15993896594387236
+Does the test tube have our circles?	0.1575762779932135
+Who say?	0.15143279814036958
+Do some of the E. coli call this a library?	0.14543493152394316
+Who 've talked about?	0.14486189103533942
+Are we going to plate them on a Petri plate?	0.14455263301788968
+Does that's an intellectually different kind of purification?	0.13008790244093893
+Do I want to persuade the bacteria to take up that DNA?	0.1239508228341113
+What are our circles?	0.10926112701447144
+What does that's pretty much?	0.09799219907956336
+Have I now purified the pieces of human DNA away from each other?	0.09531788297282162
+Do we go to the engineering department?	0.08328261466487552
+What does it's actually?	0.07980474508428359
+What do I want to persuade to take up that DNA?	0.06010978336912709
+Do I attach it to these vectors that can be replicated, and at the point where they land as individual cells?	0.035966873567458535
+Could most of them be one's that did not pick up my DNA in fact?	0.0030965276416603515
+Do they 're going to divide?	-0.001056107942553508
+Does it's carrying an ampicillin resistance gene?	-0.006398854749946059
+Does it's got some nutrients and all that?	-0.013752650240065778
+Do we 're going to take this?	-0.014223299747443852
+Do they 're going to grow?	-0.02492293663468481
+What 're going to take these guys?	-0.03133790778685053
+Does it's most amazing kind of purification?	-0.032356232474371804
+Does this guy have a plasmid?	-0.040751475733171505
+Does it's got agar?	-0.04298285936310653
+Does this guy here have beta globin?	-0.05319751954008067
+Does it make a colony?	-0.05479809763329824
+Are our circles our plasmids that have been sealed up here containing various different pieces?	-0.07608867418727727
+Are bacteria much larger than these molecules?	-0.09191308727594971
+Do we need to stick it into bacteria?	-0.09646339281878413
+'ll I sometimes say I 've plated my library?	-0.09946869883965959
+Can you have different restriction sites?	-0.10443328994021828
+Do we 've got a test tube here?	-0.10507512049342838
+Do you want different restriction sites?	-0.10835577346495873
+Does that's most amazing kind of purification?	-0.1088847989737105
+Do we end up with colonies?	-0.11193468162552556
+Who are?	-0.15081651425443443
+What do I want to select?	-0.15798389069132157
+Does one's got some nutrients and all that?	-0.1585518760358542
+Can I put thousands?	-0.1629238541369049
+What do we need to stick it into?	-0.16619053872535305
+Do they divide too?	-0.18813430865892333
+What are much larger than these molecules?	-0.19183621753411284
+Can you not see the bacteria even there?	-0.1926626726741354
+What do I attach it to?	-0.20549157334309787
+Do we call this a library?	-0.22239019994822917
+Do I 've accomplished my purification?	-0.22814568420484416
+Does that's OK?	-0.23167413035695206
+Is that the next lecture?	-0.25581088303977007
+Does it divide?	-0.3031774419185851
+Does it grow?	-0.328978349237143
+Does it's actually what their business is?	-0.3495890345684076
+What will land?	-0.3757096974720626
+Do I 'm?	-0.3771441133808655
+Is my scale all off?	-0.37874402113840033
+Do they say thank you?	-0.3938182476526102
+Is what I do I put into the medium of the plate, or penicillin, or whatever one I 'm using?	-0.3958732258498465
+Do we 've done it?	-0.42684094048039967
+Does it's done?	-0.43683441767211595
+Do we say?	-0.442817517377494
+Do you go?	-0.45916370062392664
+Do we 've talked about?	-0.4788633960016897
+Does that's it?	-0.48001837608949205
+Are these other guys not?	-0.49258065162629117
+What can you not see even there?	-0.5234751611347839
+Do I want to select that only those who picked up the plasmid get to grow, and those who did not pick up the plasmid do not get to grow?	-0.5257141687226101
+Does that's pretty much it?	-0.5358679620091691
+Does that's not good?	-0.5808758329476535
+Does that's pretty much there?	-0.5863223884880617
+Is that one too?	-0.6614684942808282
+Are we?	-0.7442320097708912
+What could most of them be in fact?	-0.7628595396756113

@@ -1,0 +1,47 @@
+ERIC LANDER: We're going to need to attach our DNA to something that will make it replicate, something that will have the instructions for replication, so when we toss it in, when we transform it into a cell, it will be able to replicate. So that means-- let's see. Here is a piece of DNA. Maybe this is human DNA. Maybe it's zebra DNA. I don't know what it is. I'll call it human DNA for the moment. 
+
+I want to attach it to some other piece of DNA-- a vector-- that's going to have the ability to, when it goes into a cell, be replicated. So I go to the engineering department. I say, please make me a piece of DNA that will have the ability, when it goes in a cell, to be replicated. The engineering department says, I don't know how to do that. Ask an expert. The expert is bacteria. And it turns out bacteria have solved this problem too. 
+
+How do the bacteria solve this problem? It turns out that here's a bacteria, bacterial cell there. I put its little flagellum tail here. That's why I keep doing this. That's the flagellum at the end of our bacteria here. 
+
+It's got this genome of four million bases. But it turns out that E. coli-- or actually, many bacteria-- carry, in addition, extra teeny little replicating mini chromosomes, little mini circles. These things are called plasmids, these little circles. 
+
+These plasmids are accessory extra pieces of DNA in a circle that contain all the instructions to be replicated. The instructions for replication are called an origin of replication. It tells the machinery of the cell that starts DNA replication, open up the chromosome here and start replicating. It turns out there are specific sequences that are recognized by the bacteria that are called origins of replication. 
+
+And these plasmids have origins of replication, and they're able to be replicated by the cell when the cell grows and divides. Why? Just like with restriction enzymes, why did cells have restriction enzymes? Now with the plasmids, why do cells have plasmids? Yeah? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Oh. That's an interesting point. What if these plasmids had some genes on them? Suppose these plasmids-- let's draw a little bigger picture of a plasmid here. Suppose-- expand that out-- when we look at one of these plasmids-- here's my origin of replication. I'm going to refer to origin of replication as just ori, for origin of replication. Suppose it had some gene on it, of interest. Turns out they do. 
+
+Turns out these plasmids carry genes, often one. And often the gene is the gene that encodes a protein that confers resistance to antibiotics, to a particular antibiotic, like penicillin resistance. So there might be a penicillin resistance gene. Or another antibiotic is called ampicillin. It could be penicillin resistance, ampicillin resistance, kanamycin resistance. 
+
+Wait a second. Why would bacteria have genes that break down the antibiotics that we use in our hospitals? After all, these antibiotics, they're modern inventions. 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Sorry? Where did our antibiotics come from? 
+
+STUDENT: Mold. 
+
+ERIC LANDER: Oh. Actually, we didn't invent antibiotics. It turns out they were invented by other microorganisms, for example, fungi. That's how penicillin was discovered. It's a natural product of a fungus. Why do you think E. coli has proteins that break down penicillin? Because they've been at it for a long time. This has been a war going on between the molds and the bacteria for time immemorial. And genes that break down the antibiotics are present in these bacteria. 
+
+Now they could be present in the chromosome, but they're present on these little circles. And the reason their present on these little circles is exactly what you said. What was it? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: They can exchange genes with other bacteria. And how does that happen? Turns out that when bacteria die, their cells crack open, and their guts spill out. It's not a pretty picture, is it? And they include these little circles of DNA, these little plasmids. And it turns out that other bacteria-- might seem a little gross-- love to slurp up the pieces-- you know, it's a little necrophagia, right-- slurp up these pieces of DNA. Because you never know. Your neighbor who just died might have had some interesting, innovative gene. 
+
+Turns out this is the way bacteria think. I mean, again, bacteria don't think. But if bacteria were thinking, if we were thinking about it for them, it would be-- there are a lot of bacteria there. I'm one bacterium. I divide, I divide, I divide, I divide. I have a lot of descendants. They should be slurping up pieces of DNA from the environment and trying them out and seeing if they work. And if they're not any good for anything, so what? But maybe it'll make me resistant to the antibiotic. 
+
+And so it turns out that bacteria share DNA by what is called horizontal transfer. So what's happening is, all the time, bacteria are exchanging things. This is a little scary, by the way. Because if we start using antibiotics willy-nilly, it's pretty easy that if one species of bacteria had a resistance plasmid-- plasmid with a resistance gene-- another species entirely can pick it up by horizontal transfer. So in fact, we are seeing an epidemic of antibiotic-resistant bacteria. 
+
+Because as we use more antibiotics, and as people don't take their full course of antibiotics because they feel better after a few days even though they're supposed to take it for two weeks, they've selected for the bacteria that have picked up these things, et cetera. Not good, not good. And we're seeing a huge spread of antibiotic resistance. 
+
+But anyway, I digress. They have these. So, what are we going to use as our vector? A naturally occurring plasmid. So, let's take this naturally occurring plasmid. It has an origin of replication. It has some kind of a resistance gene on it. And maybe, maybe, maybe we are so lucky that it has one and only one site for the enzyme EcoRI. Then we would be able to take EcoRI, cut that plasmid, and open it up. If we add EcoRI here-- so we add plus the enzyme. This is an EcoRI site. We add the EcoRI enzyme that likes to cut there. 
+
+Now we have a plasmid. It has its origin. It has its resistance gene. We have pieces of DNA, maybe from the human, maybe from the zebra. Who knows. We'll say it's human right now. We mix them together in the test tube. They hybridize at their ends. We add ligase. And we seal it up and we get a circle. 
+
+In fact, we don't just get one circle. If we added millions of plasmid molecules that had been opened up, and millions of fragments that had been cut, and we just mixed them together willy-nilly, fragments will match up with vectors, and ligase will seal it up. And we'll get a circle that has a piece of beta globin, and another circle that has a piece of alpha globin, and another circle that has a piece of triose phosphate isomerase's gene, and another, et cetera. We'll get an entire collection of circles containing all the different pieces of the human genome. 
+
+OK. Before you go on, try this question about the important features in a vector. 

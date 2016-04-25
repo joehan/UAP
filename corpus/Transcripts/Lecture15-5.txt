@@ -1,0 +1,49 @@
+PROFESSOR: You want to transform. So what have we got? We've got a test tube here. Here's a big fat test tube. The test tube has our circles, our plasmids that have been sealed up here containing various different pieces. I'm, again, drawing this at huge scale to exaggerate. And there are millions, and millions, and millions of molecules there. 
+
+Maybe this guy here has beta globin, and maybe that one there has got a piece of alpha globin, and, I don't know, that one here has the gene that codes triosephosphate isomerase. Now we're going to take this, and we need to stick it into bacteria. So, somehow, I want to take a test tube containing bacteria. 
+
+And again, my scale is all off, because bacteria are much larger than these molecules, but that's OK. I've got a test tube here filled with bacteria. Now I want to add these DNA molecules to the bacteria, and I want to persuade the bacteria to take up that DNA. So we go to the engineering department and we say, please. 
+
+Somehow come up with some special trick to persuade these bacteria to take up little circles of DNA. And the engineering department says, we don't know how to do that. Ask the experts. And what do the experts say? They say, we actually do that for a living, thank you. Bacteria like to pick up little pieces of DNA. 
+
+We can use chemical tricks to make them a little more amenable, and make it more efficient, and we add various chemicals to make it better and more efficient, and we heat shock them and do some other nasty things to increase the frequency. But it's actually what their business is. One of their many businesses is taking up DNA from the environment. 
+
+So in fact, it turns out that, with the appropriate protocol, it's not that hard to simply dump in the DNA and shock the bacteria in some way, and they go [SLURP] and slurp up pieces of DNA. And one of the slurps up some alpha globin, one of them slurps up a bit of beta globin, and there you go. Now what are we going to do? 
+
+We're going to take these guys, and we are going to plate them on a Petri plate. It's got agar and it's got some nutrients and all that. And individual, teeny little bacteria will land. And then what will happen is each little spot that contains a single bacterium, this happens to be, if you look really closely, you'll be able to see that that's the one that got a piece of beta globin. 
+
+It starts to grow and divide, and grow and divide, and grow and divide, and one bacteria that you can't actually see with your eye-- I'm of course joking. You can't see the bacteria even there, let alone see that it has beta globin in it. It grows and divides, grows and divides, and makes a little puddle of cells, a colony. It makes a colony, as we've talked about. 
+
+And so we end up with colonies. But each individual colony has descended from a single cell. And each individual of those founder cells had a different plasmid. A plasmid containing a different piece of human DNA. This one here was the cell that had that piece of beta globin, or the piece of alpha globin. 
+
+And I can put a lot of bacteria on a plate. I can put thousands. Tens of thousands. Hundreds of thousands of bacteria. If I'm willing to make many plates, I could have millions of separate colonies. And what have I done here? I have now purified the pieces of human DNA away from each other. I've accomplished a biochemical purification by taking the DNA, cutting it up, diluting it down, in effect, 
+
+attaching it to these vectors that can be replicated, tossing them into individual cells, and at the point where they land as individual cells, I've accomplished my purification. It's done. That single founder cell is carrying a piece of beta globin, and when it grows and divides, and grows and divides, and grows and divides, and when the plasmid is replicated, and replicated, and replicated within the growing and dividing cell, I have lots of copies of that plasmid, and therefore lots of copies of beta globin. 
+
+There's one problem. One small problem. I'm going to pour this DNA onto these E. coli. Some of the E. coli are going to take up plasmids, but some of them won't. Won't lots of other E. coli have landed in different spots on my Petri plate that didn't happen, by chance, to pick up a little circle of DNA? 
+
+And they're going to grow and divide, and grow and divide, and grow and divide too. That's not good. In fact, most of them could be one's that didn't pick up my DNA. I somehow need some incredibly clever way to take my Petri plate here, on which I'm going to pour my cells-- my individual cells-- each of which lands as single cells here, there, there, there, there, there, there, there, there, some of whom are carrying a plasmid with a piece of human DNA, and some of them aren't. 
+
+And I want to select that only those who picked up the plasmid get to grow, and those who didn't pick up the plasmid don't get to grow. How can I select for the plasmid? 
+
+STUDENT: If some of the plasmids have a certain resistance, you can put them in there. 
+
+PROFESSOR: Ah. If that plasmid carried the resistance gene for penicillin, what do I put on the plate? Penicillin, or ampicillin, or whatever. And so all I have to do is make sure that not only does my plasmid have an origin of replication without which it won't replicate, but it has some kind of a resistance gene, like Amp resistance. Amp R. Amp resistance. 
+
+And then what I do is I put into the medium of the plate, ampicillin, or penicillin, or whatever one I'm using. And now, this particular bacterium over here that had the plasmid, it can grow and divide, and grow and divide. This guy has a plasmid, so it's carrying an ampicillin resistance gene. That one is too. That one is too. That one is too. 
+
+But these other guys aren't. And I've selected for those who have acquired the plasmid. Now, how am I going to get a plasmid that has just the right restriction sites and just the right resistance genes? I want a plasma that maybe has EcoRI, or maybe sometimes I want it to have BAM, or maybe sometimes I want it to have kanamycin, or sometimes I want it to have penicillin. How am I going to get all those? 
+
+STUDENT: Catalog? 
+
+PROFESSOR: It's in the catalog. Turns out there's a whole other section of the catalog of vectors. Look, vectors, see? Vectors. And look, these vectors, lots of restriction sites. See? Lots of choices of restrictions sites, because people, of course, have started making these things synthetically. And you want different restriction sites? 
+
+You can have different restriction sites. Oh goodness, look at that. There's a polylinker, a little stretch that has lots of different restriction sites and things like that. And so what you do is, you go online and you say, send me some restriction enzymes, send me some ligase, send me some vectors, throw in the ampicillin, and the whole order shows up and you get to do molecular biology in that fashion. 
+
+That's pretty much it. That's it. It's most amazing kind of purification. It's an intellectually different kind of purification. So there we are. We've done it. We've taken the entire human genome, broke it up into pieces, ligated it to vectors, transformed it into host cells. The host cells that pick it up grow and divide, grow and divide, and we have zillions of colonies. 
+
+Zillions of colonies. Millions. Millions of colonies there. And we've done it. We've purified every piece of the human genome. But there's one problem. We call this a library. We can either think about the individual molecules, each of which has its own piece of human DNA as kind of a library of molecules, or we'll also refer to this a library of host cells, each of which carry a different molecules. 
+
+I've plated my library, I'll sometimes say. I've plated my library on the Petri plate. I've got all these pieces of human DNA in these vectors. The problem is, there's the library. How do I find my book of interest? How do I know which one really is beta globin, which one really is triosephosphate isomerase? 
+
+How do I go and take a book, a specific book, out of the library? That is the next lecture. OK, to be sure you're following the ideas of cloning, try this question about transformation and selection. 

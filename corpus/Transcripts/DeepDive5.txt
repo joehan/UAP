@@ -1,0 +1,19 @@
+MICHELLE MISCHKE: Hi. I'm Michelle Mischke, one of the coordinators for 7.00x. Today, I want to work a problem about transcription and translation. Let's get started. Let's work a problem so you can practice what you've learned about transcription and translation. Here, I've given you double stranded DNA sequence where the top strand is running five prime to three prime, the bottom strand is running three prime to five prime, and this GC represents a base pair that's hydrogen bonded together. I've also marked the sequence with every 10 nucleotides just for convenience. 
+
+So if this is a protein coding gene, what would we need to have on this protein coding gene to direct the production of a protein? We would need a promoter, and I'm going to arbitrarily choose this region as my promoter and highlight it with a box. If this is my promoter, and transcription begins at base pair 50, what is the mRNA that's produced from this gene? 
+
+Take a moment, pause the video, and give me the sequence that you would expect if this is our promoter and transcription begins at base pair 50. Remember to apply the rules. All nucleic acid is made five prime to three prime. It requires a template. And if you're making RNA, you will use uracil instead of thymidine. 
+
+Let's see how you did. Here's our promoter, transcription starting at base pair 50. RNA polymerase is bound and is moving left to right. If that's the case, then the bottom strand is being used as the template, and the mRNA will look like the top strand. If we look at the sequence of the top strand, we can see that the mRNA will read, five prime, AUCAGGAUCA, et cetera. 
+
+So let's look at this sequence in another way. Let's leave this as our promoter but imagine that transcription begins at base pair 40 and that RNA polymerase is bound and is moving from right to left. If that is the case, what is the mRNA that this gene would encode? Take a moment, write down the sequence, and we'll be right back. 
+
+All right. Let's have a look. If RNA polymerase is bound to this region and is moving from right to left, then the top strand will be used as the template and the mRNA will look like the bottom strand. In this case, the mRNA will read five prime ACGGAAUAUG, et cetera. 
+
+OK, we've come up with two hypothetical mRNAs that could be produced from this gene. Let's take a look at the very first mRNA that we made, the one that was five prime AUCAGGAUCA, et cetera. Take a moment and try to decide, using a codon chart, what protein that mRNA would encode. Pause the video, give me the sequence of the first three amino acids, and we'll be right back. 
+
+All right, how did you do? If you look at that mRNA sequence and you started translating with the very first codon, AUC, you made a fatal flaw. If we're thinking about translation, you have to think about a start codon. And if you scan the sequence of this mRNA, you'll see there is no start codon to indicate the start of translation. So there would be no protein produced from this mRNA. It was sort of a trick question, but what it does is reinforce the idea that you need to look for a start codon when you're thinking about translation. 
+
+Great. Let's look at the other mRNA. If we look at the other mRNA, we see the sequence, ACGGAAUAUG. So this mRNA has a few nucleotides prior to what we would read as the start codon, AUG. So for this sequence, we would start at AUG, which encodes methionine, we'd read every triplet after that. And the first three amino acids of this polypeptide would be methionine, leucine, alanine, and it would go on, glycine, proline, et cetera. 
+
+So this exercise should have helped reinforce the ideas of transcription and translation and allowed you to predict the mRNA and the protein that could be encoded from a gene. So that's all for now. Keep practicing. 

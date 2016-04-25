@@ -1,0 +1,159 @@
+PROFESSOR:  Let's compare, again, prokaryotes, eukaryotes and viruses. Now here, the prokaryotes turn out to be the easy ones. You know, you have a gene. A section of it gets transcribed. It makes messenger RNA. 
+
+5 prime, 3 prime. Check. We're done, just like I taught you. 
+
+Eukaryotes, that is you-- MIT students or people watching on the web. What does transcription look like in eukaryotes? Well, same thing. 
+
+You have a gene. Transcribed, makes a messenger RNA. 5 prime, 3 prime. 
+
+That's great, but there are three strange things. Strange thing number one, the messenger RNA over here, at its 5 prime end, has a strange modification put on it. It's called a 5 prime cap. 
+
+It's a G triphosphate that's been put on backward. Usually the sugar phosphate chain goes 5 prime to 3 prime, 5 prime to 3 prime, 5 prime to 3 prime. And the triphosphate is hanging off the 5 prime carbon. 
+
+Well here, you have a weird linkage from the 5 prime carbon to the 5 prime carbon. Not allowed. It's not a 5 prime, 3 prime linkage. It's a 5 prime, 5 prime linkage. 
+
+And it's a G turned around backwards with the triphosphate. And it's a special feature of these messenger RNAs in eukaryotes. That's one strange thing. It's important for various processes. 
+
+Second, at the end of the message, the 3 prime end of the message, the message is clipped at a certain place. And a long tail of As is put on, maybe 200 As or 100 As or a lot of As are put on at the end. And this is called the poly(A) tail, because it has a lot of As at the end. 
+
+So eukaryotic messages have 5 prime caps and 3 prime poly(A) tails. And these have to do with the way messages are stabilized and processed. And I mention them. 
+
+They're not going to matter that much to you. But they're an important difference to those of us who work with these things in the lab. So they have the poly(A) tail. I tell you, the poly(A) tails are kind of fun, because it means you can capture all these RNAs by binding them to a long stretch of poly(T). And we use that trick a lot. 
+
+So messenger RNAs, as opposed to other RNAs like ribosomal RNAs or transfer RNAs, can be captured by using the poly(A)s as a handle. And you use a long stretch of poly(T), which will bind to it. But that's not their purpose. Their purpose is not there to make it convenient for molecular biologists to capture them. But we do use that a lot. 
+
+But the really weird thing, number three, is the following. When you look at an RNA and the corresponding DNA from which it's made, you see something very funny, which we'll look at in that picture. Here's the DNA. Here's the RNA that gets initially made. 
+
+That RNA gets processed. I'm going to call this the immature RNA. It gets processed into a mature RNA. And when you take the mature RNA and you melt the DNA double helix, the two strands apart, and you bring the RNA next to the DNA that was the basis for transcribing it, and you let them hybridize to each other by Crick-Watson base pairs, you find-- that is, if you are Phil Sharp, one of our colleagues here at MIT who won the Nobel Prize for this-- you find, if you are Phil Sharp, this picture here in an electron micrograph of RNA hybridized to the DNA that encoded it. 
+
+And it's not so obvious what's going on. But in the picture here, what you find is that the RNA hybridized to the DNA is this thick strand. The DNA that encoded the RNA has these extra bits that don't match. It's kind of weird. 
+
+You take the DNA that was used to make that RNA-- this is from a particular virus, a eukaryotic virus, actually. That's where he discovered it. 
+
+You take the DNA. It was used to make an RNA. This is the stretch of DNA. 
+
+But the actual RNA that was produced is a lot smaller. And a lot of bits are missing. There's a whole lot of stuff that's not there. 
+
+And what's happened is this bit has been kept. This bit has been kept. This bit has been kept. And these bits have been thrown out in the mature RNA. 
+
+The RNA has been spliced. It's had whole chunks discarded. It might have been several thousand bases long or 10,000 bases long. And then pieces were just thrown out. 
+
+And this is called splicing. And that's the really cool thing. Discovered, as I say, by our colleague, Phil Sharp, here at MIT, who shared a Nobel Prize for this with Rich Roberts. 
+
+This is weird. The bits that go out, that are thrown out, these bits have a name. The bits that are thrown out are called introns. The bits that stay in are called exons. 
+
+The introns go out, while the exons stay in. This is a slightly disturbing nomenclature, because you would think the introns stay in and the exons are excised. But it's exactly the opposite nomenclature. The phenomenon was discovered by our colleague here at MIT. The nomenclature was developed by a colleague down at Harvard. 
+
+[LAUGHTER] 
+
+Anyway, that's the nomenclature. It stuck. I do know intron means intervening sequence. 
+
+But it confuses generation after generation of students that the introns go out. But an intron does mean intervening. And that's why Wally Gilbert, who won a Nobel Prize for something else, came up with this nomenclature, OK? But I bring it up precisely to tell you that you will always get this backward, until you use it a lot and recognize that the parts of the gene that are retained are called the exons. 
+
+So let's take a look at a gene here. How about let's look at triosephosphate isomerase, our favorite enzyme? Triosephosphate isomerase is encoded by a gene. And the gene makes an initial transcript of 3.83 kilobases. That is 3,830 thousand bases. 
+
+Here is the transcript. It runs along here. This bit is spliced out. That bit is spliced out. That bit's spliced out. 
+
+That's spliced out. That's spliced out. That's spliced out. And it has one, two, three, four, five, six, seven exons, six introns. And here is the resulting mature message. 
+
+By the way, I've colored it this way because this is where the first AUG is. This is the start of translation. Often, that first AUG can be quite a ways into the message there. So this is, not unreasonably, called an untranslated region. 
+
+And the stop codon occurs here. But the message can keep going after that stop codon is encountered. And this is called an untranslated region. That's the 5 prime untranslated region, the 3 prime untranslated region. This is what a gene looks like. 
+
+So a gene starts somewhere, makes a messenger RNA. The messenger RNA in eukaryotes gets spliced down. And it can be spliced down from 3,000 bases to 1,760 bases, throwing out half the message. 
+
+It can actually get worse than that. Let's take a look at the gene for distrophin human distrophin here. You read this correctly, 2 million bases. 
+
+RNA polymerase hops on at the beginning of this gene. And RNA polymerase runs for 2 million bases, making an RNA that is 2 million bases long. That RNA is then spliced down to 13,000 bases, throwing out roughly 2 million of the 2 million bases. 
+
+[LAUGHTER] 
+
+It's pretty stunning. Why do this? Like, is this any way to run a genome? 
+
+[LAUGHTER] 
+
+But it is how the genome is run. It turns out that genes, typically, will have 10 or more exons that get spliced down to make a mature message. Why do this? Isn't this wasteful? 
+
+Think about every ATP that gets used to make these messages. And this is getting thrown away. It seems terrible. Sorry? 
+
+STUDENT: They're used for something else. 
+
+PROFESSOR: Well, it turns out that there are a couple of good uses. For one thing, I could regulate that process. One gene might actually give rise to several different proteins if, in one cell, it was spliced one way, and in another cell it was spliced another way. 
+
+I could actually have what is called alternative splicing. And I might be able to use a single gene to make multiple different proteins. Pretty clever. 
+
+So alternative splicing can happen. That's one possibility. The minute I have any process, I can start exploiting it. 
+
+And it turns out that a very large fraction of human genes take advantage of alternative splicing. Some have many different alternative splice forms. Yes? 
+
+STUDENT: [INAUDIBLE]? 
+
+PROFESSOR: Oh. Give me another use. 
+
+STUDENT: If there's a mutation on the gene. And it's an intron that gets spliced out, then it [INAUDIBLE]. 
+
+PROFESSOR: Ooh. That's pretty interesting. In fact, let's take that further. 
+
+So mutations, suppose you have a chromosome break. This chromosome breaks. And this chromosome breaks. And the cell madly scrambles to stick them together and repair the two chromosomes. 
+
+If the break occurred in two introns and they got repaired together, what kind of gene would I now have? It might have been a break on chromosome 5 and a break on chromosome 7 in the middle of one gene here in the middle of the other gene here. Both need these big, vast introns. And they get slammed together. 
+
+So I have one gene. Here is its exons. I have another gene. Here is its exons. 
+
+And by chance some radiation hits the cell. Break here. Break here. Cell madly scrambles to recombine. What have I just created? A new gene. 
+
+I've created, by slamming together two parts of two different chromosomes, a new string of exons separated by introns. And when an RNA gets made, it will get spliced out. And that will make a new protein. 
+
+This turns out to be an incredibly creative way to create new genes. I can reuse exons over evolutionary time. So over evolution, genes can give rise to new genes by mixing and matching exons. 
+
+And it turns out to be a very creative, very powerful process that has given rise to lots of the genes that eukaryotes have, lots and lots of this kind of exon shuffling. You'll see the same exon used in many different genes because, somehow, some bit of human DNA or mouse DNA or ancestral DNA got rearranged in some way. And it gives rise to extraordinary creativity. 
+
+It also is a big waste of DNA. But maybe it's OK. Now, aren't you bothered by carrying all this extra DNA? 
+
+STUDENT: It burns calories. 
+
+PROFESSOR: It burns calories. 
+
+[LAUGHTER] 
+
+PROFESSOR: By carrying all this extra DNA, it burns calories. Well, you're carrying a lot of extra DNA, aren't you? But look. Do you compete on replication time? 
+
+If you're E. coli, do you think you could afford to carry all these extra introns? No. Bacteria can't afford to do that. 
+
+Bacteria's replicating every 20 minutes. If it has extra DNA that's not serving a function, it's going to lag behind its neighbor who gets rid of that DNA. So bacteria don't have these introns. 
+
+But what limits your replication? You're not replicating every 20 minutes, right? What limits the replication of most MIT students is like getting out of school, getting out of graduate school, getting a job, finding a spouse. You're replicating on the scale of every 25 years or something like that. 
+
+[LAUGHTER] 
+
+PROFESSOR: That's the time. And DNA replication just turns out not to be rate-limiting for you guys. So carrying a little extra DNA is not such a big deal. 
+
+So eukaryotes somehow have this trait where they carry this extra DNA. They have this splicing machinery. And it's good, because you can make a diversity of proteins out of a single gene. 
+
+We're supposed to teach you, though, one gene makes one protein, because that's, again, the official intro bio line. But of course, that's just not true. One gene can make multiple different proteins by being alternatively spliced. 
+
+And evolutionarily, ideas can get reused. That is exons can get reused by breakage and reunion. Yes? 
+
+STUDENT: Is that why the lilies have so much extra DNA than us then? They just replicate really slowly? 
+
+PROFESSOR: No. But I can tell you the answer to the lilies. 
+
+[LAUGHTER] 
+
+PROFESSOR: Remember I said that there was transposons that were copying themselves all over the place in your genome. And half of your genome was this transposable stuff that had hopped around like retroviruses? In the lilies, that stuff went wild. 
+
+[LAUGHTER] 
+
+PROFESSOR: And it's just tons of this transposable stuff everywhere. The stuff that actually runs the lily is less than 1%. 
+
+[LAUGHTER] 
+
+PROFESSOR: It's tons of this stuff. So do you feel better now? 
+
+STUDENT: Yes. 
+
+PROFESSOR: Right. The lily is much worse infected by the transposons than you are. 
+
+[LAUGHTER] 
+
+PROFESSOR: But you are still 50% infected by transposons, OK? Test yourself with this question. 

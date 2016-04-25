@@ -1,0 +1,29 @@
+MICHELLE ATTNER: Hi, everyone. This is Michelle Attner again. Remember me from your genetics deep dives back in week three? Today we're going to talk about some of the basics of recombinant DNA, or our ability to move DNA sequences around to form a sequence not found in nature. 
+
+The specific question for today is, how do you use restriction enzymes in DNA cloning during the cutting and pasting of DNA molecules? OK. So we're going to start with two double stranded DNA molecules. One molecule is circular. We call this covalently closed circular DNA, a plasmid, or sometimes it's called a vector. In this video I'll refer to it as a plasmid. 
+
+Plasmids are usually about 4,000 base pairs long, and they can be much longer. They can naturally be found in bacterial cells or engineered for cloning. Although the DNA sequence of this plasmid is indicated by a double line, remember that this is representing a double stranded piece of DNA. 
+
+Our second piece of DNA is a linear, as you can see here. What are restriction enzymes? Remember way back from the biochemistry unit, that enzymes are proteins that catalyze a reaction. Restriction enzymes catalyze the breaking of phosphodiester bonds in a sequence specific manner. Dozens of restriction enzymes exist. 
+
+Today we'll just talk about my personal favorite, EcoR1. EcoR1 recognizes the sequence from the five prime end, GAATTC. EcoR1 cuts here, and here. So when EcoR1 cuts DNA, there is a single stranded overhang on each product. Some restriction enzymes cut so that an overhang exists, but others do not. 
+
+The restriction enzymes that cut in the same location on the top and bottom strands produce blunt ends. Restriction enzymes recognize short sequences. And these sequences occur randomly in the genome. These restriction enzyme recognition sites are also intentionally designed to exist on cloning plasmids. 
+
+OK. So now let's look at our plasmid. Some DNA sequence is indicated by the letters A, T, C, and G, representing each of the four bases. And right here you can see the sequence GAATTC. When EcoR1 cuts, this is the result of breaking the phosphodiester bonds on the top and bottom strand of the DNA. 
+
+Cutting the circular plasmid linearizes the DNA. One cut results in one linear piece of DNA. If two EcoR1 sites existed on the plasmid, how many linear DNA products would we have? We would have two linear DNA products. 
+
+Now let's look at our linear piece of DNA that we wish to clone into the plasmid. Does this DNA have any EcoR1 recognition sites? Pause the video and take a look. If you find a site, where would the cutting take place? 
+
+Look, this linear piece of DNA has two GAATTC sequences, and EcoR1 will recognize both. Here's the result of the EcoR1 catalyzed cleavage of this piece of DNA. The short fragments at the end will be degraded and you're left with a linear piece of DNA with overhangs on both sides. Now what? 
+
+If we mix our short linear fragment with the EcoR1 cut plasmid, you can see that the ends of the short linear fragment are compatible, or match up with the ends of the linear plasmid. For the cutting and pasting of DNA molecules to work, single stranded overhangs between the plasmid and short linear fragment must be compatible. The nucleotides base pair with each other and form hydrogen bonds. 
+
+We can use DNA ligase to repair the phosphodiester bonds. Great, you've re-circularized your plasmid, but now it contains the linear fragment. We can call this a recombinant plasmid-- it contains DNA from two different sources. 
+
+OK, here's one thing to think about. If we flip this short linear fragment that has been cut with EcoR1, will the fragments still insert into the vector? Yes, it will. 
+
+This is what we mean when we talk about orientation. This linear fragment can insert in either orientation. Depending on your goal for making recombinant DNA, the orientation of the linear fragment could be very important. For example, if you want to express your gene of interest, you want to make sure the beginning of the gene aligns with the promoter. 
+
+That's all for now. Thanks for listening. 

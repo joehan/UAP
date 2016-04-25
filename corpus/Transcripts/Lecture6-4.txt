@@ -1,0 +1,47 @@
+PROFESSOR: I have to give you some nomenclature, some terminology, some definitions. So section three, definitions of genetic terms. Because we've been using this kind of loosely, particles of inheritance, big As, little As, things like that. 
+
+Geneticists like to use terms precisely. The term gene is going to refer to one of these discrete factors of inheritance. There is a gene, whatever it is, controlling pea color, pea shape, pod color, pod shape, flower color, flower position, stem length. There's a gene, some kind of a particle. And it comes in different types. 
+
+The alternative types of that gene are called alleles, the alternative types of a gene. Allele, from the Greek meaning other or alternative. And we could write big As or little As. We can also use big Bs and little bs. We can use many symbols for the alleles of a gene. 
+
+But these are words you'll come to know and love-- gene and allele. Each of the organism has two alleles for each gene. So what the two alleles you have specifies your genotype. That's the two alleles carried by the organism at a particular gene. 
+
+And there are certain types of genotypes. There are homozygotes. Homozygotes have two of the same alleles. So for example, what's a homozygous genotype? Give me an example of a homozygous genotype. 
+
+STUDENT: Big A, big A. 
+
+PROFESSOR: Big A, big A. That's a homozygous genotype. Give me an example of another homozygous genotype. Little a, little a, very good. Heterozygous, hetero meaning different here, have two different alleles. And big A, little a is the example of a heterozygous genotype. 
+
+There's one other word we need to know, phenotype. Phenotype is another word geneticists care a lot about. And it means an appearance, a trait. 
+
+Green pea color is a phenotype. That pea has the phenotype green seed color. Phenotype-- appearance, description. Some phenotypes have the property of being dominant to other phenotypes. Which phenotype is dominant? Round seed color or wrinkled seed color? 
+
+STUDENT: Round. 
+
+PROFESSOR: Round. That's an observation. We observe that the wrinkled seed color recedes, goes behind. One phenotype is dominant. Phenotype number 1 is dominant over phenotype 2 if the F1 hybrid between the two has phenotype number 1. 
+
+That is, round is dominant over wrinkled if the F1 hybrid is round. So as it happens, round is dominant over wrinkled. Green is dominant over yellow. This green pea pod color, dominant over yellow. 
+
+Great. So let's just use these words correctly. What is big A? 
+
+STUDENT: An allele. 
+
+PROFESSOR: It's an allele. What's big A, big A? It's a genotype. It's a homozygous genotype. The phenotype round, is that dominant or recessive? 
+
+STUDENT: Dominant. 
+
+PROFESSOR: Dominant. Big A, is that dominant or recessive? 
+
+STUDENT: Dominant. 
+
+PROFESSOR: No. No, it's not. Big A is an allele. We didn't say alleles are dominant or recessive. We said phenotypes are dominant or recessive. You're not allowed to tell me that alleles are dominant or recessive. Although you will find all over the world this mistake that people make of referring to the allele as if it was dominant or recessive. 
+
+In my class, don't make that mistake. You might think I'm being a stickler here, right? I'm not. It turns out in genetics that big A might control two or three different traits. It's going to turn out that big A could control multiple traits. And some of them could be dominant traits. And some of them could be recessive traits. And you're going to get very confused if you start referring to the allele as dominant or recessive, rather than the phenotype as dominant and recessive. 
+
+You think I'm kidding. Sickle cell anemia is caused by a particular mutation in the gene for the beta globin protein, the gene that codes the beta globin protein of hemoglobin. Well, that mutation that gives rise to sickle cell anemia-- sickle cell anemia is a recessive trait. But sickle cell trait, which is a certain type of sickling at low oxygen tension, is a dominant trait. 
+
+So I already can tell you that that mutation with sickle cell gives rise to both dominant and recessive traits. Dominant, recessive refers to traits or phenotypes. You will forget that, probably with high frequency. And I will continue to remind you to use the word correctly. 
+
+All right, so we have that. That's great. Now using our new terms, let's go further. 
+
+Let's make sure you've understood what you've just heard. Try answering these questions. 

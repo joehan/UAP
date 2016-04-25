@@ -1,0 +1,51 @@
+ERIC S. LANDER: So this is just a very simple pathway, glycolysis. 
+
+Now, I told you that there was something else you could do here too. So in fact, section five over here is cellular respiration. And we're not going to do this in any detail, but I'm just going to go over here and I'm going to point out to you that glycolysis, this pathway here, glucose comes in. 
+
+This is a cupcake. The cupcake is actually broken down elsewhere like when you chew on it or something like that. Glucose comes into the cell here. We have glycolysis. We've now got rid of all the details-- our 6 carbon sugar, 3 carbon, we've got our pyruvate. I haven't gone into this last step of either in yeast, the pyruvates making alcohol in you, it's making lactic acid. 
+
+Do you ever find that you have a lot of lactic acid? When you exercise a lot, in your muscle that's lactic acid building up. That's lactate there. That's what's happening. 
+
+Why is that happening? Well, because, in fact, this reaction-- getting a little tired here, feeling a little lactic acid. The issue is why this is happening is because you're carrying out glycolysis, which is an anaerobic reaction. It's the old anaerobic reaction-- it doesn't use oxygen. 
+
+This guy is anaerobic. He doesn't use oxygen. This pathway over here is aerobic-- it uses oxygen. 
+
+It took awhile to develop, as I indicated. The first life had this 3.5 billion years ago. It took another billion years to develop this very complex process here, which we're not going to go into, that goes on mostly in this organelle called the mitochondrion. And what you get is instead of measly breaking it down into pyruvate, you break it all the way down into the CO2 plus water. You get, count it, 36 ATPs instead of two ATPs. 
+
+You can imagine that when organisms figured out how to do this, they'd much prefer to take a sugar and break down all those bonds and get 36 ATPs rather than just two ATPs, and so would you. So how come I'm going back and forth back and back and forth back and forth really like this and I'm building up lactic acid? Why am I doing glycolysis and sending it over to make lactate instead of doing cellular respiration there and using that pathway there? 
+
+STUDENT: Oxygen [INAUDIBLE]. 
+
+ERIC S. LANDER: Because I'm not getting enough oxygen to my muscles, so now I'm feeling it. I'm feeling the burn there. Right? I'm feeling the burn from that acid building up. When you feel the burn, you should now be thinking about you're using that ancient glycolysis pathway instead of that incredibly efficient cellular respiration pathway. 
+
+All right. That's a pathway, glycolysis. It's just one pathway. 
+
+That's glycolysis. Who's this? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC S. LANDER: That's TIM. That's TIM over there again. Hi, TIM. 
+
+So that's that glycolysis there. But there's a lot of other stuff going on too in the cell, and they're connected like that. Let's throw some names on there and please don't write them down. 
+
+Let's see. We've got glucose, the glucose-6-phosphate, the [INAUDIBLE], tryptophan, serine, phenylalanine, tyrosine. You've got to make these amino acids. You make these amino acids. 
+
+So we have the breakdown of sugar-- that's one of the things pathways do, it breaks down sugar to make energy stored in ATP. But you can also take these pathways and use it to create molecules, to synthesize, to do the biosynthesis of molecules like, for example, amino acids, which are then going to go on to make your proteins. So you're going to break things down into small molecular entities and you're going to build them back up, and these pathways are involved in both breaking down and building up products. 
+
+So there you go. Cystine, glutamic acid-- all of our friends here. This is very good. Is this a complete picture? No. 
+
+Here's a slightly more complete picture right there. This is actually more complicated than the London subway map. It turns out here is glycolysis, here's TIM again-- that's very good, hi, TIM-- and as you can imagine, it starts getting complicated. Trying to understand exactly who's being sucked through where when, what's being regulated back under what circumstances and which products are feedforwarding and which products are feedbacking and we how the concentrations all depend and all that under which circumstances, is really interesting. It's really, really interesting to be able to work all of that out. 
+
+You'll get a chance to look at some of this stuff in some detail thanks to our amazing programmer Julian, because we have for you on the web an opportunity to dive deep into these pathways. Here's what Julian built. I hope it works. Here we go-- let's take a look. 
+
+Whoa. 
+
+STUDENT: Ooh. 
+
+ERIC S. LANDER: Let's trace down glycolysis here. We have hexokinase converting G6P to [INAUDIBLE] do do do do do do do do do do do do do do do. Well, oh, triose phosphate isomerase, yay. 
+
+[LAUGHTER] 
+
+ERIC S. LANDER: Do do do do do do do. And it allows you to explore these in much greater detail and you can begin to understand the logic of pathways. So that'll all be on the web homework, and that's it for pathways today. 
+
+All right. We've got two questions for you this time. They're both about glycolysis. Try them out before going on to the next segment. 

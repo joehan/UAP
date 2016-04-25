@@ -1,0 +1,73 @@
+PROFESSOR: I told you that there were two things that convinced Morgan that the Chromosome Theory was right. The killer was Alfred Sturtevant's experiment building the maps. That was 1911. But the year before, in 1910, Morgan found something that actually put him on the path to believing this Chromosome Theory. He found his first mutant. 
+
+His first mutant was the white eyed fly. 
+
+STUDENT: That's not wolverine. 
+
+PROFESSOR: No, it's not wolverine, it turns out. It is the white-eyed fly. And it turns out that that white eyed flight was so special because he was the first thing that Morgan found that was a mutant. It was his first appearance of a new form. And he was not sure he was ever see another mutant, and so he took really good care of it. 
+
+He kept it in a bottle. And every day when he went home from the lab, he took it home. And as it happened, that was just the same time that his wife, Lillian, had given birth to a child. And Lilian, who went on to become a very famous geneticist herself, working the lab, doing important work. But at the time, she was having kids. 
+
+And Morgan went to the hospital. And the first thing she asks him is, how's the fly? And after he tells her, he says, how's the baby? Things like that. This was really a pretty special fly, this fly. 
+
+Let me tell you why this fly was such a special fly. Well, it has to do with an observation about chromosomes that people saw. I'm drawing this picture as if, these chromosomes, they line up in homologous pairs. And, you know, these guys are the same-- make that a little shorter-- these guys are the same. But they line up in identical pairs. Each homologous pair is identical. 
+
+That's not really true. In many species, one pair lines up, and they don't look the same. There's identical pair, identical pair, identical pair, but one is non-identical. And when you don't know what things are, you give them names. We'll call this guy-- what's a good name for some random, algebraic variable-- X. And another good random algebraic variable? 
+
+STUDENTS: Y. 
+
+PROFESSOR: Y. Excellent, we'll call it the X chromosome and the Y chromosome. And what they found was that males, in humans, have an X and Y, whereas females have an X and an X. And in fruit flies, in our fruit flies, it's the same thing. X and a Y, X and an X. 
+
+Now it turns out that in birds, it's different. Whereas in humans and flies, it's the female that has two copies of the same thing, and the male that has two different things. We call that homogametic versus heterogametic, meaning the same gametes and, anyway. This, it's the males who have two copies of the same thing, and the females who have two different things. 
+
+OK. And so to indicate that, we use Zs and Ws. I wouldn't worry a lot about this, but I'm telling you it's still the case. Then, in some types of worms that people work on, nematode worms, the females are XX, and the males are X, nothing. They don't actually have a matching homolog, at all. In humans, there is this matching homolog. It's the Y chromosome. But it's a teeny little chromosome. It's not got much on it. 
+
+OK. So you've got these things. And obviously, people said, chromosomes, sex. If the males and females have different chromosomes, then it must be that the chromosomes are controlling the sex. And do you buy that? 
+
+STUDENT: Now we do. 
+
+PROFESSOR: No. You shouldn't buy that argument just as I've given it to you, because you could say, maybe it's the sex that's controlling the chromosomes. Maybe, in fact, those chromosome things-- now you've already seen Sturtevant, you know this Chromosome Theory's going to work out OK-- but back the year before, just the simple observation that males and females have different chromosomes could equally well have been explained by the observation that it's a secondary sex characteristic. 
+
+Males and females look different. Well maybe it's the case that males kind of chew up one of their chromosomes. Or something that makes a funny, little Y chromosome, right. So maybe it's a consequence of being male, not a cause of being male. That's entirely possible. And a good, hard-headed geneticist should not believe, for a minute, that just because you see a correlation between chromosomes and sex, that chromosomes cause sex. 
+
+But that's where this white eyed fly comes in. Because the wide-eyed fly ends up teaching us about the connection between sex chromosomes and sex linkage. Here's what Morgan did. 
+
+Morgan took that white-eyed fly, which he lovingly carried home every night, in the bottle, and he set up a cross between the white male and wild type female. White male, wild type female. He gets a normal eyed-- so white-eyed -- normal eyed female. He gets a bunch of progeny, I'm just going to show you the normal eyed female. And what does that tell us about the white eye trait? 
+
+It's recessive. Looks recessive, right? Because you cross it to wild type, and it seems to go away. Morgan sure hopes it's not going to completely go away. But it seems to go away. It looks like a perfectly ordinary, Mendelian, recessive trait. But then he does something. And he crosses it back to a wild type male. 
+
+Now think about it for a moment. If I have an F1 heterozygote that has the white and the normal, and I cross it back to a wild type fly, what will I see in the next generation? It's all going to be wild type. Because this wild type fly should be carrying normal alleles on both chromosomes, will be giving a normal allele, and no matter what this one gives, we should see normal progeny. 
+
+And when he looks, he sees that of all the daughters that come out of this cross, all the females that come out of this cross, 100% of them are normal. So far, so boring. But then he looks at the males that come out. From the males that come out, he sees two kinds of males. 
+
+He see white-eyed males, and he sees normal males, normal eyed males. And this is 50%, and that is 50%. He sees a trait, white eyes, that is linked to sex. It's somehow linked with sex. This is the first time there's any evidence that this genetics and this chromosomes might have anything to say to each other. 
+
+And then, we think about what's going on. What could be going on in this picture? Well, if there's an X chromosome, and a crummy, little Y chromosome, and there's an allele, over there that causes white eyes, the idea is that that allele-- we'll make a little w for white-- if it's on the X chromosome, what's on the Y chromosome the matches up with it? Nothing. So here, you don't need two copies because there's no normal gene on the Y to compensate for it. 
+
+If that's what's going on, if there's a white eyed gene on the X chromosome that has no matching pair on the crummy, little Y chromosome, let's see what happens. This white-eyed male would be carrying an X chromosome that has the white-eyed allele over a Y chromosome that has nothing at all. What's this fly going to be carrying? An X chromosome that has the normal allele-- I'm going to write X with a plus, there-- over an X chromosome that has the normal allele. 
+
+Let's look at this daughter. What does she get from her mother? She gets an X+. Why is that? It's all she's got on offer, right. There's got to be an X+. And what does she get from her father? X carrying white. Why doesn't she get the Y chromosome? Cause she's a she. Right, if she got the Y chromosome, she'd be a he. But she's not a he, she's a she. And therefore, we know she must have gotten that. 
+
+OK. Now let's cross back to wild type. What are we getting? Now we're going to cross to a wild type male. What's the genotype of the wild type male? He's got an X chromosome that carries the normal eye color, over a Y chromosome. And now, let's see what happens. 
+
+The daughters-- what do the daughters get from their dad? They get a normal X chromosome from their dads. But why don't they get the Y chromosome from their dads? Because they're daughters. Good. What do they get from their moms? 
+
+STUDENT: Either or. 
+
+PROFESSOR: They could get Xw, or they could get X+. 
+
+What about the sons? What do the sons get from their dad? 
+
+STUDENTS: Y. 
+
+PROFESSOR: Y, because they're sons. What could they get from their moms. They could get Xw, the white eyed, or they could get the normal. And if they get that one, 50-50 chance they're white. And if they get that one, they're normal. 
+
+By the way, there's even a prediction, here. These normal daughters-- half of them are carriers who can transmit the trait. Half of them can't transmit the trait. Testable prediction. By the way, checks out. These normal males can never transmit the trait. They don't carry it anymore. Prediction. Checks out. Beautiful. 
+
+So what have we got here? We've now got real, beautiful, testable predictions of the Chromosome Theory. We go from 1909, when Morgan, our great skeptic, is saying, oh, people are putting these epicycles on epicycles, and making some facts go into factors, and all that. And he's skeptical. And maybe it's the cytoplasm of the cell that's controlling everything. To actually, the first thing he sees is his white-eyed fly. And that seems, boy, there's a real connection. 
+
+Sex chromosomes, and sex, and these genes on sex chromosome fits the story even better. It's kind of another Mendel moment. But then, in 1911, the 19-year-old Alfred Sturtevant comes along and shows, not only does this all kind of make sense, it beautifully fits. You can build maps out of chromosomes, even though you have no idea what chromosomes are. And it all checks out perfectly. 
+
+And even today, and even in my lab, and in the labs of medical geneticists around the world, we use that insight to study human disease every day. That's why I like genetics. 
+
+OK. To consolidate everything we've learned in lecture, so far, try this question about genetic crosses. 

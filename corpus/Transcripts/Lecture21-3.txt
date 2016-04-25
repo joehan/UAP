@@ -1,0 +1,47 @@
+ERIC S. LANDER: So we've talked about taking a gene, the DNA, and making a mutation that would prevent that gene from working. That's one possibility. But here's another idea. Suppose the gene actually is still working, and it makes a messenger RNA. 
+
+Here's my messenger RNA. And instead of destroying my gene by a mutation, suppose I could somehow destroy just the messenger RNAs associated with the gene, specifically target the messenger RNAs for a specific gene. That would be kind of cool, because if I make sure the gene doesn't produce any messenger RNA, it's not going to make any protein. It's like having a mutant. 
+
+It's a mutant without being a mutant. How am I going to do that? People said this isn't that hard. They said, what we're going to do is we are going to design a complementary piece of RNA that will bind to my messenger RNA of interest and prevent it from being translated. Anti-sense RNA-- it was so simple, so clever. They were going to put in a strand of RNA that matched your RNA. It would bind to it and block it. 
+
+Ridiculously simple, isn't it? And you could make it for any RNA you wanted. The problem is it didn't work very well. Most of these pieces of antisense RNA, when you injected them into the cell, did a pretty crummy job of blocking the RNA, because you need a lot of them to bind to that RNA. It just didn't work very well. 
+
+And then, as sometimes happens, a wonderfully serendipitous experiment occurred. Some folks, Andy Fire and Craig Mello, were working on this beautiful genetic organism, the nematode worm called C. elegans, a very elegant sinuous little tiny roundworm like this. And what they were doing is they were injecting antisense RNA against a particular gene, a gene called Twitcher, which, when mutated, caused the worm to twitch. 
+
+What they did was they injected-- here's the RNA they wanted to hit-- they injected an antisense RNA. And they really didn't get much. They also, by the way, just as a control-- here's the RNA that they were trying to hit, mRNA, this is the mRNA, this is the worm, by the way-- they injected sense RNA. That is a little strand of RNA of the same length that was not complementary to the messenger, but was the same as the messenger. And that wouldn't bind to the messenger, would it? No. 
+
+And did that have much effect? No, didn't have much effect. So neither the antisense nor the sense really was very effective. And then they did the following ridiculous control. 
+
+They took the worm, and they added both the ineffective antisense and the ineffective sense. And each alone does nothing, really. The antisense turned out not to be very effective despite being a good idea. The sense doesn't even bind to it. And of course, since each alone does nothing, together they, of course, caused it to twitch. 
+
+It was incredibly effective at destroying the RNA from that gene. Somehow double stranded RNA was a very powerful way of destroying RNA. This was not the expected result. This also, by the way, won a Nobel Prize. 
+
+Let me tell you why. Because it turns out revealed an amazing natural mechanism in cells about which we had known nothing. It turns out that when there is double stranded RNA in these cells, double stranded RNA gets cut down to about 21 base pairs, chopped up to about 21 base pairs. So first, you dice it up into little pieces. 
+
+It's diced up into pieces of about 21 base pairs by an enzyme called Dicer. And then it gets loaded into another protein. One of those strands gets loaded into another protein, just one of those strands. And it becomes a template to go destroy any matching RNA. And you actually have a natural mechanism that does this. This is called the RNA-induced silencing complex-- RNA-induced silencing complex, or RISC. 
+
+What happens is this complex, the RISC complex, loaded with this 21 base pair RNA goes off looking for messages that match it. And it will destroy those messages. Got it? 
+
+Add a double stranded RNA. It will then go off and kill, in a catalytic fashion, reusing that template again and again and again and again, to destroy matching messages. Why do you have such a nutty mechanism? 
+
+STUDENT: Viruses. 
+
+ERIC S. LANDER: Viruses. Double stranded RNA viruses exist. Normally, you're not supposed to have double stranded RNA, are you? Messages are single stranded. Double stranded RNA should be red alarm bells-- something's wrong, virus, virus, virus. There's a defense mechanism against double stranded RNA viruses that cuts and then uses the stuff that's been cut out to destroy a virus. 
+
+That's probably the way it works in plants and a number of organisms. In mammals, it probably has another very important function. Remember we talked about transposons? Transposons are making copies of themselves all over the place. There's so many copies of transposon RNAs. Some of them will be on one strand, some of them on the other strand. 
+
+Anything that's highly repeated in the genome will likely give rise to matching messenger RNAs, and it can be used to control transposons. Transposons are, of course, an internal virus, in effect, in a way. And probably in us, it's playing more of that role of keeping transposons in check. But basically, double stranded RNAs are not supposed to be running around, whether it's coming from a virus or coming from too many copies of transposons from each strand and all. 
+
+And this mechanism keeps them in check. It's very powerful. It's an ancient defense mechanism. We now can subvert that ancient defense mechanism that was accidentally stumbled upon in this C. elegans experiment here with injecting in getting the twitching worm there. And all I have to do is take a cell and put in double stranded RNA. 
+
+You can buy these inhibitory RNAs for every gene in the genome. In fact, you can make viruses that carry-- here's a viral RNA-- certain viruses, lentiviruses, you can make them to have these 21 base pair matching double stranded sequences. Put the virus into the cell. 
+
+The virus will then, when it makes here an RNA, that'll be processed down into 21 base pairs. And it will be an inhibitor of those genes. And people have made, in fact, we here at MIT have made libraries of inhibitory RNAs against every gene in the genome for human and for mouse. So we can, in fact, add these back to cells and knock down genes. 
+
+And you can knock down thousands of genes in different wells of a plate. It turns out this is pretty powerful. I don't have to make knockout mice. Of course I don't get mice. I'm just working with cells. And it's not perfect. 
+
+Unlike knocking out the gene, knocking down the RNA is not 100%. I can knock it down a lot, but I often can't get it down to zero. And sometimes it doesn't perfectly knock down its own RNA without knocking down some other things. So they're a little messy. They're quick and dirty but very powerful. 
+
+Gold standard would be a mouse knockout. But a lot of work for each of those. But I can also knock down thousands of genes in parallel using RNAi, RNA interference. And one could do that as well. So these are two very cool tools. 
+
+Now, this we're using routinely in all the labs these days. RNA interference-- very powerful method. Stop for a moment and answer this question about RNA interference. 

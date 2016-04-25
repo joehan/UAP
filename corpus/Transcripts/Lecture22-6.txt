@@ -1,0 +1,143 @@
+PROFESSOR: These heterozygotes are getting heart attacks 10, 20 years earlier. You want to do something about that. Good idea. So let's get a little working picture over here. 
+
+Here we go. We're going to have the intestine. There's your intestine, things come in. 
+
+I'm going to put the liver over here. I'm drawing that as if it's a liver, but really I'm going to think about this as a liver cell. Cholesterol comes in, cholesterol is taken up, and fats are taken up. Good. What does the liver produce to help take up fats? 
+
+STUDENT: Bile. 
+
+PROFESSOR: Bile acids. So bile acids are used to help take up fats. Good. And what are bile acids made out of? Cholesterol. 
+
+Where does cholesterol come from? Partly from diet. Where else? Synthesis makes cholesterol. 
+
+Cholesterol gets used there. Cholesterol ends up going out and contributing to the creation of these particles in a way I didn't want to go into the full details of. But it ends up in these early HDL-like particles, gets transferred to the LDL-like particles, et cetera. 
+
+But importantly, the liver, when we have these LDL particles with cholesterol ester in them, the liver takes them up through the LDL receptor. And we'll put the blood out here. There we go. There's the blood. 
+
+So I have a highly schematic diagram. I have an intestine there. And we're taking in fats, and we're taking in cholesterol, that bile acids are secreted and recycled and being used to bring in fats. 
+
+We are making the bile acids out of cholesterol. The cholesterol is getting produced from synthesis, also some comes from diet. Some of this goes out here into these particles, and the liver is modulating the levels of LDL in the blood, taking up LDL, which it's using, as well. That's the picture. 
+
+All right, we have a therapeutic hypothesis. A therapeutic hypothesis, we want to decrease the levels of LDL, and it will then-- hypothesis-- prevent heart disease. OK. 
+
+Strategy number one, eat less cholesterol. OK. How about that? It's  a pretty good idea, right? How does that do for these FH heterozygotes? 
+
+STUDENT: It would probably help them a little. 
+
+PROFESSOR: Help them a little. In fact, it does decrease their LDL a little. The result, LDL in the blood goes down by about 10%. It's not that much, but it's noticeable, you can measure it. But it's not huge. 
+
+Why doesn't it go down more, if I just don't eat a lot of cholesterol. Suppose I have, like, no cholesterol? 
+
+STUDENT: Synthesis. 
+
+PROFESSOR: I'm still synthesizing cholesterol. And in fact, if I'm starving for cholesterol and not getting it in my diet, my liver will obligingly make even more, and the rest of the cells in the body are making cholesterol, too. So I'll make more cholesterol. [SIGH] 
+
+Next trick that was worked out. These bile acids, what are they made out of? 
+
+STUDENT: Cholesterol. 
+
+PROFESSOR: They're made from cholesterol, and they're recycled. Suppose I could prevent them from being recycled. What would happen? 
+
+STUDENT: The  cholesterol would be used. 
+
+PROFESSOR: Drained out. I'd kind of be draining, drawing out cholesterol from the body. So if I can get something that would cause the bile acids not to be recycled, but instead to be excreted, I would use up more cholesterol and I would, in fact, maybe decrease my cholesterol levels. 
+
+So there are bile acid binding resins. So strategy number two here is, use bile acid binding resins to draw out cholesterol. And then, what are we really doing? What's happening is, we're preventing this recycling. We draw out the bile acids that have been bound by bile acid binding resins so that they come out, they're excreted out. 
+
+I, therefore, am more vigorously using up cholesterol. And what happens? My cholesterol levels should drop. 
+
+Result for these FH heterozygotes? LDL levels down now by 20%. Good. Not amazing. Yeah? 
+
+STUDENT: Is this coupled with strategy one, or just strategy two? 
+
+PROFESSOR: Oh, let's give them together. We'll give them together. It's actually hard to get people to comply with both of these things, but we'll throw them in together. 
+
+Why aren't we doing better? We're managing to not take in that much cholesterol. We're managing to draw more cholesterol out with these resins. What's the deal? Why haven't we-- yeah? 
+
+STUDENT: If you draw more out will your body just synthesize more? 
+
+PROFESSOR: Your body might just make more. That's the problem is, of course, we've talked about how regulatory networks work. And if it senses there's too little cholesterol, you start making more cholesterol. So takers for strategy three? Yes? 
+
+STUDENT: You've got to do something about the ones in the bloodstream. 
+
+PROFESSOR: Well, and how are we going to do something about the ones  in the bloodstream? I'm sorry, we've got two things going here, that's good. How are we going to do something about  the ones in the bloodstream? 
+
+STUDENT: Absorb better. 
+
+PROFESSOR: We've  got to absorb better. If we're going to absorb better out of the bloodstream? 
+
+STUDENT: Receptor. 
+
+PROFESSOR: Receptor. What do you want, more receptor? 
+
+STUDENT: Upregulation. 
+
+PROFESSOR: Upregulate the receptor, bingo. Upregulate the receptor. If we could upregulate that receptor-- and what will upregulate the receptor? 
+
+STUDENT: I can't remember. 
+
+PROFESSOR: Low cholesterol in the cell. If the cell has low cholesterol, if the cell is sensing it's not making enough cholesterol, it will upregulate LDL receptors and take more cholesterol out of the blood. How do we make the cell have less cholesterol? 
+
+STUDENT: We bind-- well, we already bound. 
+
+PROFESSOR: You had it before. 
+
+STUDENT: Oh, with the synthesis pathway? 
+
+PROFESSOR: The last thing we have here is synthesis, so we better block synthesis, at least partially block synthesis. So we have a pathway here. Where would you like to block synthesis? 
+
+STUDENT: HMGCoA reductase. 
+
+PROFESSOR: HMGCoA reductase, very good. So now we're using our regulation, we're using our biochemistry, and if we block that committed step in the pathway, your prediction is, we will now make less cholesterol in the cell. And your prediction is, making less cholesterol in the cell will cause us to upregulate our LDL receptors, which, based on the Brown and Goldstein experiments, makes us think we're going to take this LDL out of the blood and decrease our LDL. 
+
+So we need a drug to do that. And a drug was developed to do that. The class of drugs called the statins were developed to do this. So strategy number three, for these FH heterozygotes, was to combine it with an HMGCoA reductase inhibitor. 
+
+And that class of drugs are called statins. And the result when we blocked here, and also we block here. We blocked the reuptake of these guys, and blocked synthesis now is, LDL is down by 60%. It's very impressive. 
+
+It can be done. And it's all rational. It's based on the genetics-- mutants for a rare genetic disease taught us about these things. And biochemical pathways, and drugs, and combining them, and understanding the cell biology. 60% reduction, very impressive. Yes? 
+
+STUDENT: Why couldn't you just, like, clone the gene that creates the receptor and, like, insert it into us? 
+
+PROFESSOR: So why can't I just clone the gene? Now wait, we've been trying to treat these guys who are heterozygotes. Right? They already have one copy. You're thinking you could put extra copies into them? 
+
+Or maybe you're thinking about the homozygotes. So you're thinking about the homozygotes, because we hadn't treated them. In fact, the homozygotes were treated by what's called plasmapheresis, taking blood out, removing the cholesterol outside the body, and putting the blood back in, which is not a pleasant business to do a lot of. 
+
+But you're thinking of what you might call gene therapy, and people, indeed, think about that. It hasn't been done yet, as a routine matter, because gene therapy turns out to be tricky for a whole lot of reasons. But that is, indeed, the treatment you would think about. 
+
+So you're making the point that this whole strategy of upregulating the LDL receptor is great for the heterozygotes, and doesn't do anything for the homozygotes who actually taught us about this LDL receptor, because they don't have it. You're exactly right. So let's actually think about that. 
+
+What we had here was a strategy that does not work for the people who don't have any receptor. But this strategy was good for the one person in 500 who is a heterozygote, our strategy did work for. What about everybody who has two perfectly normal copies? 
+
+They get heart attacks, too, sometimes. They have high cholesterol. Even  though they have no problem in this gene, what do you think would happen if we just give them statins? 
+
+STUDENT: It could decrease still. 
+
+PROFESSOR: Decreases their LDL. It actually works, it decreases LDL. So this works here, but it turns out that even though this was developed thinking about a disease that was a one in a million disease, it's ended up producing a class of drugs that work to decrease LDL in people have no genetic mutation at all. 
+
+In fact, give or take, about 35 million people in the United States are taking them. I believe that's my best estimate of the number of people taking statins right now, I could be off by a little bit there. 35 million people are taking statins. I would venture to say some non-trivial fraction of your parents take statins. Yes? 
+
+STUDENT: Do these statins also decrease HDL levels? 
+
+PROFESSOR: Oh, so hang on just a moment. We're going to get to HDL in just one moment. You've got the last part of this lecture, very good. Now we've managed to decrease LDL levels. Isn't that triumphant? 
+
+STUDENT: Did it actually decrease the heart attack rate? 
+
+PROFESSOR: Ah! Thank you. We've gotten ourselves all so excited that we could manage to decrease LDL levels, but the notion that LDL level reduction would lead to heart attack reduction was a hypothesis. 
+
+It was a therapeutic hypothesis. It was not a fact that had to follow. It was not a law of physics, because as you told us, it could all be due to some factor x, and decreasing LDL would have no effect. How would we know? 
+
+STUDENT: Follow the people. 
+
+PROFESSOR: You've got to do a clinical trial. You have to do a clinical trial. And indeed, many people were dubious that these LDL lowering drugs were necessarily going to improve the risk of heart attack. And so clinical trials had to be done. And until they happened, one couldn't be sure. 
+
+And the key trial was a trial called the 4S trial. This 4S trial, I think done in Scandinavia is my recollection, took people who had had heart attacks, and after a heart attack, gave them LDL lowering drugs, or didn't give them LDL lowering drugs, they had control arm. And they found that did it decrease the risk of heart attack? And it did. 
+
+So in what's called secondary prevention, after a heart attack, for people would already had a heart attack then going on statin therapy, did not just decrease LDL, but also, heart attack went down. And actually mortality went down. 
+
+There was another trial, happens to go with the name WESCOPS, I think. And what it did was took people who hadn't had a heart attack, just people who had high LDL, no heart attack yet, and waited to see if they would get a first heart attack, and it also worked there, too. It decreased the level of heart disease. 
+
+The therapeutic hypothesis was proven. And we now know that LDL is not just correlated but is actually a real true causal factor here. Because reducing it reduced the risk of heart attack. 
+
+This  was good stuff, and you guys worked out a good strategy there. Well done. And It shows you why you need to know all these pieces in order to work out a good strategy. 
+
+OK. We've just talked about rational therapy for hypercholesterolemia. Take a moment and answer this question. 

@@ -1,0 +1,420 @@
+Who has gotten Meselson and Stahl a polymerase that polymerizes?	3.133771168070871
+What have Meselson and Stahl shown the Crick-Watson model works?	2.6422448234290004
+What is there's a certain kind of mark added to the DNA strands?	2.570976430525446
+What's supposed to be an A with a T.?	2.569180549181111
+What is the cute mechanism there's a certain kind of added to the DNA strands?	2.522064879991127
+What carry mutations that inactivate one copy of one of the genes that encodes the mismatch repair system?	2.4933458178474943
+What here matches a T. C here will match a G.?	2.3631863433357707
+What's the level of accuracy that is imposed?	2.3545844341603126
+What get filled in over the course of some years?	2.3337708184553585
+What 're down to maybe a couple mistakes per million?	2.279506249884101
+What well turns out that there's one more thing that goes on?	2.2244893150774923
+What do the details get filled in over?	2.205867196585956
+What do what mismatch detection does have the polymerization machinery have go?	2.203447450802003
+What do what mismatch detection does take out?	2.196813807527357
+What cannot carry out mismatch repair anymore?	2.187324347551623
+What means the wrong base will not go in as often as the right base?	2.160791405385948
+Who does a here match here will match a G.?	2.160488248825945
+If one loses the other copy what can no longer carry out mismatch repair?	2.148653619208427
+What do what mismatch detection does have have another go?	2.1466407443452122
+Who: Accelerate wrong half to time?	2.146270557176801
+What does a here match a T. C here will match?	2.112868694333995
+Who's a lower primase?	2.1057923407057553
+What do what mismatch detection does have the polymerization machinery have another try to do better?	2.0928797295609884
+What's just a game of probabilities?	2.084827529372546
+What is kind of wasteful?	2.0694189744970366
+What is the cute mechanism there's?	2.0685517533732036
+What is close to error rates of 1 in a billion?	2.026486461608215
+What is not dNA replication's a pretty amazing process?	2.013988431870232
+What is the cute mechanism?	2.010571132092233
+What does a new trick's just a game of?	2.0082489228004223
+What do STUDENT: accelerate?	2.007791771708765
+What does the double helix have?	2.0058832001615654
+What have the polymerization machinery have another go?	1.9920644252943271
+What is it's more likely to take a base out if the base was wrong?	1.9885755777565752
+What have not been added yet to the new strand?	1.9821694016431912
+How many mistakes per million are just a couple of mistakes per million?	1.962768995743344
+What's putting bases in?	1.9438939057677957
+What's both running back?	1.9231402112283715
+What are maybe a couple mistakes per million just a couple of?	1.922985340464386
+What have the methyl marks not been added yet to?	1.9166219289130622
+What does not allow it to be perfect?	1.9152647783796608
+Who is a methylation mark?	1.9130639931629383
+Who does sTUDENT: The new one's?	1.8896457493970455
+What does the enzyme take out It might actually run backwards and take out bases?	1.8852694577018911
+What's taking bases out?	1.8807107658093303
+What is the energy favorability ratio?	1.8540556758236215
+What's both running forward?	1.847959406563073
+What does the wrong base go in only one time in 10 to?	1.838153126865974
+What are maybe a couple mistakes per million?	1.8367247914467864
+What are just a couple of mistakes per million?	1.822549572226816
+What does no's supposed to be?	1.8137999959931606
+What can the chemistry not do better than?	1.7888067282356515
+When does the wrong base go to the third?	1.7845682500724658
+What is 99. 9 % accurate?	1.7838494197094534
+Has Arthur Kornberg gotten Meselson and Stahl a polymerase that polymerizes?	1.7779096190719628
+Is the cute mechanism there's a certain kind of mark added to the DNA strands?	1.7771785866624312
+What takes probabilities out more often if they 're wrong than if they 're right?	1.7622684494479048
+What's what E. coli does to know those things for example?	1.750825070321075
+What does activity's running back?	1.7385005629599262
+What 've now got DNA replication?	1.733132966269695
+Who has gotten us a polymerase that polymerizes?	1.7287951031174544
+Who have shown these machineries the Crick-Watson model works?	1.711126962078679
+Who have shown us the Crick-Watson model works?	1.7008116280233212
+What have the methyl marks?	1.6978335384760241
+What do probabilities 're down to?	1.6801260496809933
+What a new trick takes out more often if they 're wrong than if they 're right?	1.6751367436840485
+What have the other copy?	1.67446578975958
+What do the methyl marks think's so cool?	1.668447691726821
+What do the old strands have?	1.6679230307601645
+What is the wrong base?	1.6599185386581827
+What does activity's running forward?	1.6544038556298817
+What does a new trick's just?	1.6534615057387791
+What puts in say-- here?	1.6371359890397335
+What have Meselson and Stahl shown these machineries works?	1.6313146450433873
+What have Meselson and Stahl shown us works?	1.6257390673434937
+What does that's what E. coli does to know those things for?	1.621106361581853
+What do some people carry?	1.6166177708701597
+What proofread?	1.613823429993094
+What's a pretty good start?	1.6121186742799156
+What do they do?	1.6063201113929326
+What take out the A?	1.5870098164607505
+Who have Meselson and Stahl shown the Crick-Watson model works?	1.581634451241411
+What gets methylated?	1.5203158407700612
+What does the enzyme put in-- here?	1.5167203687008979
+What has this methylation mark on both strands?	1.4982842835450625
+What will other proteins say's funny here?	1.4881751788770723
+What are 3 billion?	1.478964310533102
+Did ERIC S. LANDER: Spell check, proofread?	1.4733834004442832
+What is just these molecular biologists fussing over all of these different repair mechanisms I mean?	1.4654586962794895
+What 'll take bases out if they 're right?	1.4623218034433587
+What is mark?	1.4577051129120446
+Who 're polymerizing in the five prime to three prime direction?	1.4314845603927497
+What was 40?	1.4302562042865712
+What will say something's funny here?	1.4244458281189143
+What's about what the rate of new mutations occurring in you is?	1.383392719774558
+What is not going to be right?	1.3825883457127133
+What is fidelity?	1.3825656943063898
+What proofreads?	1.3785591694781798
+What's base?	1.370365708650089
+Is ERIC S. LANDER: And the next problem fidelity?	1.3636406111185555
+What's just energetically less favorable?	1.3431147000462516
+'ll a new trick take bases out if they 're right?	1.3231647461636693
+What was 30?	1.3095901135511567
+Do some people carry mutations that inactivate one copy of one of the genes that encodes the mismatch repair system?	1.304260401889973
+What does the wrong base go in?	1.296754251330965
+Do the details get filled in over the course of some years?	1.2956805551698092
+Does no's supposed to be an A with a T.?	1.292018069680089
+What is this just these molecular biologists fussing over all of I mean?	1.2842268290016805
+What cannot be perfect?	1.2745315450776666
+What turns out?	1.2728969657053562
+What 'll a new trick take out if they 're right?	1.26046120041156
+What's OK?	1.2558320956593272
+What is this just these molecular biologists fussing over I mean?	1.250148658390255
+What have Meselson and Stahl shown these machineries?	1.2499534470048874
+Does strand actually leave bread crumbs that tells it which was the correct one to use as a template?	1.2417601541251253
+Do probabilities 're down to maybe a couple mistakes per million?	1.2306950537686112
+Who 're down to maybe a couple mistakes per million?	1.2296917834222345
+Do STUDENT: accelerate wrong half to time?	1.2187100920305678
+What does that's the level of that is imposed?	1.2163395746659775
+What still is not quite good enough?	1.2021681099772887
+Will other proteins say something's funny here?	1.1824357411536317
+Does a here match a T. C here will match a G.?	1.1728782108871108
+Who 'd still be making thousands of mistakes per cell generation?	1.1698902700547738
+What is checking?	1.167538573476167
+Do what mismatch detection does have the polymerization machinery have another go?	1.1607711927379367
+What detect?	1.1561898966131832
+Does sTUDENT: The new one's a lower primase?	1.1550240478207172
+Who actually had 30 odd mutations relative to your parents?	1.1532432243930764
+Have the methyl marks not been added yet to the new strand?	1.152445168201917
+What actually leaves bread crumbs that tells it which was the correct one to use as a template?	1.152268429456269
+What are actually very important?	1.1521036164642533
+Do what mismatch detection does take out the A?	1.1489454799243224
+Who have a very high incidence of colon cancer?	1.1367923321411895
+Who 'mes just going to tell you in sticking the bases in unless you think of a new trick?	1.1355020166010434
+Does the enzyme take out the A. It might actually run backwards and take out bases?	1.1329639774353288
+Does Chemistry not allow it to be perfect?	1.1306134581058913
+What can some of the cells in their body not carry out anymore?	1.1284186442936175
+Is the trick it's more likely to take a base out if the base was wrong?	1.1203816308714192
+What do they have a very high incidence of?	1.1201847429767424
+What have Meselson and Stahl shown us?	1.1200944170140699
+What does strand actually leave?	1.113465521817108
+What have a very high incidence of colon cancer?	1.1115252339473343
+What does it's in 10 to the eighth?	1.1100700034682633
+What takes out the A. It might actually run backwards and take out bases?	1.0947698729085684
+Does a new trick's just a game of probabilities?	1.0940860431933235
+Do what mismatch detection does detect?	1.0880784626298254
+What do what mismatch detection does have the polymerization machinery have try to do better this time?	1.0840228163181584
+What do they have the polymerization machinery have go?	1.0826891533411982
+What does it's actually a little bit higher than?	1.0679242337450252
+What do we 're polymerizing in?	1.064662608322882
+Who have the polymerization machinery have another go?	1.0614507238876363
+Who polymerize five prime to three prime?	1.0490385654399534
+What can some of the cells in that's body not carry out anymore?	1.0409308121566276
+Do what mismatch detection does say?	1.0328763340858198
+What's not very good?	1.0327616725039994
+What will come along?	1.032460477729772
+What do what mismatch detection does have have another try to do better this time?	1.0320352935742765
+Is the shape of the DNA not going to be right?	1.0294297352295576
+What say?	1.027384930010503
+Who 'mes just going to tell you in polymerizing unless you think of a new trick?	1.0212278242152486
+What's it out of 3 billion bases?	1.0205302917357426
+What do they have the polymerization machinery have another try to do better?	1.0199512940439526
+What does it's sort of more like the 1 in to the eighth?	1.0155896136503229
+What do the methyl marks think?	1.0141742223505124
+What do they have the polymerization machinery have try to do better this time?	1.0108811439620404
+Who 'll get it right half the time?	1.0061298432973174
+If one loses the other copy what can that cell no longer carry out?	0.9978734975210057
+What does a here match?	0.99177896638234
+What does it's just a game of?	0.9914089076847812
+Does the new strand get methylated?	0.9897336957605243
+Who 'mes dropping in base after base after base after base?	0.9874024771577383
+What's actually a little bit higher than that?	0.9841741607251737
+Who have the polymerization machinery have another try to do better this time?	0.9810075536716039
+What does it's sort of in 10 to the eighth?	0.978651373956499
+What goes in only one time in 1,000?	0.9754267173970923
+Does activity's putting bases in?	0.9671296585470825
+Does the wrong base go in only one time in 1,000?	0.9631398500448296
+What do they have have another try to do better this time?	0.9612360217757863
+What does well it turn out that there's?	0.9599837836252918
+What do not?	0.958124743648836
+Is mark a methylation mark?	0.9535396990592908
+What comes along?	0.9497775191749678
+Does activity's both running back?	0.9490873358772682
+Do the old strands have the methyl marks?	0.9482698932934048
+Is the wrong base the wrong nucleotide?	0.9326543032197585
+If I have a mistake, what's not going to feel right?	0.9249734151171671
+What have the polymerization machinery have another try to do better this time?	0.9071013912122257
+What goes in only one time in 10 to the third?	0.9066281310629383
+Will other proteins come along?	0.8999115680115819
+Does activity's taking bases out?	0.898543854712154
+Will other proteins feel?	0.8974396603626771
+Who do I 'm just going to tell in polymerizing unless you think of a new trick?	0.8953772602398551
+What does Chemistry not allow to be perfect?	0.8908067685159384
+What do they have have another go?	0.8889331898617756
+Does dNA polymerase proofread?	0.8883741190976833
+Who do I 'm just going to tell in sticking the bases in unless you think of a new trick?	0.8875330336510461
+What does well that turn out that there's?	0.8791991956787735
+Who could say you know?	0.8785286255225979
+Does the wrong base go in only one time in 10 to the third?	0.8784354571431499
+What does that's for example?	0.8695067585393637
+What does it's sort of more like the 1 in 10 to?	0.8661015596206953
+Does activity's both running forward?	0.864990628547224
+What will feel?	0.8504338655168298
+Is replication not dNA replication's a pretty amazing process?	0.8493613573257182
+Who: Accelerate it?	0.8448295924936111
+What is that close to in a billion?	0.8447288295385189
+What does it's supposed to be?	0.842878244673702
+What's sort of more like the 1 in 10 to the eighth?	0.8166905060548002
+Who does not necessarily the very cute mechanism have to know about?	0.8135955438925451
+What is this kind of?	0.8126409843645992
+Who 'ves got two strands there?	0.8016638055726948
+Who 're also removing bases?	0.8013971288403132
+What is that close to error rates of 1 in?	0.7984719859743288
+Has Arthur Kornberg gotten us a polymerase that polymerizes?	0.7954400083181747
+Who 'mes replicating DNA?	0.7949903956543296
+What will other proteins say?	0.7901394060778238
+What is the wrong nucleotide?	0.7896078490162755
+Who could you say know?	0.7819056526576469
+Is base's accuracy 99. 9 % accurate?	0.7805402195646785
+What do they take out?	0.7660528713807242
+What does it take out the A. might actually run backwards and take out bases?	0.7597226470334659
+What does it's running back?	0.7525850327614672
+What does that's out of 3 billion bases?	0.743272459592907
+Have Meselson and Stahl shown us the Crick-Watson model works?	0.739475048657011
+What so happens the right base goes in much more often?	0.7390461827835804
+Does dNA polymerase turn out?	0.7382527412228117
+Does the enzyme put in say-- here?	0.7374881895428786
+Does strand not always get it quite right?	0.7349501844697273
+Do what mismatch detection does do?	0.7340973709874656
+What does activity's putting in?	0.7337035663864675
+Have Meselson and Stahl shown these machineries the Crick-Watson model works?	0.7290116491785583
+What does the enzyme take out the A. might actually run backwards and take out bases?	0.7267574392510892
+What cannot do better than that?	0.7224746373264412
+Who 'ves synthesized your DNA?	0.720639017315337
+Are maybe a couple mistakes per million just a couple of mistakes per million?	0.7149964434242899
+What is the trick's more likely to take a base out if the base was wrong?	0.7116181592050077
+What is after you 've synthesized your DNA--?	0.7031224801710982
+What does not always get it quite right?	0.701973490477295
+What do?	0.6950709743008218
+Is the quality control department checking?	0.6732895295910084
+What does it's running forward?	0.6684883254314222
+Who needs a quality control department?	0.6673487630943933
+Was 30 40?	0.6629639560619769
+What do these machineries 've now got?	0.6616539145017815
+What do I 'm replicating?	0.6603131323027931
+Do what do they do?	0.6603022386130581
+Who take out the A?	0.6602351266067019
+What does activity's taking out?	0.6568420534254102
+Who 've now got DNA replication?	0.6541181529938986
+What do you need department?	0.6430242423520585
+What do we 're down to?	0.6415661376747099
+What does it take out It might actually run backwards and take out bases?	0.6355153466080097
+Who mean by one base fits?	0.6351031847218798
+What do you not really want to do?	0.6289674082731875
+Who does not really want to do that?	0.6206676478440312
+What does it's just?	0.6150740961271193
+Is this just these molecular biologists fussing over all of these different repair mechanisms I mean?	0.598397408303903
+What think this's so cool?	0.5895074595735073
+Does that's what E. coli does to know those things for example?	0.5880082378908869
+What do we 've now got?	0.5831538694560314
+What do we mean by?	0.5757319463012409
+What takes them out more often if they 're wrong than if they 're right?	0.5739823821605987
+Who did you actually have?	0.5708367594746242
+Who remove bases?	0.5550711014088963
+Can the next problem not be perfect?	0.5499301073738105
+Do the new strands do not?	0.5360113285002119
+Who writes your work?	0.5077140022966513
+Does one's just energetically less favorable?	0.4994602279832532
+Who have the other copy?	0.4981884007798374
+Who it takes out more often if they 're wrong than if they 're right?	0.491201795158716
+What do you not necessarily have to know about?	0.4853549845989513
+Does the double helix have this methylation mark on both strands?	0.48443416595568856
+What do they have?	0.4836473085926669
+Who think it's so cool?	0.4817810275292087
+What do you write?	0.4749381834895394
+Does the enzyme come along?	0.47403593702834446
+Is that still not quite good enough?	0.46943618306314994
+Does the other base not fit?	0.46767797436379444
+What it takes out more often if they 're wrong than if they 're right?	0.4539472162254121
+Do we 're polymerizing in the five prime to three prime direction?	0.45103507820547994
+Who do the old strands have?	0.4491411840735342
+What do you 've synthesized?	0.4482564301886649
+What does it put in-- here?	0.4265775768461568
+Who writes it?	0.42284475028979407
+What have them?	0.4034500826314209
+Who do what do do?	0.3741385415219829
+What do that have?	0.3736511643025806
+What does strand not always get quite right?	0.36149527816000004
+What does it not always get quite right?	0.35827530911588323
+What do you know?	0.35825105110108235
+What do what do do?	0.35618035591876285
+What is this?	0.3491586436164391
+What's it?	0.3415192381076375
+Does it's supposed to be an A with a T.?	0.33399166359227195
+Who knows what happens?	0.33240740352928344
+Does that's the level of accuracy that is imposed?	0.32508312896304936
+What do we think's so cool?	0.3181344292651491
+Do what mismatch detection does have the polymerization machinery have another try to do better this time?	0.30197030813950887
+What could you say?	0.29577051066920634
+What is that?	0.29048288521102283
+What comes a little slowly?	0.2692750717049026
+Does that's about what the rate of new mutations occurring in you is?	0.26875137054543297
+If one loses the other copy can that cell no longer carry out mismatch repair?	0.2666595182117817
+Who proofread?	0.2557212790992558
+Who hopes?	0.24974780289969667
+Do they have the polymerization machinery have another try to do better this time?	0.2435470472866661
+Do we 're down to maybe a couple mistakes per million?	0.23643689025472447
+Do I 'm just going to tell you in polymerizing unless you think of a new trick?	0.2234578197869621
+Who detect?	0.22059859948678362
+Do I 'm dropping in base after base after base after base?	0.21839963423101905
+Do they have a very high incidence of colon cancer?	0.21553345068639418
+What are your genomes?	0.214170518026346
+What does it's?	0.19165289212271808
+Can some of the cells in their body not carry out mismatch repair anymore?	0.18404809590219973
+Do we polymerize five prime to three prime?	0.1726542354466507
+'d you still be making thousands of mistakes per cell generation?	0.16860847227016373
+Does it's sort of more like the 1 in 10 to the eighth?	0.1558209912999895
+Does well it turn out that there's one more thing that goes on?	0.1512958769139785
+What does well it turn out?	0.14822814253899375
+Do they have the polymerization machinery have another go?	0.13302849463114708
+What does not fit?	0.12251533716116692
+Does that mean the wrong base will not go in as often as the right base?	0.12119325539491532
+Who were born?	0.09625707094921632
+Does it's actually a little bit higher than that?	0.0947671091418596
+Can some of the cells in that's body not carry out mismatch repair anymore?	0.09370165820597887
+Who say?	0.0917936328841038
+Does it's just a game of probabilities?	0.08796238624220809
+Does well that turn out that there's one more thing that goes on?	0.07485139015781028
+What does it actually leave?	0.07475342606319857
+What are that's genomes?	0.06187443379215707
+What does well that turn out?	0.06186342449059623
+'ll it take bases out if they 're right?	0.04344393933312807
+What do I 'm dropping in base after base after?	0.03263681652721884
+What does that mean the wrong base will not go in as often as?	0.017741358400207297
+Does it so happen the right base goes in much more often?	0.01437119209179949
+Do you not necessarily the very cute mechanism have to know about?	0.005240920920592362
+What does that mean will not go in as often as the right base?	1.632842861716277E-4
+Who may think?	-9.312043646583223E-4
+Do these machineries 've now got DNA replication?	-0.006295393090355317
+Do I 'm just going to tell you in sticking the bases in unless you think of a new trick?	-0.01216587137413172
+Does it's putting bases in?	-0.018785871651376906
+Do STUDENT: accelerate it?	-0.020244426398917215
+Does it actually leave bread crumbs that tells it which was the correct one to use as a template?	-0.022584242574598123
+What 'll it take out if they 're right?	-0.025687751287569283
+Can the chemistry not do better than that?	-0.033414455938666876
+What do what do?	-0.03470714505167538
+Does it's both running back?	-0.036828194321191
+Is this kind of wasteful?	-0.03825906723176331
+What's terrible?	-0.03998775945943267
+Does that's it out of 3 billion bases?	-0.043244565931345846
+What do I 'm dropping in base after after base after base?	-0.05442856889029968
+What do I 'm dropping in after base after base after base?	-0.06234288479622019
+Who does not think so?	-0.06883039167795335
+Do we 're also removing bases?	-0.06986397583880244
+Do I 've got two strands there?	-0.07473076646728427
+Does it's taking bases out?	-0.08737167548630431
+Do they take out the A?	-0.08957769136815452
+Do we remove bases?	-0.10211042081451938
+Is that the energy favorability ratio?	-0.10456340134848907
+Is that close to error rates of 1 in a billion?	-0.11168820186246342
+Do I 'm replicating DNA?	-0.11897698235330667
+Does it's both running forward?	-0.12092490165123548
+Did you actually have 30 odd mutations relative to your parents?	-0.1227492105128356
+Is your accuracy 99. 9 % accurate?	-0.1345292444971733
+Does it take out the A. It might actually run backwards and take out bases?	-0.13477068989636765
+Is it not dNA replication's a pretty amazing process?	-0.13537727422589696
+Do the methyl marks think this's so cool?	-0.1358972369269036
+Do you need a quality control department?	-0.16125157188305783
+Do we 've now got DNA replication?	-0.18033964059803376
+Do you not really want to do that?	-0.1832693966139285
+Do we mean by one base fits?	-0.18581902760066615
+Do the old strands have them?	-0.20042451832865726
+Could you say you know?	-0.22522611124487102
+What does it so happen goes in much more often?	-0.23047949722100736
+What do we think?	-0.24991517503428384
+What does it's putting in?	-0.25221196381199107
+Do they have the other copy?	-0.25935922405935186
+Who do?	-0.26028504734713376
+If I have a mistake, does it's not going to feel right?	-0.26630746899347546
+'ll you get it right half the time?	-0.2728458983220148
+Does that's OK?	-0.2789210878078152
+Do you know what happens?	-0.2869894975809759
+What do we 're also removing?	-0.30529227689630445
+Is what mismatch detection does after you 've synthesized your DNA--?	-0.3170701784182215
+Does it turn out?	-0.31982313375063764
+What does it's taking out?	-0.32907347677304855
+Does it's a pretty good start?	-0.3400233465079483
+Does it put in say-- here?	-0.3502056644173832
+Do they detect?	-0.3566928564720837
+What do we remove?	-0.3570686756154837
+Do that have the other copy?	-0.3572891226595467
+Does it's just energetically less favorable?	-0.35953915689781324
+Does that's base?	-0.3669813433603546
+Does that's it?	-0.3765056629192225
+Does it's terrible?	-0.3943237407009592
+Did you proofread?	-0.40230106126600806
+Does that's a pretty good start?	-0.40688996626830454
+Do I hope?	-0.408370840136288
+Are your genomes 3 billion?	-0.4185904150876898
+Can it not be perfect?	-0.4379278102224593
+Do they say?	-0.4532965814240941
+Are these machineries actually very important?	-0.45381027120522766
+Do you 've synthesized your DNA?	-0.4680474028803898
+Does it come a little slowly?	-0.46874362041425477
+Do you write it?	-0.4752860489418864
+What does that's?	-0.5082097759133475
+Were you born?	-0.5154804090997676
+Are that's genomes 3 billion?	-0.5664910692632812
+Does it not always get it quite right?	-0.5684355516107669
+Do you write your work?	-0.5926042562022873
+May you think?	-0.6172547511276341
+Do we think it's so cool?	-0.6208178159903368
+Do I not think so?	-0.6538546075087994
+Does that's not very good?	-0.6703381513047602
+Do they do?	-0.7869485657575361
+What does the enzyme take out the A.?	-1.183909353474036
+What does it take out the A.?	-1.2655131407074243
+What is the trick?	-1.3229247075033956
+What does it so happen?	-1.3922863630525892
+What does that mean as?	-1.4142932153409071

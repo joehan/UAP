@@ -1,0 +1,79 @@
+PROFESSOR: Section Three. Tricks of Mutant Hunting. 
+
+First trick of mutant hunting-- toothpicks get boring. If you stand there with a toothpick going again, and again, and again, and again, and again, and again, and again, you get repetitive stress disorder or something like that. Powerful technology was invented in order to do massively parallel transfer of thousands of yeast colonies simultaneously. 
+
+Today of course, you would go to some robotic shop with vision and all that, and build the super duper automated toothpick that would have some little metal toothpick. And it would have a camera, and it would visualize the colony. It would go down, pick it up. And it would go over here, put it down. It would go sterilize itself, come back, and then pick it out. We actually have machines that do that, it turns out. And there are reasons why you have to do it. But that was not the solution that was developed initially. 
+
+The original solution was developed by a very important microbiologist called Esther Lederberg. Being bored with the toothpicks, she went to her makeup kit and took out her compact. It's a piece of velvet. It's a velvet pad. And she sterilized it in the autoclave. 
+
+And she took the velvet pad, put it down on the petri plate, picked it up, and put it on the next petri plate. And in parallel, those little hairs on the velvet pick up the yeast just fine. And she was able to transfer and grow, on a new plate, all the yeast in exactly the same pattern. This is called replica plating. 
+
+Here you have a plate. You have all sorts of colonies. And using that piece of velvet, Esther Lederberg was able to transfer all those things massively parallelly. And this greatly speeds up microbiology. Now she decided after a little while not to keep using her own makeup kit, and instead she simply got pieces of velvet. 
+
+Piece of velvet. Autoclave it so it's sterile. Take something like this. Toss it over that. Take the ring. Push it down. We now have the equivalent of Esther Lederberg's compact. Take your plate. We'd remove the top lid. I won't do it right now. Press it down. Get a fresh petri plate. Press it down. You've just transferred. In fact, if I wanted to make 10 different copies of that plate, I would just take 10 fresh plates and transfer. Incredibly good. 
+
+OK. That's one thing. Technology is a powerful thing. All right. So that's one trick of mutant hunting. If you're a geneticist, you're really hunting for mutants in all different ways. And if you know your organism-- yeast, you do hunts in one way. Flies, you do hunts in other ways. It's really pretty fun. 
+
+There's one other thing we didn't really resolve. These yeasts that we're plating-- are these yeasts haploid or diploid? You have your choice, right? Because we could grow these as haploid yeast or diploid yeast. Which should we choose? Should we do haploids or diploids? Who votes diploids? Good. Why diploids? 
+
+STUDENT: There just seem to be more of them, so it'd be easier to replicate. 
+
+PROFESSOR: There're more of them. I mean, I could grow up a lot of haploids, of course, if I wanted to. But diploids have more copies of the chromosomes. Maybe I'll get more mutations. Who votes haploids? Haploids? Why haploids? 
+
+STUDENT: You might be able to isolate specific changes and not get all those genetic interference. Like, oh, dominance, recessive traits. 
+
+PROFESSOR: Dominance and recessive-- wow. OK, so wait. I'm confused. Let's just check this out. We have our yeast. We have our yeast. I'm going to draw some chromosomes here. There are 16 chromosomes. But for the moment I'm just going to draw three of those 16 chromosomes there. 
+
+And, alternatively, we could do the diploid. This is chromosome one, two, three. In the diploid, we'd have two copies of chromosome one, and two copies of chromosome two, and two copies of chromosome three. And onward. 
+
+Which is better? You like the diploid? So suppose a mutation arises in my diploid. I've got some mutation in the diploid-- right over here, let's say. There's some gene which, when a mutation occurs-- M for mutant, maybe M1 for my first mutant-- occurs in that gene, that's a gene that is necessary for being able to synthesize your own arginine. 
+
+If I've knocked out-- if I have a mutation in one of the two copies of that gene, do you think it will lose its ability to make arginine? Why not? Oh, because I've got another allele, don't I? 
+
+I've got two alleles there. And I think you're thinking that maybe this is a recessive trait. If it's a recessive trait, I would need mutations in both alleles. But what would happen over here? There's only one copy. So if that copy has a mutation, then I'm going to see the phenotype, because it's only got one allele there. 
+
+Now, is it the case that the mutation is going to give rise to an auxotrophy that is recessive? Maybe, maybe not. But if it does, I'll find it here. Whereas if it gave rise to an auxotrophy that was recessive, I'd find it here. Now if it gave rise to a dominant auxotrophy, I might be able to find it in both places. But here, at least, I automatically get the recessive ones. 
+
+Actually, you already know that mutations are going to affect proteins. You know where we're going here. And those proteins here are going to encode-- are going to be enzymes in the pathways. The mutations are going to affect genes. The genes are going to effect proteins that are enzymes. 
+
+And you can imagine that this guy here is producing only half as much enzyme. Do you think half as much enzyme will make the yeast unable to grow? In general. Why not? 
+
+STUDENT: It'll just grow, I guess, slower? 
+
+PROFESSOR: It'll grow slower maybe. And actually, only if that enzyme was the rate-limiting step for the pathway. If it turns out that things flux through this pathway, and that enzyme isn't even the rate-limiting step, it might have no effect, or very little effect. So it could be that half as much enzyme is essentially just as good, or almost as good. It would be really hard to see any real difference if you're just asking, does it grow on the plate or not. 
+
+So for many enzymes, half as much is good. And so, many enzyme defects will be recessive. Is it possible that it could be a dominant trait, though? How could it be a dominant trait? 
+
+STUDENT: Just is? 
+
+PROFESSOR: Well, just is. Good. I like that. It's very definitive thinking. Yes? 
+
+STUDENT: It makes a new enzyme [INAUDIBLE]. 
+
+PROFESSOR: Oh. Suppose that mutation doesn't just lead to a loss of the enzyme, but actually changes the enzyme in some way, and that screws things up. Maybe, in fact, that enzyme functions in a multi-protein complex. Maybe four copies of it come together. And if one of those copies has been changed, it will screw up the other copies. It will screw up the quaternary structure of this protein. 
+
+So that would be what we refer to as a dominant negative that could screw things up. So it's possible that our mutations could have a dominant negative effect. They could be dominant. They could screw things up because they're not an absence. They're actually a gain of some function. Some change to the amino acid sequence. 
+
+It's actually even possible that a loss of function could be dominant if reducing yourself to half is really bad. It's not very common, but sometimes something half is not enough. The words for "half is not enough" is haploinsufficient. Geneticists refer to things as haploinsufficient. 
+
+So it could be recessive. It could be dominant. But this, we can find recessive or dominant. This one, we can really just find recessive. So we prefer to screen in a haploid. Sorry? Sorry, this one we could just find-- sorry. Here, we could find recessive or dominant. Here, we would really only see it if the phenotype were dominant. Question? 
+
+STUDENT: How do you keep haploids as haploids and not diploids? 
+
+PROFESSOR: How do keep haploids as haploids and not diploids? They just grow by themselves. Oh. There are two mating types. I just grow one of the mating types. 
+
+STUDENT: Oh, right. 
+
+PROFESSOR: Yeah, there's As and there's alphas. The As can grow happily as As, and as long as you don't introduce them into some charming young alpha, then they don't mate. They don't have it-- ah, that's a really good point. If you grow pure As or pure alphas, they don't mate. You have to bring them together. And then they mate. So that's what's so cool about them, is I can keep those haploids growing for years as haploids. Pretty cool. Question? 
+
+STUDENT: How do you know if they're haploid or diploid? 
+
+PROFESSOR: How do you know if they're haploid or diploid? Geneticists have easy ways to tell those things. But let me not go into the details on yeast right now. OK? We'll come back on that question there after, if you'd like. Any other questions on that? 
+
+All right. Now, suppose we have done our mutant hunt, and we have collected yeast mutant after yeast mutant. Mutant one. Mutant two. Mutant three. Mutant four. All of whom are the guys who are rescued by arginine. All rescued by arginine. 
+
+These are all arginine auxotrophs. Maybe even now, knowing that they're arginine auxotrophs, say that mutant will be called-- actually, we'll just keep it mutant one and mutant two. So I've got all these mutants here who are rescued by arginine. I want to characterize them. 
+
+Do they affect different genes? Are they recessive and dominant? The phenotypes are associated with recessive or dominant. What do they do? I've got this big collection. Maybe I've got 50 of them. All of these were independently isolated yeasts that are unable to grow without arginine. How do I characterize them? 
+
+All right. Take a moment and test yourself. We've got a question for you on the tricks of the trade of mutant hunting. 

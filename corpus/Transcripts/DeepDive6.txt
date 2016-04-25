@@ -1,0 +1,19 @@
+MICHELLE MISCHKE: Hi, this is Michelle Mischke. Welcome back. We have talked about DNA that represents a gene. Today, we're going to talk about two important noncoding DNA sequences-- the origin of replication and the promoter. We've talked about both of these sequences in lecture, but I want to tell you a little more about both today. 
+
+Why would this region be considered an origin of replication and not the sequence to the right or the left? To answer this question think about what an origin is. An origin is a specific double-stranded DNA sequence, to which the proteins needed for replication bind. When these proteins bind, the original molecule is copied to produce two identical molecules. 
+
+If we know why the proteins bind to the origin, and not the sequence to the right or the left, then we can answer our original question. Take a moment and think about what would allow protein binding to the origin but not other DNA sequences. 
+
+To think about this question, you need to think about what makes one region of DNA different from another. DNA is simply a collection of nucleotides, As, Ts, Cs and Gs. That's it. That's all there is. So these proteins must be binding to the specific sequence found at the origin. 
+
+So how do these ideas relate to a promoter? Well like an origin, a promoter is a specific double-stranded DNA sequence. And what binds to the promoter? You're right! RNA polymerase binds to the promoter and initiates transcription to produce an RNA. But why does RNA polymerase bind to the promoter and not other DNA sequences? Well the answer is the same. RNA polymerase must be binding to a specific sequence found at this site. 
+
+Now I have another question. Do you think that the DNA that serves as a promoter in a human cell would also work as a promoter in a bacterial cell? Stop for a moment and answer this question. This was a hard question. But if I had told you that two polymerases were different from each other, meaning they had a different overall structure, could you answer the question? Sure! 
+
+If the proteins are different, then you would expect the recognition sequences would also be different. And this is the case. This information is important when we consider vectors in cloning. Now I want to take this idea one step further and ask you this. Would any given cell have more than one promoter? If it does, would the sequence of every promoter be the same? 
+
+You should know there would be more than one promoter, because there's a promoter associated with every transcript. You should also recognize that you don't want to transcribe all of the genes all of the time. So how can you apply what you've learned about promoters to regulating transcription? 
+
+We can look at a bacterial promoter as an example. In this case, there is an ideal sequence. A sequence that RNA polymerase binds to very well. From this promoter we get lots of transcription of this gene. If, however, we changed the sequence just a little, RNA polymerase is less likely to bind, which means we will observe a decrease in the transcription. 
+
+And if we make many changes, we could prevent RNA polymerase from binding, altogether. And in this case, we'll observe little to no transcription. We can improve the transcription from this last weak promoter through the binding of other proteins that will help RNA polymerase bind. Thanks. And I hope that helped you understand origins and promoters. 

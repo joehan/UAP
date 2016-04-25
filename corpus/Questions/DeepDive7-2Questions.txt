@@ -1,0 +1,140 @@
+What cannot get rid of GTP?	2.5533652166247487
+What has a mutation that causes RAS to be always GTP bound?	2.479698210058739
+What is going to be classified as a tumor suppressor gene?	2.3786736814259357
+What has a mutation that truncates the resulting protein?	2.372286411005627
+What has a 10 base pair deletion causing a frame shift early in the sequence?	2.3286563805409934
+When does p16 inhibit?	2.26923590226714
+What has the cell lost both copies of?	2.24825475045686
+What can the first allele not get rid of?	2.231067188271986
+What do the second copy codes for a receptor that can dimerize without the growth factor, and will therefore inappropriately simulate the cells to?	2.2168562812105166
+What is a protein that when bound to the first example's ligand, promotes cell division?	2.210173604049312
+What results in a non-functional truncated protein?	2.1733029604070344
+What is the first copy of the gene?	2.1412266387696604
+What has a mutation in the promoter?	2.1245028408115574
+What inhibits the cell cycle?	2.0853431999175083
+What means when the growth factor binds to it, it promotes cell division?	2.083108274865566
+What's a tumor suppressor gene?	2.070581199190091
+What is a gain-of- function mutation?	1.9941103709041033
+What is a growth factor?	1.9851806101441205
+Who does the first allele have?	1.9279699757894935
+What is wild type?	1.9256647163450695
+What has a big deletion?	1.915866957577292
+What inappropriately simulate the cells to divide?	1.8926518598597035
+Who prevents the first allele's transcription?	1.8920287576577628
+What is wild type and functioning normally?	1.8701469592168372
+What does aPC's?	1.8668100415109565
+What has the cell lost?	1.850321301992455
+What will continuously stimulate the cell to divide?	1.8374274572517506
+What promotes cell division?	1.8339486619026206
+What does allele one have?	1.8191656202064401
+What does a mutation prevent?	1.8089643595400602
+What will lead to uncontrolled cell division, and therefore, a transformed phenotype?	1.7984042914163698
+What can the first allele not get?	1.795756760079666
+What is pDGFR?	1.7877953923530765
+What is the first one?	1.712323566535087
+What does the growth factor bind to?	1.6585925501663221
+What does a proto-oncogene promote?	1.6525905202072761
+What would be normal?	1.6227705415861053
+Who does the second one have?	1.605121015560493
+What will the cell divide appropriately in?	1.4960609165071668
+Does the second allele result in a non-functional truncated protein?	1.4383064452893457
+What does the second one have?	1.4285623555027973
+Can the first allele not get rid of GTP?	1.4106394365837889
+What therefore will not make any functional protein?	1.3914946089816178
+Is p16 going to be classified as a tumor suppressor gene?	1.3832909948463126
+Has the cell lost both copies of APC?	1.3629503995476124
+Who are looking at EGF receptor in the fifth example?	1.3422473764913123
+Does the second one have a mutation that truncates the resulting protein?	1.3361223334020114
+What has lost both copies of APC?	1.3214866470194342
+Will the cell divide appropriately in the presence of the ligand?	1.301223127920065
+Who have PDGFR receptor in the first example?	1.2994479165582304
+Does p16 inhibit the cell cycle?	1.2854788173019962
+What are we looking at EGF receptor in?	1.2806911979167168
+Does allele two have a mutation that causes RAS to be always GTP bound?	1.2716805633035397
+Does the second one have a 10 base pair deletion causing a frame shift early in the sequence?	1.2697897004633583
+Who does allele two have?	1.2683967020056208
+What are we looking at in the fifth example?	1.266877786708502
+Do the second copy codes for a receptor that can dimerize without the growth factor, and will therefore inappropriately simulate the cells to divide?	1.2640346757348353
+Would the phenotype of the cell be normal?	1.256623055954067
+Does the first allele have a mutation in the promoter?	1.2457421029118327
+What do we have in the third example?	1.244619210491452
+Is the first copy of the gene wild type?	1.2365088532330524
+What is a protein that when bound to its ligand, promotes cell division?	1.2309539918191792
+What do the second copy codes for a receptor that can dimerize without the growth factor, and will therefore inappropriately simulate to divide?	1.229072693479114
+What do we have in the second example?	1.2182376176119183
+Who have p16 in the third example?	1.2071636977990403
+What do we have in the first example?	1.1932491467825228
+Who already has RAS learned is a proto-oncogene?	1.1870808386080598
+What do we have in the fourth example?	1.1644636679510554
+Who have APC in the second example?	1.1638841670080815
+Is pDGFR a growth factor?	1.1601522583048496
+What do we have PDGFR receptor in?	1.156313764263146
+What do we have p16 in?	1.1425291600285976
+What have you already learned is a proto-oncogene?	1.1351107093402377
+Does aPC's a tumor suppressor gene?	1.123553804044866
+What can it not get rid of?	1.1215678664251065
+Is eGF receptor a protein that when bound to the first example's ligand, promotes cell division?	1.1096594071486332
+What do we have APC in?	1.1080205201806863
+Who have RAS in the fourth example?	1.1067857890013095
+What does that mean when the growth factor binds to it, promotes cell division?	1.0992079289754018
+Does allele one have a big deletion?	1.092068004666252
+Is the first allele wild type and functioning normally?	1.081792686952105
+Who hopes you enjoyed this exercise, and now have a better understanding of how cancer cells originate?	1.0413957804307445
+Does a mutation prevent the first allele's transcription?	1.0322032787758944
+Will allele one therefore not make any functional protein?	1.0300024831335852
+What do we have RAS in?	1.0248321665726952
+What does the second allele result in?	1.0127292053891295
+What have you already RAS learned is?	1.0118576701700253
+Is the first one wild type?	0.9892954080307159
+Who prevents its transcription?	0.9817569249013307
+What does that mean when the growth factor binds to it, it promotes?	0.959109571180021
+Who do I hope enjoyed this exercise, and now have a better understanding of how cancer cells originate?	0.9221789602122521
+What will divide appropriately in the presence of the ligand?	0.8821549549338135
+Does a proto-oncogene promote cell division?	0.8704963853724785
+Will the cell become transformed?	0.823891760392782
+What can it not get?	0.793897965226025
+What does it's?	0.7439954463860126
+What will be classified as a proto-oncogene?	0.6834998003382136
+What binds to it?	0.681342329592854
+What will this continuously stimulate the cell to?	0.6777980236644503
+What have you already RAS learned?	0.6674690200749909
+What binds to that?	0.5965570664034265
+What does it promote?	0.575968706559616
+Who still has a functioning copy?	0.5479872810254081
+What will this protein be classified as?	0.5257508563855469
+What is this?	0.5090997624860634
+What do you still have?	0.4634971008405948
+Will this protein be classified as a proto-oncogene?	0.3917119164197107
+Is it going to be classified as a tumor suppressor gene?	0.36106871196993096
+Are we looking at EGF receptor in the fifth example?	0.3541838781120563
+Do we have p16 in the third example?	0.3454076232434229
+Do we have PDGFR receptor in the first example?	0.3251399105823829
+Can it not get rid of GTP?	0.3174885530199849
+Do we have APC in the second example?	0.30658527309108674
+What will this lead to?	0.2756951045659566
+Will this continuously stimulate the cell to divide?	0.25555518472657957
+Will this lead to uncontrolled cell division, and therefore, a transformed phenotype?	0.2512883363143521
+Have you already RAS learned is a proto-oncogene?	0.25084893612914483
+Do we have RAS in the fourth example?	0.247811225893245
+Who will not have any protein expression?	0.20004263608369954
+What will we not have?	0.16501082507359954
+What will allele one therefore not make?	0.16277430869297893
+What will become transformed?	0.14485747745750488
+Is eGF receptor a protein that when bound to its ligand, promotes cell division?	0.14043864182068377
+What's Samin again?	0.0884379492230376
+Is this a gain-of- function mutation?	0.0637164012555762
+Does it's a tumor suppressor gene?	0.061448806728109595
+Does a mutation prevent its transcription?	-0.015223747548969824
+Do I hope you enjoyed this exercise, and now have a better understanding of how cancer cells originate?	-0.015875461538975122
+Does that mean when the growth factor binds to it, it promotes cell division?	-0.022202193853608554
+What is eGF receptor?	-0.08836561619873406
+Will it become transformed?	-0.10365706897466498
+Will we not have any protein expression?	-0.10809524104733681
+What do I hope?	-0.1268209851031633
+Does it promote cell division?	-0.17909661485899786
+Does the growth factor bind to it?	-0.1833402957973158
+Do you still have a functioning copy?	-0.2583988141700879
+Does the growth factor bind to that?	-0.2617426919315078
+What will this continuously stimulate to divide?	-0.3746450625636999
+Does it's Samin again?	-0.4585092235310386
+What does that mean to?	-0.5415886496892564

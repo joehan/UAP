@@ -1,0 +1,91 @@
+ERIC LANDER: We have all these chromosomes, one, two, three, four, five, et cetera. We don't want to be pulling the slot machine, randomly trying genetic marker after genetic marker after genetic marker in each and every family that we do. So what's our solution? 
+
+Instead of every single investigator randomly trying markers on his or her own, why don't, once and for all, we make a genetic map? That is, we pull out enough markers at random, and map them, and figure out where they all are until we fill up the chromosome with enough markers. And then everybody can use those markers, and they know it's on Chromosome One, or Chromosome Five, or on the short arm, or the long term over here. 
+
+What you have to do is you have to find a lot of genetic markers. You don't know where they are initially, but what would you do to find out where they are? Recombinant mapping. So what would you need? Bunch of families. You don't need them to have any particular phenotype because you're not trying to map a disease. You're just mapping markers against markers. 
+
+So ideally, you would like a big family, a family with lots and lots of kids. Actually, what you really want is four grandparents, two parents, and lots of kids. So in fact, that was the concept. The first human genetic map, though, was a genetic map that had 403 markers across the genome, just barely enough to link up the genome, to detect linkage across the whole genome. 
+
+Here's Chromosome One, and what you can see is this is the recombinational map of markers, 21% recombination, 10% recombination, et cetera, here, 14% recombination. 
+
+Actually, by the way, this is recombination in males. This is recombination in females. It turns out that there's less recombination in males than in females, so we could tell that they were linked more by the male recombination than the female recombination. Some of these were rather big. Here's the sex average. This is Chromosome One. 
+
+I know this map particularly well because this was in a paper on which I'm a coauthor, that first genetic map. That was in October of 1987, that a bunch of us in Boston published that first map. We barely had linkage across the genome, but we did have markers spanning the whole genome. 
+
+It then went with more and more people doing that. Within a few years, by 1993, '94, got up to about 5,000 genetic markers. And so really, the solution here was just do this in parallel. Do it in common families. Share the data. Parallel sharing. And it led to a genetic map that people could use for mapping families, for mapping inheritance down families. Everybody could use these maps, very straightforward. 
+
+Now, physical mapping. My goodness. This chromosome walking stuff is horrible. Radioactive probe for the next thing and the next thing and the next thing and the next thing, we can't do that. It's terrible. We need a better solution. 
+
+Now, what people did was the following. They said, look. Suppose I had a library that had pretty big inserts of DNA. I'm going to say on average, 100,000 bases. Remember we said some clothing vectors could clone big pieces of DNA? 
+
+So suppose I had such a library. Somewhere in that library are overlapping pieces of DNA marching along the chromosome. Using this horrible walking technique, you would find them by making each one a radioactive probe, washing it over the library, and seeing where it sticks. But suppose you were willing to work in parallel. Here's a cute trick. 
+
+Let me take this clone and cut it up with EcoR1 and measure the fragments. So if I cut it up with EcoR1, here's my clone, and maybe here are the EcoR1 fragments. If I have an overlapping clone, what can you tell me? Well, most of it's EcoR1 fragments, the EcoR1 fragments from the overlap will be the same. 
+
+So in other words, here's a cute trick. Just count the EcoR1 fragments, how big they are, and write that down as an unordered list. Do that for every piece of DNA in your library. Every clone, prepare DNA, cut it with EcoR1, and measure the EcoR1 fragments. If clones overlap by a fair amount, they'll have a lot of numbers in common. And if EcoR1 alone is not enough, try another enzyme, HindIII. And if that's not enough, try Bam. 
+
+In other words, by cutting it up with enzymes and measuring the lengths, you can detect mathematically that they must overlap. Now, you'd be patching together the whole genome simultaneously, right? You wouldn't be walking in any particular direction because for every clone you'd be doing, the odds were it wasn't the overlapping clone. You would just do clone after clone after clone after clone after clone. You'd have no way of knowing they weren't the overlapping clones, but you'd just pile it up in the database and let the computer sort it out. 
+
+And the computer would begin to sort it out and say, ooh, these guys have a lot of fragments in common. They must overlap. These guys have a lot of fragments in common. They must overlap. These guys have a lot of fragments in common. Ah, but the truth is, sometimes you'd get to places where there would just be gaps. You wouldn't know what to do in there. You just didn't always manage to get continuity across the whole genome. So what you'd get is you would get islands put together, contiguous segments, but then they'd stop. How would you even know where this was? How do you know whether this is on Chromosome Five or Chromosome Two? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: Check for polymorphisms. So you use both. You use this bottom up patching together of pieces of DNA to build these continuous segments. You use your top down genetic mapping to figure out where those contiguous chunks were in the genome. You'd say, ooh, these pieces fit together, and by genetic mapping, I find polymorphisms in this, and those polymorphisms map to Chromosome Five. They happen to map to a particular region of Chromosome Five. 
+
+See, polymorphisms genetic linkage. Because 1% recombination is a million bases, it can seem any millions of bases. If two things are 10% recombination away, I can detect that linkage, and that's how I can see over 10 million bases. But this little patching together can't fit together things unless they're right adjacent. So I've got two different scales. I have the long scale of genetic mapping, the short scale of overlaps. 
+
+And what we did is you do this in parallel. Just do a lot of the parallel, and you share information. Then the third piece. This is the whole Human Genome Project. We're almost done with the Human Genome Project. It took longer in practice than it does to describe it. 
+
+Was you had a sequence. So we have these overlapping pieces of DNA. They're built into continuous segments. Yeah, there are a few gaps here and there, but we've genetically mapped them, so we know that this is Chromosome Five, let's say, even though there are some gaps. We now have to start sequencing those pieces of DNA, each of which is 100,000 bases long. 
+
+Oh my goodness. 100,000 bases long. You recall how we did sequencing? We take our molecule, three prime, five prime. We have a little primer here. We start extending, and I said how many bases could we read? 700 bases. Right, 700 bases, maybe. Can't go any further. The separation isn't enough. You can't distinguish 701 from 702. What do we do? 
+
+We'll get sequencing that's able to run 100,000 bases? Nope, we didn't have it. It'd be a lovely idea, but we didn't have it. How are we going to get the sequence of this 100,000 base long molecule if all we can do is read 700 bases? 
+
+STUDENT: [INAUDIBLE]. 
+
+ERIC LANDER: What is it? Cut them up. How do you want to cut them up? 
+
+STUDENT: You already cut them up. 
+
+ERIC LANDER: Restriction enzymes? In fact, what I'm going to do is I'm going to do a little Human Genome Project on each one of those clones. And so you take one of those clones, this 100,000 base long thing. Here's my 100,000 bases. I randomly shred it up into pieces. 
+
+I clone each of those pieces into a vector at random, and I make what's called a sub-library. It's a sub-library because it's just fragments from that one piece of a library. This was one clone in the library. I now will plate out many, many clones, each of which has a little piece, maybe a few thousand bases, of that 100,000 base thing. 
+
+And then what do I do? No, no, no, I don't cut it again. I just sequence it then. I just sequence. So I have these pieces, and I don't know where they go, but they all fit within these 100,000 bases, and I sequence them. And I get the 700 bases at one end and the 700 bases at the other end. 
+
+Maybe this is 2,000 bases. I get 700 bases here, and 700 bases here, 700 bases here, and 700 basis here, and there, and there, and there, and there. Look, those overlap. That's good. I get this here, and that, and that, and I keep going and sequencing the ends of all these clones. 
+
+And then what do I do? I write down. The algorithm's a cute algorithm. It says suppose I took a word, a string of length 100,000, and I randomly pull sub-strings of length 2,000, and I give you the sequences at the ends. If I give you enough of those, can you reassemble the 100,000? 
+
+And I bet at least MIT students can write code to do that. It turns out it could be a little tricky, but you can do it. You write computer code, and the computer code reassembles that 100,000 out of the smaller pieces. 
+
+That's basically the Human Genome Project. I leave out a few details. The few details are that I tell you you can reassemble the whole thing. Well, it turns out when you reassemble the whole thing, you do pretty well. You know that these guys are connected, but you're often missing pieces of sequence. Well, you PCR it up, and you sequence the PCR product, and you PCR up the next guy because you have the primers, and that's called finishing the clone. 
+
+Anyway, this is what happens. When you're all done, you've got a genetic map sign posts that you can recognize millions of bases away by recombination, overlapping clones that you can recognize because they share restriction fragments, sequences that you have assembled out of lots of little sub-clones of your clone, and that you've assembled by computer, and then put together by computer, and then anchored by computer. And you get a sequence of the human genome. That was the Human Genome Project. 
+
+And by, it turns out, February of 2001, we had a draft sequence, meaning we had about 90% of the genome was done, and there were about a quarter of a million small holes in it, some big holes, some small ones, but about 90%. And by April of 2003, we had a finished sequence, which was about 99.3% of the genome, and what we couldn't get was weird bits that were very hard to clone and sequence. 
+
+Actually, the finishing date, the date for the finished sequence, was April 25, 2003, which is coming up. Its 10th anniversary is coming up, as a matter of fact, just in a couple of weeks. And for anybody who's watching on the web, who knows? You may be watching it right on the very day of the 10th anniversary. 
+
+Why April 25, 2003? We actually picked that date for a deliberate reason. What about Watson and Crick? 
+
+STUDENT: Eagle Pub? 
+
+ERIC LANDER: No. The Eagle Pub they ran in February, but the paper comes out April 1953. We picked it kind of for fun, to finish exactly 50 years after the double helix paper came out. That was pretty cool. It was a lot of fun, and it made everybody work really hard because that was not a movable date, right? All right. Now, that was the Human Genome Project. Yes, question? 
+
+STUDENT: How did they mechanize everything by the end so they transformed [INAUDIBLE]? 
+
+ERIC LANDER: Oh yes. So in fact, the leading place for automating all this work I've just described was here at MIT. It was our Genome Center here at MIT. And so when I talk about picking the clones off the plate, we initially did that with toothpicks. We then had a robot about this big that was a very large robotic toothpick, and it had a camera, and it could pick out the colonies on the plate, and it would go [MAKING ROBOT NOISES]. And we had long conveyor belts doing the biochemistry, purifying the DNA, and doing all this stuff. I don't have it tonight, but I'll bring in a picture for you guys of what it looked like, the factory we had just three blocks from here. We had a large factory where we did all of this. Yes? 
+
+STUDENT: So like you mentioned, how did the changes in technology affect how you proceeded with the project. Did it change the methods you used? 
+
+ERIC LANDER: Oh yeah. Methods changed totally, all the time. They were changing constantly. This basically took place from 1990 to about 2003, and the methodology was changing and changing and changing all along the way. I can now describe to you this very simple little conceptual process, but all of this was being invented while the plane was flying. We build the plane while it was flying, and things were changing constantly and being automated, and sometimes they didn't work. 
+
+And if we had lots of time, I would tell you about how the physical mapping was really done with some Brobdingnagian machine that took up about something as big as this room that did physical mapping. It was called the Genometron. And it still sits, to this day, in a warehouse in Somerville, as a matter of fact. But I'm digressing way too much, guys. But they could cut all this on the web, you know. 
+
+STUDENT: But it's so interesting. 
+
+ERIC LANDER: And it's all true. This is how it really happened. But now this is all cool stories, but we're now coming up to the 10th anniversary of this all being done. What's happened in the last 10 years? Well, while we were so impressed with ourselves getting the whole human genome sequenced, three billion bases, which we had to have many overlapping clones, so by the time we were done, we had to collect about 30 billion letters of DNA sequence and assemble it. What's happened in the next decade has been mind blowing. So I just want to tell you what's happened in the next decade. 
+
+OK, before we go on with the rest of this story, answer this question about the Human Genome Project. 

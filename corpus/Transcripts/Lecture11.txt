@@ -1,0 +1,119 @@
+ERIC S. LANDER: Welcome back. So in our last lecture, we talked about the amazing story of the discovery of DNA as the hereditary material, showing that it had the possibility of transforming another organism to have a new trait, and then the structure of DNA, how eventually Crick and Watson work out the correct double helical structure based on the experimental data of Rosalind Franklin. And it gives us this extraordinarily just sublime double helix-- each strand fully conveying the information of the other strand. You got to love it. 
+
+You have the double helix, each strand-- an A matches a T, a G matches a C, a C matches a G. You know, they're going to come apart somehow. And using the information matching, it's going to be possible to copy and produce two strands, each matching the template. 
+
+It's so brilliant. How could it possibly be wrong? And yet in this course we've learned that that's never enough. 
+
+The fact that it explains the data-- well, you made up this model and you said, it should explain it-- no, it's not really true. It's a gorgeous model. You maybe didn't have to explain the data. It's so pretty, but you've still got to be pretty hard-nosed. 
+
+This notion that this is the secret of life, that you're going to have these two strands, they come apart, and each is actually used as a template, can't be taken as an article of faith. It requires proof. So even though everybody knew it had to be right, they still knew that was not enough. They needed an experiment to show that DNA replicated in what we might call a semiconservative fashion. 
+
+What do I mean by a semiconservative fashion? I mean that we start with two strands of DNA. We'll call we use the old strands of DNA. And now, where we had a double helix, that was those two old strands we started with, we're now going to have two double helices, each of which has one old and one new strand. 
+
+And we've got to prove that. It's not enough to assert it. How are we going to prove that DNA replicates in a semiconservative fashion? 
+
+Well, you could say, how else could it possibly do it? That's not actually allowed as an answer. You can't just say, I can't think of another way. Because the thing is, you can think of another way, there's a perfectly fine way. 
+
+Perfectly fine way would be instead to say that what happens is you have the two old strands. And some amazing protein machinery comes in and feels what's going on here and constructs two strands that match. Some kind of a-- you might call it a pantograph, one of these good old devices that can feel this and copy there. 
+
+I mean, it sounds nuts, but that's an alternative possibility. How do you know that that's not what's happening? Right, why not that? 
+
+So it took an experiment. Two young early geneticists, Matt Meselson and Frank Stahl-- they're just post-docs-- say, we're going to prove this Crick-Watson semiconservative model. By the way, Matt Meselson is on the faculty at Harvard, works just down the road, and is a great guy. This is all living history. You could go down, if you actually had the guts to do it, get on the T1 stop and ask Matt about the Meselson-Stahl experiments, OK? 
+
+So they want to prove it. How are we going to prove that DNA, which is these two strands, gives rise to an old strand and a new strand, old strand and new strand? What's going to be our experimental proof? How can we possibly tell old from new? 
+
+STUDENT: Tag it somehow? 
+
+ERIC S. LANDER: Tag it somehow. That's the only thing we can do. We can tag it. 
+
+So, let's see, can we put fluorescent groups on it? No, that's not going to do it. Actually, you might be able to. Radioactive-- radioactive, OK, so we need an atom that's present only in old DNA but not new DNA or new DNA but not old DNA. 
+
+How are we going to do that? The two strands have exactly the same atoms. It's not like the experiment we did with Hershey and Chase where we could label the proteins with sulfur and the DNA with phosphorus. There's only one thing. Yes? 
+
+STUDENT: Would you tag the base? 
+
+ERIC S. LANDER: With what? 
+
+STUDENT: Something that would bind a phosphorus like [INAUDIBLE]. 
+
+ERIC S. LANDER: Yeah, like what? Yes? 
+
+STUDENT: Grow some organisms in an environment where there's no radioactive elements and some where there is some and then-- 
+
+ERIC S. LANDER: Oh! 
+
+STUDENT: --DNA that is-- 
+
+ERIC S. LANDER: I could use different isotopes. It's not different labels, but it's the same atom but either one radioactive one, non-radioactive, or one molecular weight and the other a different molecular weight. Can I get isotopes? Yes? 
+
+STUDENT: Nitrogen. 
+
+ERIC S. LANDER: Nitrogen. Nitrogen. What they did was they said, isotopes. I can take isotopes of nitrogen. What's the normal weight, atomic weight, of nitrogen? 
+
+STUDENT: 14. 
+
+ERIC S. LANDER: 14 and 14. But you can also get N15. This is the usual. But you can get also heavy nitrogen. 
+
+I can actually tell the difference. So help me design an experiment, please. What are we going to do? 
+
+Experiment? Experiment? Got anybody new to get an experiment here? I need to label my DNA somehow. How am I going to label my DNA? 
+
+STUDENT: Like, if you grew it or somehow exposed it to your radioactive-- 
+
+ERIC S. LANDER: This actually isn't radioactive. It's just heavy, heavy nitrogen. So what I'm going to do is I'm going to take a test tube. I'm have bacteria growing in that. And in that test tube, the medium will be containing a lot of N15. 
+
+The DNA that's getting synthesized here, the two strands of DNA, are going to all have lots of N15. I want to let them replicate. And it turns out, they're pretty good at that themselves. I just sort of let them do it and they replicate. 
+
+STUDENT: Get them out of there. 
+
+ERIC S. LANDER: Get them out of there? What do I do? 
+
+STUDENT: Put them in a normal environment. 
+
+ERIC S. LANDER: Give them normal nitrogen. How do I do that? 
+
+[INTERPOSING VOICES] 
+
+ERIC S. LANDER: [INAUDIBLE] I can centrifuge now and pour it off. Frankly, I can just pour in a whole bunch, just the huge excess of normal. If I do a small amount of this N15, and then I pour in a huge amount of N14, that's a good way to swamp it out. Or I could spin it down and change the medium. 
+
+But I'm going to change the medium, so that they go here. And I've got N14, lots of N14.. Now all the DNA replication that will be taking place after this point pretty quickly is going to incorporate that N14 into the synthesis of the nucleotides. And we'll incorporate those nucleotides into the DNA. 
+
+And pretty quickly, for the next round of replication, it will be using light nitrogen-based nucleotides. If this model's correct-- actually, even if the model's not correct, that's what's it's going to be doing. Whatever happens, it's going to be now switching to using N14. 
+
+So now all we have to do is tell, are we're getting one new and one old? How do I tell whether something is one new and one old? I have to weigh it. I have to weigh it. 
+
+I have to weigh one atomic mass unit more. It turns out, not so easy to weigh. But that's in principle all I have to do. I simply have to purify DNA and weigh whether it's a little heavier or a little lighter. 
+
+Is it N15, 15; N15, 14; or N14, 14? So initially, what should I have? Initially, time 0, I should have 15, 15 heavy-- heavy, heavy. After one generation, all my strands should be heavy, light-- 15, 14. Then what happens after that? 
+
+STUDENT: You [INAUDIBLE] 14, 14-- 
+
+ERIC S. LANDER: Let's see, I've got some old 15s. And those old 15s will get used as a template and give us 15, 14s. But I also have some of these new 14s that were made. And what are they going to give rise to? 
+
+STUDENT: 14s. 
+
+ERIC S. LANDER: Two 14s, so I'll have 14, 14. So, oh, I've got a lot of testable predictions here. My testable predictions are that I'm going to start with 15, 15s, I'm going to get 15, 14s, then I'm going to get some 15, 14s, and some 14, 14s. Very good. If only I had a way to measure it, I'd be in business. Now I need a way to measure it. 
+
+Meselson and Stahl had no way to measure it. So they invented one. What they did was they took a test tube with a salt solution, a particular kind of salt solution, cesium salt. And they wanted to create a gradient of slightly denser and slightly less dense cesium slightly, slightly, slightly less dense. 
+
+So what they did was they chose a density that was the same as DNA, pretty much. And then they needed to just slightly make it a little denser at the bottom and a little less dense at the top. And you might think, well, I'm going to pour a slightly denser solution on the bottom, then pour another one on. But he can't. It's just too fine a thing to do. 
+
+So what they did was they spun it incredibly hard in a centrifuge. And the centrifuging alone was enough to slightly shift the density to make it a little more dense at the bottom and a little less dense at the top. And they invented this procedure-- density gradient centrifugation or isopycnic centrifugation. 
+
+They made density gradient centrifugation. They made a density gradient, from less dense here to more dense here. And then, with their DNA, they could detect where their DNA was. 
+
+Where would 15, 15 go? Let's say over here, where they set it up as 15 over 15 went there. 14, 14 would go here. And 14, 15 would go there. 
+
+And they did this experiment at time 0, after one generation, after two generations, and all the predictions were born out. And it was just perfect. The densities matched exactly what Crick and Watson semiconservative replication would say. That nails Crick and Watson. 
+
+It's nice to have the model. And it's nice to have proof. That's the Meselson-Stahl experiment. Any questions about Meselson-Stahl? Pretty cool. 
+
+Now that tells us that the two strands of DNA come apart somehow and are used as a template. The biochemist would say what? How does it happen? I want to know the machinery. I want to figure out how DNA nucleotides are polymerized together to make that strand, to take a template strand, and polymerize the new strand. 
+
+Who carries out that polymerization reaction? It must be an enzyme. There's got to be an enzyme that joins together the correct nucleotides in the correct order to polymerize the DNA. What should we call this enzyme? 
+
+STUDENTS: Polymerase. 
+
+ERIC S. LANDER: Polymerase. Enzymes in molecular biology are so much fun, because you just add -ase to the end of it, and you're there. 
+
+To be sure you're following, test yourself with this question about semiconservative DNA replication. 

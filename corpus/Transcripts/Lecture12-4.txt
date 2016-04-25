@@ -1,0 +1,109 @@
+ERIC S. LANDER: So we've got transcription, and it's pretty straightforward. So now let's do translation. Section three, Translation. Well, translation is a lot more complicated, because what are we doing in translation? We are moving from the language of RNA to the language of proteins, amino acids. Oh, boy. So RNA, how many building blocks for RNA? Four. 
+
+So we have four nucleotides. What do we have for proteins? 20. 20 amino acids. How do we go from four to 20? Well, this bothered people a great deal in the 1950s. There was going to have to be a language translation from this four letter code to this 20 letter code. Biochemists came up with some wacky ideas. 
+
+If you're a biochemist and you think about protein shape and all this, and you're going to try to get amino acids ordered up in the right way, please forget about the fact that you know the answer to this, because people didn't originally know the answer to this. How are you going to hold the amino acids in the right way? You're going to need to recognize which amino acid is which. 
+
+So a perfectly reasonable notion is that the RNA would fold up, like proteins do, into a shape that would make a pocket that just perfectly fit in arginine, and then the next bit of the RNA would fold up and hold a phenylalanine. And the next bit of the RNA would fold up and fit a histidine and would hold together the amino acids, which could then be-- we catalyzed peptide bonds between them. 
+
+This was referred to as loopy codes. And now, of course, we look and we say this is kind of loopy, right? The idea that you're going to have this kind of loopy codes that'll perfectly-- but it's like, not an unreasonable idea, except, well, what's wrong with that idea? Why is it-- sorry? There are a lot of amino acids, but, you know, maybe it'll take a long stretch of nucleotides. In a protein, right. 
+
+But each stretch of-- so maybe RNAs are very long, and they have enough of a structure to hold in each amino acid. How are you going to hold these amino acids? They're very different, aren't they? Some of them are positive and negative, and hydrophobic and hydrophilic. But remember, RNA-- these bases are kind of pretty much very similar chemical properties. 
+
+It doesn't seem to make a lot of sense that you're going to be able to make structures that hold all these things, and Francis Crick kind of figured that out. He said it can't possibly be loopy codes. It's got to be something else different than that. We'll come to the story of how people knew, but let's actually just jump to what the answer is, and then we'll come back to a little bit of how we knew. 
+
+The answer turns out to be that there is a look up table. A very simple look up table. If you're a computer scientist, now of course, in the 1950s, just after the discovery of DNA, there were very few computer scientists, largely because there were very few computers. It measured in the ones, or twos, or threes, right? People had these big roomful computers, but nobody really thought about computers and information. 
+
+But it's not very hard for us to imagine today, because we have the benefit of understanding how it's easy to translate between codes, that if you had an RNA, I'm going to pick a sequence. AUACGAUGAAGCCCCAC, these are long and they get boring, but GCGUAGGAUA-- there we go. That's an RNA, a messenger RNA. And it might be thousands of bases long. Messenger RNA. 
+
+I'll put mRNA for short. I've left out the thousands of bases, mercifully. And it gets translated. It gets translated according to a look up table. We have a look up table. There are many representations of a look up table, but this is a very pretty one. It gets translated according to a three letter code. UCU spells serine. CCA spells proline. That's it. Very simple. 
+
+Take a look at the three letter code. This is called the genetic code. Now, a few rules, and you guys could write a computer program to do this. The computer program starts by saying, scan along the sequence until you find the first occurrence of the three letter word AUG. Help me out here. Excellent. AUG. Our computer program has been taking in characters, and it finds AUG. And that is the first place to translate. 
+
+Let's go look it up. What do we get? AUG. Methionine. Put in a methionine. That's the amino acid that's going to go in here. Now take the next triplet. Chunk over by three, take the next triplet. 
+
+AAG. What do we get? AAG. Lysine. CCC? What do you got for me? Anybody see over there? Proline. CAC? Histidine. Et cetera, et cetera, et cetera for a very long time. And then, let's see. C-- GCG. 
+
+STUDENT: Alanine. 
+
+ERIC S. LANDER: Alanine. And can you look up UAG? Stop? I don't want to stop. I want to keep going. Let's see. UAG, it says stop. It is stop. Stop translating. That's it. It's an incredibly simple algorithm. Anybody who has taken a simple computer programming course could be handed the sequence of an RNA, and with that look up table over there, write a simple computer program to translate RNA sequence into protein sequence. That's it. 
+
+It's so easy in the year 2013, to just say these things, because it's a simple concept. It was not a simple concept in the 1950s, when people didn't think about computer science. Now, how could this possibly happen? How did people possibly know these things? I mean, it's easy. You've all seen this, it's in the book. But how could you know these things? How did anybody know? 
+
+How did Crick know that the genetic code was not this loopy, funny thing that was binding the amino acids, but were these triplets? By the way, he didn't have DNA sequencers available. Nobody could sequence DNA. How could Crick have known it was something else? I'll tell you. Crick and three other people wrote one of the most beautiful papers in molecular biology. 
+
+Crick, Brenner, Barnett and Watts-Tobin wrote an amazing paper called "On The Triplet Nature Of The Genetic Code," which they wrote before they knew the genetic code, and before they-- certainly before anybody could sequence DNA, they knew it was a triplet code. How could they possibly know this? Well, I'm going to tell you very briefly. And if it doesn't make sense, forgive me. They used mutants. 
+
+Basically, they found mutants of a particular bacterial virus that had the effect, they didn't know for sure, but they kind of suspected this, of causing one letter of the DNA not to be changed, but to be deleted. Let's think about what happens if a letter of a DNA is deleted. What's going to happen to our translation here? It's going to screw up everything. Suppose I deleted this C here. 
+
+Sorry, let's delete this G here. Now it's going to read AAC CCC, et cetera. Every single, we call these codons, every codon will be screwed up after that point. So these are codons. So if I delete one letter, it screws up every codon past that point. We call that a frame shift, because this is the reading frame, here's our reading frame. And what it does is it throws us out of our reading frame. And so it's called a frame shift. 
+
+What do you think that'll do to the protein, if every single amino acid past that point is something else than it's supposed to be? It's going to destroy the protein. They collected a bunch of these mutants that they had reason to think were deletions, and then they crossed them together. And these were phage. 
+
+You could do genetic recombination crosses, and they made double mutants that ended up putting the two mutations on the same phage very close to each other. Remember, they could do genetic mapping. They knew where things were, even though they didn't know about any of this. And when you made the double mutant, what do you think it does to the protein? Shifts over two, and what does that do to my code? It still screws it up. 
+
+But if I were to cross, tell me, if I cross three mutations onto the same phage and they're right nearby, a deletion, maybe pretty close by another deletion, and pretty close by another deletion. When I get past those three deletions, I'm back in the reading frame. And they found that three harmful mutations, three totally harmful mutations, when combined, basically worked fine. Two didn't, one didn't, three did, it's multiples of three. 
+
+I got to say, it gives me goosebumps, that paper. It's one of those beautiful papers. They knew it was the triplet code just from pure genetics. It's a gorgeous paper. Of course, the geneticists like me love that paper. The biochemists, they say, that's great, but what's the code? Please tell me the code. It's great you guys are just having a wonderful time that it's triplets, but tell me, what are these triplets? 
+
+So then that took biochemists. Biochemists come along, and they somehow have to actually work out what the code is. They have to do an experiment with, like, chemicals and grinding things up. So they get in there and they grind something up. They grind up cells, and they want to translate RNAs. 
+
+So Marshall Nirenberg takes an RNA that he makes. It turns out there was this trick he had for making an RNA consisting of all exactly the same nucleotide. There's a special enzyme you don't have to know about that would stick together nucleotides, and if you just gave it, say, U, you would get an RNA that said, UUUUUUUUUUUU. And when he threw it in with an extract of the cells, he could get it to translate, UUUUUUUUUUUUUUUUUUUUU into Phe Phe Phe Phe Phe Phe Phe. 
+
+He got polyphenylalanine from polyuracil. And what does that tell us about the codon for phenylalanine? It's UUU. Let's go back to our genetic code here. UUU. Phenylalanine. What else can you get me? How about CCC? CCC. Polyproline. How about AAA? AAA. Lysine. Nirenberg got it. Bingo. He had those. But it's actually only the homopolymers. 
+
+What about if I wanted ACA? What do I do? See, Nirenberg didn't have a way to make ACA. He could throw at his enzyme a lot of Us, and he would get Us. But if he threw As and Cs at his enzyme that would stick together nucleotides, what would he get? No. He wouldn't get just one or the other. He'd get random things. It could go AACACACCACACC-- you know. 
+
+He would get a probability distribution of all the possible orders of As and Cs being stuck together. And when he fed that in, he would get the protein that came out having all the possible codons that had As and Cs on them. So he didn't learn nothing. He actually learned, let's see, ACA, threonine, CAC, histidine, CAA, glutamine. He would begin to collect that As and Cs must encode those amino acids. 
+
+And then he could try other mixtures of things, and other mixtures, and tweak the concentrations, and you could begin to collect information. Better, though, would be if you had a real super duper chemist who could make you ACACACAC, and not be playing around with these random probabilities. And that's where a former colleague of ours who passed away not so long ago, Gobind Khorana, came along. 
+
+Gobind, who taught here at MIT for many, many, many years, was the super duper chemist who figured out how to in a disciplined fashion get ACAC, and also how to make triplets. Between them, Nirenberg and Gobind Khorana cracked the genetic code. He gave us the whole thing, and it's pretty cool. In fact, we have a tape on the website of Gobind before he passed away talking about his childhood in India. 
+
+And his schooling, which was maybe different from some of your schooling, that consisted of a box under a tree, and people sitting around learning under a tree there in his village in India. But he went on to share the Nobel Prize with Marshall Nirenberg for cracking the genetic code. So, all right, pretty cool stuff. That's how people know what the genetic code is. Now you just look it up in the book, but it was a wonderful puzzle at the time. 
+
+But of course, how does this happen? How does this genetic code of As and Cs, which I've described as a computer program, physically get translated into amino acids? It's not loopy codes. It's not that the RNA folds up and holds the right amino acids. It's these triplets, but who reads the triplets? This is where Francis Crick annoyed everyone. 
+
+Everyone was doing experiments, trying to figure out how this could possibly work, et cetera. And Francis Crick was listening to everybody's experiments. And he sat around, and he thought. That's mostly what Francis did. But boy, when Francis thought, it was very impressive. Francis said, there's no way it's going to be loopy codes. There's just got to be an adapter. 
+
+There's got to be an adapter that fits on an AAG, and fits on a lysine, and somehow matches at one end this, and the other end that. And there's just got to be an adapter molecule. It was called the adapter hypothesis. And Francis went even further. He said, and, you know, while it could be anything, who knows what the adapter is? He said, I kind of know what the adapter is. It's pretty much got to be an RNA molecule. 
+
+Because what's going to match up with AAG? UUC. Or actually, coming in the other direction, CUU. In other words, if I have an RNA sequence, I'm going to match it with some other RNA sequence. And somehow, that RNA sequence will have attached to it, lysine. And it's going to act as a kind of an information transfer agent between the triplet and the amino acid. 
+
+Francis further annoyed everybody by saying, how is that lysine going to get attached to that RNA? What do you got available? Sorry? No? How's it going to get attached? It's going to be a biochemical catalysis. We need an enzyme. There will be an enzyme for attaching lysines. And he said, we'll need a separate enzyme for attaching prolines. 
+
+And please order me an enzyme for attaching histidines. And he just said, we'll need at least 20 different enzymes, each of which can attach its own specific amino acid to the RNA transfer agent there. The transfer agent is today called transfer RNA. Right? This is a transfer RNA. Or amongst friends, tRNA, we call it tRNA. So Francis hypothesized, there must exist these things-- tRNAs. 
+
+There must exist enzymes that attach the right amino acids, we call it charging the tRNA today. And to everyone's great annoyance, Francis who didn't no experiments on this particular point, turned out to be completely right, because he just thought up what the answer had to be. And having thought up what the answer was, it made it a lot easier for people to find these things. And that turns out to be the answer. There's a transfer RNA. Now, yes? 
+
+STUDENT: So the first [INAUDIBLE], I was just wondering how they know which triplet to attach to? Like, the AUG, right? You can also have it UGA. 
+
+ERIC S. LANDER: UG-- Oh, there. Ah. So there's a whole machinery for starting and stopping. Let's actually look at how it happens, OK? What happens is there is a machine, by machine, of course, I mean some molecular entity. I don't really mean a metal machine. I mean, there's some entity. And this entity has a whole lot of proteins, and a whole lot of RNA molecules in it. 
+
+Not these transfer RNAs, not these messenger RNAs, but other RNAs in it. So this thing has protein, it has RNAs, proteins or RNAs, and I'm not going into detail on the structures, you can tell here. In fact, I'll erase the structure here. Because what I want you to think about is what it does is my mRNA, five prime to three prime is in this machine, and it has-- I think about two cavities. 
+
+And if I have my AAG, which is supposed to match up with lysine, and my CCC, which is supposed to match up with proline, those things admit the right transfer RNA-- only by having a matching transfer RNA does it fit. It has the base pair. The transfer RNA that matches up with AAG has a lysine on it. The transfer RNA that matches up with CCC, it has a proline on it. 
+
+And it holds them in the right place. It's got a little spot and a little spot. The first one will be this AUG. It'll get the first one in, that methionine goes in first. And then what happens is as it chugs along the message, this thing chugs along the message and has two spots. A transfer RNA drops in, transfer RNA drops in, and if they match, it'll join them together. 
+
+So previously, before this AAG and CCC got here, what was in that position was AUG and AAG. That was there previously. And what happened was it attached a methionine. So we're actually one step in. First it had the, we'll put it here. AUG. AUG methionine, AAG lysine. Then it moves over one, and it puts in the next guy, and it joins it. Then what's going to happen next? 
+
+This guy's going to slide down one more, and it's going to now have CCC here, and what will it have in this position? CAC, and the matching tRNA will bring with it a histidine. And it'll join that up. And this guy is called a ribosome. The ribosome's the protein factory. So we have a protein factory called a ribosome. 
+
+The ribosome comes along, takes a message, scans it for the first position where there's an AUG, and then presents two consecutive codons. The transfer RNAs drop in, the amino acids get joined, "kerchunk," it chugs over one. There's a new hole. New transfer RNA drops in, amino acids get joined, "kerchunk." 
+
+And as it keeps going, if we come back a little later, this RNA and this ribosome will have gotten further and further down the message, and they'll be our thing here, with our two amino acids being joined, but hanging out will be a long chain of amino acids. If it's moved 300 nucleotides down, it's moved 100 codons, and it'll have 100 amino acids that have been put in. 
+
+Any question about this? It's pretty cool. It's a very simple machinery. It just chugs along and reads three letter codes as long as it starts at the first AUG. 
+
+STUDENT: There's like a methionine code in between different codons in the middle of a gene. Does that-- 
+
+ERIC S. LANDER: Well, it starts-- OK, so the cartoon version, the simple version, the introductory biology version that I'm supposed to tell you is that it's extremely simple, and it starts at the beginning and scans until it finds the first AUG. And for the purpose of introductory biology exams, you should know that. You want to know the truth? OK. The truth is a little trickier than that. It usually starts at the first AUG. 
+
+But there's a little bit of sequence context around it that ribosomes sort of like, and sometimes it might skip that first AUG. But please forget that. Forget I told you. And, you know, there you go. And that happens. 
+
+Also, forget that I'm going to tell you that every once in awhile, there are some messages that start at a GUG, but you're not allowed to know that right now, because that's like-- remember, I think I told you earlier in this lecture that almost anything could be tweaked with? Official party line for first year biology, you start at the first AUG. In reality in reading genes, you almost always start at the AUG, and sometimes you don't. 
+
+Sometimes it's a little more complicated than that, and it becomes really interesting about what can go on, and it has to do with molecular recognition of certain sequences and other things and all that. OK, but for the official party line, it starts at first AUG. Good. Excellent. OK, I haven't disturbed you too much, I hope. 
+
+OK, before you go on, stop and test yourself with a question now about translation. 

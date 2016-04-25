@@ -1,0 +1,141 @@
+ERIC S. LANDER: Implementation-- it turns out to implement this, I can't just wave my hands wildly and say, defective T-- I actually need to say what chemical would make a defective T. So, oh, yeah, there was something worth winning a Nobel Prize for here, thinking of what would be a defective T that couldn't be extended. 
+
+So let's just remember, how does DNA polymerization work? So the first thing we've got to think about in this implementation is defective T. What do I mean by defective? A defective dNTP. 
+
+I'm bringing us back to our structure of DNA. Base, the base hangs off the one prime carbon. At the two prime carbon, do we have hydroxyl in DNA? No, it's deoxyribonucleic acid. There was no hydroxyl there. 
+
+Is there a hydroxyl at the three prime? Yes. In fact, that's what we're going to use in order to extend the chain when we polymerize on the next base. This is the four prime. This is the five prime. And that was going off to the next phosphate. 
+
+Now, how do we polymerize on the next base? Well, what happens is it gets attached to the three prime. We go from five prime to three prime. And we're going to attach the phosphate right here. Next base. 
+
+And then one prime, two prime, three prime, four prime, five prime. And where is the next base going to get attached to? The three prime hydroxyl here. That three prime hydroxyl is pretty important. That's what defective means. What does defective mean? 
+
+STUDENT: Taking off the hydroxyl. 
+
+ERIC S. LANDER: Take off the hydroxyl. That's it. 
+
+STUDENT: Nobel Prize for what? 
+
+ERIC S. LANDER: The Nobel Prize, pretty good. No, I mean, if we're thinking about the whole thing, you get a Nobel Prize, it turns out. Pretty good. Isn't that impressive? 
+
+When we say dNTP, we mean two prime deoxy. But when we'd say this guy here, what should we call it? It's not just two prime deoxy. It's two prime. What else is deoxy? 
+
+STUDENT: Two prime. 
+
+STUDENT: Three. 
+
+ERIC S. LANDER: Two prime three prime. And if it's two of them, it's dideoxy, because it's two of them. So if we just take that off, we get what we call ddNTP. That's it. Pretty cool. That's the business. 
+
+And somebody actually had to do the chemistry to take off that three prime hydroxyl. Now, of course, if you want ddNTPs, they're in the catalog. OK. So, pretty easy. That's it. That wasn't so hard, was it? Next. 
+
+Next up was visualizing the DNA. We said we'd run it in a gel, and we would look at the DNA. And how do we look at DNA in a gel? 
+
+STUDENT: We use a dye. 
+
+STUDENT: Dye. 
+
+ERIC S. LANDER: We use a dye. We add the dye, and that would be fluorescent. And, well, it turns out that works reasonably well if it's Agarose gel, and you're trying to look at pretty gross differences in DNA size. 
+
+But it turns out if you want to run the kind of gel that can separate a piece of DNA that's 31 bases, from 32 bases, from 33 bases, from 101 and 102, you use a different kind of polymer. You use, like, an acrylamide polymer, a different polymer. 
+
+And it turns out that you use very thin gels. And it's really hard to work with them and stain them and all that. And so that's actually not the way people did it. Trick of the trade, what was done was, instead of using a dye, what they would do is they would take the primer. Here's my primer. Five prime to three prime has a phosphate there and there. 
+
+And what they would do is they would replace that phosphate by a radioactive phosphate. OK? They'd radioactively label the primer with P32. 
+
+It turns out it's not that hard to swap the phosphate for a radioactive phosphate. And you can use an enzyme to do that, enzymes that'll take off and add phosphates. We'll just kind of swap them around. And you can make radioactively hot labeled primers. 
+
+Then, when I put it in my gel-- well, why talk when I can demonstrate-- here you go. We have our little comb here that's forming the little wells. I would remove the comb, maybe. Or, actually, in this case, I wouldn't remove the comb. I'd press that in, and I'd use the spaces in between. 
+
+And I could pipet my DNA in here. So I'd pipet DNA right in there. And I'd pipet, et cetera. Now, of course, I wouldn't be doing this. I have radioactive DNA. Oh, goodness, I shouldn't be doing this. There is no radioactive DNA here, right. This is water. 
+
+But, in fact, what I would be doing is I would be standing behind a large plastic shield. I would be wearing goggles. I would be reaching around from behind. And, with gloves on, because I've got radioactivity, I would have run that reaction with radioactive primers. 
+
+I would then pipet gently in there, being very careful. And then, I'd come out from behind the shield. I'd bring my hands back from in front of shield, and I'd be safely behind the shield. 
+
+I would then, after I loaded this, turn on the electricity. And it would migrate down. At some point, I would turn off the electricity. I then have my gel between glass plates. I would remove the binder clips here-- and we really used binder clips-- I would take this off. 
+
+And then I would pry off one of the pieces of glass. And I would then have this thin film of acrylamide sitting on the other piece of glass. I would then take Saran wrap, and I would wrap it up with Saran wrap. 
+
+I would then go into the darkroom. And I would take a piece of unexposed X-ray film out of a cabinet. I would put the X-ray film on top of the gel that had this thin layer of acrylamide with my fragments of DNA. I would then enclose it in a metal casing, shut it down, and put it in the freezer for four or five days. 
+
+I would then come back after four or five days, take it out of the freezer, go back into the darkroom, open it up, open the lid, pull out the X-ray film, and put it into an X-ray film developer. And wherever there was radioactivity, I would see things like this. 
+
+And then I would sit there with a Magic Marker. And I would go G-A-T-C, et cetera. This is, in fact, what I did the first year I did biology was I ran some sequencing gels. Of course, initially I ran them with the electricity hooked up backwards, and, anyway, it all ran the wrong way. 
+
+And then I got that right. And then, sometimes you run them too long, because you can't really see them there. But eventually I got some good sequence. And I got-- how much can you get out of this, boy-- we've got these ATCG lanes, ATCG lanes, et cetera. I could do multiple pieces of DNA. And at the end of the day, I don't know, maybe I've got one, two, three, four, five samples or six samples, five samples. 
+
+How many bases could I get here? Oh, I don't know. Maybe 100 bases. If everything worked right, I could get 100 bases for each of five samples or about 500 bases for a week's work. It was painfully slow, unbelievably painful. And especially when it didn't work. And you'd find out that at the end the week it didn't work. 
+
+And it was painfully slow if you were sitting there with Magic Marker trying to write this stuff down. Usually one person would be reading, and the other person would be writing. And the early sequences deposited in the national data banks were pretty scruffy stuff. It was kind of wrong often, because somebody would get tired copying things out. But this was DNA sequencing. And this was worthy of a Nobel Prize. 
+
+It then got a little bit improved. Let's discuss the little bit improved. The little bit improved is instead of using radioactive sequencing, fluorescent sequencing, one trivial difference. The one trivial difference is we don't put the label on the primer. We don't use radioactivity. We use fluorescent dyes. 
+
+Now, I don't have to stand behind the radioactive shield. It's kind of cool. What I do is I've got my dATP, and maybe on dATP, I have a red fluorescent dye. And I've got dTTP. And, oh, I don't know. Maybe I put a green fluorescent dye on that one. 
+
+And, I don't know, I've got dCTP. Maybe I'll put a blue fluorescent dye on that one. And I've got dGTP. And so maybe I'll put-- I don't know, I've got purple here-- I'll put a purple fluorescent dye on that one. 
+
+Now what happens is, when I run my gel, instead of needing X-ray film, in the A lane, I'll have reds. In the T lane, I'll have greens. So let's see, in the defective T lane, I'll get some thats. In the A lane, I'll get some bands that are red. In the C lane, I'll get some bands that are blue. In the G lane, I'll get some bands that are purple. 
+
+And maybe I can use kind of a camera that can read things fluorescently. Maybe, I can do that. Yes? 
+
+STUDENT: If they're all different colors, couldn't you put them all together into one band and just break down the band? 
+
+ERIC S. LANDER: Huh. I don't need four lanes, do I? 
+
+STUDENT: No. 
+
+ERIC S. LANDER: Great idea. Let's do that. So you would, like, instead, just one lane for this. I like that. In fact, what eventually happened were little tubes called capillaries were developed. 
+
+And these little tubes, you would just load your DNA sample there, and you would have purple. And you'd have various purples. And you'd have some reds. You're absolutely right. I don't need to put them in separate lanes. 
+
+I can put them in these little tubes. And I've got some blues. And I got some greens. Now if they're in these little tubes, by the way, I don't need to run it for a certain amount of time and put it in the freezer or anything at all like that. Because if I have fluorescent dyes attached to these molecules, running through a tube, why don't I just put a laser detector there? 
+
+So let me put an automatic laser detector here. I'm going to just represent it by a big eye. But by that, I mean it's a laser detector. It fires a laser at the fluorescent dye. It emits and it collects the light. And it tells which color of light. 
+
+So all I do is I add my little DNA sample at the top. It goes through. And when it passes the detector, each band that's passing the detector reads its light. Oh, green, red, blue, purple, blue, blue, purple, red, as it goes by the detector. 
+
+Yes? 
+
+STUDENT: There's no longer some poor UROP sitting there. 
+
+ERIC S. LANDER: There's no longer some poor UROP because, also, nobody's got to sit there with a Magic Marker reading it, because the computer can read it. 
+
+Let's actually take a look. Ah, look at this. We've got these fragments that end in different colors. We don't need, just as you said, to run them in different lanes. We can all run them in exactly the same lane. Pretty cool. Very cool. 
+
+Now, it turns out I can run more than one of these capillaries. How many capillaries could I run at the same time? 
+
+STUDENT: Hundreds. 
+
+STUDENT: I don't know, a replacement. 
+
+ERIC S. LANDER: A lot. But let's say 100. It's actually 96. Don't ask me why. I do know why. Molecular biologists always do things in units of 96. Has to do with the fact that when we make little plates, they're 8 by 12, because 10 by 10 you wouldn't know which way to go. They're 8 by 12. So everything in molecular biology is 96. But we'll call it 100, all right? So you can run 100 of these guys, 100 separate samples simultaneously. 
+
+Moreover, because I don't have to wait a certain amount of time and stop the gel and look at it, I can just leave the power going. And samples will go by and by and by. Now, it turns out that once I get to about 700 or so, I don't get very good separation. So maybe the most I can read is 700 letters. But that's a lot better than 100 letters. 
+
+So if I had an automatic machine like that for fluorescent sequencing, that did 100 samples and 700 bases of DNA, that's 70,000 bases of DNA. 
+
+Now, it also turns out this automatic machine can run fast enough that I can do it about once an hour. So I can do it about 20 times a day. So what does that get me? About 1.4 million bases of DNA. That's a significant improvement over 500 bases of DNA with old radioactive technology. 
+
+I remember old radioactive technology. I hated old radioactive technology. But the same basic concept, by just replacing that radioactivity by a fluorescent group on the ddNTPs, on those ddNTPs. Actually, I wrote dATP. I mean, dd-- it's on the defective guys-- I do it all on a single reaction. I throw them in. And what does it look like? 
+
+Here's these chromatograms. This is actually the trace of the laser detector here. And its seeing blue, blue, blue, you know, this whitish color, pink, yellow, yada da da da da, da, da, da. And those are the bases. And the computer reads it automatically. T-T-T-G-A-G-A-A yeah. 
+
+In fact, this is 96 lanes going simultaneously. All of these are traces of DNA. This is the 70,000 bases I was talking about that takes an hour and gets you 1.4 million bases of DNA in a day. Pretty cool. This is actually the technology that we used for the Human Genome Project. 
+
+And we'll talk about that next time about the Human Genome Project. But hang on. We're not done yet. I'll also tell you that this technology is now completely outmoded. This is now ancient technology, too. 
+
+But we're not going to get into that today. But in another lecture or two, we're going to talk about why this was so cool, but it turns out to now be really antiquated. 
+
+Anyway, last couple things. I have about 5 or 10 minutes worth of things to talk about. I can sequence DNA. I can get it sequenced. I can read it out. It's super. 
+
+Suppose I sequence your beta globin gene. We go to all the trouble of cloning DNA from you, with your informed consent. If you don't want to, that's OK. All right. This has got to be consent. We get your consent. Or if not, we'll get him, whatever. 
+
+And we're going to get your DNA. We're going to make a library. We're going to find that beta globin gene using our antibody against the beta globin gene. We're going to purify that DNA. We're going to sequence it using our cool fluorescent sequencing. And we've now discovered the sequence of the beta globin gene. 
+
+Now, I would like to sequence everybody in this class, your beta globin gene, to compare them, to find out who might have variations. Or maybe somebody comes in with sickle cell anemia or a thalassemia. I want to sequence their gene. How am I going to sequence your gene, your gene, and your gene, and your gene, and your gene? 
+
+Do I have to make an entire library from each of you? Having made an entire library, do I have to put them on these filters and use my antibody to go find your beta globin gene? Well, that's how we used to have to do it. 
+
+But it turns out there's an amazingly cool trick-- by cool trick, I mean won a Nobel Prize-- so an amazingly cool trick by which having gotten your beta globin gene, I can now get all of their beta globin genes. 
+
+Before you go on, test your understanding about the differences between the oxynucleotides and dideoxynucleotides by answering this question about their structure. 
